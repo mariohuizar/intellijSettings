@@ -10,12 +10,15 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558537900263">
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558539040585">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="73" column="56" />
-        <mark key="]" line="73" column="57" />
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="31" />
         <mark key="^" line="35" column="25" />
-        <mark key="." line="73" column="57" />
+        <mark key="." line="47" column="31" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" timestamp="1558538984563">
+        <mark key="'" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" timestamp="1558526867296">
         <mark key="'" line="8" column="56" />
@@ -26,12 +29,17 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="66" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558538099908">
-        <mark key="'" line="12" column="24" />
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/test/scala/de/audi/acdc/service/api/database/SessionMetadataRepositorySpec.scala" timestamp="1558540016936">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558539965306">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1558521807507">
         <mark key="[" line="4" column="26" />
@@ -39,14 +47,19 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Session.java" timestamp="1558539780815">
+        <mark key="'" line="245" column="4" />
+        <mark key="[" line="245" column="4" />
+        <mark key="]" line="245" column="20" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" timestamp="1558537659326">
         <mark key="'" line="28" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1558537593767">
-        <mark key="'" line="23" column="28" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1558539771548">
+        <mark key="'" line="24" column="24" />
         <mark key="[" line="45" column="2" />
         <mark key="]" line="45" column="9" />
         <mark key="^" line="45" column="9" />
@@ -55,11 +68,22 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558522523247">
         <mark key="'" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1558526976000">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="54" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/cassandra/CassandraExecutorActorSpec.scala" timestamp="1558539232448">
+        <mark key="'" line="41" column="30" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="43" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1558539779675">
+        <mark key="'" line="24" column="28" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="43" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1558538999848">
+        <mark key="'" line="39" column="20" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="94" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558537936958">
         <mark key="'" line="347" column="59" />
@@ -88,18 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="10" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="302" column="71" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="335" column="100" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="201" column="51" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="33" column="68" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="311" column="25" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="340" column="90" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="100" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="132" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="176" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="282" column="37" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="512" column="2" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="52" column="40" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="345" column="22" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="33" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
@@ -188,58 +200,69 @@
       <jump line="225" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="287" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="347" column="59" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="38" column="24" filename="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" />
+      <jump line="39" column="20" filename="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" />
+      <jump line="41" column="30" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/cassandra/CassandraExecutorActorSpec.scala" />
+      <jump line="16" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="26" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="21" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="22" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="24" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="39" column="28" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="24" column="28" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="245" column="4" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Session.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/test/scala/de/audi/acdc/service/api/database/SessionMetadataRepositorySpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG8uXwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>verify</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NraXRvXD4=</text>
+        <text>scalaTes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2NraXRvICAgICAgICAgID0gIm9yZy5tb2NraXRvIiAgICAgICAgICAgICAgICAlICJtb2NraXRvLWNvcmUiICAgICAgICAgICAgICAgICAlIFZlcnNpb24ubW9ja2l0byAlICJ0ZXN0LGl0Igo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG8uXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2NraXRvICAgICAgICAgICAgPSAiMi4yMy4wIgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3Que01hdGNoZXJzLCBXb3JkU3BlY0xpa2V9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5tb2NraXRvCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoc2Vzc2lvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5tb2NraXRvCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QudGltZS57TWlsbGlzLCBTZWNvbmRzLCBTcGFufQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgbW9ja2l0byAgICAgICAgICA9ICJvcmcubW9ja2l0byIgICAgICAgICAgICAgICAgJSAibW9ja2l0by1jb3JlIiAgICAgICAgICAgICAgICAgJSBWZXJzaW9uLm1vY2tpdG8gJSAidGVzdCxpdCIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuY29uY3VycmVudC5FdmVudHVhbGx5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeVRlc3QuXwo=</text>
+        <text encoding="base64">ICAgIHZhbCBtb2NraXRvICAgICAgICAgICAgPSAiMi4yMy4wIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGF6eSB2YWwgc2J0VXBkYXRlc1BsdWdpblNldHRpbmdzID0gU2VxKAogIGRlcGVuZGVuY3lVcGRhdGVzRmlsdGVyIDo9IG1vZHVsZUZpbHRlcihvcmdhbml6YXRpb24gPSAiZGUuYXVkaSIpLAogIGRlcGVuZGVuY3lVcGRhdGVzRmFpbEJ1aWxkIDo9IHRydWUKKQo=</text>
+        <text encoding="base64">ICAgICAgbGlicmFyeS5tb2NraXRvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIGJyYW5jaE5hbWVEYXNoID0gT3B0aW9uKFN5c3RlbS5nZXRlbnYoIkJSQU5DSF9OQU1FIikpLm1hcChfICsgIi0iKS5nZXRPckVsc2UoIiIpCnZlcnNpb24ufj0oXy5yZXBsYWNlRmlyc3QoIlNOQVBTSE9UIiwgcyIke2JyYW5jaE5hbWVEYXNofVNOQVBTSE9UIikpCg==</text>
+        <text encoding="base64">ICAgICAgbGlicmFyeS5tb2NraXRvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wbGljaXQgY2xhc3MgRXhjbHVkZShtb2R1bGU6IE1vZHVsZUlEKSB7CiAgZGVmIGVtYmVkZGVkRXhjbHVzaW9uczogTW9kdWxlSUQgPQogICAgbW9kdWxlLnNsZjRqTG9nZwogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJvcmcuYXBhY2hlLnNwYXJrIikpCiAgICAgIC5leGNsdWRlQWxsKEV4Y2x1c2lvblJ1bGUoImNvbS50eXBlc2FmZSIpKQogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJjb20uZGF0YXN0YXguY2Fzc2FuZHJhIikpCn0KCg==</text>
+        <text encoding="base64">ICB2YWwgbW9ja2l0byAgICAgICAgICA9ICJvcmcubW9ja2l0byIgICAgICAgICAgICAgICAgJSAibW9ja2l0by1jb3JlIiAgICAgICAgICAgICAgICAgJSBWZXJzaW9uLm1vY2tpdG8gJSAidGVzdCxpdCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeVRlc3QuXwo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2NraXRvXD4=</last-search>
+      <last-search>scalaTes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NraXRvXD4=</last-pattern>
+      <last-pattern>scalaTes</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>datastax</entry>
         <entry>dse</entry>
         <entry>resolver</entry>
         <entry>it</entry>
@@ -259,6 +282,7 @@
         <entry encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</entry>
         <entry>Session</entry>
         <entry encoding="base64">XDxtb2NraXRvXD4=</entry>
+        <entry>scalaTes</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -273,6 +297,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
