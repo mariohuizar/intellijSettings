@@ -51,7 +51,8 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="54" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepositoryTest.scala" timestamp="1558529057726">
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepositoryTest.scala" timestamp="1558535880935">
+        <mark key="'" line="22" column="27" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -155,6 +156,7 @@
       <jump line="366" column="24" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="51" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="72" column="62" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
+      <jump line="22" column="27" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepositoryTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
