@@ -15,12 +15,8 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558523194596">
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558526126043">
         <mark key="'" line="33" column="68" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" timestamp="1558522538734">
         <mark key="'" line="8" column="56" />
@@ -75,7 +71,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>%</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wbGljaXQgY2xhc3MgRXhjbHVkZShtb2R1bGU6IE1vZHVsZUlEKSB7CiAgZGVmIGVtYmVkZGVkRXhjbHVzaW9uczogTW9kdWxlSUQgPQogICAgbW9kdWxlLnNsZjRqTG9nZwogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJvcmcuYXBhY2hlLnNwYXJrIikpCiAgICAgIC5leGNsdWRlQWxsKEV4Y2x1c2lvblJ1bGUoImNvbS50eXBlc2FmZSIpKQogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJjb20uZGF0YXN0YXguY2Fzc2FuZHJhIikpCn0K</text>
@@ -90,7 +86,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>resolver</text>
