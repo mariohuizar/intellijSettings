@@ -10,28 +10,47 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1558521807507">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558528966296">
-        <mark key="'" line="73" column="62" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="27" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="33" column="27" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558537900263">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="73" column="56" />
+        <mark key="]" line="73" column="57" />
+        <mark key="^" line="35" column="25" />
+        <mark key="." line="73" column="57" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" timestamp="1558526867296">
         <mark key="'" line="8" column="56" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" timestamp="1558527692675">
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/AsamOdxDtcClientSpec.scala" timestamp="1558537360615">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="66" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558538099908">
+        <mark key="'" line="12" column="24" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1558521807507">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" timestamp="1558537659326">
+        <mark key="'" line="28" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1558537593767">
+        <mark key="'" line="23" column="28" />
+        <mark key="[" line="45" column="2" />
+        <mark key="]" line="45" column="9" />
+        <mark key="^" line="45" column="9" />
+        <mark key="." line="45" column="9" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558522523247">
         <mark key="'" line="7" column="17" />
@@ -42,10 +61,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558528842252">
-        <mark key="'" line="366" column="24" />
-        <mark key="[" line="621" column="0" />
-        <mark key="]" line="626" column="3" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558537936958">
+        <mark key="'" line="347" column="59" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="118" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" timestamp="1558526970681">
         <mark key="[" line="8" column="0" />
@@ -64,22 +83,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="78" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/JavaUuidUtilsSpec.scala" timestamp="1558537726910">
+        <mark key="'" line="64" column="35" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="34" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" />
-      <jump line="40" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" />
-      <jump line="31" column="35" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" />
-      <jump line="41" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" />
-      <jump line="43" column="26" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" />
-      <jump line="23" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" />
-      <jump line="8" column="56" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" />
-      <jump line="7" column="17" filename="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" />
-      <jump line="23" column="20" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="58" column="17" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="28" column="27" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="53" column="87" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="29" column="16" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="45" column="10" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="302" column="71" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="335" column="100" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
@@ -99,7 +107,6 @@
       <jump line="75" column="5" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="76" column="7" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="105" column="42" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="139" column="18" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="143" column="42" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="148" column="47" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="171" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
@@ -161,60 +168,77 @@
       <jump line="605" column="25" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="366" column="24" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="51" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="72" column="62" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="22" column="27" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepositoryTest.scala" />
+      <jump line="5" column="34" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="12" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="23" column="28" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="19" column="2" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
+      <jump line="4" column="45" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
+      <jump line="15" column="29" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
+      <jump line="21" column="32" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
+      <jump line="28" column="26" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
+      <jump line="64" column="35" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/JavaUuidUtilsSpec.scala" />
+      <jump line="285" column="25" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="72" column="2" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
+      <jump line="73" column="97" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
+      <jump line="35" column="25" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
+      <jump line="356" column="38" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="139" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="179" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="225" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="287" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="347" column="59" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PrepareS3Data4Analysts</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>PrepareS3Data4Analysts</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</text>
+        <text encoding="base64">XDxtb2NraXRvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RzRm9sZGVyKCJQcmVwYXJlUzNEYXRhNEFuYWx5c3RzIikoCiAgICAgICAgICAgIHNidFByb2plY3QoImFjZGMucHJlcGFyZXMzZGF0YTRhbmFseXN0cyIpCiAgICAgICAgICAgICAgICAgICAgLndpdGhEZXBsb3ltZW50KCkKICAgICAgICAgICAgICAgICAgICAud2l0aFJlbGVhc2UoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXBlcmF0ZWRBbW1vbml0ZTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcGVyYXRlZFJlbGVhc2VTdHJhdGVneTogdHJ1ZSksCiAgICApCg==</text>
+        <text encoding="base64">ICAgIHZhbCBtb2NraXRvICAgICAgICAgID0gIm9yZy5tb2NraXRvIiAgICAgICAgICAgICAgICAlICJtb2NraXRvLWNvcmUiICAgICAgICAgICAgICAgICAlIFZlcnNpb24ubW9ja2l0byAlICJ0ZXN0LGl0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeVRlc3QuXwo=</text>
+        <text encoding="base64">ICAgIHZhbCBtb2NraXRvICAgICAgICAgICAgPSAiMi4yMy4wIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGF6eSB2YWwgc2J0VXBkYXRlc1BsdWdpblNldHRpbmdzID0gU2VxKAogIGRlcGVuZGVuY3lVcGRhdGVzRmlsdGVyIDo9IG1vZHVsZUZpbHRlcihvcmdhbml6YXRpb24gPSAiZGUuYXVkaSIpLAogIGRlcGVuZGVuY3lVcGRhdGVzRmFpbEJ1aWxkIDo9IHRydWUKKQo=</text>
+        <text encoding="base64">ICAgICAgbGlicmFyeS5tb2NraXRvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGJyYW5jaE5hbWVEYXNoID0gT3B0aW9uKFN5c3RlbS5nZXRlbnYoIkJSQU5DSF9OQU1FIikpLm1hcChfICsgIi0iKS5nZXRPckVsc2UoIiIpCnZlcnNpb24ufj0oXy5yZXBsYWNlRmlyc3QoIlNOQVBTSE9UIiwgcyIke2JyYW5jaE5hbWVEYXNofVNOQVBTSE9UIikpCg==</text>
+        <text encoding="base64">ICAgICAgbGlicmFyeS5tb2NraXRvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wbGljaXQgY2xhc3MgRXhjbHVkZShtb2R1bGU6IE1vZHVsZUlEKSB7CiAgZGVmIGVtYmVkZGVkRXhjbHVzaW9uczogTW9kdWxlSUQgPQogICAgbW9kdWxlLnNsZjRqTG9nZwogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJvcmcuYXBhY2hlLnNwYXJrIikpCiAgICAgIC5leGNsdWRlQWxsKEV4Y2x1c2lvblJ1bGUoImNvbS50eXBlc2FmZSIpKQogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJjb20uZGF0YXN0YXguY2Fzc2FuZHJhIikpCn0KCg==</text>
+        <text encoding="base64">ICB2YWwgbW9ja2l0byAgICAgICAgICA9ICJvcmcubW9ja2l0byIgICAgICAgICAgICAgICAgJSAibW9ja2l0by1jb3JlIiAgICAgICAgICAgICAgICAgJSBWZXJzaW9uLm1vY2tpdG8gJSAidGVzdCxpdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeVRlc3QuXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBkZS5hdWRpLmFjZGMudHJhbnNmb3JtZXIua2Fma2Ffc3RyZWFtcy5jb21tb25zLnJlcG9zaXRvcnkK</text>
+        <text encoding="base64">bGF6eSB2YWwgc2J0VXBkYXRlc1BsdWdpblNldHRpbmdzID0gU2VxKAogIGRlcGVuZGVuY3lVcGRhdGVzRmlsdGVyIDo9IG1vZHVsZUZpbHRlcihvcmdhbml6YXRpb24gPSAiZGUuYXVkaSIpLAogIGRlcGVuZGVuY3lVcGRhdGVzRmFpbEJ1aWxkIDo9IHRydWUKKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW50ZWdyYXRpb24gdGVzdHMK</text>
+        <text encoding="base64">dmFsIGJyYW5jaE5hbWVEYXNoID0gT3B0aW9uKFN5c3RlbS5nZXRlbnYoIkJSQU5DSF9OQU1FIikpLm1hcChfICsgIi0iKS5nZXRPckVsc2UoIiIpCnZlcnNpb24ufj0oXy5yZXBsYWNlRmlyc3QoIlNOQVBTSE9UIiwgcyIke2JyYW5jaE5hbWVEYXNofVNOQVBTSE9UIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gUnVuIHRlc3RzIHdpdGggY292ZXJhZ2UsIG9wdGlvbmFsbHkgYWRkICdpdDp0ZXN0JyBpZiB0aGUgcHJvamVjdCBoYXMK</text>
+        <text encoding="base64">aW1wbGljaXQgY2xhc3MgRXhjbHVkZShtb2R1bGU6IE1vZHVsZUlEKSB7CiAgZGVmIGVtYmVkZGVkRXhjbHVzaW9uczogTW9kdWxlSUQgPQogICAgbW9kdWxlLnNsZjRqTG9nZwogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJvcmcuYXBhY2hlLnNwYXJrIikpCiAgICAgIC5leGNsdWRlQWxsKEV4Y2x1c2lvblJ1bGUoImNvbS50eXBlc2FmZSIpKQogICAgICAuZXhjbHVkZUFsbChFeGNsdXNpb25SdWxlKCJjb20uZGF0YXN0YXguY2Fzc2FuZHJhIikpCn0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gU0JUIGFsaWFzZXMgdG8gcnVuIG11bHRpcGxlIGNvbW1hbmRzIGluIGEgc2luZ2xlIGNhbGwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</last-search>
+      <last-search encoding="base64">XDxtb2NraXRvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb2NraXRvXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkc2VEcml2ZXJcPg==</entry>
         <entry>datastax</entry>
         <entry>dse</entry>
         <entry>resolver</entry>
@@ -233,6 +257,8 @@
         <entry>branchNa</entry>
         <entry>branchName</entry>
         <entry encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</entry>
+        <entry>Session</entry>
+        <entry encoding="base64">XDxtb2NraXRvXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
