@@ -51,6 +51,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="54" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.seedjob/src/jobs/acdc_multibranch_pipeline_jobseed.groovy" timestamp="1558536834092">
+        <mark key="[" line="223" column="20" />
+        <mark key="]" line="223" column="35" />
+        <mark key="^" line="223" column="35" />
+        <mark key="." line="223" column="35" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepositoryTest.scala" timestamp="1558535880935">
         <mark key="'" line="22" column="27" />
         <mark key="[" line="13" column="0" />
@@ -159,17 +165,17 @@
       <jump line="22" column="27" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepositoryTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeVRlc3QuXwo=</text>
+      <register name="&quot;" type="4">
+        <text>PrepareS3Data4Analysts</text>
       </register>
       <register name="-" type="4">
-        <text>Cassandra</text>
+        <text>PrepareS3Data4Analysts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5hY2RjQ2Fzc2FuZHJhCg==</text>
+        <text encoding="base64">ICAgIHByb2plY3RzRm9sZGVyKCJQcmVwYXJlUzNEYXRhNEFuYWx5c3RzIikoCiAgICAgICAgICAgIHNidFByb2plY3QoImFjZGMucHJlcGFyZXMzZGF0YTRhbmFseXN0cyIpCiAgICAgICAgICAgICAgICAgICAgLndpdGhEZXBsb3ltZW50KCkKICAgICAgICAgICAgICAgICAgICAud2l0aFJlbGVhc2UoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXBlcmF0ZWRBbW1vbml0ZTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlcGVyYXRlZFJlbGVhc2VTdHJhdGVneTogdHJ1ZSksCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeVRlc3QuXwo=</text>
