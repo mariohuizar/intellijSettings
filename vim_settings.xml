@@ -91,10 +91,10 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558537936958">
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558604255420">
         <mark key="'" line="347" column="59" />
-        <mark key="[" line="347" column="0" />
-        <mark key="]" line="347" column="118" />
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="349" column="124" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" timestamp="1558526970681">
         <mark key="[" line="8" column="0" />
@@ -213,8 +213,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mockedPreparedStatement</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBzY2FsYU1vY2sgICAgICAgID0gIm9yZy5zY2FsYW1vY2siICAgICAgICAgICAgICAlJSAic2NhbGFtb2NrIiAgICAgICAgICAgICAgICAgICAlIFZlcnNpb24uc2NhbGFNb2NrICUgInRlc3QsaXQiCiAgICB2YWwgc2NhbGFNb2NrU3VwcG9ydCA9ICJvcmcuc2NhbGFtb2NrIiAgICAgICAgICAgICAgJSUgInNjYWxhbW9jay1zY2FsYXRlc3Qtc3VwcG9ydCIgJSBWZXJzaW9uLnNjYWxhTW9ja1N1cHBvcnQgJSAidGVzdCIK</text>
       </register>
       <register name="-" type="4">
         <text>mockedPreparedStatement</text>
@@ -223,7 +223,7 @@
         <text>bind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKAogICAgICAgICAgbW9ja2VkQm91bmRTdGF0ZW1lbnQuc2V0U3RyaW5nKAogICAgICAgICAgICAyLAogICAgICAgICAgICAiMS4wIgogICAgICAgICAgKQogICAgICAgICkudGhlblJldHVybihtb2NrZWRCb3VuZFN0YXRlbWVudCkK</text>
+        <text encoding="base64">ICAgIHZhbCBzY2FsYU1vY2sgICAgICAgID0gIm9yZy5zY2FsYW1vY2siICAgICAgICAgICAgICAlJSAic2NhbGFtb2NrIiAgICAgICAgICAgICAgICAgICAlIFZlcnNpb24uc2NhbGFNb2NrICUgInRlc3QsaXQiCiAgICB2YWwgc2NhbGFNb2NrU3VwcG9ydCA9ICJvcmcuc2NhbGFtb2NrIiAgICAgICAgICAgICAgJSUgInNjYWxhbW9jay1zY2FsYXRlc3Qtc3VwcG9ydCIgJSBWZXJzaW9uLnNjYWxhTW9ja1N1cHBvcnQgJSAidGVzdCIK</text>
       </register>
       <register name="1" type="4">
         <text>| INSERT INTO campaign_metadata.processing_models
