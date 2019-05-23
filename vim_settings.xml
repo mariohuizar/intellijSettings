@@ -9,10 +9,10 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" timestamp="1558608368467">
         <mark key="'" line="206" column="4" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Session.java" timestamp="1558544014512">
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Session.java" timestamp="1558614502219">
         <mark key="'" line="245" column="30" />
-        <mark key="[" line="245" column="4" />
-        <mark key="]" line="245" column="20" />
+        <mark key="[" line="242" column="15" />
+        <mark key="]" line="242" column="38" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/PreparedStatement.java" timestamp="1558543499117">
         <mark key="'" line="32" column="17" />
@@ -27,12 +27,12 @@
         <mark key="[" line="29" column="31" />
         <mark key="]" line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1558613430542">
-        <mark key="'" line="24" column="32" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="30" column="1" />
-        <mark key="." line="30" column="1" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1558614492048">
+        <mark key="'" line="24" column="35" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="25" column="59" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1558538999848">
         <mark key="'" line="39" column="20" />
@@ -68,12 +68,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" timestamp="1558608352218">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558612718791">
-        <mark key="'" line="34" column="28" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="36" column="58" />
-        <mark key="^" line="31" column="79" />
-        <mark key="." line="36" column="38" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558614631267">
+        <mark key="'" line="44" column="64" />
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="44" column="51" />
+        <mark key="^" line="44" column="51" />
+        <mark key="." line="44" column="51" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/AbstractData.java" timestamp="1558612932245">
         <mark key="'" line="239" column="19" />
@@ -110,8 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1958" column="21" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="1968" column="39" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
       <jump line="2062" column="15" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
       <jump line="2065" column="27" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
@@ -209,53 +207,49 @@
       <jump line="528" column="27" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
       <jump line="239" column="19" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/AbstractData.java" />
       <jump line="32" column="20" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="24" column="32" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="33" column="38" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="24" column="35" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="44" column="64" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0U3RyaW5nKDEsIGFwcGxpY2F0aW9uTmFtZSkK</text>
+      <register name="&quot;" type="4">
+        <text>NoHostAvailableException</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>NoHostAvailableException</text>
       </register>
       <register name="/" type="4">
         <text>eq</text>
       </register>
       <register name="0" type="4">
-        <text>mockedBoundStatement</text>
+        <text>NoHostAvailableException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0U3RyaW5nKDEsIGFwcGxpY2F0aW9uTmFtZSkK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHN0YXRlbWVudCA9IFRyeShzZXNzaW9uLnByZXBhcmUoY3JlYXRlUXVlcnkpKQovLyAgICB2YWwgYm91bmRTdGF0ZW1lbnQgPQovLyAgICAgIHN0YXRlbWVudAovLyAgICAgICAgLmJpbmQoKQovLyAgICAgICAgLnNldFVVSUQoMCwgdXVpZCkKLy8gICAgICAgIC5zZXRTdHJpbmcoMSwgYXBwbGljYXRpb25OYW1lKQovLyAgICAgICAgLnNldFN0cmluZygyLCBhcHBsaWNhdGlvblZlcnNpb24pCi8vICAgICAgICAuc2V0VGltZXN0YW1wKDMsIG5ldyBEYXRlKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0VVVJRCgwLCB1dWlkKQo=</text>
+        <text encoding="base64">ICAgICAgYm91bmRVdWlkIDwtIFRyeShib3VuZFN0YXRlbWVudC5zZXRVVUlEKDAsIHV1aWQpKQogICAgICBiaW5kZWRVdWlkIDwtIFRyeShib3VuZFN0YXRlbWVudC5zZXRVVUlEKDAsIHV1aWQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYmluZCgpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBib3VuZFN0YXRlbWVudCA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja2VkQm91bmRTdGF0ZW1lbnQpLnNldFVVSUQoCiAgICAgICAgICAwLAogICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKCJkYzMxZTkyZi0yNmQzLTNlNmYtYmJjYi02MjQwOGFkMGVhZjEiKQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgIFRyeShzZXNzaW9uLmV4ZWN1dGUoYm91bmRTdGF0ZW1lbnQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZFNlc3Npb24uZXhlY3V0ZShhbnlbU3RyaW5nXSkpCg==</text>
-      </register>
-      <register name="6" type="8">
-        <text>verify
-verify
-verify
-verify</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja2VkQm91bmRTdGF0ZW1lbnQpLnNldFN0cmluZygxLCAidGVzdCBhcHAiKQogICAgICAgIHZlcmlmeShtb2NrZWRCb3VuZFN0YXRlbWVudCkuc2V0U3RyaW5nKDIsICIxLjAiKQogICAgICAgIHZlcmlmeShtb2NrZWRCb3VuZFN0YXRlbWVudCkuc2V0VGltZXN0YW1wKDMsIGFueVtEYXRlXSkKICAgICAgICB2ZXJpZnkobW9ja2VkU2Vzc2lvbikuZXhlY3V0ZShhbnlbU3RyaW5nXSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.setUUID(
-            0,
-            UUID.fromString(&quot;dc31e92f-26d3-3e6f-bbcb-62408ad0eaf1&quot;)
-          )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuc2V0U3RyaW5nKDEsIGFwcGxpY2F0aW9uTmFtZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAuc2V0VVVJRCgwLCB1dWlkKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAuYmluZCgpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobW9ja2VkQm91bmRTdGF0ZW1lbnQpLnNldFVVSUQoCiAgICAgICAgICAwLAogICAgICAgICAgVVVJRC5mcm9tU3RyaW5nKCJkYzMxZTkyZi0yNmQzLTNlNmYtYmJjYi02MjQwOGFkMGVhZjEiKQogICAgICAgICkK</text>
       </register>
     </registers>
     <search>
