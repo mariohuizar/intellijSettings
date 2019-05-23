@@ -6,53 +6,16 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" timestamp="1558538984563">
         <mark key="'" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/AsamOdxDtcClientSpec.scala" timestamp="1558537360615">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="66" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Session.java" timestamp="1558544014512">
-        <mark key="'" line="245" column="30" />
-        <mark key="[" line="245" column="4" />
-        <mark key="]" line="245" column="20" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/PreparedStatement.java" timestamp="1558543499117">
-        <mark key="'" line="32" column="17" />
-        <mark key="[" line="77" column="11" />
-        <mark key="]" line="77" column="24" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1558543514971">
-        <mark key="'" line="24" column="31" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1558538999848">
-        <mark key="'" line="39" column="20" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="94" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558537936958">
-        <mark key="'" line="347" column="59" />
-        <mark key="[" line="347" column="0" />
-        <mark key="]" line="347" column="118" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" timestamp="1558526970681">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="54" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.seedjob/src/jobs/acdc_multibranch_pipeline_jobseed.groovy" timestamp="1558536834092">
-        <mark key="[" line="223" column="20" />
-        <mark key="]" line="223" column="35" />
-        <mark key="^" line="223" column="35" />
-        <mark key="." line="223" column="35" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558539040585">
         <mark key="'" line="35" column="25" />
         <mark key="[" line="47" column="30" />
         <mark key="]" line="47" column="31" />
         <mark key="^" line="35" column="25" />
         <mark key="." line="47" column="31" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/AsamOdxDtcClientSpec.scala" timestamp="1558537360615">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="66" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" timestamp="1558526867296">
         <mark key="'" line="8" column="56" />
@@ -76,8 +39,16 @@
         <mark key="^" line="26" column="76" />
         <mark key="." line="26" column="76" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" timestamp="1558600832756">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" timestamp="1558542598407">
         <mark key="'" line="156" column="4" />
+      </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Session.java" timestamp="1558544014512">
+        <mark key="'" line="245" column="30" />
+        <mark key="[" line="245" column="4" />
+        <mark key="]" line="245" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" timestamp="1558537659326">
         <mark key="'" line="28" column="26" />
@@ -87,6 +58,11 @@
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558543924890">
         <mark key="'" line="143" column="24" />
+      </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/PreparedStatement.java" timestamp="1558543499117">
+        <mark key="'" line="32" column="17" />
+        <mark key="[" line="77" column="11" />
+        <mark key="]" line="77" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1558541460341">
         <mark key="'" line="25" column="24" />
@@ -103,6 +79,27 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1558543514971">
+        <mark key="'" line="24" column="31" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1558538999848">
+        <mark key="'" line="39" column="20" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="94" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558537936958">
+        <mark key="'" line="347" column="59" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="118" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" timestamp="1558526970681">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="54" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" timestamp="1558541927919">
         <mark key="'" line="279" column="39" />
       </file>
@@ -114,8 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="605" column="25" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="366" column="24" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="51" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="22" column="27" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepositoryTest.scala" />
       <jump line="12" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
@@ -214,6 +209,8 @@
       <jump line="85" column="42" filename="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/test/scala/de/audi/acdc/service/api/database/SessionMetadataRepositorySpec.scala" />
       <jump line="245" column="30" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Session.java" />
       <jump line="26" column="27" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="122" column="58" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
