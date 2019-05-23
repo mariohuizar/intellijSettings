@@ -6,6 +6,17 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" timestamp="1558538984563">
         <mark key="'" line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" timestamp="1558626053035">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1558626006876">
+        <mark key="'" line="143" column="10" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" timestamp="1558608368467">
         <mark key="'" line="206" column="4" />
       </file>
@@ -20,18 +31,16 @@
         <mark key="[" line="242" column="15" />
         <mark key="]" line="242" column="38" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarder.scala" timestamp="1558625903725">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="73" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/PreparedStatement.java" timestamp="1558543499117">
         <mark key="'" line="32" column="17" />
         <mark key="[" line="77" column="11" />
         <mark key="]" line="77" column="24" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.4/scalatest_2.11-3.0.4-sources.jar!/org/scalatest/mock/package.scala" timestamp="1558608314962">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="59" />
-      </file>
-      <file name="/ProcessingModelSpec.scala" timestamp="1558611955573">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="32" column="10" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1558614492048">
         <mark key="'" line="24" column="35" />
@@ -45,10 +54,17 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558605439004">
-        <mark key="'" line="349" column="8" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="292" column="38" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558625660478">
+        <mark key="'" line="335" column="75" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" timestamp="1558625436776">
+        <mark key="'" line="23" column="108" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="54" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.seedjob/src/jobs/acdc_multibranch_pipeline_jobseed.groovy" timestamp="1558536834092">
         <mark key="[" line="223" column="20" />
@@ -56,16 +72,21 @@
         <mark key="^" line="223" column="35" />
         <mark key="." line="223" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558608269977">
-        <mark key="'" line="35" column="25" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/KafkaTrajectoryTransformer.scala" timestamp="1558626040809">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" timestamp="1558526867296">
         <mark key="'" line="8" column="56" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="40" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/it/scala/de/audi/acdc/transformer/kafka_streams/trajectories/KafkaTrajectoryTransformerSpec.scala" timestamp="1558626104967">
+        <mark key="'" line="64" column="6" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="73" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/UUID.class" timestamp="1558541525963">
         <mark key="'" line="66" column="4" />
@@ -83,6 +104,9 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1558625966255">
+        <mark key="'" line="53" column="4" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" timestamp="1558608352218">
         <mark key="'" line="52" column="6" />
       </file>
@@ -93,11 +117,23 @@
         <mark key="^" line="46" column="42" />
         <mark key="." line="46" column="42" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/BoundStatement.class" timestamp="1558624874052">
+        <mark key="'" line="260" column="19" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/AbstractData.java" timestamp="1558612932245">
         <mark key="'" line="239" column="19" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/ResultSet.class" timestamp="1558625445961">
+        <mark key="'" line="8" column="9" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" timestamp="1558612928301">
         <mark key="'" line="528" column="27" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" timestamp="1558537659326">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558543924890">
         <mark key="'" line="143" column="24" />
@@ -109,13 +145,16 @@
         <mark key="^" line="45" column="9" />
         <mark key="." line="45" column="9" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558522523247">
-        <mark key="'" line="7" column="17" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558625177961">
+        <mark key="'" line="35" column="4" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/cassandra/CassandraExecutorActorSpec.scala" timestamp="1558539232448">
         <mark key="'" line="41" column="30" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="43" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModel.scala" timestamp="1558624485373">
+        <mark key="'" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/Jenkinsfile" timestamp="1558620692099">
         <mark key="'" line="1" column="17" />
@@ -135,23 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1633" column="28" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="1640" column="32" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="1641" column="32" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="1642" column="32" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="2030" column="31" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="2124" column="51" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="279" column="39" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="48" column="12" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="7" column="34" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="47" column="32" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="447" column="46" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="47" column="13" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="174" column="86" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="179" column="26" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="658" column="60" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="659" column="16" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="663" column="30" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
       <jump line="690" column="30" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
       <jump line="693" column="60" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
       <jump line="694" column="16" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
@@ -235,58 +257,74 @@
       <jump line="112" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/Jenkinsfile" />
       <jump line="47" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/Jenkinsfile" />
       <jump line="1" column="17" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/Jenkinsfile" />
+      <jump line="26" column="35" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModel.scala" />
+      <jump line="16" column="49" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" />
+      <jump line="32" column="20" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" />
+      <jump line="25" column="4" filename="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" />
+      <jump line="31" column="9" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" />
+      <jump line="260" column="19" filename="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/BoundStatement.class" />
+      <jump line="24" column="30" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" />
+      <jump line="35" column="4" filename="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" />
+      <jump line="27" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" />
+      <jump line="13" column="108" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" />
+      <jump line="23" column="108" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModelsRepository.scala" />
+      <jump line="8" column="9" filename="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/ResultSet.class" />
+      <jump line="275" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="334" column="75" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="53" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="143" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="64" column="6" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/it/scala/de/audi/acdc/transformer/kafka_streams/trajectories/KafkaTrajectoryTransformerSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy5wcm9jZXNzaW5nLm1vZGVscy5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="-" type="4">
-        <text>assembly</text>
+        <text>transformer.kafka_streams.commons.repository</text>
       </register>
       <register name="/" type="4">
-        <text>eq</text>
+        <text encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>new IllegalStateException(&quot;Wanted exception&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy5wcm9jZXNzaW5nLm1vZGVscy5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YWdlKCdEZXBsb3kgVG8gRGV2JykgewogICAgICB3aGVuIHsgYnJhbmNoICdtYXN0ZXInIH0KCiAgICAgIHN0ZXBzIHsKICAgICAgICBlY2hvICJCdWlsZCBzdWNjZXNzZnVsLiBEZXBsb3lpbmcgJHtqYXJfdXJpfSBvbiBkZXYuIgogICAgICAgIGJ1aWxkIGpvYjogJy4uL2FjZGMuZGlnZXN0LWRlcGxveScsCiAgICAgICAgICBwYXJhbWV0ZXJzOiBbCiAgICAgICAgICAgIHN0cmluZyhuYW1lOiAnRENPU19NQVNURVJfVVJMJywgdmFsdWU6ICdodHRwczovL2NpZy1hY2RjLWRldi5ldS5hY2RjLnN3YXJtLmF1ZGkvJyksCiAgICAgICAgICAgIHN0cmluZyhuYW1lOiAnRkFUX0pBUl9VUkknLCB2YWx1ZTogamFyX3VyaSkKICAgICAgICAgIF0KICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS57IENhbXBhaWduVG9Qcm9jZXNzaW5nTW9kZWxSZXBvc2l0b3J5LCBQcm9jZXNzaW5nTW9kZWwgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjcmlwdCB7CiAgICAgICAgICAgIHJldHJ5KDMpIHsgIC8vIHJldHJ5IGR1ZSB0byBJT0V4Y2VwdGlvbnMgd2hlbiBwdWJsaXNoaW5nCiAgICAgICAgICAgICAgc2ggJycnIy91c3IvYmluL2VudiBiYXNoCiAgICAgICAgICAgICAgICAgc2V0IC14ZW8gcGlwZWZhaWwKICAgICAgICAgICAgICAgICBzYnQgLUotWG14MjA0OG0gcHVibGlzaCB8IHRlZSBwdWJsaXNoLm91dAogICAgICAgICAgICAgICAgICcnJy5zdHJpcEluZGVudCgpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGphcl91cmkgPSBzaCgKICAgICAgICAgICAgICBzY3JpcHQ6ICJncmVwIC1FIFwncHVibGlzaGVkLiphc3NlbWJseVwnIHB1Ymxpc2gub3V0IHwgc2VkICdzL14uKnB1Ymxpc2hlZCAuKiB0byBodHRwc1xcPzpcXC9cXC9bXi9dKlxcL1xcKC4qLmphclxcKS4qL1xcMS9nJyB8IGdyZXAgLXYgJ2FjZGMtY29yZS1kaWdlc3QtczMnIiwKICAgICAgICAgICAgICByZXR1cm5TdGRvdXQ6IHRydWUKICAgICAgICAgICAgKS50cmltKCkKICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZhaWx1cmUgewogICAgICBlY2hvICJCdWlsZCBmYWlsZWQuIFNlbmRpbmcgYSBtZXNzYWdlIHZpYSBIaXBjaGF0LiIKICAgIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0IHsKICAgICAgICBub3RpZnlIaXBjaGF0KCkKICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNoICJzYnQgYXNzZW1ibHkiCg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbGlicmFyeS5hY2RjQ2Fzc2FuZHJhLAo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgbGlicmFyeS5hY2RjRW1iZWRkZWQsCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>eq</last-search>
+      <last-search encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>eq</last-pattern>
+      <last-pattern encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Integration</entry>
         <entry>Defaults.it</entry>
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
         <entry>scalaTest</entry>
@@ -295,7 +333,6 @@
         <entry encoding="base64">XDxlbWJlZGRlZEV4Y2x1c2lvbnNcPg==</entry>
         <entry>branchNa</entry>
         <entry>branchName</entry>
-        <entry encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</entry>
         <entry>Session</entry>
         <entry encoding="base64">XDxtb2NraXRvXD4=</entry>
         <entry>scalaTes</entry>
@@ -306,6 +343,8 @@
         <entry encoding="base64">XDxzY2FsYU1vY2tTdXBwb3J0XD4=</entry>
         <entry>mock</entry>
         <entry>eq</entry>
+        <entry>close</entry>
+        <entry encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
