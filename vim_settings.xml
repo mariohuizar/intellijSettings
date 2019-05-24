@@ -20,6 +20,13 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" timestamp="1558608368467">
         <mark key="'" line="206" column="4" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" timestamp="1558705998565">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/podTemplates/build.yaml" timestamp="1558619976745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="65" column="35" />
@@ -72,11 +79,30 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/build.sbt" timestamp="1558706370039">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="5" column="74" />
+        <mark key="^" line="5" column="74" />
+        <mark key="." line="5" column="74" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/main/scala/binaryTree.scala" timestamp="1558706133632">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558681728268">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1558706713641">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/CampaignToProcessingModelRepository.scala" timestamp="1558526867296">
         <mark key="'" line="8" column="56" />
@@ -179,16 +205,14 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/JavaUuidUtilsSpec.scala" timestamp="1558537726910">
         <mark key="'" line="64" column="35" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/project/plugins.sbt" timestamp="1558706344712">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="65" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="52" column="6" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" />
-      <jump line="206" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
-      <jump line="28" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="39" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="26" column="10" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="25" column="34" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="773" column="45" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="782" column="26" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="788" column="42" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="797" column="23" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
@@ -281,46 +305,54 @@
       <jump line="239" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="263" column="69" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="262" column="23" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" />
+      <jump line="3" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" />
+      <jump line="14" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" />
+      <jump line="7" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" />
+      <jump line="2" column="0" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="17" column="6" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy5wcm9jZXNzaW5nLm1vZGVscy5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb24ubXV0YWJsZS5TdGFjawo=</text>
       </register>
       <register name="-" type="4">
-        <text>transformer.kafka_streams.commons.repository</text>
+        <text>ExampleSpec</text>
       </register>
       <register name="/" type="4">
         <text>updateSta</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy5wcm9jZXNzaW5nLm1vZGVscy5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+      <register name="0" type="4">
+        <text>binaryTreeSpec</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb24ubXV0YWJsZS5TdGFjawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS57IENhbXBhaWduVG9Qcm9jZXNzaW5nTW9kZWxSZXBvc2l0b3J5LCBQcm9jZXNzaW5nTW9kZWwgfQo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnBvcCgpIHNob3VsZCBiZSAoMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnBvcCgpIHNob3VsZCBiZSAoMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdGFjayA9IG5ldyBTdGFja1tJbnRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMucmVwb3NpdG9yeS5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">aW1wb3J0IGJpbmFyeVRyZWUuXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5hY2RjQ2Fzc2FuZHJhLAo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5hY2RjRW1iZWRkZWQsCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0cmVlID0gTm9kZQo=</text>
       </register>
     </registers>
     <search>
