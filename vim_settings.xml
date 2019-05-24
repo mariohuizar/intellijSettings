@@ -72,8 +72,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558627373151">
-        <mark key="'" line="29" column="18" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558681728268">
+        <mark key="'" line="77" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -175,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="349" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="6" column="38" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
       <jump line="19" column="38" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
@@ -275,6 +274,7 @@
       <jump line="254" column="7" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="64" column="18" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="29" column="18" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
+      <jump line="77" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
