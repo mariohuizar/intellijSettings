@@ -99,6 +99,9 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" timestamp="1558683173147">
+        <mark key="'" line="74" column="1" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/README.md" timestamp="1558619309280">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="27" />
@@ -154,6 +157,9 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1558683729708">
+        <mark key="'" line="262" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModel.scala" timestamp="1558624485373">
         <mark key="'" line="26" column="35" />
       </file>
@@ -175,15 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="6" column="38" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="19" column="38" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="192" column="22" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
-      <jump line="55" column="26" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
-      <jump line="205" column="28" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
-      <jump line="22" column="11" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
-      <jump line="23" column="11" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
-      <jump line="24" column="21" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
       <jump line="10" column="65" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
       <jump line="52" column="6" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" />
       <jump line="206" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" />
@@ -275,6 +272,15 @@
       <jump line="64" column="18" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="29" column="18" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="77" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
+      <jump line="26" column="49" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" />
+      <jump line="74" column="1" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" />
+      <jump line="48" column="30" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="150" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="334" column="38" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="325" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="239" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="263" column="69" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="262" column="23" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -284,7 +290,7 @@
         <text>transformer.kafka_streams.commons.repository</text>
       </register>
       <register name="/" type="4">
-        <text>normalizer-odc-mess</text>
+        <text>updateSta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy5wcm9jZXNzaW5nLm1vZGVscy5DYW1wYWlnblRvUHJvY2Vzc2luZ01vZGVsUmVwb3NpdG9yeQo=</text>
@@ -318,15 +324,14 @@
       </register>
     </registers>
     <search>
-      <last-search>normalizer-odc-mess</last-search>
+      <last-search>updateSta</last-search>
       <last-offset />
-      <last-pattern>normalizer-odc-mess</last-pattern>
+      <last-pattern>updateSta</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cassandra</entry>
         <entry encoding="base64">XDxlbWJlZGRlZEV4Y2x1c2lvbnNcPg==</entry>
         <entry>branchNa</entry>
         <entry>branchName</entry>
@@ -346,6 +351,7 @@
         <entry>library.log4</entry>
         <entry>log4j</entry>
         <entry>normalizer-odc-mess</entry>
+        <entry>updateSta</entry>
       </history-search>
       <history-cmd />
       <history-expr />
