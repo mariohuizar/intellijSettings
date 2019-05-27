@@ -140,12 +140,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" timestamp="1558608352218">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558618679337">
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="46" column="44" />
-        <mark key="]" line="46" column="42" />
-        <mark key="^" line="46" column="42" />
-        <mark key="." line="46" column="42" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558947515569">
+        <mark key="'" line="53" column="74" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="127" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/BoundStatement.class" timestamp="1558624874052">
         <mark key="'" line="260" column="19" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="782" column="26" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="788" column="42" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="797" column="23" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
       <jump line="803" column="42" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" />
@@ -313,46 +312,47 @@
       <jump line="2" column="0" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
       <jump line="17" column="6" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="53" column="74" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb24ubXV0YWJsZS5TdGFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ExampleSpec</text>
+        <text>IllegalArgumentException</text>
       </register>
       <register name="/" type="4">
         <text>updateSta</text>
       </register>
       <register name="0" type="4">
-        <text>binaryTreeSpec</text>
+        <text>IllegalStateException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb24ubXV0YWJsZS5TdGFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnBvcCgpIHNob3VsZCBiZSAoMSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXVpZCA9IFByb2Nlc3NpbmdNb2RlbC5zdWJzY3JpYmVBcHAobW9ja2VkU2Vzc2lvbiwgdGVzdEFwcE5hbWUsIHRlc3RBcHBWZXJzaW9uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnBvcCgpIHNob3VsZCBiZSAoMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMikK</text>
+        <text encoding="base64">ICAgICAgICB1dWlkLnJlY292ZXIgewogICAgICAgICAgY2FzZSBlOiBJbGxlZ2FsU3RhdGVFeGNlcHRpb24gPT4gZS5nZXRNZXNzYWdlCiAgICAgICAgICBjYXNlIF8gPT4gIk5vdCB3aGF0IHdlIGV4cGVjdGVkIgogICAgICAgIH0gc2hvdWxkQmUgU3VjY2VzcygiV2FudGVkIGV4Y2VwdGlvbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb24ubXV0YWJsZS5TdGFjawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFjayA9IG5ldyBTdGFja1tJbnRdCg==</text>
+        <text encoding="base64">ICAgIHN0YWNrLnBvcCgpIHNob3VsZCBiZSAoMSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGJpbmFyeVRyZWUuXwo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnBvcCgpIHNob3VsZCBiZSAoMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB0cmVlID0gTm9kZQo=</text>
+        <text encoding="base64">ICAgIHN0YWNrLnB1c2goMSkK</text>
       </register>
     </registers>
     <search>
