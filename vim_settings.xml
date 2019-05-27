@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" timestamp="1558538984563">
         <mark key="'" line="38" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" timestamp="1558952464015">
-        <mark key="'" line="63" column="30" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="67" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="63" column="30" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" timestamp="1558953087604">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="73" />
+        <mark key="^" line="55" column="85" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1558626006876">
         <mark key="'" line="143" column="10" />
@@ -88,11 +88,17 @@
         <mark key="^" line="5" column="74" />
         <mark key="." line="5" column="74" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/rawsignal/RawSignalNormalizerSpec.scala" timestamp="1558953158158">
+        <mark key="'" line="73" column="20" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/main/scala/binaryTree.scala" timestamp="1558706133632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1558952651236">
+        <mark key="'" line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1558681728268">
         <mark key="'" line="77" column="0" />
@@ -140,8 +146,12 @@
         <mark key="^" line="4" column="152" />
         <mark key="." line="4" column="152" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1558625966255">
-        <mark key="'" line="53" column="4" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1558953141953">
+        <mark key="'" line="74" column="32" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="73" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="74" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" timestamp="1558608352218">
         <mark key="'" line="52" column="6" />
@@ -189,8 +199,8 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1558952497122">
-        <mark key="'" line="73" column="17" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1558952543719">
+        <mark key="'" line="73" column="15" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="67" />
       </file>
@@ -224,17 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="26" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="305" column="15" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/AbstractData.java" />
-      <jump line="27" column="9" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="29" column="15" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="528" column="27" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" />
-      <jump line="239" column="19" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/AbstractData.java" />
-      <jump line="32" column="20" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="33" column="38" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="24" column="35" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="44" column="49" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="46" column="31" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
       <jump line="52" column="13" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
       <jump line="37" column="38" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
       <jump line="24" column="36" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
@@ -323,31 +322,54 @@
       <jump line="44" column="16" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
       <jump line="51" column="23" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
       <jump line="63" column="30" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
-      <jump line="73" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="73" column="15" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="49" column="17" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
+      <jump line="26" column="35" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="55" column="39" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
+      <jump line="68" column="29" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="41" column="46" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
+      <jump line="12" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
+      <jump line="69" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" />
+      <jump line="29" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="39" column="5" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="74" column="32" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="73" column="20" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/rawsignal/RawSignalNormalizerSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgbG9nOiBMb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcih0aGlzLmdldENsYXNzKQo=</text>
+        <text encoding="base64">ICB2YWwgbG9nOiBMb2dnZXIgICAgICAgICAgICAgICAgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcih0aGlzLmdldENsYXNzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWF0Y2gg</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvc2l0b3J5XD4=</text>
+        <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSB2YWwgbG9nOiBMb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcih0aGlzLmdldENsYXNzKQo=</text>
+        <text encoding="base64">ICB2YWwgbG9nOiBMb2dnZXIgICAgICAgICAgICAgICAgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcih0aGlzLmdldENsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAkQ09WRVJBR0UtT04kCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAvLyAkQ09WRVJBR0UtT0ZGJAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAuZ2V0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLlRyeVBhcnRpYWwiKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgaWYodXVpZC5pc1N1Y2Nlc3MpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHsKICAgICAgICB2YWwgYXBwID0gbmV3IEthZmthVHJhamVjdG9yeVRyYW5zZm9ybWVyKAogICAgICAgICAgYXBwQ29uZmlnLmNvcHkocmVnaW9uID0gY21kTGluZS5yZWdpb24pLAogICAgICAgICAgdXVpZCwKICAgICAgICAgIHJlcG9zaXRvcnkKICAgICAgICApCiAgICAgICAgYXV0b1VwZGF0ZXIgPSBPcHRpb24oYXBwLmF1dG9VcGRhdGVDYW1wYWlnbnMoKSkKICAgICAgICBhcHAucnVuKCkKICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>kaTrajectoryTransformer(
           appConfig.copy(region = cmdLine.region),
           uuid,
@@ -356,32 +378,19 @@
         autoUpdater = Option(app.autoUpdateCampaigns())
         app.run()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB1dQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGFwcCA9IG5ldyBLYWZrYVRyYWplY3RvcnlUcmFuc2Zvcm1lcigKICAgICAgICBhcHBDb25maWcuY29weShyZWdpb24gPSBjbWRMaW5lLnJlZ2lvbiksCiAgICAgICAgdXVpZCwKICAgICAgICByZXBvc2l0b3J5CiAgICAgICkKICAgICAgYXV0b1VwZGF0ZXIgPSBPcHRpb24oYXBwLmF1dG9VcGRhdGVDYW1wYWlnbnMoKSkKICAgICAgYXBwLnJ1bigpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLlRyeVBhcnRpYWwiKSkK</text>
+        <text encoding="base64">ICAgICAgY2FzZSB1dQo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvc2l0b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxsb2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvc2l0b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>branchNa</entry>
         <entry>branchName</entry>
         <entry>Session</entry>
         <entry encoding="base64">XDxtb2NraXRvXD4=</entry>
@@ -401,6 +410,7 @@
         <entry>normalizer-odc-mess</entry>
         <entry>updateSta</entry>
         <entry encoding="base64">XDxyZXBvc2l0b3J5XD4=</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
