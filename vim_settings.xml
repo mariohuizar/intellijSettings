@@ -222,13 +222,7 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModel.scala" timestamp="1558624485373">
         <mark key="'" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/Jenkinsfile" timestamp="1558965214031">
-        <mark key="'" line="35" column="17" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="135" />
-        <mark key="." line="37" column="0" />
-      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/Jenkinsfile" timestamp="1558965214031" />
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" timestamp="1558947936427">
         <mark key="'" line="43" column="21" />
       </file>
