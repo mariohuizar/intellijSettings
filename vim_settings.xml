@@ -13,6 +13,9 @@
         <mark key="^" line="55" column="85" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/1.2.4/acdc-odc-normalization-core_2.11-1.2.4.jar!/de/audi/acdc/odc/normalization/core/MessageNormalized.class" timestamp="1559033365847">
+        <mark key="'" line="2" column="212" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" timestamp="1558608368467">
         <mark key="'" line="206" column="4" />
       </file>
@@ -79,8 +82,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/AbstractData.java" timestamp="1558612932245">
         <mark key="'" line="239" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" timestamp="1559031744553">
-        <mark key="'" line="163" column="8" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" timestamp="1559033709237">
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="150" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" timestamp="1558538984563">
         <mark key="'" line="38" column="24" />
@@ -205,18 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="391" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="392" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="304" column="54" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="367" column="11" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="63" column="19" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="109" column="5" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="199" column="5" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="216" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="254" column="7" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="64" column="18" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="29" column="18" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="77" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="26" column="49" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" />
       <jump line="74" column="1" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" />
@@ -305,63 +300,72 @@
       <jump line="80" column="33" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
       <jump line="162" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
       <jump line="163" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="68" column="25" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="95" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="100" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="99" column="28" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="2" column="212" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/1.2.4/acdc-odc-normalization-core_2.11-1.2.4.jar!/de/audi/acdc/odc/normalization/core/MessageNormalized.class" />
+      <jump line="107" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="128" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="154" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="127" column="39" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="190" column="31" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="189" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
+      <jump line="152" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlQnVpbGRSZXN1bHRJblN0YXNoKCdJTlBST0dSRVNTJykK</text>
+        <text encoding="base64">ICAgIHZhbCBjbDE1T25TdGF0ZVRpbWVzdGFtcCA9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IF8=</text>
+        <text>cl15OnStateTimestamp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja1w+</text>
+        <text encoding="base64">XDxwdmluXD4=</text>
       </register>
       <register name="0" type="4">
         <text>CampaignToProcessingModelRepository</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlQnVpbGRSZXN1bHRJblN0YXNoKCdJTlBST0dSRVNTJykK</text>
+        <text encoding="base64">ICAgIHZhbCBjbDE1T25TdGF0ZVRpbWVzdGFtcCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEdJVF9DT01NSVRfSEFTSCA9IHNoKHNjcmlwdDogImdpdCBsb2cgLW4gMSAtLXByZXR0eT1mb3JtYXQ6JyVIJyIsIHJldHVyblN0ZG91dDogdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBwdmluICAgICAgICAgICAgICAgICA9IHNpZ25hbHMucHZpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNUQVNIX0FQSV9VUkwgPSAiaHR0cHM6Ly9jb2xsYWJvcmF0aW9uLm1zaS5hdWRpLmNvbS9zdGFzaC9yZXN0L2J1aWxkLXN0YXR1cy8xLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb3N0IHsKICAgIGFsd2F5cyB7CiAgICAgIHRlc3RDb3ZlcmFnZSgpCiAgICAgIHNjcmlwdCB7CiAgICAgICAgY3VycmVudEJ1aWxkLnJlc3VsdCA9IGN1cnJlbnRCdWlsZC5yZXN1bHQgPzogJ1NVQ0NFU1MnCiAgICAgICAgdXBkYXRlQnVpbGRSZXN1bHRJblN0YXNoKGN1cnJlbnRCdWlsZC5yZXN1bHQgPT0gJ1NVQ0NFU1MnID8gJ1NVQ0NFU1NGVUwnIDogJ0ZBSUxFRCcpCiAgICAgIH0KICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaW5kU2lnbmFsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGVsZW1ldHJpZXMgPSBtZXNzYWdlLnRlbGVtZXRyeU5vcm1hbGl6ZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGVsZW1ldHJpZXMgPSBtZXNzYWdlLnRlbGVtZXRyeU5vcm1hbGl6ZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCB1cGRhdGVCdWlsZFJlc3VsdEluU3Rhc2goU3RyaW5nIHN0YXR1cykgewogIHNoKHNjcmlwdDogIiIiXAogICAgICAgfGN1cmwgLXUgIiR7U1RBU0hfQ1JFREVOVElBTFNfVVNSfToke1NUQVNIX0NSRURFTlRJQUxTX1BTV30iIC1IICJDb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIC1kICd7CiAgICAgICB8InN0YXRlIjogIiR7c3RhdHVzfSIsCiAgICAgICB8ImtleSI6ICIke2N1cnJlbnRCdWlsZC5wcm9qZWN0TmFtZX0iLAogICAgICAgfCJuYW1lIjogIiR7Y3VycmVudEJ1aWxkLnByb2plY3ROYW1lfSIsCiAgICAgICB8InVybCI6ICIke2N1cnJlbnRCdWlsZC5hYnNvbHV0ZVVybH0iCiAgICAgICB8fScgLVggUE9TVCAiJHtTVEFTSF9BUElfVVJMfS9jb21taXRzLyR7R0lUX0NPTU1JVF9IQVNIfSIgIiIiLnN0cmlwTWFyZ2luKCksIHJldHVyblN0ZG91dDogZmFsc2UpCn0K</text>
+        <text encoding="base64">ICAgIHZhbCB0ZWxlbWV0cmllcyA9IG1lc3NhZ2UudGVsZW1ldHJ5Tm9ybWFsaXplZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICBTeXN0ZW0uZXhpdCgxKSAvLyBGb3JjZSBzeXN0ZW0gZXhpdCB3aGVuIHN0cmVhbXMgaGF2ZSBzdG9wcGVkCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0ZWxlbWV0cmllcyA9IG1lc3NhZ2UudGVsZW1ldHJ5Tm9ybWFsaXplZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlQnVpbGRSZXN1bHRJblN0YXNoKCdJTlBST0dSRVNTJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja1w+</last-search>
+      <last-search encoding="base64">XDxwdmluXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwdmluXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>close</entry>
-        <entry encoding="base64">XDxhY2RjRW1iZWRkZWRcPg==</entry>
-        <entry encoding="base64">XDxsb2c0alw+</entry>
         <entry>library.log4</entry>
         <entry>log4j</entry>
         <entry>normalizer-odc-mess</entry>
@@ -379,6 +383,9 @@
         <entry encoding="base64">XDxCdWlsZE5vdGlmaWNhdGlvblw+</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxjaGVja1w+</entry>
+        <entry>extractSignal</entry>
+        <entry encoding="base64">XDxjbDE1T25TdGF0ZVRpbWVzdGFtcFw+</entry>
+        <entry encoding="base64">XDxwdmluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
