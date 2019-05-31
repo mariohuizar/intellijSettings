@@ -46,11 +46,11 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.7.0/dse-java-driver-core-1.7.0-sources.jar!/com/datastax/driver/core/AbstractData.java" timestamp="1559320258180">
         <mark key="'" line="302" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1559315780883">
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1559323079772">
         <mark key="'" line="345" column="8" />
-        <mark key="[" line="278" column="34" />
-        <mark key="]" line="278" column="78" />
-        <mark key="." line="278" column="34" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
         <mark key="^" line="295" column="38" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559121744890">
@@ -137,12 +137,12 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559315274515">
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559323069941">
         <mark key="'" line="260" column="17" />
-        <mark key="[" line="86" column="32" />
-        <mark key="]" line="86" column="75" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="77" />
         <mark key="." line="86" column="37" />
-        <mark key="^" line="86" column="37" />
+        <mark key="^" line="86" column="75" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" timestamp="1558683173147">
         <mark key="'" line="74" column="1" />
@@ -318,44 +318,44 @@
       <jump line="71" column="38" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGFjZGNQcm9jZXNzaW5nTW9kZWxzID0gIjEuMC4wLUFDREMtODM4MS1tb3ZlLWNvbW1vbi1wbS1jb2RlLVNOQVBTSE9UIgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>any</text>
       </register>
-      <register name="0" type="4">
-        <text>.setString(1, testAppName)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBhY2RjUHJvY2Vzc2luZ01vZGVscyA9ICIxLjAuMS1BQ0RDLTgzODItaW50ZWdyYXRlLXN0by1sb2dpYy1TTkFQU0hPVCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFyZ3VtZW50TWF0Y2hlcnMK</text>
+        <text encoding="base64">ICAgICAgdmFsIGFjZGNQcm9jZXNzaW5nTW9kZWxzID0gIjEuMC4wLUFDREMtODM4MS1tb3ZlLWNvbW1vbi1wbS1jb2RlLVNOQVBTSE9UIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFN0cmluZygyLCB0ZXN0QXBwVmVyc2lvbikpLnRoZW5SZXR1cm4obW9ja2VkQm91bmRTdGF0ZW1lbnQpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLkFyZ3VtZW50TWF0Y2hlcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFN0cmluZygxLCB0ZXN0QXBwTmFtZSkpLnRoZW5SZXR1cm4obW9ja2VkQm91bmRTdGF0ZW1lbnQpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFN0cmluZygyLCB0ZXN0QXBwVmVyc2lvbikpLnRoZW5SZXR1cm4obW9ja2VkQm91bmRTdGF0ZW1lbnQpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFN0cmluZygxLCB0ZXN0QXBwTmFtZSkpLnRoZW5SZXR1cm4obW9ja2VkQm91bmRTdGF0ZW1lbnQpCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFN0cmluZygyLCB0ZXN0QXBwVmVyc2lvbikpLnRoZW5SZXR1cm4obW9ja2VkQm91bmRTdGF0ZW1lbnQpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFRpbWVzdGFtcChBcmd1bWVudE1hdGNoZXJzLmVxKDMpLCBhbnlbRGF0ZV0pKS50aGVuUmV0dXJuKG1vY2tlZEJvdW5kU3RhdGVtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFN0cmluZygxLCB0ZXN0QXBwTmFtZSkpLnRoZW5SZXR1cm4obW9ja2VkQm91bmRTdGF0ZW1lbnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbW9ja2VkQm91bmRTdGF0ZW1lbnQyICAgID0gbW9ja1tCb3VuZFN0YXRlbWVudF0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFRpbWVzdGFtcChBcmd1bWVudE1hdGNoZXJzLmVxKDMpLCBhbnlbRGF0ZV0pKS50aGVuUmV0dXJuKG1vY2tlZEJvdW5kU3RhdGVtZW50KQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbW9ja2VkQm91bmRTdGF0ZW1lbnQyICAgID0gbW9ja1tCb3VuZFN0YXRlbWVudF0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZEJvdW5kU3RhdGVtZW50LnNldFRpbWVzdGFtcChBcmd1bWVudE1hdGNoZXJzLmVxKDMpLCBhbnlbRGF0ZV0pKS50aGVuUmV0dXJuKG1vY2tlZEJvdW5kU3RhdGVtZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
