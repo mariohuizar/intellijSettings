@@ -148,12 +148,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" timestamp="1558608352218">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1558947515569">
-        <mark key="'" line="53" column="74" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="127" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1559308013607">
+        <mark key="'" line="17" column="52" />
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="43" />
+        <mark key="^" line="63" column="43" />
+        <mark key="." line="63" column="43" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/BoundStatement.class" timestamp="1558624874052">
         <mark key="'" line="260" column="19" />
@@ -178,11 +178,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558543924890">
         <mark key="'" line="143" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559307252712">
-        <mark key="'" line="29" column="24" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559308306890">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558625177961">
         <mark key="'" line="35" column="4" />
@@ -212,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="20" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
-      <jump line="61" column="15" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="99" column="12" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.18/acdc-core-cassandra_2.11-8.0.18-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="111" column="17" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.18/acdc-core-cassandra_2.11-8.0.18-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="76" column="19" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.18/acdc-core-cassandra_2.11-8.0.18-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
@@ -312,16 +311,18 @@
       <jump line="24" column="29" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="64" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="29" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="17" column="52" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="17" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>trait</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>trait</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2JVVUlEXD4=</text>
+        <text encoding="base64">XDxqb2JOYW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">b2JqZWN0IFZlcnNpb24gewoKICB2YWwgQ29uZmlnUGF0aCA9ICJ2ZXJzaW9uIgogIHZhbCBDb25maWdGaWxlID0gInZlcnNpb24ucHJvcGVydGllcyIKCiAgLyoqCiAgICAqIFJldHVybiB0aGUgdmVyc2lvbiBvZiBhY2RjLnN0by5kaWdlc3Qgb3IgTm9uZSBpZiB0aGUgdmVyc2lvbiBpcyBub3Qga25vd24KICAgICovCiAgZGVmIGFwcGx5KCk6IE9wdGlvbltTdHJpbmddID0gewogICAgdmFsIGNvbmYgPSBDb25maWdGYWN0b3J5LmxvYWQoQ29uZmlnRmlsZSkKICAgIGlmIChjb25mLmhhc1BhdGgoQ29uZmlnUGF0aCkpIHsKICAgICAgU29tZShjb25mLmdldFN0cmluZyhDb25maWdQYXRoKSkKICAgIH0gZWxzZSB7CiAgICAgIE5vbmUKICAgIH0KICB9Cn0K</text>
@@ -358,15 +359,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2JVVUlEXD4=</last-search>
+      <last-search encoding="base64">XDxqb2JOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2JVVUlEXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxqb2JOYW1lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2hlbWFOYW1lXD4=</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxlbWJlZGRlZEV4Y2x1c2lvbnNcPg==</entry>
         <entry encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</entry>
@@ -386,6 +386,7 @@
         <entry encoding="base64">XDxsb2c0alw+</entry>
         <entry>process</entry>
         <entry encoding="base64">XDxqb2JVVUlEXD4=</entry>
+        <entry encoding="base64">XDxqb2JOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
