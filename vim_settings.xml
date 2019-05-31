@@ -42,11 +42,11 @@
         <mark key="^" line="53" column="34" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1558962050558">
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1559314451981">
         <mark key="'" line="295" column="10" />
-        <mark key="[" line="361" column="108" />
-        <mark key="]" line="361" column="108" />
-        <mark key="." line="361" column="108" />
+        <mark key="[" line="273" column="39" />
+        <mark key="]" line="273" column="40" />
+        <mark key="." line="273" column="40" />
         <mark key="^" line="295" column="38" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559121744890">
@@ -65,8 +65,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" timestamp="1559309265796">
         <mark key="'" line="43" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559306138833">
-        <mark key="'" line="69" column="14" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559314599023">
+        <mark key="'" line="8" column="85" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="73" />
         <mark key="." line="23" column="0" />
@@ -132,10 +132,10 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559292256859">
-        <mark key="'" line="196" column="77" />
-        <mark key="[" line="86" column="37" />
-        <mark key="]" line="86" column="37" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559314255729">
+        <mark key="'" line="260" column="17" />
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="75" />
         <mark key="." line="86" column="37" />
         <mark key="^" line="86" column="37" />
       </file>
@@ -188,12 +188,11 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558543924890">
         <mark key="'" line="143" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559313478179">
-        <mark key="'" line="51" column="30" />
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="11" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559314329482">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="25" column="11" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558625177961">
         <mark key="'" line="35" column="4" />
@@ -220,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="119" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="129" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="133" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="132" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="230" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
@@ -307,7 +303,6 @@
       <jump line="24" column="29" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="64" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="17" column="52" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
-      <jump line="17" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
       <jump line="29" column="51" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
       <jump line="26" column="46" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" />
       <jump line="51" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
@@ -320,37 +315,34 @@
       <jump line="43" column="35" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
       <jump line="30" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
       <jump line="51" column="30" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="260" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="17" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="66" column="20" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="8" column="85" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>package de.audi.acdc.processing.models
-
-import java.util.UUID
-
-import scala.util.Try
-
-import com.datastax.driver.core.Session
-import org.slf4j.LoggerFactory
-
-trait ProcessingModelWithSession extends ProcessingModel {
-  private val Log = LoggerFactory.getLogger(this.getClass)
-
-  def subscribeApp(session: Session, applicationName: String, applicationVersion: String): Try[UUID] = {
-    subscribeAppWithSession(session, applicationName, applicationVersion)
-  }
-
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWYgam9iTmFtZSgpOiBTdHJpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>1.0.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2JOYW1lXD4=</text>
+        <text encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>ProcessingModelWithSession</text>
+        <text>1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBkZWYgam9iTmFtZSgpOiBTdHJpbmcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB2YWwgam9iVmVyc2lvbjogU3RyaW5nID0gVmVyc2lvbigpLmdldE9yRWxzZSgiVW5rbm93biIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YWwgam9iVVVJRDogVVVJRCAgICAgID0gVVVJRC5uYW1lVVVJREZyb21CeXRlcyhzIiR7dGhpcy5nZXRDbGFzcy5nZXROYW1lfTokam9iVmVyc2lvbiIuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCkpCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>package de.audi.acdc.processing.models
 
 import java.util.UUID
@@ -369,44 +361,34 @@ trait ProcessingModelWithSession extends ProcessingModel {
 
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAvKioKICAgICogQ3JlYXRlIGEgcmVwZWF0YWJsZSBVVUlEIGZyb20gdGhlIGFwcGxpY2F0aW9uIG5hbWUgYW5kIHZlcnNpb24KICAgICovCiAgcHJpdmF0ZSBkZWYgY3JlYXRlVXVpZChhcHBsaWNhdGlvbk5hbWU6IFN0cmluZywgYXBwbGljYXRpb25WZXJzaW9uOiBTdHJpbmcpOiBVVUlEID0KICAgIFVVSUQubmFtZVVVSURGcm9tQnl0ZXMocyIkYXBwbGljYXRpb25OYW1lLSRhcHBsaWNhdGlvblZlcnNpb24iLmdldEJ5dGVzKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZhbCByZXBvc2l0b3J5ICAgID0gUHJvY2Vzc2luZ01vZGVsc1JlcG9zaXRvcnkud2l0aFNlc3Npb24oc2Vzc2lvbikKICAgIHZhbCB1dWlkICAgICAgICAgID0gY3JlYXRlVXVpZChhcHBsaWNhdGlvbk5hbWUsIGFwcGxpY2F0aW9uVmVyc2lvbikKICAgIHZhbCB3cml0aW5nUmVzdWx0ID0gcmVwb3NpdG9yeS5jcmVhdGVQcm9jZXNzaW5nTW9kZWwodXVpZCwgYXBwbGljYXRpb25OYW1lLCBhcHBsaWNhdGlvblZlcnNpb24pCiAgICB3cml0aW5nUmVzdWx0IG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKF8pID0+CiAgICAgICAgTG9nLmluZm8oCiAgICAgICAgICAiU3Vic2NyaWJlIHt9IHRvIFByb2Nlc3NpbmcgTW9kZWxzLiIsCiAgICAgICAgICBhcHBsaWNhdGlvbk5hbWUKICAgICAgICApCiAgICAgIGNhc2UgRmFpbHVyZShleGNlcHRpb24pID0+CiAgICAgICAgTG9nLmVycm9yKAogICAgICAgICAgIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBzdWJzY3JpYmluZyB0byBQcm9jZXNzaW5nIE1vZGVscy4iLAogICAgICAgICAgZXhjZXB0aW9uCiAgICAgICAgKQogICAgfQogICAgd3JpdGluZ1Jlc3VsdC5tYXAoXyA9PiB1dWlkKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kYXRhc3RheC5zcGFyay5jb25uZWN0b3IuY3FsLkNhc3NhbmRyYUNvbm5lY3Rvcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvY2Vzc2luZ01vZGVsKHByaXZhdGUgdmFsIGNvbm5lY3Rpb246IEVpdGhlcltTZXNzaW9uLCBDYXNzYW5kcmFDb25uZWN0b3JdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYXRhc3RheC5zcGFyay5jb25uZWN0b3IuY3FsLkNhc3NhbmRyYUNvbm5lY3Rvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgc3Vic2NyaWJlQXBwV2l0aFNwYXJrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2JOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2JOYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry encoding="base64">XDxlbWJlZGRlZEV4Y2x1c2lvbnNcPg==</entry>
         <entry encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</entry>
         <entry encoding="base64">XDxzcGFya1VudXNlZFw+</entry>
@@ -426,6 +408,7 @@ trait ProcessingModelWithSession extends ProcessingModel {
         <entry>process</entry>
         <entry encoding="base64">XDxqb2JVVUlEXD4=</entry>
         <entry encoding="base64">XDxqb2JOYW1lXD4=</entry>
+        <entry encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
