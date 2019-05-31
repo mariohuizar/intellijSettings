@@ -62,8 +62,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" timestamp="1559121437102">
         <mark key="'" line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559306031372">
-        <mark key="'" line="71" column="52" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559306138833">
+        <mark key="'" line="69" column="14" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="73" />
         <mark key="." line="23" column="0" />
@@ -108,10 +108,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1559293945100">
-        <mark key="'" line="24" column="28" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="123" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1559306503139">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="128" column="1" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/rawsignal/RawSignalNormalizerSpec.scala" timestamp="1558953158158">
@@ -178,12 +178,11 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558543924890">
         <mark key="'" line="143" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559293938843">
-        <mark key="'" line="27" column="42" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="4" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559307252712">
+        <mark key="'" line="29" column="24" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558625177961">
         <mark key="'" line="35" column="4" />
@@ -213,10 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
-      <jump line="109" column="27" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
-      <jump line="163" column="30" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
-      <jump line="37" column="52" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="63" column="20" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="61" column="15" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="99" column="12" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.18/acdc-core-cassandra_2.11-8.0.18-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
@@ -311,8 +306,12 @@
       <jump line="123" column="41" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="25" column="42" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
       <jump line="56" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
-      <jump line="24" column="28" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="71" column="52" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="69" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="25" column="81" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
+      <jump line="24" column="29" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
+      <jump line="64" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
+      <jump line="29" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -325,34 +324,34 @@
         <text encoding="base64">XDxqb2JVVUlEXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgam9iTmFtZSgpOiBTdHJpbmcKICB2YWwgam9iVmVyc2lvbjogU3RyaW5nID0gVmVyc2lvbigpLmdldE9yRWxzZSgiVW5rbm93biIpCiAgdmFsIGpvYlVVSUQ6IFVVSUQgICAgICA9IFVVSUQubmFtZVVVSURGcm9tQnl0ZXMocyIke3RoaXMuZ2V0Q2xhc3MuZ2V0TmFtZX06JGpvYlZlcnNpb24iLmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKQo=</text>
+        <text encoding="base64">b2JqZWN0IFZlcnNpb24gewoKICB2YWwgQ29uZmlnUGF0aCA9ICJ2ZXJzaW9uIgogIHZhbCBDb25maWdGaWxlID0gInZlcnNpb24ucHJvcGVydGllcyIKCiAgLyoqCiAgICAqIFJldHVybiB0aGUgdmVyc2lvbiBvZiBhY2RjLnN0by5kaWdlc3Qgb3IgTm9uZSBpZiB0aGUgdmVyc2lvbiBpcyBub3Qga25vd24KICAgICovCiAgZGVmIGFwcGx5KCk6IE9wdGlvbltTdHJpbmddID0gewogICAgdmFsIGNvbmYgPSBDb25maWdGYWN0b3J5LmxvYWQoQ29uZmlnRmlsZSkKICAgIGlmIChjb25mLmhhc1BhdGgoQ29uZmlnUGF0aCkpIHsKICAgICAgU29tZShjb25mLmdldFN0cmluZyhDb25maWdQYXRoKSkKICAgIH0gZWxzZSB7CiAgICAgIE5vbmUKICAgIH0KICB9Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgc3Vic2NyaWJlQXBwV2l0aFNwYXJrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoQXJyYXkoIm9yZy53YXJ0cmVtb3Zlci53YXJ0cy5WYXIiKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgbG9nID0gU2VxKAogICAgc2xmNGosCiAgICBsb2c0aiwKICAgIHNsZjRqQ29tbW9uc0xvZ2dpbmcKICApCgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNsZjRqbG9nNGoxMiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5sb2c0aiwKICAgICAgbGlicmFyeS5sb2c0akNvcmUsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoQXJyYXkoIm9yZy53YXJ0cmVtb3Zlci53YXJ0cy5WYXIiKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgbG9nID0gU2VxKAogICAgc2xmNGosCiAgICBsb2c0aiwKICAgIHNsZjRqQ29tbW9uc0xvZ2dpbmcKICApCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNsZjRqbG9nNGoxMiwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgbG9nID0gU2VxKGxvZzRqLCBsb2c0akNvcmUpCg==</text>
+        <text encoding="base64">ICAgICAgbGlicmFyeS5sb2c0aiwKICAgICAgbGlicmFyeS5sb2c0akNvcmUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2c0aiAgICAgICAgICA9ICIyLjguMSIKICAgIHZhbCBzbGY0aiAgICAgICAgICA9ICIxLjcuMjUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
