@@ -63,8 +63,11 @@
         <mark key="." line="56" column="31" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" timestamp="1559309106505">
-        <mark key="'" line="26" column="46" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" timestamp="1559322433973">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" timestamp="1559309265796">
         <mark key="'" line="43" column="42" />
@@ -118,19 +121,14 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1559319959309">
-        <mark key="'" line="51" column="21" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1559322328280">
+        <mark key="'" line="71" column="38" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="57" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/rawsignal/RawSignalNormalizerSpec.scala" timestamp="1558953158158">
         <mark key="'" line="73" column="20" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.18/acdc-core-cassandra_2.11-8.0.18-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1559143644507">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="98" column="6" />
-        <mark key="]" line="98" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1558706713641">
         <mark key="'" line="7" column="0" />
@@ -177,11 +175,6 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/ResultSet.class" timestamp="1558625445961">
         <mark key="'" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.19/acdc-core-cassandra_2.11-8.0.19-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1559143668557">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="101" column="6" />
-        <mark key="]" line="101" column="33" />
-      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" timestamp="1558612928301">
         <mark key="'" line="528" column="27" />
       </file>
@@ -203,6 +196,9 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558625177961">
         <mark key="'" line="35" column="4" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.19/acdc-core-cassandra_2.11-8.0.19-sources.jar!/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" timestamp="1559322167714">
+        <mark key="'" line="41" column="86" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModel.scala" timestamp="1558624485373">
         <mark key="'" line="26" column="35" />
       </file>
@@ -215,19 +211,11 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558612377381">
         <mark key="'" line="114" column="13" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" timestamp="1559143334067">
-        <mark key="'" line="62" column="31" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="48" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/JavaUuidUtilsSpec.scala" timestamp="1558537726910">
         <mark key="'" line="64" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="72" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/BatteryResistanceAppTest.scala" />
-      <jump line="126" column="31" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.18/acdc-core-cassandra_2.11-8.0.18-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
-      <jump line="211" column="5" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="5" column="36" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="62" column="31" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="48" column="46" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
@@ -325,6 +313,9 @@
       <jump line="31" column="27" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
       <jump line="36" column="12" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="49" column="41" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="91" column="45" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
+      <jump line="41" column="86" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.19/acdc-core-cassandra_2.11-8.0.19-sources.jar!/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
+      <jump line="71" column="38" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
