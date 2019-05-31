@@ -62,8 +62,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" timestamp="1559121437102">
         <mark key="'" line="43" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559122572216">
-        <mark key="'" line="60" column="10" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559306031372">
+        <mark key="'" line="71" column="52" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="73" />
         <mark key="." line="23" column="0" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="14" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
       <jump line="88" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="109" column="27" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
       <jump line="163" column="30" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppTest.scala" />
@@ -313,6 +312,7 @@
       <jump line="25" column="42" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
       <jump line="56" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="24" column="28" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
+      <jump line="71" column="52" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
