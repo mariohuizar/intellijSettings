@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/UpdaterSpec.scala" timestamp="1558962642223">
         <mark key="'" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" timestamp="1558953087604">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="73" />
-        <mark key="^" line="55" column="85" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" timestamp="1559315583387">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="40" />
+        <mark key="^" line="49" column="40" />
+        <mark key="." line="49" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierAppTest.scala" timestamp="1559143092400">
         <mark key="[" line="21" column="0" />
@@ -42,11 +42,11 @@
         <mark key="^" line="53" column="34" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1559314451981">
-        <mark key="'" line="295" column="10" />
-        <mark key="[" line="273" column="39" />
-        <mark key="]" line="273" column="40" />
-        <mark key="." line="273" column="40" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1559315780883">
+        <mark key="'" line="345" column="8" />
+        <mark key="[" line="278" column="34" />
+        <mark key="]" line="278" column="78" />
+        <mark key="." line="278" column="34" />
         <mark key="^" line="295" column="38" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559121744890">
@@ -65,12 +65,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" timestamp="1559309265796">
         <mark key="'" line="43" column="42" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559314599023">
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559315518236">
         <mark key="'" line="8" column="85" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="74" column="17" />
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="40" />
+        <mark key="." line="65" column="40" />
+        <mark key="^" line="65" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/DockerCassandraTest.scala" timestamp="1559140007893">
         <mark key="'" line="14" column="42" />
@@ -132,7 +132,7 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559314255729">
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559315274515">
         <mark key="'" line="260" column="17" />
         <mark key="[" line="86" column="32" />
         <mark key="]" line="86" column="75" />
@@ -219,11 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="132" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="230" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="229" column="55" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="216" column="9" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="282" column="34" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="283" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="284" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
@@ -319,16 +314,21 @@
       <jump line="17" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
       <jump line="66" column="20" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
       <jump line="8" column="85" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" />
+      <jump line="103" column="20" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="134" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="285" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="102" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="345" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgam9iTmFtZSgpOiBTdHJpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</text>
+        <text>dse</text>
       </register>
       <register name="0" type="4">
         <text>1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT</text>
@@ -381,15 +381,14 @@ trait ProcessingModelWithSession extends ProcessingModel {
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</last-search>
+      <last-search>dse</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</last-pattern>
+      <last-pattern>dse</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbWJlZGRlZEV4Y2x1c2lvbnNcPg==</entry>
         <entry encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</entry>
         <entry encoding="base64">XDxzcGFya1VudXNlZFw+</entry>
         <entry encoding="base64">XDxtaW5sb2dcPg==</entry>
@@ -409,6 +408,7 @@ trait ProcessingModelWithSession extends ProcessingModel {
         <entry encoding="base64">XDxqb2JVVUlEXD4=</entry>
         <entry encoding="base64">XDxqb2JOYW1lXD4=</entry>
         <entry encoding="base64">XDxQcm9jZXNzaW5nTW9kZWxcPg==</entry>
+        <entry>dse</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
