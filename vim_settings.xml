@@ -35,8 +35,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/DockerCassandraTest.scala" timestamp="1559142318146">
         <mark key="'" line="44" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1559293737341">
-        <mark key="'" line="56" column="8" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1559313074400">
+        <mark key="'" line="27" column="4" />
         <mark key="[" line="53" column="34" />
         <mark key="]" line="53" column="34" />
         <mark key="^" line="53" column="34" />
@@ -151,15 +151,22 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" timestamp="1558608352218">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1559308013607">
-        <mark key="'" line="17" column="52" />
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="63" column="43" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1559313454356">
+        <mark key="'" line="43" column="35" />
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="106" />
         <mark key="^" line="63" column="43" />
-        <mark key="." line="63" column="43" />
+        <mark key="." line="17" column="80" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/BoundStatement.class" timestamp="1558624874052">
         <mark key="'" line="260" column="19" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelWithSession.scala" timestamp="1559313346848">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="13" column="71" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/ResultSet.class" timestamp="1558625445961">
         <mark key="'" line="8" column="9" />
@@ -181,12 +188,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558543924890">
         <mark key="'" line="143" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559311338424">
-        <mark key="'" line="29" column="51" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="4" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559313478179">
+        <mark key="'" line="51" column="30" />
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558625177961">
         <mark key="'" line="35" column="4" />
@@ -208,21 +215,11 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1559140016713">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/JavaUuidUtilsSpec.scala" timestamp="1558537726910">
         <mark key="'" line="64" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="62" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
-      <jump line="77" column="72" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.18/acdc-core-cassandra_2.11-8.0.18-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
-      <jump line="95" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
-      <jump line="81" column="25" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
-      <jump line="76" column="35" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="88" column="86" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="65" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="96" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="119" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="129" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
@@ -298,7 +295,6 @@
       <jump line="66" column="42" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/ProcessingModelsRepositoryTest.scala" />
       <jump line="92" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="196" column="77" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="27" column="19" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="27" column="35" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
       <jump line="62" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="27" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
@@ -316,46 +312,86 @@
       <jump line="26" column="46" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" />
       <jump line="51" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="43" column="42" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" />
+      <jump line="31" column="43" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="27" column="4" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="19" column="89" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="9" column="50" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelWithSession.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelWithSession.scala" />
+      <jump line="43" column="35" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" />
+      <jump line="30" column="24" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
+      <jump line="51" column="30" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>package de.audi.acdc.processing.models
+
+import java.util.UUID
+
+import scala.util.Try
+
+import com.datastax.driver.core.Session
+import org.slf4j.LoggerFactory
+
+trait ProcessingModelWithSession extends ProcessingModel {
+  private val Log = LoggerFactory.getLogger(this.getClass)
+
+  def subscribeApp(session: Session, applicationName: String, applicationVersion: String): Try[UUID] = {
+    subscribeAppWithSession(session, applicationName, applicationVersion)
+  }
+
+}</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqb2JOYW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">b2JqZWN0IFZlcnNpb24gewoKICB2YWwgQ29uZmlnUGF0aCA9ICJ2ZXJzaW9uIgogIHZhbCBDb25maWdGaWxlID0gInZlcnNpb24ucHJvcGVydGllcyIKCiAgLyoqCiAgICAqIFJldHVybiB0aGUgdmVyc2lvbiBvZiBhY2RjLnN0by5kaWdlc3Qgb3IgTm9uZSBpZiB0aGUgdmVyc2lvbiBpcyBub3Qga25vd24KICAgICovCiAgZGVmIGFwcGx5KCk6IE9wdGlvbltTdHJpbmddID0gewogICAgdmFsIGNvbmYgPSBDb25maWdGYWN0b3J5LmxvYWQoQ29uZmlnRmlsZSkKICAgIGlmIChjb25mLmhhc1BhdGgoQ29uZmlnUGF0aCkpIHsKICAgICAgU29tZShjb25mLmdldFN0cmluZyhDb25maWdQYXRoKSkKICAgIH0gZWxzZSB7CiAgICAgIE5vbmUKICAgIH0KICB9Cn0K</text>
+      <register name="0" type="4">
+        <text>ProcessingModelWithSession</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kYXRhc3RheC5zcGFyay5jb25uZWN0b3IuY3FsLkNhc3NhbmRyYUNvbm5lY3Rvcgo=</text>
+      <register name="1" type="4">
+        <text>package de.audi.acdc.processing.models
+
+import java.util.UUID
+
+import scala.util.Try
+
+import com.datastax.driver.core.Session
+import org.slf4j.LoggerFactory
+
+trait ProcessingModelWithSession extends ProcessingModel {
+  private val Log = LoggerFactory.getLogger(this.getClass)
+
+  def subscribeApp(session: Session, applicationName: String, applicationVersion: String): Try[UUID] = {
+    subscribeAppWithSession(session, applicationName, applicationVersion)
+  }
+
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgICogQ3JlYXRlIGEgcmVwZWF0YWJsZSBVVUlEIGZyb20gdGhlIGFwcGxpY2F0aW9uIG5hbWUgYW5kIHZlcnNpb24KICAgICovCiAgcHJpdmF0ZSBkZWYgY3JlYXRlVXVpZChhcHBsaWNhdGlvbk5hbWU6IFN0cmluZywgYXBwbGljYXRpb25WZXJzaW9uOiBTdHJpbmcpOiBVVUlEID0KICAgIFVVSUQubmFtZVVVSURGcm9tQnl0ZXMocyIkYXBwbGljYXRpb25OYW1lLSRhcHBsaWNhdGlvblZlcnNpb24iLmdldEJ5dGVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvY2Vzc2luZ01vZGVsKHByaXZhdGUgdmFsIGNvbm5lY3Rpb246IEVpdGhlcltTZXNzaW9uLCBDYXNzYW5kcmFDb25uZWN0b3JdKQo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXBvc2l0b3J5ICAgID0gUHJvY2Vzc2luZ01vZGVsc1JlcG9zaXRvcnkud2l0aFNlc3Npb24oc2Vzc2lvbikKICAgIHZhbCB1dWlkICAgICAgICAgID0gY3JlYXRlVXVpZChhcHBsaWNhdGlvbk5hbWUsIGFwcGxpY2F0aW9uVmVyc2lvbikKICAgIHZhbCB3cml0aW5nUmVzdWx0ID0gcmVwb3NpdG9yeS5jcmVhdGVQcm9jZXNzaW5nTW9kZWwodXVpZCwgYXBwbGljYXRpb25OYW1lLCBhcHBsaWNhdGlvblZlcnNpb24pCiAgICB3cml0aW5nUmVzdWx0IG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKF8pID0+CiAgICAgICAgTG9nLmluZm8oCiAgICAgICAgICAiU3Vic2NyaWJlIHt9IHRvIFByb2Nlc3NpbmcgTW9kZWxzLiIsCiAgICAgICAgICBhcHBsaWNhdGlvbk5hbWUKICAgICAgICApCiAgICAgIGNhc2UgRmFpbHVyZShleGNlcHRpb24pID0+CiAgICAgICAgTG9nLmVycm9yKAogICAgICAgICAgIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBzdWJzY3JpYmluZyB0byBQcm9jZXNzaW5nIE1vZGVscy4iLAogICAgICAgICAgZXhjZXB0aW9uCiAgICAgICAgKQogICAgfQogICAgd3JpdGluZ1Jlc3VsdC5tYXAoXyA9PiB1dWlkKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc3Vic2NyaWJlQXBwV2l0aFNwYXJrCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYXRhc3RheC5zcGFyay5jb25uZWN0b3IuY3FsLkNhc3NhbmRyYUNvbm5lY3Rvcgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUHJvY2Vzc2luZ01vZGVsKHByaXZhdGUgdmFsIGNvbm5lY3Rpb246IEVpdGhlcltTZXNzaW9uLCBDYXNzYW5kcmFDb25uZWN0b3JdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoQXJyYXkoIm9yZy53YXJ0cmVtb3Zlci53YXJ0cy5WYXIiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgbG9nID0gU2VxKAogICAgc2xmNGosCiAgICBsb2c0aiwKICAgIHNsZjRqQ29tbW9uc0xvZ2dpbmcKICApCgo=</text>
+        <text encoding="base64">ICBkZWYgc3Vic2NyaWJlQXBwV2l0aFNwYXJrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
