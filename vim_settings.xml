@@ -198,6 +198,9 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/BoundStatement.class" timestamp="1558624874052">
         <mark key="'" line="260" column="19" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/appenders.fragment.xml" timestamp="1559565929302">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelWithSession.scala" timestamp="1559313346848">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -252,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="28" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="98" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="85" column="35" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="83" column="45" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
@@ -352,6 +354,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/appenders.fragment.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/log4j2.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/log4j2.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/appenders.fragment.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
