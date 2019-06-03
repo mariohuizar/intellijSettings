@@ -158,11 +158,11 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559558173804">
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1559558920001">
         <mark key="'" line="190" column="96" />
-        <mark key="[" line="50" column="38" />
-        <mark key="]" line="50" column="40" />
-        <mark key="." line="50" column="40" />
+        <mark key="[" line="72" column="36" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="37" />
         <mark key="^" line="50" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" timestamp="1558683173147">
