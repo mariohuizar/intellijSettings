@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/UpdaterSpec.scala" timestamp="1558962642223">
-        <mark key="'" line="28" column="25" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" timestamp="1559577492223">
         <mark key="'" line="51" column="22" />
         <mark key="[" line="4" column="8" />
@@ -17,23 +14,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/1.2.4/acdc-odc-normalization-core_2.11-1.2.4.jar!/de/audi/acdc/odc/normalization/core/MessageNormalized.class" timestamp="1559033365847">
-        <mark key="'" line="2" column="212" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/message/MessageNormalizerSpec.scala" timestamp="1558608368467">
-        <mark key="'" line="206" column="4" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/Updater.scala" timestamp="1558962548989">
-        <mark key="'" line="16" column="30" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/loggers.fragment.xml" timestamp="1559563313970">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/DockerCassandraTest.scala" timestamp="1559142318146">
-        <mark key="'" line="44" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/resources/log4j2.xml" timestamp="1559576774122">
         <mark key="[" line="1" column="23" />
@@ -48,9 +33,6 @@
         <mark key="^" line="53" column="34" />
         <mark key="." line="53" column="34" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.7.0/dse-java-driver-core-1.7.0-sources.jar!/com/datastax/driver/core/AbstractData.java" timestamp="1559320258180">
-        <mark key="'" line="302" column="11" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/resources/log4j2.component.properties" timestamp="1559575762998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="82" />
@@ -64,10 +46,7 @@
         <mark key="." line="371" column="117" />
         <mark key="^" line="371" column="117" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559121744890">
-        <mark key="'" line="19" column="35" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559581277704">
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
         <mark key="'" line="44" column="20" />
         <mark key="[" line="103" column="87" />
         <mark key="]" line="103" column="110" />
@@ -92,33 +71,12 @@
         <mark key="]" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" timestamp="1559309265796">
-        <mark key="'" line="43" column="42" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559542254926">
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559585188896">
         <mark key="'" line="65" column="33" />
-        <mark key="[" line="67" column="23" />
-        <mark key="]" line="67" column="23" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="41" />
         <mark key="." line="67" column="23" />
         <mark key="^" line="65" column="40" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.7.0/dse-java-driver-core-1.7.0-sources.jar!/com/datastax/driver/core/BoundStatement.java" timestamp="1559320253738">
-        <mark key="'" line="551" column="24" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/DockerCassandraTest.scala" timestamp="1559140007893">
-        <mark key="'" line="14" column="42" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/scala/de/audi/acdc/sto/digest/BatteryResistanceAppTest.scala" timestamp="1559142834042">
-        <mark key="'" line="41" column="72" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/build.sbt" timestamp="1559550175844">
-        <mark key="'" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/AbstractData.java" timestamp="1558612932245">
-        <mark key="'" line="239" column="19" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/Cluster.java" timestamp="1559122505038">
-        <mark key="'" line="1356" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/it/resources/loggers.fragment.xml" timestamp="1559577862954">
         <mark key="[" line="5" column="48" />
@@ -132,12 +90,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
         <mark key="^" line="70" column="43" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-processing-models_2.11/1.0.0/acdc-processing-models_2.11-1.0.0-sources.jar!/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559121316179">
-        <mark key="'" line="26" column="35" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" timestamp="1558538984563">
-        <mark key="'" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/src/main/resources/loggers.fragment.xml" timestamp="1559577392197">
         <mark key="[" line="4" column="16" />
@@ -177,9 +129,6 @@
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/appenders.fragment.xml" timestamp="1559562645190">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" timestamp="1558705998565">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -209,6 +158,7 @@
         <mark key="]" line="4" column="76" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1559585476551" />
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/it/resources/loggers.fragment.xml" timestamp="1559577549849">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="67" />
@@ -219,9 +169,6 @@
         <mark key="]" line="59" column="66" />
         <mark key="." line="59" column="66" />
         <mark key="^" line="59" column="66" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/rawsignal/RawSignalNormalizerSpec.scala" timestamp="1558953158158">
-        <mark key="'" line="73" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1558706713641">
         <mark key="'" line="7" column="0" />
@@ -237,9 +184,6 @@
         <mark key="." line="69" column="35" />
         <mark key="^" line="69" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/PersistStoWarningMessagesApp.scala" timestamp="1558683173147">
-        <mark key="'" line="74" column="1" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/resources/loggers.fragment.xml" timestamp="1559577543613">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="66" />
@@ -251,20 +195,11 @@
         <mark key="." line="27" column="97" />
         <mark key="^" line="27" column="97" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" timestamp="1558608352218">
-        <mark key="'" line="52" column="6" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1559321471091">
         <mark key="[" line="11" column="64" />
         <mark key="]" line="11" column="64" />
         <mark key="^" line="35" column="1" />
         <mark key="." line="11" column="64" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/BoundStatement.class" timestamp="1558624874052">
-        <mark key="'" line="260" column="19" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/appenders.fragment.xml" timestamp="1559565929302">
-        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelWithSession.scala" timestamp="1559313346848">
         <mark key="'" line="0" column="0" />
@@ -273,39 +208,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/ResultSet.class" timestamp="1558625445961">
-        <mark key="'" line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/BoundStatement.java" timestamp="1558612928301">
-        <mark key="'" line="528" column="27" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558543924890">
-        <mark key="'" line="143" column="24" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/%3Cyour-acdc-nexus-user%3E%40nexus-acdc.tools.msi.audi.com/repository/maven-public/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9.jar!/com/datastax/driver/core/Session.class" timestamp="1558625177961">
-        <mark key="'" line="35" column="4" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.19/acdc-core-cassandra_2.11-8.0.19-sources.jar!/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" timestamp="1559322167714">
-        <mark key="'" line="41" column="86" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/repository/ProcessingModel.scala" timestamp="1558624485373">
-        <mark key="'" line="26" column="35" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-processing-models_2.11/1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT/acdc-processing-models_2.11-1.0.0-ACDC-8381-move-common-pm-code-SNAPSHOT-sources.jar!/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" timestamp="1558947936427">
-        <mark key="'" line="43" column="21" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/local/de.audi/acdc-processing-models_2.11/1.0.1-ACDC-8382-integrate-sto-logic-SNAPSHOT/srcs/acdc-processing-models_2.11-sources.jar!/de/audi/acdc/processing/models/CampaignToProcessingModelRepository.scala" timestamp="1559561706206">
-        <mark key="'" line="43" column="41" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/Mockito.java" timestamp="1558541927919">
-        <mark key="'" line="279" column="39" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.23.0/mockito-core-2.23.0-sources.jar!/org/mockito/ArgumentMatchers.java" timestamp="1558612377381">
-        <mark key="'" line="114" column="13" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/test/scala/de/audi/acdc/transformer/kafka_streams/commons/JavaUuidUtilsSpec.scala" timestamp="1558537726910">
-        <mark key="'" line="64" column="35" />
-      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1559585296688" />
     </filemarks>
     <jumps>
       <jump line="99" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
@@ -411,7 +314,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiZG9ja2VyIHB1bGwgJ2RhdGFzdGF4L2RzZS1zZXJ2ZXI6NS4xLjEwJyIK</text>
+        <text encoding="base64">ICAgICAgdmFsIHV1aWQgPSBzdWJzY3JpYmVBcHBXaXRoU2Vzc2lvbigK</text>
       </register>
       <register name="-" type="4">
         <text>9</text>
@@ -419,18 +322,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hlbWFSZWdpc3RyeVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>def acdcCassandraExclusions: ModuleID =
-        module excludeAll (ExclusionRule(&quot;com.datastax.dse&quot;),
-        ExclusionRule(
-          &quot;org.codehaus.jackson&quot;,
-          &quot;jackson-core-asl&quot;
-        ), ExclusionRule(
-          &quot;com.fasterxml.jackson.core&quot;,
-          &quot;jackson-annotations&quot;
-        ),
-        ExclusionRule(&quot;com.fasterxml.jackson.core&quot;, &quot;jackson-core&quot;),
-        ExclusionRule(&quot;com.fasterxml.jackson.core&quot;, &quot;jackson-databind&quot;))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHV1aWQgPSBzdWJzY3JpYmVBcHBXaXRoU2Vzc2lvbigK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaCAiZG9ja2VyIHB1bGwgJ2RhdGFzdGF4L2RzZS1zZXJ2ZXI6NS4xLjEwJyIK</text>
