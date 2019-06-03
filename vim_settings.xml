@@ -107,7 +107,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1559583673160">
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1559587158733">
         <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/resources/loggers.fragment.xml" timestamp="1559577194495">
