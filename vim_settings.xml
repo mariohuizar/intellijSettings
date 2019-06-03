@@ -155,8 +155,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1559579222097">
-        <mark key="'" line="355" column="29" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1559583673160">
+        <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/resources/loggers.fragment.xml" timestamp="1559577194495">
         <mark key="[" line="4" column="59" />
@@ -308,17 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="28" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="308" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="312" column="15" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="349" column="100" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="95" column="94" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="66" column="10" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="71" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="107" column="11" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="183" column="34" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="184" column="12" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="185" column="12" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="99" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="26" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/build.sbt" />
       <jump line="379" column="105" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
@@ -408,6 +397,17 @@
       <jump line="106" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="104" column="9" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="371" column="109" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="230" column="12" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="270" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="117" column="34" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="115" column="19" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="336" column="61" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="338" column="36" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="339" column="36" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="347" column="50" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="46" column="65" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="50" column="65" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="56" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -417,7 +417,7 @@
         <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>acdcCassa</text>
+        <text encoding="base64">XDxzY2hlbWFSZWdpc3RyeVw+</text>
       </register>
       <register name="0" type="4">
         <text>def acdcCassandraExclusions: ModuleID =
@@ -466,15 +466,14 @@ version.l</text>
       </register>
     </registers>
     <search>
-      <last-search>acdcCassa</last-search>
+      <last-search encoding="base64">XDxzY2hlbWFSZWdpc3RyeVw+</last-search>
       <last-offset />
-      <last-pattern>acdcCassa</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hlbWFSZWdpc3RyeVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry encoding="base64">XDxqdWxzbGY0amJyaWRnZVw+</entry>
         <entry encoding="base64">XDxqYWNrc29uQ29yZVw+</entry>
         <entry encoding="base64">XDxqYWNrc29uRGF0YUJpbmRcPg==</entry>
@@ -494,6 +493,7 @@ version.l</text>
         <entry>domainEx</entry>
         <entry encoding="base64">XDxhY2RjQ2Fzc2FuZHJhRXhjbHVzaW9uc1w+</entry>
         <entry>acdcCassa</entry>
+        <entry encoding="base64">XDxzY2hlbWFSZWdpc3RyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -525,6 +525,9 @@ version.l</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
