@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/Updater.scala" timestamp="1558962548989">
         <mark key="'" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/loggers.fragment.xml" timestamp="1559144141488">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/loggers.fragment.xml" timestamp="1559563313970">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/scala/de/audi/acdc/processing/models/DockerCassandraTest.scala" timestamp="1559142318146">
         <mark key="'" line="44" column="32" />
@@ -126,12 +126,21 @@
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/appenders.fragment.xml" timestamp="1559562645190">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" timestamp="1558705998565">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/log4j2.xml" timestamp="1559563306530">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarder.scala" timestamp="1559542335918">
         <mark key="[" line="86" column="44" />
@@ -243,10 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="30" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="89" column="64" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="90" column="68" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="92" column="52" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="214" column="28" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="98" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="85" column="35" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
@@ -343,13 +348,17 @@
       <jump line="116" column="45" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
       <jump line="108" column="23" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
       <jump line="114" column="36" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/appenders.fragment.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/appenders.fragment.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/log4j2.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/log4j2.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>acdcDigest</text>
+        <text>warn</text>
       </register>
       <register name="-" type="4">
-        <text>acdcDigest</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb21haW5FeGNsdXNpb25zXD4=</text>
@@ -357,31 +366,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKys9IGxpYnJhcnkuYWNkY0RpZ2VzdAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="4">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPENvbmZpZ3VyYXRpb24gc3RhdHVzPSJXQVJOIiB4bWxuczp4aT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YSW5jbHVkZSI+CiAgPHhpOmluY2x1ZGUgaHJlZj0iYXBwZW5kZXJzLmZyYWdtZW50LnhtbCIgLz4KICA8eGk6aW5jbHVkZSBocmVmPSJsb2dnZXJzLmZyYWdtZW50LnhtbCIgLz4KPC9Db25maWd1cmF0aW9uPg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YWNkY0RpZ2VzdAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPENvbmZpZ3VyYXRpb24gc3RhdHVzPSJXQVJOIiB4bWxuczp4aT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YSW5jbHVkZSI+CiAgPHhpOmluY2x1ZGUgaHJlZj0iYXBwZW5kZXJzLmZyYWdtZW50LnhtbCIgLz4KICA8eGk6aW5jbHVkZSBocmVmPSJsb2dnZXJzLmZyYWdtZW50LnhtbCIgLz4KPC9Db25maWd1cmF0aW9uPg==</text>
+      </register>
+      <register name="4" type="8">
         <text>version.l
 version.l
 version.l</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhbCBTbGY0aiAgICAgICAgICAgICAgICA9ICIxLjcuMjEiCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB2YWwgc2xmNGogICAgICAgICAgID0gIm9yZy5zbGY0aiIgICAgICAgICAgICAgICAgICAgICUgInNsZjRqLWFwaSIgICAgICAgICAgICAgJSBTbGY0agogIHZhbCBsb2c0ajFicmlkZ2UgICAgPSAib3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqIiAgICAgJSAibG9nNGotMS4yLWFwaSIgICAgICAgICAlIExvZzRqMgogIHZhbCBzbGY0bG9nNGoyICAgICAgPSAib3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqIiAgICAgJSAibG9nNGotc2xmNGotaW1wbCIgICAgICAlIExvZzRqMgogIHZhbCBsb2c0ajJhcGkgICAgICAgPSAib3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqIiAgICAgJSAibG9nNGotYXBpIiAgICAgICAgICAgICAlIExvZzRqMgogIHZhbCBsb2c0ajJjb3JlICAgICAgPSAib3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqIiAgICAgJSAibG9nNGotY29yZSIgICAgICAgICAgICAlIExvZzRqMgogIHZhbCBqY2xzbGY0amJyaWRnZSAgPSAib3JnLnNsZjRqIiAgICAgICAgICAgICAgICAgICAgJSAiamNsLW92ZXItc2xmNGoiICAgICAgICAlIFNsZjRqCiAgdmFsIGp1bHNsZjRqYnJpZGdlICA9ICJvcmcuc2xmNGoiICAgICAgICAgICAgICAgICAgICAlICJqdWwtdG8tc2xmNGoiICAgICAgICAgICUgU2xmNGoK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgTG9nTWFuYWdlci5nZXRMb2dnZXIoInNjYWxhY2FjaGUuZ3VhdmEuR3VhdmFDYWNoZSIpLnNldExldmVsKExldmVsLkRFQlVHKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGoueyBMZXZlbCwgTG9nTWFuYWdlciB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5jb21tb25zTG9nZ2luZywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5jb21tb25zTG9nZ2luZywK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGlicmFyeS5jb21tb25zTG9nZ2luZywK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGoueyBMZXZlbCwgTG9nTWFuYWdlciB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgbGlicmFyeS5jb21tb25zTG9nZ2luZywK</text>
