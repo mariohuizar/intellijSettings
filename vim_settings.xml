@@ -116,6 +116,7 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/build.sbt" timestamp="1558538984563">
         <mark key="'" line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1559560938738" />
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/test/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderTest.scala" timestamp="1559542354555">
         <mark key="'" line="41" column="44" />
         <mark key="[" line="53" column="22" />
