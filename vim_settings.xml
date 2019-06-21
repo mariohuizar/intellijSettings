@@ -8,6 +8,12 @@
         <mark key="]" line="4" column="75" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/.flooignore" timestamp="1561132675680">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/loggers.fragment.xml" timestamp="1559577814974">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="38" />
@@ -138,6 +144,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="72" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/main/scala/binaryTree.scala" timestamp="1561132763634">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
         <mark key="'" line="44" column="20" />
         <mark key="[" line="91" column="87" />
@@ -151,12 +162,12 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1561124537372">
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1561132480276">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/logic/build.sbt" timestamp="1561124807647">
         <mark key="[" line="3" column="61" />
@@ -347,7 +358,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMy4wLjUiCmxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gIm9yZy5zY2FsYXRlc3QiICUlICJzY2FsYXRlc3QiICUgIjMuMC41IiAlICJ0ZXN0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>logic</text>
@@ -359,33 +370,31 @@
         <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMy4wLjUiCmxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gIm9yZy5zY2FsYXRlc3QiICUlICJzY2FsYXRlc3QiICUgIjMuMC41IiAlICJ0ZXN0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBteU5vZGUgPSBOb2RlKCJBIiwgRW5kLCBFbmQpCgogICAgdmFsIG15VHJlZSA9IE5vZGUoJ2EnLAogICAgICBOb2RlKCdiJywgTm9kZSgnZCcpLCBOb2RlKCdlJykpLAogICAgICBOb2RlKCdjJywgRW5kLCBOb2RlKCdmJywgTm9kZSgnZycpLCBFbmQpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAvLyBjb21tb24K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgpjbGFzcyBCaW5hcnlUcmVlU3BlYyBleHRlbmRzIEZsYXRTcGVjIHdpdGggTWF0Y2hlcnMgewoKICAiQSBTdGFjayIgc2hvdWxkICJwb3AgdmFsdWVzIGluIGxhc3QtaW4tZmlyc3Qtb3V0IG9yZGVyIiBpbiB7CiAgICB2YWwgbXlOb2RlID0gTm9kZSgiQSIsIEVuZCwgRW5kKQoKICAgIHZhbCBteVRyZWUgPSBOb2RlKCdhJywKICAgICAgTm9kZSgnYicsIE5vZGUoJ2QnKSwgTm9kZSgnZScpKSwKICAgICAgTm9kZSgnYycsIEVuZCwgTm9kZSgnZicsIE5vZGUoJ2cnKSwgRW5kKSkpCiAgfQoKfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyAvLyBpbnRlbGxpaiBlZGl0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGJpbmFyeXRyZWUue0VuZCwgTm9kZX0K</text>
+        <text encoding="base64">ICAvLyB0ZXN0IHRvIGVkaXQgc29tZXRoaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuXwo=</text>
+        <text encoding="base64">ICAvLyBNQVJJTwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBiaW5hcnlUcmVlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBteU5vZGUgPSBOb2RlKCJBIiwgRW5kLCBFbmQpCgogICAgdmFsIG15VHJlZSA9IE5vZGUoJ2EnLAogICAgICBOb2RlKCdiJywgTm9kZSgnZCcpLCBOb2RlKCdlJykpLAogICAgICBOb2RlKCdjJywgRW5kLCBOb2RlKCdmJywgTm9kZSgnZycpLCBFbmQpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICYgYgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
