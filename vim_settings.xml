@@ -8,12 +8,6 @@
         <mark key="]" line="4" column="75" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/scala/de/audi/acdc/transformer/kafka_streams/trajectories/TrajectoryTransformerApp.scala" timestamp="1559577492223">
-        <mark key="'" line="51" column="22" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="58" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/loggers.fragment.xml" timestamp="1559577814974">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="38" />
@@ -51,6 +45,19 @@
         <mark key="]" line="53" column="44" />
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/logic/src/main/scala/logic1.scala" timestamp="1561123884028">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/logic/src/main/scala/logic/logic1.scala" timestamp="1561124192941">
+        <mark key="'" line="3" column="49" />
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" timestamp="1558705998565">
         <mark key="'" line="0" column="0" />
@@ -127,6 +134,10 @@
         <mark key="." line="59" column="66" />
         <mark key="^" line="59" column="66" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/build.sbt" timestamp="1561124664094">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="72" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
         <mark key="'" line="44" column="20" />
         <mark key="[" line="91" column="87" />
@@ -140,12 +151,18 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1558706713641">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="16" />
+      <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1561124537372">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/logic/build.sbt" timestamp="1561124807647">
+        <mark key="[" line="3" column="61" />
+        <mark key="]" line="3" column="62" />
+        <mark key="." line="3" column="62" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/src/main/scala/de/audi/acdc/transformer/kafka_streams/enrichment_normalizer/KafkaStreamsCampaignMetadata.scala" timestamp="1559551571735">
         <mark key="'" line="90" column="45" />
@@ -190,6 +207,12 @@
         <mark key="." line="27" column="97" />
         <mark key="^" line="27" column="97" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/logic/src/test/scala/logic/logic1Spec.scala" timestamp="1561124634662">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/test/scala/de/audi/acdc/ProcessingModelSpec.scala" timestamp="1559321471091">
         <mark key="[" line="11" column="64" />
         <mark key="]" line="11" column="64" />
@@ -221,12 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="36" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="49" column="36" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="152" column="83" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="441" column="2" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="50" column="8" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
-      <jump line="62" column="52" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" />
       <jump line="284" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="155" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="283" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
@@ -321,48 +338,54 @@
       <jump line="43" column="10" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
       <jump line="58" column="68" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
       <jump line="54" column="26" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
+      <jump line="2" column="49" filename="$USER_HOME$/Developer/acdc/logic/src/main/scala/logic/logic1.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="2" column="6" filename="$USER_HOME$/Developer/acdc/logic/src/test/scala/logic/logic1Spec.scala" />
+      <jump line="13" column="14" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/Developer/acdc/logic/src/test/scala/logic/logic1Spec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cassandraTimeoutMillis</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMy4wLjUiCmxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gIm9yZy5zY2FsYXRlc3QiICUlICJzY2FsYXRlc3QiICUgIjMuMC41IiAlICJ0ZXN0Igo=</text>
       </register>
       <register name="-" type="4">
-        <text>cassandraTimeoutMillis</text>
+        <text>logic</text>
       </register>
       <register name="/" type="4">
         <text>pmRepo</text>
       </register>
-      <register name="0" type="4">
-        <text>cassandraTimeoutMillis</text>
+      <register name="0" type="2">
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMy4wLjUiCmxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gIm9yZy5zY2FsYXRlc3QiICUlICJzY2FsYXRlc3QiICUgIjMuMC41IiAlICJ0ZXN0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAiZG9ja2VyIHB1bGwgJ2RhdGFzdGF4L2RzZS1zZXJ2ZXI6NS4xLjEwJyIK</text>
+        <text encoding="base64">ICAgIHZhbCBteU5vZGUgPSBOb2RlKCJBIiwgRW5kLCBFbmQpCgogICAgdmFsIG15VHJlZSA9IE5vZGUoJ2EnLAogICAgICBOb2RlKCdiJywgTm9kZSgnZCcpLCBOb2RlKCdlJykpLAogICAgICBOb2RlKCdjJywgRW5kLCBOb2RlKCdmJywgTm9kZSgnZycpLCBFbmQpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8TG9nZ2VyIG5hbWU9ImRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5mb3J3YXJkZXIiIGxldmVsPSJERUJVRyIgYWRkaXRpdml0eT0iZmFsc2UiPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8Um9vdCBsZXZlbD0iZGVidWciIGluY2x1ZGVMb2NhdGlvbj0idHJ1ZSI+CiAgICA8QXBwZW5kZXJSZWYgcmVmPSJTdGRvdXQiLz4KICA8L1Jvb3Q+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgpjbGFzcyBCaW5hcnlUcmVlU3BlYyBleHRlbmRzIEZsYXRTcGVjIHdpdGggTWF0Y2hlcnMgewoKICAiQSBTdGFjayIgc2hvdWxkICJwb3AgdmFsdWVzIGluIGxhc3QtaW4tZmlyc3Qtb3V0IG9yZGVyIiBpbiB7CiAgICB2YWwgbXlOb2RlID0gTm9kZSgiQSIsIEVuZCwgRW5kKQoKICAgIHZhbCBteVRyZWUgPSBOb2RlKCdhJywKICAgICAgTm9kZSgnYicsIE5vZGUoJ2QnKSwgTm9kZSgnZScpKSwKICAgICAgTm9kZSgnYycsIEVuZCwgTm9kZSgnZicsIE5vZGUoJ2cnKSwgRW5kKSkpCiAgfQoKfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPENvbmZpZ3VyYXRpb24gc3RhdHVzPSJXQVJOIiB4bWxuczp4aT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YSW5jbHVkZSI+CiAgPHhpOmluY2x1ZGUgaHJlZj0iYXBwZW5kZXJzLmZyYWdtZW50LnhtbCIgLz4KICA8eGk6aW5jbHVkZSBocmVmPSJsb2dnZXJzLmZyYWdtZW50LnhtbCIgLz4KPC9Db25maWd1cmF0aW9uPg==</text>
+      <register name="5" type="4">
+        <text>{
+
+}</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGJpbmFyeXRyZWUue0VuZCwgTm9kZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWNkY0RpZ2VzdAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuXwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPENvbmZpZ3VyYXRpb24gc3RhdHVzPSJXQVJOIiB4bWxuczp4aT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YSW5jbHVkZSI+CiAgPHhpOmluY2x1ZGUgaHJlZj0iYXBwZW5kZXJzLmZyYWdtZW50LnhtbCIgLz4KICA8eGk6aW5jbHVkZSBocmVmPSJsb2dnZXJzLmZyYWdtZW50LnhtbCIgLz4KPC9Db25maWd1cmF0aW9uPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">cGFja2FnZSBiaW5hcnlUcmVlCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>version.l
-version.l
-version.l</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICYgYgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
