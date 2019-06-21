@@ -89,8 +89,12 @@
         <mark key="]" line="4" column="76" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1561116187982">
-        <mark key="'" line="62" column="8" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1561120422177">
+        <mark key="'" line="32" column="67" />
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="34" />
+        <mark key="." line="93" column="12" />
+        <mark key="^" line="32" column="65" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
@@ -153,6 +157,9 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561115616098">
         <mark key="'" line="24" column="27" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" timestamp="1561120312244">
+        <mark key="'" line="44" column="41" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/it/scala/de/audi/acdc/transformer/kafka_streams/trajectories/KafkaTrajectoryTransformerSpec.scala" timestamp="1559542360966">
         <mark key="[" line="56" column="24" />
         <mark key="]" line="56" column="24" />
@@ -210,10 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="61" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/src/main/scala/de/audi/acdc/transformer/kafka_streams/enrichment_normalizer/KafkaStreamsCampaignMetadata.scala" />
-      <jump line="85" column="45" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/src/main/scala/de/audi/acdc/transformer/kafka_streams/enrichment_normalizer/KafkaStreamsCampaignMetadata.scala" />
-      <jump line="268" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
-      <jump line="275" column="64" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="304" column="54" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="331" column="88" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="333" column="94" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
@@ -310,19 +313,23 @@
       <jump line="62" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
       <jump line="27" column="44" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="22" column="40" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
+      <jump line="44" column="41" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
+      <jump line="93" column="27" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
+      <jump line="91" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
+      <jump line="32" column="67" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHV1aWQgPSBzdWJzY3JpYmVBcHBXaXRoU2Vzc2lvbigK</text>
+      <register name="&quot;" type="4">
+        <text>cassandraTimeoutMillis milliseconds</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>cassandraTimeoutMillis milliseconds</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2JOYW1lXD4=</text>
+        <text encoding="base64">XDxjYXNzYW5kcmFUaW1lb3V0TWlsbGlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHV1aWQgPSBzdWJzY3JpYmVBcHBXaXRoU2Vzc2lvbigK</text>
+      <register name="0" type="4">
+        <text>cassandraTimeoutMillis</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaCAiZG9ja2VyIHB1bGwgJ2RhdGFzdGF4L2RzZS1zZXJ2ZXI6NS4xLjEwJyIK</text>
@@ -358,15 +365,14 @@ version.l</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2JOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxjYXNzYW5kcmFUaW1lb3V0TWlsbGlzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2JOYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYXNzYW5kcmFUaW1lb3V0TWlsbGlzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2c0ajJcPg==</entry>
         <entry encoding="base64">XDxMb2c0alw+</entry>
         <entry encoding="base64">XDxhY2RjRG9tYWluXD4=</entry>
         <entry encoding="base64">XDxhY2RjRG9tYWluQ2FtcGFpZ25NYW5hZ2VyXD4=</entry>
@@ -386,6 +392,7 @@ version.l</text>
         <entry encoding="base64">XDxjcmVhdGVQcm9jZXNzaW5nTW9kZWxcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVQcm9jZXNzaW5nTW9kZWxJbXBsXD4=</entry>
         <entry encoding="base64">XDxqb2JOYW1lXD4=</entry>
+        <entry encoding="base64">XDxjYXNzYW5kcmFUaW1lb3V0TWlsbGlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
