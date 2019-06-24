@@ -25,6 +25,9 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="9" column="53" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/2.0.0/acdc-odc-normalization-core_2.11-2.0.0.jar!/de/audi/acdc/odc/normalization/core/TelemetryNormalized.class" timestamp="1561389449220">
+        <mark key="'" line="2" column="228" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/loggers.fragment.xml" timestamp="1559563313970">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="19" />
@@ -108,12 +111,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.datastax.com/public-repos/com/datastax/dse/spark-connector/6.0.5/spark-connector-6.0.5.jar!/com/datastax/spark/connector/cql/CassandraConnectorConf.class" timestamp="1561364983938">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561377281362">
-        <mark key="'" line="510" column="31" />
-        <mark key="[" line="512" column="24" />
-        <mark key="]" line="512" column="24" />
-        <mark key="^" line="512" column="23" />
-        <mark key="." line="512" column="24" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561389783262">
+        <mark key="'" line="509" column="7" />
+        <mark key="[" line="512" column="21" />
+        <mark key="]" line="512" column="21" />
+        <mark key="^" line="517" column="26" />
+        <mark key="." line="512" column="21" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" timestamp="1559040880035">
         <mark key="'" line="143" column="54" />
@@ -275,10 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
-      <jump line="189" column="68" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="36" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="78" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="181" column="23" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="79" column="36" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="24" column="27" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
@@ -373,52 +372,55 @@
       <jump line="523" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="528" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="522" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="501" column="39" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="510" column="31" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="513" column="19" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="501" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="515" column="49" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="2" column="228" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/2.0.0/acdc-odc-normalization-core_2.11-2.0.0.jar!/de/audi/acdc/odc/normalization/core/TelemetryNormalized.class" />
+      <jump line="510" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="509" column="7" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>telList
-      .find(_.signalName.startsWith(KMStandSignalName))
-      .map(_.getDataNormalized.getPhysicalValue)</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXYXJuTWVzc2FnZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXlCZU1pbGVhZ2UgPSB0ZWxMaXN0CiAgICAgIC5maW5kKF8uc2lnbmFsTmFtZS5zdGFydHNXaXRoKEtNU3RhbmRTaWduYWxOYW1lKSkKICAgICAgLm1hcChfLmdldERhdGFOb3JtYWxpemVkLmdldFBoeXNpY2FsVmFsdWUpCg==</text>
+      <register name="0" type="4">
+        <text>telemetryNormalized</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>{
+      }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>telList
       .find(_.signalName.startsWith(KMStandSignalName))
       .map(_.getDataNormalized.getPhysicalValue)</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLm1hcChlID0+IGUuZGF0YU5vcm1hbGl6ZWQpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLm1hcChkID0+ICkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3bQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhzIldhcm5NZXNzYWdlOiAkd20iKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTm9uZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nLndhcm4oIldhcm5NZXNzYWdlIGRvZXMgbm90IGNvbnRhaW4gY29ycmVjdCBudW1iZXIgb2Ygd2FybmluZyBzaWduYWxzIikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhzIldhcm5NZXNzYWdlOiAkd20iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
