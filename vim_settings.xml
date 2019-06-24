@@ -111,12 +111,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.datastax.com/public-repos/com/datastax/dse/spark-connector/6.0.5/spark-connector-6.0.5.jar!/com/datastax/spark/connector/cql/CassandraConnectorConf.class" timestamp="1561364983938">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561391473437">
-        <mark key="'" line="515" column="27" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561392568137">
+        <mark key="'" line="144" column="38" />
+        <mark key="[" line="527" column="93" />
+        <mark key="]" line="527" column="123" />
+        <mark key="^" line="527" column="123" />
+        <mark key="." line="527" column="123" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" timestamp="1559040880035">
         <mark key="'" line="143" column="54" />
@@ -278,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="6" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="36" column="39" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="30" column="16" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
       <jump line="48" column="15" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" />
@@ -333,7 +332,6 @@
       <jump line="109" column="86" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/concurrent/duration/Duration.scala" />
       <jump line="38" column="54" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
       <jump line="47" column="33" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
-      <jump line="525" column="24" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="90" column="22" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="524" column="23" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="123" column="29" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -356,7 +354,6 @@
       <jump line="343" column="44" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="427" column="50" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="499" column="95" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="527" column="16" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="270" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="33" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="241" column="27" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -364,7 +361,6 @@
       <jump line="269" column="52" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="344" column="44" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="428" column="50" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="523" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="528" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="522" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="501" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -378,47 +374,50 @@
       <jump line="518" column="31" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="521" column="27" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="515" column="27" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="523" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="525" column="11" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="527" column="123" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="144" column="38" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Tm9NaWxlYWdlU2lnbmFsCg==</text>
+      <register name="&quot;" type="4">
+        <text>WarnMessage does not contain c</text>
       </register>
       <register name="-" type="4">
-        <text>IncompleteWarningSignals</text>
+        <text>WarnMessage does not contain c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXYXJuTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>NoMileageSignal</text>
+        <text>mileage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Tm9NaWxlYWdlU2lnbmFsCg==</text>
+        <text encoding="base64">ICAvLyBBIHdhcm5pbmcgbWVzc2FnZSBpcyBidWlsdCBmcm9tIHRoZSBrbSBkaXN0YW5jZSBhbmQgd2FybmluZyBzaWduYWwgc2lnbmFscwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB3YXJuU2lnbmFscyA9IHRlbExpc3QKICAgICAgLmZpbHRlcihfLnNpZ25hbE5hbWUuc3RhcnRzV2l0aChXYXJuaW5nU2lnbmFsTmFtZSkpCgogICAgaWYgKHdhcm5TaWduYWxzLnNpemUgPT09IG5vQWN0aXZlRHJpdmVNZXNzYWdlQmxvY2tzKSB7CiAgICAgIHZhbCB3YXJuSWRzID0gd2FyblNpZ25hbHMKICAgICAgICAuZmxhdE1hcCgKICAgICAgICAgIHIgPT4gZXh0cmFjdFdhcm5JZHNBc0hleFN0cmluZ3Moci5nZXRTaWduYWxEYXRhKQogICAgICAgICkKICAgICAgICAuZGlzdGluY3QKCiAgICAgIG1heUJlTWlsZWFnZS5tYXAobWlsZWFnZSA9PiB7IFdhcm5NZXNzYWdlKHB2aW4sIHdhcm5JZHMsIG1lc3NhZ2VUcywgbWlsZWFnZSwgYnJhbmQsIGNhbXBhaWduSWQpIH0pCiAgICB9IGVsc2UgewogICAgICBJbmNvbXBsZXRlV2FybmluZ1NpZ25hbHMoIldhcm5NZXNzYWdlIGRvZXMgbm90IGNvbnRhaW4gY29ycmVjdCBudW1iZXIgb2Ygd2FybmluZyBzaWduYWxzIikKICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pLmdldE9yRWxzZShOb01pbGVhZ2VTaWduYWwocyJNaWxlYWdlIHNpZ25hbCBub3QgZGVmaW5lZDogJEtNU3RhbmRTaWduYWxOYW1lIikpIGVsc2UgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXlCZU1pbGVhZ2VGOiBTZXFbRG91YmxlXSA9CiAgICAgIHRlbExpc3QKICAgICAgICAud2l0aEZpbHRlcih0ZWxlbWV0cnlOb3JtYWxpemVkID0+IHRlbGVtZXRyeU5vcm1hbGl6ZWQuc2lnbmFsTmFtZS5zdGFydHNXaXRoKEtNU3RhbmRTaWduYWxOYW1lKSkKICAgICAgICAuZmxhdE1hcCh0ZWxlbWV0cnlOb3JtYWxpemVkID0+CiAgICAgICAgICB0ZWxlbWV0cnlOb3JtYWxpemVkLmRhdGFOb3JtYWxpemVkCiAgICAgICAgICAgIC5mbGF0TWFwKGRhdGFOb3JtYWxpemVkID0+CiAgICAgICAgICAgICAgZGF0YU5vcm1hbGl6ZWQudmFsdWUucGh5c2ljYWxWYWx1ZQogICAgICAgICAgICAgICAgLm1hcChwaHlzaWNhbFZhbHVlID0+IHBoeXNpY2FsVmFsdWUpCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
+        <text encoding="base64">Tm9NaWxlYWdlU2lnbmFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAubWFwKF8uZ2V0RGF0YU5vcm1hbGl6ZWQuZ2V0UGh5c2ljYWxWYWx1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCB3YXJuU2lnbmFscyA9IHRlbExpc3QKICAgICAgLmZpbHRlcihfLnNpZ25hbE5hbWUuc3RhcnRzV2l0aChXYXJuaW5nU2lnbmFsTmFtZSkpCgogICAgaWYgKHdhcm5TaWduYWxzLnNpemUgPT09IG5vQWN0aXZlRHJpdmVNZXNzYWdlQmxvY2tzKSB7CiAgICAgIHZhbCB3YXJuSWRzID0gd2FyblNpZ25hbHMKICAgICAgICAuZmxhdE1hcCgKICAgICAgICAgIHIgPT4gZXh0cmFjdFdhcm5JZHNBc0hleFN0cmluZ3Moci5nZXRTaWduYWxEYXRhKQogICAgICAgICkKICAgICAgICAuZGlzdGluY3QKCiAgICAgIG1heUJlTWlsZWFnZS5tYXAobWlsZWFnZSA9PiB7IFdhcm5NZXNzYWdlKHB2aW4sIHdhcm5JZHMsIG1lc3NhZ2VUcywgbWlsZWFnZSwgYnJhbmQsIGNhbXBhaWduSWQpIH0pCiAgICB9IGVsc2UgewogICAgICBJbmNvbXBsZXRlV2FybmluZ1NpZ25hbHMoIldhcm5NZXNzYWdlIGRvZXMgbm90IGNvbnRhaW4gY29ycmVjdCBudW1iZXIgb2Ygd2FybmluZyBzaWduYWxzIikKICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBtYXlCZU1pbGVhZ2VGOiBTZXFbRG91YmxlXSA9CiAgICAgIHRlbExpc3QKICAgICAgICAud2l0aEZpbHRlcih0ZWxlbWV0cnlOb3JtYWxpemVkID0+IHRlbGVtZXRyeU5vcm1hbGl6ZWQuc2lnbmFsTmFtZS5zdGFydHNXaXRoKEtNU3RhbmRTaWduYWxOYW1lKSkKICAgICAgICAuZmxhdE1hcCh0ZWxlbWV0cnlOb3JtYWxpemVkID0+CiAgICAgICAgICB0ZWxlbWV0cnlOb3JtYWxpemVkLmRhdGFOb3JtYWxpemVkCiAgICAgICAgICAgIC5mbGF0TWFwKGRhdGFOb3JtYWxpemVkID0+CiAgICAgICAgICAgICAgZGF0YU5vcm1hbGl6ZWQudmFsdWUucGh5c2ljYWxWYWx1ZQogICAgICAgICAgICAgICAgLm1hcChwaHlzaWNhbFZhbHVlID0+IHBoeXNpY2FsVmFsdWUpCiAgICAgICAgICAgICkKICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
