@@ -200,6 +200,9 @@
         <mark key="]" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/ZPM_MAINLIST_V28_GS_V6.csv" timestamp="1561363476863">
+        <mark key="'" line="22" column="45" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/main/resources/loggers.fragment.xml" timestamp="1559577543613">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="66" />
@@ -249,7 +252,6 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1561115898891">
         <mark key="'" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561135653754" />
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" timestamp="1559040880035">
         <mark key="'" line="143" column="54" />
         <mark key="[" line="67" column="0" />
@@ -259,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="156" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="285" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="154" column="86" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
@@ -359,6 +360,7 @@
       <jump line="18" column="0" filename="$USER_HOME$/Developer/acdc/logic/src/test/scala/logic/logic1Spec.scala" />
       <jump line="114" column="33" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/test/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppSpec.scala" />
       <jump line="104" column="75" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/test/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppSpec.scala" />
+      <jump line="22" column="45" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/ZPM_MAINLIST_V28_GS_V6.csv" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
