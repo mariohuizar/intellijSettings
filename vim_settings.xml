@@ -124,12 +124,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.datastax.com/public-repos/com/datastax/dse/spark-connector/6.0.5/spark-connector-6.0.5.jar!/com/datastax/spark/connector/cql/CassandraConnectorConf.class" timestamp="1561364983938">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561467414556">
-        <mark key="'" line="36" column="29" />
-        <mark key="[" line="517" column="21" />
-        <mark key="]" line="517" column="20" />
-        <mark key="." line="517" column="20" />
-        <mark key="^" line="517" column="20" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561470497161">
+        <mark key="'" line="551" column="10" />
+        <mark key="[" line="522" column="35" />
+        <mark key="]" line="524" column="7" />
+        <mark key="." line="524" column="7" />
+        <mark key="^" line="524" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" timestamp="1559040880035">
         <mark key="'" line="143" column="54" />
@@ -302,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="465" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.4.0/spark-streaming_2.11-2.4.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
       <jump line="653" column="11" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.4.0/spark-streaming_2.11-2.4.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
       <jump line="134" column="5" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.4.0/spark-streaming_2.11-2.4.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
       <jump line="572" column="79" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.4.0/spark-streaming_2.11-2.4.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" />
@@ -383,9 +382,6 @@
       <jump line="147" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="149" column="16" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="148" column="52" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="515" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="519" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="517" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="43" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="54" column="35" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="56" column="47" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -399,61 +395,62 @@
       <jump line="361" column="46" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="364" column="77" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="187" column="101" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="518" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="532" column="20" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="36" column="29" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="515" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="517" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="518" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="519" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="551" column="10" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flow</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>flow</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdmluXD4=</text>
+        <text encoding="base64">XDxmbG93XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>messageNormalized</text>
+        <text>checkForWarningMessages</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdhcm5NZXNzYWdlIDwtIFNvbWUodGVsZW1ldHJ5TGlzdFRvV2Fybk1lc3NhZ2UobWVzc2FnZSkpLnRvTGlzdAo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYXliZU1pbGVhZ2U6IE9wdGlvbltEb3VibGVdID0gdGVsTGlzdAogICAgICAuZmluZChfLnNpZ25hbE5hbWUuc3RhcnRzV2l0aChLTVN0YW5kU2lnbmFsTmFtZSkpCiAgICAgIC5mbGF0TWFwKF8uZGF0YU5vcm1hbGl6ZWQpCiAgICAgIC5mbGF0TWFwKF8udmFsdWUucGh5c2ljYWxWYWx1ZSkKCiAgICBkZWYgY2hlY2tDb3JyZWN0TnVtYmVyT2ZTaWduYWxzKG1pbGVhZ2U6IERvdWJsZSk6IFdhcm5pbmdNZXNzYWdlRm9yQ29uc29sZUxvZyA9IHsKICAgICAgdmFsIHdhcm5TaWduYWxzID0gdGVsTGlzdC5maWx0ZXIoXy5zaWduYWxOYW1lLnN0YXJ0c1dpdGgoV2FybmluZ1NpZ25hbE5hbWUpKQoKICAgICAgaWYgKHdhcm5TaWduYWxzLnNpemUgPT09IG5vQWN0aXZlRHJpdmVNZXNzYWdlQmxvY2tzKSB7CiAgICAgICAgdmFsIHdhcm5JZHMgPSB3YXJuU2lnbmFscy5mbGF0TWFwKHIgPT4gZXh0cmFjdFdhcm5JZHNBc0hleFN0cmluZ3Moci5nZXRTaWduYWxEYXRhKSkuZGlzdGluY3QKCiAgICAgICAgV2Fybk1lc3NhZ2UocHZpbiwgd2FybklkcywgbWVzc2FnZVRzLCBtaWxlYWdlLCBicmFuZCwgY2FtcGFpZ25JZCkKICAgICAgfSBlbHNlIHsKICAgICAgICBJbmNvbXBsZXRlV2FybmluZ1NpZ25hbHMoCiAgICAgICAgICBzIkluY29ycmVjdCBudW1iZXIgb2Ygd2FybmluZyBzaWduYWxzOiAke3dhcm5TaWduYWxzLnNpemV9ICE9ICRub0FjdGl2ZURyaXZlTWVzc2FnZUJsb2NrcyIsCiAgICAgICAgICBjYW1wYWlnbklkCiAgICAgICAgKQogICAgICB9CiAgICB9CgogICAgbWF5YmVNaWxlYWdlCiAgICAgIC5tYXAoY2hlY2tDb3JyZWN0TnVtYmVyT2ZTaWduYWxzKQogICAgICAuZ2V0T3JFbHNlKAogICAgICAgIE5vTWlsZWFnZVNpZ25hbCgKICAgICAgICAgIHMiTWlsZWFnZSBzaWduYWwgbm90IGRlZmluZWQ6ICRLTVN0YW5kU2lnbmFsTmFtZSIsCiAgICAgICAgICBjYW1wYWlnbklkCiAgICAgICAgKQogICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nLndhcm4oZS5tZXNzYWdlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZSBtYXRjaCB7CiAgICAgICAgY2FzZSBfID0+IExpc3QoZSkKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZSBtYXRjaCB7CiAgICAgICAgY2FzZSBfID0+IE9wdGlvbi5lbXB0eVtXYXJuaW5nTWVzc2FnZUZvckNvbnNvbGVMb2ddLnRvTGlzdAogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmbG93ICAgICAgID0gbWVzc2FnZU5vcm1hbGl6ZWQuZ2V0Rmxvdwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIHc6IFdhcm5NZXNzYWdlID0+CiAgICAgICAgICB2YWwgbGFzdFN0YXRlID0gZ2V0QWN0aXZlTm90aWZpY2F0aW9ucyhjYXNzYW5kcmFDb25uZWN0b3IsIHcucHZpbikKCiAgICAgICAgICB2YWwgbGFzdFdhcm5NZXNzYWdlcyA9IGxhc3RTdGF0ZQogICAgICAgICAgICAubWFwVmFsdWVzKHggPT4gZ2V0TGFzdFdhcm5NZXNzYWdlKGNhc3NhbmRyYUNvbm5lY3Rvciwgdy5wdmluLCB4Lndhcm5JZCkpCiAgICAgICAgICAgIC5jb2xsZWN0IHsKICAgICAgICAgICAgICBjYXNlIChrZXksIFNvbWUodmFsdWUpKSA9PiBrZXkgLT4gdmFsdWUKICAgICAgICAgICAgfQoKICAgICAgICAgIHVwZGF0ZVN0YXRlKAogICAgICAgICAgICB3LAogICAgICAgICAgICBsYXN0U3RhdGUsCiAgICAgICAgICAgIGxhc3RXYXJuTWVzc2FnZXMsCiAgICAgICAgICAgIG5vdGlmaWNhdGlvbnNBbGxvd2VkCiAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjYW1wYWlnbklkID0gZmxvdy51dWlkQ2FtcGFpZ24udG9TdHJpbmdVdGY4Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        log.warn(e.message)
-        e
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nLndhcm4oZS5tZXNzYWdlKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtZXNzYWdlVHMgID0gZmxvdy50aW1lc3RhbXAKICAgIHZhbCBwdmluICAgICAgID0gZmxvdy51dWlkU2Vzc2lvbi50b1N0cmluZ1V0ZjgKICAgIHZhbCBjYW1wYWlnbklkID0gZmxvdy51dWlkQ2FtcGFpZ24udG9TdHJpbmdVdGY4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtZXNzYWdlVHMgID0gZmxvdy50aW1lc3RhbXAKICAgIHZhbCBwdmluICAgICAgID0gZmxvdy51dWlkU2Vzc2lvbi50b1N0cmluZ1V0ZjgKICAgIHZhbCBjYW1wYWlnbklkID0gZmxvdy51dWlkQ2FtcGFpZ24udG9TdHJpbmdVdGY4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdmluXD4=</last-search>
+      <last-search encoding="base64">XDxmbG93XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdmluXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmbG93XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -475,10 +472,10 @@
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxJbmNvbXBsZXRlV2FybmluZ1NpZ25hbHNcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbklkXD4=</entry>
-        <entry encoding="base64">XDxmbG93XD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlVHNcPg==</entry>
         <entry encoding="base64">XDxNZXNzYWdlTm9ybWFsaXplZFw+</entry>
         <entry encoding="base64">XDxwdmluXD4=</entry>
+        <entry encoding="base64">XDxmbG93XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
