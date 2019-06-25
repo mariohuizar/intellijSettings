@@ -114,12 +114,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.datastax.com/public-repos/com/datastax/dse/spark-connector/6.0.5/spark-connector-6.0.5.jar!/com/datastax/spark/connector/cql/CassandraConnectorConf.class" timestamp="1561364983938">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561395490681">
-        <mark key="'" line="168" column="8" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="256" column="23" />
-        <mark key="." line="157" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561450234836">
+        <mark key="'" line="535" column="15" />
+        <mark key="[" line="38" column="49" />
+        <mark key="]" line="38" column="49" />
+        <mark key="^" line="255" column="23" />
+        <mark key="." line="38" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/cl15/PowerElectronicsCl15App.scala" timestamp="1559040880035">
         <mark key="'" line="143" column="54" />
@@ -279,9 +279,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModel.scala" timestamp="1561115898891">
         <mark key="'" line="21" column="35" />
       </file>
+      <file name="/ProcessStoWarningMessagesApp.scala" timestamp="1561450217653">
+        <mark key="[" line="526" column="19" />
+        <mark key="]" line="526" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="68" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
       <jump line="54" column="26" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" />
       <jump line="2" column="49" filename="$USER_HOME$/Developer/acdc/logic/src/main/scala/logic/logic1.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
@@ -381,46 +384,47 @@
       <jump line="164" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="167" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="168" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="535" column="15" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkU291cmNlLmZsYXRNYXAgeyB3YXJuTWVzc2FnZXMgPT4KICAgICAgd2Fybk1lc3NhZ2VzCiAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>wm&quot;s&quot;$</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>wm&quot;s&quot;$</text>
       </register>
       <register name="/" type="4">
         <text>Each</text>
       </register>
       <register name="0" type="4">
-        <text>campaignId: String</text>
+        <text>s&quot;WarnMessage: $wm&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkU291cmNlLmZsYXRNYXAgeyB3YXJuTWVzc2FnZXMgPT4KICAgICAgd2Fybk1lc3NhZ2VzCiAgICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsucmRkLlJERAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkU291cmNlLmZsYXRNYXAgeyB3YXJuTWVzc2FnZXMgPT4KICAgICAgd2Fybk1lc3NhZ2VzCiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLndhcm4od2Fybk1lc3NhZ2VzLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgbG9nLndhcm4od2Fybk1lc3NhZ2VzLm1lc3NhZ2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLndhcm4od2Fybk1lc3NhZ2VzLm1lc3NhZ2UpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkU291cmNlLmZvcmVhY2hSRER7ZSA9PiBlLmZvcmVhY2h7ZS59fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkU291cmNlLmZvcmVhY2hSREQoZSA9PiBlLmZvcmVhY2gocHJpbnRsbikpKQo=</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkU291cmNlLmZvcmVhY2hSRER7ZSA9PiBlLmZvcmVhY2h7ZS59fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
