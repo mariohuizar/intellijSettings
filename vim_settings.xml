@@ -290,6 +290,11 @@
         <mark key="^" line="35" column="1" />
         <mark key="." line="11" column="64" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/project/plugins.sbt" timestamp="1561637774776">
+        <mark key="[" line="12" column="67" />
+        <mark key="]" line="12" column="68" />
+        <mark key="." line="12" column="68" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelWithSession.scala" timestamp="1559313346848">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
