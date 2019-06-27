@@ -250,12 +250,12 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561645002547">
-        <mark key="'" line="126" column="39" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="^" line="183" column="3" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561646240130">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="200" column="98" />
+        <mark key="]" line="200" column="119" />
+        <mark key="^" line="200" column="97" />
+        <mark key="." line="200" column="98" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" timestamp="1561365849660">
         <mark key="'" line="47" column="33" />
@@ -311,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="189" column="22" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="157" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="547" column="23" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -411,61 +410,67 @@
       <jump line="176" column="22" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="123" column="39" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="126" column="39" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="201" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>datastaxDseExclusions</text>
       </register>
       <register name="-" type="4">
-        <text>nettyExclusions</text>
+        <text>org.apache.spark</text>
       </register>
       <register name="/" type="4">
-        <text>datastax</text>
+        <text>process</text>
       </register>
       <register name="0" type="4">
-        <text>sparkExclusions</text>
+        <text>datastaxDseExclusions</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>excludeAll (
+    ExclusionRule(&quot;org.apache.spark&quot;),
+    ExclusionRule(&quot;com.fasterxml.jackson.core&quot;),
+    ExclusionRule(&quot;com.fasterxml.jackson.module&quot;),
+    ExclusionRule(&quot;com.amazonaws&quot;),
+    ExclusionRule(&quot;org.apache.hadoop&quot;),
+  ) nettyExclusions</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHt9IC8vIGlzIE5lZWRlZCBiZWNhdXNlIG9mIE9uRGVtYW5kIC0+IEF1dG9jbG9zYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggQXV0b0Nsb3NlYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50b1NlcQo=</text>
+        <text encoding="base64">ICAgIEV4Y2x1c2lvblJ1bGUoImNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGUiKSwKICAgIEV4Y2x1c2lvblJ1bGUoImNvbS5hbWF6b25hd3MiKSwKICAgIEV4Y2x1c2lvblJ1bGUoIm9yZy5hcGFjaGUuaGFkb29wIiksCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBkYXRhc3RheERzZUV4Y2x1c2lvbnM6IE1vZHVsZUlEID0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgICAgICBtZXNzYWdlIDwtIGVudmVsb3BlLm1lc3NhZ2VzTm9ybWFsaXplZCBpZiByZWdpc3RlcmVkQ2FtcGFpZ25JZHNDb250YWlucygKICAgICAgICAgICAgY2Fzc2FuZHJhQ29ubmVjdG9yLAogICAgICAgICAgICBtZXNzYWdlLmZsb3cubWFwKF8udXVpZENhbXBhaWduLnRvU3RyaW5nVXRmOCkKICAgICAgICAgICkKICAgICAgICB9IHlpZWxkIAo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHt9IC8vIGlzIE5lZWRlZCBiZWNhdXNlIG9mIE9uRGVtYW5kIC0+IEF1dG9jbG9zYWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>datastax</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>datastax</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Telem</entry>
         <entry encoding="base64">XDxicmFuZFw+</entry>
         <entry encoding="base64">XDxjYW1wYWlnbklkXD4=</entry>
         <entry encoding="base64">XDxXYXJuTWVzc2FnZVw+</entry>
@@ -485,6 +490,7 @@
         <entry>nettyEx</entry>
         <entry encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</entry>
         <entry>datastax</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
