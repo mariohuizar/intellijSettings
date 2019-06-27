@@ -214,11 +214,11 @@
         <mark key="]" line="4" column="76" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1561121027668">
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/StoJobCommons.scala" timestamp="1561636173668">
         <mark key="'" line="93" column="12" />
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="93" column="12" />
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
         <mark key="^" line="32" column="65" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.trajectories/src/it/resources/loggers.fragment.xml" timestamp="1559577549849">
@@ -408,11 +408,11 @@
       <jump line="24" column="21" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>Nil</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>cassandraCl</text>
