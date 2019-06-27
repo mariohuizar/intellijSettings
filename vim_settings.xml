@@ -106,12 +106,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/AsamOdxFileIdentifierApp.scala" timestamp="1561116169722">
         <mark key="'" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" timestamp="1561560307364">
-        <mark key="'" line="84" column="11" />
-        <mark key="[" line="87" column="13" />
-        <mark key="]" line="87" column="16" />
-        <mark key="." line="87" column="16" />
-        <mark key="^" line="87" column="16" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" timestamp="1561634311888">
+        <mark key="'" line="24" column="21" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="86" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559585188896">
         <mark key="'" line="65" column="33" />
@@ -149,6 +149,9 @@
         <mark key="]" line="5" column="5" />
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" timestamp="1561633971815">
+        <mark key="'" line="27" column="62" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/loggers.fragment.xml" timestamp="1559577814974">
         <mark key="[" line="4" column="29" />
@@ -303,9 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="47" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="66" column="48" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="111" column="25" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="213" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="237" column="45" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="258" column="69" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -403,16 +403,19 @@
       <jump line="107" column="15" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
       <jump line="25" column="9" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
       <jump line="84" column="11" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
+      <jump line="23" column="36" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
+      <jump line="27" column="62" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" />
+      <jump line="24" column="21" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Nil</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Nil</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text>cassandraCl</text>
       </register>
       <register name="0" type="4">
         <text>if registeredCampaignIdsContains(
@@ -421,46 +424,45 @@
           )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50b1NlcQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHt9IC8vIGlzIE5lZWRlZCBiZWNhdXNlIG9mIE9uRGVtYW5kIC0+IEF1dG9jbG9zYWJsZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdpdGggQXV0b0Nsb3NlYWJsZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIC50b1NlcQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgICAgICBtZXNzYWdlIDwtIGVudmVsb3BlLm1lc3NhZ2VzTm9ybWFsaXplZCBpZiByZWdpc3RlcmVkQ2FtcGFpZ25JZHNDb250YWlucygKICAgICAgICAgICAgY2Fzc2FuZHJhQ29ubmVjdG9yLAogICAgICAgICAgICBtZXNzYWdlLmZsb3cubWFwKF8udXVpZENhbXBhaWduLnRvU3RyaW5nVXRmOCkKICAgICAgICAgICkKICAgICAgICB9IHlpZWxkIAo=</text>
+        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UgPC0gZW52ZWxvcGUubWVzc2FnZXNOb3JtYWxpemVkIGlmIHJlZ2lzdGVyZWRDYW1wYWlnbklkc0NvbnRhaW5zKAo=</text>
+        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVudmVsb3BlIDwtIHJlY29yZC52YWx1ZSgpLnRvTGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yIHsKICAgICAgICAgIGVudmVsb3BlIDwtIHJlY29yZC52YWx1ZSgpLnRvTGlzdAogICAgICAgICAgbWVzc2FnZSA8LSBlbnZlbG9wZS5tZXNzYWdlc05vcm1hbGl6ZWQgaWYgcmVnaXN0ZXJlZENhbXBhaWduSWRzQ29udGFpbnMoCiAgICAgICAgICAgIGNhc3NhbmRyYUNvbm5lY3RvciwKICAgICAgICAgICAgbWVzc2FnZS5mbG93Lm1hcChfLnV1aWRDYW1wYWlnbi50b1N0cmluZ1V0ZjgpCiAgICAgICAgICApCiAgICAgICAgfSB5aWVsZCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZvciB7CiAgICAgICAgICBtZXNzYWdlIDwtIGVudmVsb3BlLm1lc3NhZ2VzTm9ybWFsaXplZCBpZiByZWdpc3RlcmVkQ2FtcGFpZ25JZHNDb250YWlucygKICAgICAgICAgICAgY2Fzc2FuZHJhQ29ubmVjdG9yLAogICAgICAgICAgICBtZXNzYWdlLmZsb3cubWFwKF8udXVpZENhbXBhaWduLnRvU3RyaW5nVXRmOCkKICAgICAgICAgICkKICAgICAgICB9IHlpZWxkIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9yIHsKICAgICAgICAgIGVudmVsb3BlIDwtIHJlY29yZC52YWx1ZSgpLnRvTGlzdAogICAgICAgICAgbWVzc2FnZSA8LSBlbnZlbG9wZS5tZXNzYWdlc05vcm1hbGl6ZWQgaWYgcmVnaXN0ZXJlZENhbXBhaWduSWRzQ29udGFpbnMoCiAgICAgICAgICAgIGNhc3NhbmRyYUNvbm5lY3RvciwKICAgICAgICAgICAgbWVzc2FnZS5mbG93Lm1hcChfLnV1aWRDYW1wYWlnbi50b1N0cmluZ1V0ZjgpCiAgICAgICAgICApCiAgICAgICAgfSB5aWVsZCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UgPC0gZW52ZWxvcGUubWVzc2FnZXNOb3JtYWxpemVkIGlmIHJlZ2lzdGVyZWRDYW1wYWlnbklkc0NvbnRhaW5zKAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>close</last-search>
+      <last-search>cassandraCl</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern>cassandraCl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdmluXD4=</entry>
         <entry encoding="base64">XDxmbG93XD4=</entry>
         <entry>updateNotif</entry>
         <entry encoding="base64">XDxOb01pbGVhZ2VTaWduYWxcPg==</entry>
@@ -480,6 +482,7 @@
         <entry>eq</entry>
         <entry>clsoe</entry>
         <entry>close</entry>
+        <entry>cassandraCl</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
