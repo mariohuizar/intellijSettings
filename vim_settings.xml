@@ -250,8 +250,8 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561644378373">
-        <mark key="'" line="151" column="8" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561645002547">
+        <mark key="'" line="126" column="39" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="^" line="183" column="3" />
@@ -311,13 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="551" column="10" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="532" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="162" column="31" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="251" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="41" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="42" column="17" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="192" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="190" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="189" column="22" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="157" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -411,6 +404,13 @@
       <jump line="198" column="98" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="252" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="151" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="180" column="34" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="396" column="50" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="103" column="44" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="110" column="44" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="176" column="22" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="123" column="39" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="126" column="39" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -420,7 +420,7 @@
         <text>nettyExclusions</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</text>
+        <text>datastax</text>
       </register>
       <register name="0" type="4">
         <text>sparkExclusions</text>
@@ -457,15 +457,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</last-search>
+      <last-search>datastax</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</last-pattern>
+      <last-pattern>datastax</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>parse Warn</entry>
         <entry>Telem</entry>
         <entry encoding="base64">XDxicmFuZFw+</entry>
         <entry encoding="base64">XDxjYW1wYWlnbklkXD4=</entry>
@@ -485,6 +484,7 @@
         <entry>netty</entry>
         <entry>nettyEx</entry>
         <entry encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</entry>
+        <entry>datastax</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
