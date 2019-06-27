@@ -250,12 +250,12 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561641782499">
-        <mark key="'" line="198" column="98" />
-        <mark key="[" line="169" column="89" />
-        <mark key="]" line="169" column="104" />
-        <mark key="^" line="169" column="88" />
-        <mark key="." line="169" column="89" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561644378373">
+        <mark key="'" line="151" column="8" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="183" column="3" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" timestamp="1561365849660">
         <mark key="'" line="47" column="33" />
@@ -311,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="21" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="551" column="10" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="532" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="162" column="31" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -408,65 +407,64 @@
       <jump line="135" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="130" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="129" column="38" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
-      <jump line="151" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="152" column="42" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="198" column="98" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="252" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="151" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sparkExclusions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>sparkConnectorExclusion</text>
+        <text>nettyExclusions</text>
       </register>
       <register name="/" type="4">
-        <text>netty</text>
+        <text encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>sparkExclusions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHt9IC8vIGlzIE5lZWRlZCBiZWNhdXNlIG9mIE9uRGVtYW5kIC0+IEF1dG9jbG9zYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpdGggQXV0b0Nsb3NlYWJsZQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHt9IC8vIGlzIE5lZWRlZCBiZWNhdXNlIG9mIE9uRGVtYW5kIC0+IEF1dG9jbG9zYWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50b1NlcQo=</text>
+        <text encoding="base64">ICAgIHdpdGggQXV0b0Nsb3NlYWJsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC50b1NlcQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLkVxdWFscyIpKSAvLyBXYXJ0cmVtb3ZlciBmYWxzZSBwb3NpdGl2ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgICAgICBtZXNzYWdlIDwtIGVudmVsb3BlLm1lc3NhZ2VzTm9ybWFsaXplZCBpZiByZWdpc3RlcmVkQ2FtcGFpZ25JZHNDb250YWlucygKICAgICAgICAgICAgY2Fzc2FuZHJhQ29ubmVjdG9yLAogICAgICAgICAgICBtZXNzYWdlLmZsb3cubWFwKF8udXVpZENhbXBhaWduLnRvU3RyaW5nVXRmOCkKICAgICAgICAgICkKICAgICAgICB9IHlpZWxkIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UgPC0gZW52ZWxvcGUubWVzc2FnZXNOb3JtYWxpemVkIGlmIHJlZ2lzdGVyZWRDYW1wYWlnbklkc0NvbnRhaW5zKAo=</text>
+        <text encoding="base64">ICAgIGZvciB7CiAgICAgICAgICBtZXNzYWdlIDwtIGVudmVsb3BlLm1lc3NhZ2VzTm9ybWFsaXplZCBpZiByZWdpc3RlcmVkQ2FtcGFpZ25JZHNDb250YWlucygKICAgICAgICAgICAgY2Fzc2FuZHJhQ29ubmVjdG9yLAogICAgICAgICAgICBtZXNzYWdlLmZsb3cubWFwKF8udXVpZENhbXBhaWduLnRvU3RyaW5nVXRmOCkKICAgICAgICAgICkKICAgICAgICB9IHlpZWxkIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>netty</last-search>
+      <last-search encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern>netty</last-pattern>
+      <last-pattern encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25TdGF0ZVw+</entry>
-        <entry>Right</entry>
         <entry>parse Warn</entry>
         <entry>Telem</entry>
         <entry encoding="base64">XDxicmFuZFw+</entry>
@@ -485,6 +483,8 @@
         <entry>conne</entry>
         <entry encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</entry>
         <entry>netty</entry>
+        <entry>nettyEx</entry>
+        <entry encoding="base64">XDxuZXR0eUV4Y2x1c2lvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
