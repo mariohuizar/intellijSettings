@@ -250,12 +250,12 @@
         <mark key="." line="3" column="62" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561465644385">
-        <mark key="'" line="86" column="37" />
-        <mark key="[" line="87" column="39" />
-        <mark key="]" line="87" column="74" />
-        <mark key="^" line="87" column="74" />
-        <mark key="." line="87" column="74" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561639887323">
+        <mark key="'" line="135" column="8" />
+        <mark key="[" line="169" column="89" />
+        <mark key="]" line="169" column="104" />
+        <mark key="^" line="169" column="88" />
+        <mark key="." line="169" column="89" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" timestamp="1561365849660">
         <mark key="'" line="47" column="33" />
@@ -311,11 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="237" column="45" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="258" column="69" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="261" column="67" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="321" column="20" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="361" column="46" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="364" column="77" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="187" column="101" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -411,22 +406,24 @@
       <jump line="23" column="36" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
       <jump line="27" column="62" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" />
       <jump line="24" column="21" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepositoryImpl.scala" />
+      <jump line="134" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="149" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="255" column="42" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="167" column="98" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="135" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>sparkExclusions</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>sparkConnectorExclusion</text>
       </register>
       <register name="/" type="4">
-        <text>cassandraCl</text>
+        <text encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>if registeredCampaignIdsContains(
-            cassandraConnector,
-            message.flow.map(_.uuidCampaign.toStringUtf8)
-          )</text>
+        <text>sparkExclusions</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -460,17 +457,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cassandraCl</last-search>
+      <last-search encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern>cassandraCl</last-pattern>
+      <last-pattern encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmbG93XD4=</entry>
-        <entry>updateNotif</entry>
-        <entry encoding="base64">XDxOb01pbGVhZ2VTaWduYWxcPg==</entry>
         <entry encoding="base64">XDxOb0NhbXBhaWduSWRcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25TdGF0ZVw+</entry>
         <entry>Right</entry>
@@ -488,6 +482,9 @@
         <entry>clsoe</entry>
         <entry>close</entry>
         <entry>cassandraCl</entry>
+        <entry encoding="base64">XDxzcGFya0Nvbm5lY3RvckV4Y2x1c2lvblw+</entry>
+        <entry>conne</entry>
+        <entry encoding="base64">XDxzcGFya0V4Y2x1c2lvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
