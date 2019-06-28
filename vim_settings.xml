@@ -296,6 +296,9 @@
         <mark key="^" line="35" column="1" />
         <mark key="." line="11" column="64" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.stack/provisioning/applications/install.yml" timestamp="1561710187982">
+        <mark key="'" line="15" column="10" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/project/plugins.sbt" timestamp="1561637774776">
         <mark key="[" line="12" column="67" />
         <mark key="]" line="12" column="68" />
@@ -312,10 +315,13 @@
         <mark key="[" line="526" column="19" />
         <mark key="]" line="526" column="37" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.stack/provisioning/templates/extra_vars-stack.j2" timestamp="1561710383942">
+        <mark key="[" line="90" column="22" />
+        <mark key="]" line="90" column="23" />
+        <mark key="." line="90" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="529" column="16" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="540" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="61" column="56" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/test/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppSpec.scala" />
       <jump line="180" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="201" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -414,6 +420,8 @@
       <jump line="32" column="58" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/CampaignToProcessingModelCachedRepository.scala" />
       <jump line="53" column="4" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/cb372/scalacache-guava_2.11/0.21.0/scalacache-guava_2.11-0.21.0-sources.jar!/scalacache/guava/GuavaCache.scala" />
       <jump line="30" column="58" filename="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/CampaignToProcessingModelCachedRepository.scala" />
+      <jump line="381" column="30" filename="$USER_HOME$/Developer/acdc/acdc.stack/provisioning/applications/install.yml" />
+      <jump line="15" column="10" filename="$USER_HOME$/Developer/acdc/acdc.stack/provisioning/applications/install.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -423,7 +431,7 @@
         <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>evicted</text>
+        <text encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</text>
       </register>
       <register name="0" type="4">
         <text>datastaxDseExclusions</text>
@@ -466,15 +474,14 @@
       </register>
     </registers>
     <search>
-      <last-search>evicted</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-search>
       <last-offset />
-      <last-pattern>evicted</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYW1wYWlnbklkXD4=</entry>
         <entry encoding="base64">XDxXYXJuTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDx0ZWxMaXN0XD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUZsb3dcPg==</entry>
@@ -494,6 +501,7 @@
         <entry>datastax</entry>
         <entry>process</entry>
         <entry>evicted</entry>
+        <entry encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
