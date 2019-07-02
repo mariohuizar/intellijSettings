@@ -57,6 +57,12 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/version.sbt" timestamp="1562076458850">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="53" column="34" />
@@ -73,7 +79,8 @@
         <mark key="^" line="0" column="82" />
         <mark key="." line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562067236500">
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562076073379">
+        <mark key="'" line="479" column="0" />
         <mark key="^" line="32" column="20" />
         <mark key="." line="32" column="20" />
       </file>
@@ -326,12 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="558" column="25" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="586" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="582" column="24" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="594" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="310" column="18" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="183" column="22" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="144" column="16" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="510" column="22" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="140" column="70" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -426,6 +427,12 @@
       <jump line="361" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="362" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="225" column="83" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="436" column="4" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="491" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="377" column="0" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="440" column="26" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="413" column="33" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="479" column="0" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -435,7 +442,7 @@
         <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>twitt</text>
+        <text encoding="base64">XDxuZXh1c1JlcG9zaXRvcnlQYXRoXD4=</text>
       </register>
       <register name="0" type="4">
         <text>acdcCassandraExclusions</text>
@@ -474,13 +481,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>twitt</last-search>
+      <last-search encoding="base64">XDxuZXh1c1JlcG9zaXRvcnlQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern>twitt</last-pattern>
+      <last-pattern encoding="base64">XDxuZXh1c1JlcG9zaXRvcnlQYXRoXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -488,8 +495,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZWxlbWV0cnlMaXN0VG9XYXJuTWVzc2FnZVw+</entry>
-        <entry>eq</entry>
         <entry>clsoe</entry>
         <entry>close</entry>
         <entry>cassandraCl</entry>
@@ -508,9 +513,12 @@
         <entry>spark</entry>
         <entry>twitter</entry>
         <entry>twitt</entry>
+        <entry encoding="base64">XDxpc1NuYXBzaG90XD4=</entry>
+        <entry encoding="base64">XDxuZXh1c1JlcG9zaXRvcnlQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
