@@ -438,7 +438,7 @@
         <text encoding="base64">ZXh0ZW5kcyA=</text>
       </register>
       <register name="/" type="4">
-        <text>spark</text>
+        <text>twitt</text>
       </register>
       <register name="0" type="4">
         <text>acdcCassandraExclusions</text>
@@ -481,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spark</last-search>
+      <last-search>twitt</last-search>
       <last-offset />
-      <last-pattern>spark</last-pattern>
+      <last-pattern>twitt</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -491,8 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checkCampa</entry>
-        <entry encoding="base64">XDxyZWdpc3RlcmVkQ2FtcGFpZ25JZHNDb250YWluc1w+</entry>
         <entry encoding="base64">XDx0ZWxlbWV0cnlMaXN0VG9XYXJuTWVzc2FnZVw+</entry>
         <entry>eq</entry>
         <entry>clsoe</entry>
@@ -511,6 +509,8 @@
         <entry>jackson</entry>
         <entry>metri</entry>
         <entry>spark</entry>
+        <entry>twitter</entry>
+        <entry>twitt</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
