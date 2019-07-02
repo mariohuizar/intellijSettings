@@ -73,8 +73,8 @@
         <mark key="^" line="0" column="82" />
         <mark key="." line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562063791989">
-        <mark key="'" line="97" column="36" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562067236500">
+        <mark key="'" line="225" column="83" />
         <mark key="[" line="159" column="8" />
         <mark key="]" line="159" column="30" />
         <mark key="^" line="32" column="20" />
@@ -329,9 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="101" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/2.0.0/acdc-odc-normalization-core_2.11-2.0.0.jar!/de/audi/acdc/odc/normalization/core/MessageNormalized.class" />
-      <jump line="565" column="26" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="563" column="8" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="558" column="25" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="586" column="12" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="582" column="24" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -429,6 +426,9 @@
       <jump line="37" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="71" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="97" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="361" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="362" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
+      <jump line="225" column="83" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
