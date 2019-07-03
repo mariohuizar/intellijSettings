@@ -85,8 +85,8 @@
         <mark key="." line="371" column="117" />
         <mark key="^" line="371" column="117" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1562145947121">
-        <mark key="'" line="50" column="44" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1562153411367">
+        <mark key="'" line="43" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
         <mark key="'" line="44" column="20" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="58" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/test/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppSpec.scala" />
       <jump line="104" column="58" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/test/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppSpec.scala" />
       <jump line="129" column="58" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/test/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesAppSpec.scala" />
       <jump line="160" column="40" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -425,6 +424,7 @@
       <jump line="50" column="13" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/resources/acdc_campaign_metadata.cql" />
       <jump line="38" column="11" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/resources/acdc_campaign_metadata.cql" />
       <jump line="41" column="22" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/resources/acdc_campaign_metadata.cql" />
+      <jump line="43" column="39" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
