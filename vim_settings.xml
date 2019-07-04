@@ -166,11 +166,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562227143181">
-        <mark key="'" line="100" column="37" />
-        <mark key="]" line="50" column="24" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562230558456">
+        <mark key="'" line="163" column="25" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
         <mark key="^" line="50" column="24" />
-        <mark key="." line="50" column="24" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" timestamp="1561633971815">
         <mark key="'" line="27" column="62" />
@@ -357,8 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="381" column="30" filename="$USER_HOME$/Developer/acdc/acdc.stack/provisioning/applications/install.yml" />
-      <jump line="15" column="10" filename="$USER_HOME$/Developer/acdc/acdc.stack/provisioning/applications/install.yml" />
       <jump line="32" column="20" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="164" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="176" column="24" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
@@ -457,10 +456,12 @@
       <jump line="114" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="92" column="45" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="100" column="37" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="96" column="58" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="163" column="25" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Aggregation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHZhbCBzaWduYWxzOiBNYXBbVVVJRCwgU2lnbmFsXSA9IGNhbXBhaWduTWV0YWRhdGEuY2FtcGFpZ24udG9MaXN0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Aggregation</text>
@@ -472,18 +473,21 @@
         <text encoding="base64">ICAgICAgYWdlbnROYW1lICAgICAgICAgICAgPSByb3cuZ2V0U3RyaW5nKEFnZW50TmFtZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWxEZWZpbml0aW9uVHlwZSA9IHNpZ25hbERlZmluaXRpb25UeXBlLAo=</text>
+        <text encoding="base64">ICAgIC8vIHZhbCBzaWduYWxzOiBNYXBbVVVJRCwgU2lnbmFsXSA9IGNhbXBhaWduTWV0YWRhdGEuY2FtcGFpZ24udG9MaXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNpZ25hbEZpbHRlcjogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWxEZWZpbml0aW9uVHlwZSA9IHNpZ25hbERlZmluaXRpb25UeXBlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpZ25hbEZpbHRlcjogU3RyaW5nLAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHt9IC8vIGl0IGhhcyB0byBiZSBiZWNhdXNlIG9mIE9uRGVtYW5kCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>excludeAll (
     ExclusionRule(&quot;org.apache.spark&quot;),
     ExclusionRule(&quot;com.fasterxml.jackson.core&quot;),
@@ -492,17 +496,14 @@
     ExclusionRule(&quot;org.apache.hadoop&quot;),
   ) nettyExclusions</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEV4Y2x1c2lvblJ1bGUoImNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGUiKSwKICAgIEV4Y2x1c2lvblJ1bGUoImNvbS5hbWF6b25hd3MiKSwKICAgIEV4Y2x1c2lvblJ1bGUoIm9yZy5hcGFjaGUuaGFkb29wIiksCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
