@@ -176,12 +176,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562245240988">
-        <mark key="'" line="155" column="37" />
-        <mark key="[" line="156" column="23" />
-        <mark key="]" line="163" column="17" />
-        <mark key="^" line="163" column="17" />
-        <mark key="." line="163" column="17" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562246518799">
+        <mark key="'" line="165" column="9" />
+        <mark key="[" line="161" column="32" />
+        <mark key="]" line="161" column="38" />
+        <mark key="^" line="161" column="38" />
+        <mark key="." line="161" column="38" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" timestamp="1561633971815">
         <mark key="'" line="27" column="62" />
@@ -368,11 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="50" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="227" column="51" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="228" column="51" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="229" column="51" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="230" column="51" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="234" column="43" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="235" column="30" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="264" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
@@ -465,16 +460,21 @@
       <jump line="158" column="53" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="153" column="25" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="148" column="25" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="156" column="21" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="152" column="44" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="155" column="37" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="156" column="29" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="157" column="37" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="151" column="37" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="160" column="41" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="161" column="32" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="165" column="9" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KG1ldGFTaWduYWxVdWlkLCA=</text>
+        <text encoding="base64">bWFwKChtOiBPcHRpb25bU2lnbmFsLk1ldGFTaWduYWxdKSA9PiBtKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KG1ldGFTaWduYWxVdWlkLCA=</text>
+        <text encoding="base64">bWFwKChtOiBPcHRpb25bU2lnbmFsLk1ldGFTaWduYWxdKSA9PiBtKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBTaWduYWxzQnlDYW1wYWlnblV1aWRcPg==</text>
@@ -482,37 +482,39 @@
       <register name="0" type="4">
         <text>metaSignalUuid inside Signal.Meta is not defined</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>.toTry(
-        s&quot;Missing campaign in CampaignMetadata version: ${campaignMetadata.schemaVersion}&quot;
-      )</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2lnbmFsIDwtIHJlcG9ydC5zaWduYWxzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0IDwtIGNhbXBhaWduLnJlcG9ydHMK</text>
-      </register>
-      <register name="5" type="4">
-        <text>.toTry(
-        s&quot;metaSignalUuid is not defined in metaSignal: $metaSignal&quot;
-      )</text>
-      </register>
-      <register name="6" type="4">
+      <register name="1" type="4">
         <text>.toTry(
         s&quot;metaSignal is not defined in signal: $signal&quot;
       )</text>
       </register>
-      <register name="7" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>.toTry(
         s&quot;Missing campaign in CampaignMetadata version: ${campaignMetadata.schemaVersion}&quot;
       )</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc2lnbmFsIDwtIHJlcG9ydC5zaWduYWxzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmVwb3J0IDwtIGNhbXBhaWduLnJlcG9ydHMK</text>
+      </register>
+      <register name="6" type="4">
+        <text>.toTry(
+        s&quot;metaSignalUuid is not defined in metaSignal: $metaSignal&quot;
+      )</text>
+      </register>
+      <register name="7" type="4">
+        <text>.toTry(
+        s&quot;metaSignal is not defined in signal: $signal&quot;
+      )</text>
+      </register>
+      <register name="8" type="4">
+        <text>.toTry(
+        s&quot;Missing campaign in CampaignMetadata version: ${campaignMetadata.schemaVersion}&quot;
+      )</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
