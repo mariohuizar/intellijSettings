@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/2.0.0/acdc-odc-normalization-core_2.11-2.0.0.jar!/de/audi/acdc/odc/normalization/core/TelemetryNormalized.class" timestamp="1561389449220">
         <mark key="'" line="2" column="228" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" timestamp="1562231974580">
-        <mark key="'" line="129" column="34" />
-        <mark key="[" line="122" column="41" />
-        <mark key="]" line="123" column="5" />
-        <mark key="." line="123" column="5" />
-        <mark key="^" line="123" column="5" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" timestamp="1562251794649">
+        <mark key="'" line="141" column="43" />
+        <mark key="[" line="138" column="75" />
+        <mark key="]" line="138" column="76" />
+        <mark key="." line="138" column="76" />
+        <mark key="^" line="138" column="76" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/it/resources/loggers.fragment.xml" timestamp="1559563313970">
         <mark key="[" line="2" column="15" />
@@ -87,6 +87,11 @@
         <mark key="." line="371" column="117" />
         <mark key="^" line="371" column="117" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.4/scalatest_2.11-3.0.4-sources.jar!/org/scalatest/words/MatcherWords.scala" timestamp="1562250882731">
+        <mark key="'" line="109" column="6" />
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="28" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1562165001500">
         <mark key="'" line="52" column="60" />
         <mark key="[" line="110" column="22" />
@@ -94,7 +99,7 @@
         <mark key="^" line="110" column="27" />
         <mark key="." line="110" column="27" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562239233718">
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
@@ -176,12 +181,16 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562247918189">
-        <mark key="'" line="154" column="24" />
-        <mark key="[" line="155" column="12" />
-        <mark key="]" line="155" column="34" />
-        <mark key="^" line="155" column="34" />
-        <mark key="." line="155" column="34" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/util/Try.scala" timestamp="1562248873216">
+        <mark key="[" line="197" column="40" />
+        <mark key="]" line="197" column="48" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562251699921">
+        <mark key="'" line="94" column="50" />
+        <mark key="[" line="159" column="103" />
+        <mark key="]" line="159" column="114" />
+        <mark key="^" line="159" column="114" />
+        <mark key="." line="159" column="114" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" timestamp="1561633971815">
         <mark key="'" line="27" column="62" />
@@ -368,24 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="267" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="268" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="269" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="301" column="41" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="356" column="29" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="37" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="71" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="97" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="361" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="362" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="225" column="83" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="436" column="4" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="491" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="377" column="0" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="440" column="26" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="413" column="33" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="479" column="0" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="25" column="61" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="57" column="12" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.30/acdc-core-cassandra_2.11-8.0.30-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="101" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.30/acdc-core-cassandra_2.11-8.0.30-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
@@ -429,7 +420,6 @@
       <jump line="56" column="17" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="78" column="7" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="87" column="53" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="90" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="101" column="52" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="105" column="24" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="108" column="35" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
@@ -443,13 +433,10 @@
       <jump line="114" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="100" column="37" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="129" column="62" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
-      <jump line="120" column="10" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
-      <jump line="123" column="34" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="96" column="55" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="147" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="92" column="6" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="97" column="23" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="2" column="138" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" />
       <jump line="149" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="98" column="46" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="163" column="24" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
@@ -463,70 +450,82 @@
       <jump line="165" column="9" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="164" column="16" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="161" column="24" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="167" column="53" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="152" column="46" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="159" column="43" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="153" column="41" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="154" column="24" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="179" column="10" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="173" column="15" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="167" column="15" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="137" column="37" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="143" column="34" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="185" column="9" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="130" column="34" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="132" column="40" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="120" column="24" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="123" column="44" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="126" column="23" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="127" column="30" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="125" column="42" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="124" column="34" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="90" column="35" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="121" column="15" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="109" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.4/scalatest_2.11-3.0.4-sources.jar!/org/scalatest/words/MatcherWords.scala" />
+      <jump line="159" column="105" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="145" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="140" column="47" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="2" column="138" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" />
+      <jump line="138" column="77" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="141" column="43" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="94" column="50" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>metaSignalUuid</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>metaSignalUuid</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBTaWduYWxzQnlDYW1wYWlnblV1aWRcPg==</text>
+        <text encoding="base64">XDxtYXBTaWduYWxzQnlNZXRhU2lnbmFsVXVpZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>metaSignalUuid</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGNtID0gQ2FtcGFpZ25NZXRhZGF0YSgpLndpdGhDYW1wYWlnbihDYW1wYWlnbih1dWlkID0gTm9uZSkpCgogICAgICB2YWwgY2Fzc2FuZHJhTW9kZWxTZXEgPQogICAgICAgIFNpZ25hbERlZmluaXRpb25DYXNzYW5kcmEuZnJvbUNhbXBhaWduTWV0YWRhdGEoY20pCgogICAgICBjYXNzYW5kcmFNb2RlbFNlcS5mYWlsdXJlLmV4Y2VwdGlvbi5nZXRNZXNzYWdlIHNob3VsZCBzdGFydFdpdGgoIk1pc3NpbmcgY2FtcGFpZ24gdXVpZCBpbiBDYW1wYWlnbk1ldGFkYXRhOiAiKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>metaSignal.metaSignalUuid.toTry(
-        s&quot;metaSignalUuid is not defined in metaSignal: $metaSignal&quot;
-      )</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.toTry(
-        s&quot;metaSignal is not defined in signal: $signal&quot;
-      )</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwueyBGYWlsdXJlLCBUcnkgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBmbGF0dGVuV2l0aFdhcm5pbmdGb3JOb25lKHJlcG9ydHM6IFNlcVtSZXBvcnRdKSA9CiAgICAgIHJlcG9ydHMuZmxhdE1hcChfLnNpZ25hbHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.toTry(
-        s&quot;metaSignal is not defined in signal: $signal&quot;
-      )</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGUgPSBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJNaXNzaW5nIGNhbXBhaWduIHV1aWQgaW4gQ2FtcGFpZ25NZXRhZGF0YSB2ZXJzaW9uOiAwIikK</text>
       </register>
-      <register name="6" type="4">
-        <text>.toTry(
-        s&quot;Missing campaign in CampaignMetadata version: ${campaignMetadata.schemaVersion}&quot;
-      )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGNtID0gQ2FtcGFpZ25NZXRhZGF0YSgwLCBTb21lKENhbXBhaWduKHV1aWQgPSBOb25lKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2lnbmFsIDwtIHJlcG9ydC5zaWduYWxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0IDwtIGNhbXBhaWduLnJlcG9ydHMK</text>
+        <text encoding="base64">ICAgICJmYWlsIGlmIG5vIGNhbXBhaWduIHV1aWQgaXMgcHJlc2VudCIgaW4gewogICAgICB2YWwgY20gPSBDYW1wYWlnbk1ldGFkYXRhKAogICAgICAgIDAsCiAgICAgICAgU29tZSgKICAgICAgICAgIENhbXBhaWduKAogICAgICAgICAgICB1dWlkICAgICAgICAgID0gTm9uZSwKICAgICAgICAgICkKICAgICAgICApCiAgICAgICkKCiAgICAgIHZhbCBjYXNzYW5kcmFNb2RlbFNlcSA9CiAgICAgICAgU2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5mcm9tQ2FtcGFpZ25NZXRhZGF0YShjbSkKCiAgICAgIGNhc3NhbmRyYU1vZGVsU2VxIHNob3VsZCBiZShGYWlsdXJlKQogICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.toTry(
-        s&quot;metaSignalUuid is not defined in metaSignal: $metaSignal&quot;
-      )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb3JyZWxhdGluZ1NpZ25hbERlZmluaXRpb25zID0gU2VxKAogICAgICAgICAgb3JpZ2luYWxCdXNTaWduYWxEZWZpbml0aW9uLAogICAgICAgICAgb3JpZ2luYWxEaWFnbm9zdGljU2lnbmFsRGVmaW5pdGlvbiwKICAgICAgICAgIG9yaWdpbmFsUGx1Z2luU2lnbmFsRGVmaW5pdGlvbiwKICAgICAgICAgIG9yaWdpbmFsRW1wdHlTaWduYWxEZWZpbml0aW9uCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBTaWduYWxzQnlDYW1wYWlnblV1aWRcPg==</last-search>
+      <last-search encoding="base64">XDxtYXBTaWduYWxzQnlNZXRhU2lnbmFsVXVpZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBTaWduYWxzQnlDYW1wYWlnblV1aWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBTaWduYWxzQnlNZXRhU2lnbmFsVXVpZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -534,8 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>metri</entry>
-        <entry>spark</entry>
         <entry>twitter</entry>
         <entry>twitt</entry>
         <entry encoding="base64">XDxpc1NuYXBzaG90XD4=</entry>
@@ -554,6 +551,8 @@
         <entry encoding="base64">XDxmcm9tQ2FtcGFpZ25NZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxleHRyYWN0U2lnbmFsc0J5VXVpZFw+</entry>
         <entry encoding="base64">XDxtYXBTaWduYWxzQnlDYW1wYWlnblV1aWRcPg==</entry>
+        <entry>startWi</entry>
+        <entry encoding="base64">XDxtYXBTaWduYWxzQnlNZXRhU2lnbmFsVXVpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
