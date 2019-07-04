@@ -94,6 +94,9 @@
         <mark key="^" line="110" column="27" />
         <mark key="." line="110" column="27" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562239233718">
+        <mark key="'" line="2" column="138" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
         <mark key="'" line="44" column="20" />
         <mark key="[" line="56" column="87" />
@@ -173,12 +176,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562238930415">
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562239920622">
         <mark key="'" line="98" column="46" />
-        <mark key="[" line="97" column="44" />
-        <mark key="]" line="97" column="52" />
-        <mark key="^" line="97" column="52" />
-        <mark key="." line="97" column="52" />
+        <mark key="[" line="156" column="30" />
+        <mark key="]" line="157" column="5" />
+        <mark key="^" line="157" column="5" />
+        <mark key="." line="157" column="5" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" timestamp="1561633971815">
         <mark key="'" line="27" column="62" />
@@ -365,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="9" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
-      <jump line="168" column="51" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="169" column="51" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="186" column="21" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="188" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
@@ -463,38 +464,43 @@
       <jump line="155" column="15" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="147" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="92" column="6" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="97" column="23" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="2" column="138" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" />
       <jump line="149" column="14" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="98" column="46" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>signal</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>signal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRyYWN0U2lnbmFsc0J5VXVpZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>CampaignMetadata version: ${campaignMetadata.schemaVersion}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY2FtcGFpZ24gPC0gY2FtcGFpZ25NZXRhZGF0YS5jYW1wYWlnbi50b1RyeSgKICAgICAgICBzIk1pc3NpbmcgY2FtcGFpZ24gaW4gQ2FtcGFpZ25NZXRhZGF0YSB2ZXJzaW9uOiAke2NhbXBhaWduTWV0YWRhdGEuc2NoZW1hVmVyc2lvbn0iCiAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHZhbCBzaWduYWxzOiBNYXBbVVVJRCwgU2lnbmFsXSA9IGNhbXBhaWduTWV0YWRhdGEuY2FtcGFpZ24udG9MaXN0Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWxEZWZpbml0aW9uVHlwZSA9IHNpZ25hbERlZmluaXRpb25UeXBlLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpZ25hbEZpbHRlcjogU3RyaW5nLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIHZhbCBzaWduYWxzOiBNYXBbVVVJRCwgU2lnbmFsXSA9IGNhbXBhaWduTWV0YWRhdGEuY2FtcGFpZ24udG9MaXN0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzaWduYWxEZWZpbml0aW9uVHlwZSA9IHNpZ25hbERlZmluaXRpb25UeXBlLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNpZ25hbEZpbHRlcjogU3RyaW5nLAo=</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgY2xvc2UoKTogVW5pdCA9IHt9IC8vIGl0IGhhcyB0byBiZSBiZWNhdXNlIG9mIE9uRGVtYW5kCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>excludeAll (
     ExclusionRule(&quot;org.apache.spark&quot;),
     ExclusionRule(&quot;com.fasterxml.jackson.core&quot;),
@@ -503,11 +509,8 @@
     ExclusionRule(&quot;org.apache.hadoop&quot;),
   ) nettyExclusions</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
