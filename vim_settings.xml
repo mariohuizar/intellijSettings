@@ -141,12 +141,6 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="86" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch" timestamp="1562254794145">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderApp.scala" timestamp="1559585188896">
         <mark key="'" line="65" column="33" />
         <mark key="[" line="65" column="0" />
@@ -198,10 +192,10 @@
         <mark key="[" line="197" column="40" />
         <mark key="]" line="197" column="48" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562315511828">
-        <mark key="'" line="158" column="17" />
-        <mark key="[" line="152" column="29" />
-        <mark key="]" line="152" column="29" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562329147321">
+        <mark key="'" line="158" column="38" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="165" column="38" />
         <mark key="^" line="101" column="75" />
         <mark key="." line="152" column="29" />
       </file>
@@ -390,8 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="30" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
-      <jump line="125" column="42" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="124" column="34" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="90" column="35" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="121" column="15" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
@@ -489,47 +481,49 @@
       <jump line="217" column="49" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="214" column="34" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="99" column="46" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="158" column="17" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="4" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch" />
+      <jump line="8" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch" />
+      <jump line="158" column="38" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.toList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0LmVtcHR5Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.toList</text>
+        <text>List(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVUZXN0Q2FtcGFpZ25NZXRhZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENhbXBhaWduTWV0YWRhdGEoKQogICAgICAud2l0aENhbXBhaWduKAogICAgICAgIENhbXBhaWduKCkKICAgICAgICAgIC53aXRoVXVpZChVVUlEKHRlc3RDYW1wYWlnblV1aWQpKQogICAgICAgICAgLndpdGhSZXBvcnRzKFNlcShSZXBvcnQoc2lnbmFscyA9IFNlcShjcmVhdGVUZXN0U2lnbmFsKG1ldGFTaWduYWxVdWlkKSkpKSkKICAgICAgKQogICAgICAud2l0aENvcnJlbGF0aW5nU2lnbmFsRGVmaW5pdGlvbnMoc2lnbmFscykK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgU3VjY2Vzcyh1KSA9PgogICAgICAgICAgICBMaXN0KHUgLT4gc2lnbmFsKQogICAgICAgICAgY2FzZSBGYWlsdXJlKGUpID0+CiAgICAgICAgICAgIGxvZy5lcnJvcihzIkNhbid0IGNvbnRpbnVlIGV4dHJhY3Rpbmcgc2lnbmFscyBpbiBjYW1wYWlnbiB1dWlkICckY2FtcGFpZ25JZCcgYmVjYXVzZSBvZjogJHtlLmdldE1lc3NhZ2V9LiIpCiAgICAgICAgICAgIExpc3QuZW1wdHlbKFVVSUQsIFNpZ25hbCldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2l0aENvcnJlbGF0aW5nU2lnbmFsRGVmaW5pdGlvbnMoc2lnbmFscykK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0LmVtcHR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuSW5zaWRlLl8K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0LmVtcHR5Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbFBsdWdpblNpZ25hbERlZmluaXRpb24sCg==</text>
+        <text encoding="base64">amF2YS51dGlsLlVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbERpYWdub3N0aWNTaWduYWxEZWZpbml0aW9uLAo=</text>
+        <text encoding="base64">ICAgICAgICAud2l0aENvcnJlbGF0aW5nU2lnbmFsRGVmaW5pdGlvbnMoc2lnbmFscykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuSW5zaWRlLl8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBpbnNpZGUocmVzdWx0LmdldCkgewovLyAgICAgICAgY2FzZSBmaXJzdCA6OiBzZWNvbmQgOjogdGhpcmQgOjogZm91cnRoIDo6IE5pbCA9PgovLyAgICAgICAgICBmaXJzdC5zaWduYWxEZWZpbml0aW9uVHlwZSBzaG91bGQgYmUoIkJ1c1NpZ25hbERlZmluaXRpb24iKQovLyAgICAgICAgICBzZWNvbmQuc2lnbmFsRGVmaW5pdGlvblR5cGUgc2hvdWxkIGJlKCJEaWFnbm9zdGljU2lnbmFsRGVmaW5pdGlvbiIpCi8vICAgICAgICAgIHRoaXJkLnNpZ25hbERlZmluaXRpb25UeXBlIHNob3VsZCBiZSgiUGx1Z2luU2lnbmFsRGVmaW5pdGlvbiIpCi8vICAgICAgICAgIGZvdXJ0aC5zaWduYWxEZWZpbml0aW9uVHlwZSBzaG91bGQgYmUoIkVtcHR5IikKLy8gICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGNvbXBhcmVTaWduYWxEZWZpbml0aW9uQ29tbW9uQXR0cmlidXRlcygKICAgICAgICAgIHNpZ25hbDogU2lnbmFsLAogICAgICAgICAgY2FtcGFpZ25JZDogU3RyaW5nCiAgICAgICkoc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYTogU2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYSwgc2lnbmFsRGVmaW5pdGlvbjogU2lnbmFsRGVmaW5pdGlvbik6IFVuaXQgPSB7CiAgICAgICAgc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5jYW1wYWlnbklkIHNob3VsZCBiZShjYW1wYWlnbklkKQogICAgICAgIHNpZ25hbERlZmluaXRpb25DYXNzYW5kcmEua2V5IHNob3VsZCBiZShzaWduYWxEZWZpbml0aW9uLmtleSkKICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLm1ldGFTaWduYWxVdWlkIHNob3VsZCBiZShzaWduYWxEZWZpbml0aW9uLm1ldGFTaWduYWxVdWlkLmdldC51dWlkKQogICAgICAgIHNpZ25hbERlZmluaXRpb25DYXNzYW5kcmEubW9kZWxraXROYW1lIHNob3VsZCBiZShzaWduYWxEZWZpbml0aW9uLm1vZGVsa2l0TmFtZSkKICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLmVjdVZhcmlhbnRTaG9ydE5hbWUgc2hvdWxkIGJlKHNpZ25hbERlZmluaXRpb24uZWN1VmFyaWFudFNob3J0TmFtZSkKICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLnZlaGljbGV0eXBlTmFtZSBzaG91bGQgYmUoc2lnbmFsRGVmaW5pdGlvbi52ZWhpY2xldHlwZU5hbWUpCiAgICAgICAgc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5hZ2VudE5hbWUgc2hvdWxkIGJlKHNpZ25hbERlZmluaXRpb24uYWdlbnRTZXJ2aWNlLm1hcChfLmFnZW50LnRvU3RyaW5nKS5nZXRPckVsc2UoIiIpKQogICAgICAgIHNpZ25hbERlZmluaXRpb25DYXNzYW5kcmEuYWdlbnRJc1JlcXVlc3RlZCBzaG91bGQgYmUoc2lnbmFsRGVmaW5pdGlvbi5hZ2VudFNlcnZpY2UuZXhpc3RzKF8uaXNSZXF1ZXN0ZWQpKQoKICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLm1ldGFOYW1lIHNob3VsZCBiZShzaWduYWwubWV0YVNpZ25hbC5nZXQubmFtZSkKICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLm1ldGFEZXNjcmlwdGlvbiBzaG91bGQgYmUoc2lnbmFsLm1ldGFTaWduYWwuZ2V0LmRlc2NyaXB0aW9uKQogICAgICAgIGlmIChzaWduYWxEZWZpbml0aW9uLnVuaXQuaXNEZWZpbmVkKSB7CiAgICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLm1ldGFDb252ZXJzaW9uVW5pdCBzaG91bGQgYmUoc2lnbmFsRGVmaW5pdGlvbi51bml0LmdldC51bml0KQogICAgICAgICAgc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5tZXRhQ29udmVyc2lvblNpVW5pdCBzaG91bGQgYmUoc2lnbmFsRGVmaW5pdGlvbi51bml0LmdldC5zaVVuaXQpCiAgICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLm1ldGFDb252ZXJzaW9uRmFjdG9yIHNob3VsZCBiZShzaWduYWxEZWZpbml0aW9uLnVuaXQuZ2V0LmNvbnZlcnNpb25GYWN0b3IpCiAgICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLm1ldGFDb252ZXJzaW9uT2Zmc2V0IHNob3VsZCBiZShzaWduYWxEZWZpbml0aW9uLnVuaXQuZ2V0LmNvbnZlcnNpb25PZmZzZXQpCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHNpZ25hbERlZmluaXRpb25DYXNzYW5kcmEubWV0YUNvbnZlcnNpb25Vbml0IHNob3VsZCBiZSgiIikKICAgICAgICAgIHNpZ25hbERlZmluaXRpb25DYXNzYW5kcmEubWV0YUNvbnZlcnNpb25TaVVuaXQgc2hvdWxkIGJlKCIiKQogICAgICAgICAgc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5tZXRhQ29udmVyc2lvbkZhY3RvciBzaG91bGQgYmUoRG91YmxlLk5hTikKICAgICAgICAgIHNpZ25hbERlZmluaXRpb25DYXNzYW5kcmEubWV0YUNvbnZlcnNpb25PZmZzZXQgc2hvdWxkIGJlKERvdWJsZS5OYU4pCiAgICAgICAgfQoKICAgICAgICBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLm1ldGFFbnVtc1V1aWRUb05hbWUgc2hvdWxkIGJlKAogICAgICAgICAgc2lnbmFsLm1ldGFTaWduYWwuZ2V0Lm1ldGFFbnVtcy5tYXAoZSA9PiBlLnV1aWQuZ2V0LnV1aWQgLT4gZS5uYW1lKS50b01hcAogICAgICAgICkKCiAgICAgICAgc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5zaWduYWxEZWZpbml0aW9uVHlwZSBzaG91bGQgYmUoc2lnbmFsVHlwZUFzU3RyaW5nKHNpZ25hbERlZmluaXRpb24uc2lnbmFsRGVmaW5pdGlvbikpCiAgICAgICAgc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5zaWduYWxEZWZpbml0aW9uIHNob3VsZCBiZShzaWduYWxEZWZpbml0aW9uQXNCeXRlKHNpZ25hbERlZmluaXRpb24uc2lnbmFsRGVmaW5pdGlvbikpCgogICAgICAgIC8vIFRPRE8KICAgICAgICAvLyBzaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhLnNpZ25hbEFnZ3JlZ2F0aW9uIHNob3VsZCBiZSgiVE9ETyIpCiAgICAgICAgLy8gc2lnbmFsRGVmaW5pdGlvbkNhc3NhbmRyYS5zaWduYWxGaWx0ZXIgc2hvdWxkIGJlKCJUT0RPIikKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbFBsdWdpblNpZ25hbERlZmluaXRpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbERpYWdub3N0aWNTaWduYWxEZWZpbml0aW9uLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
