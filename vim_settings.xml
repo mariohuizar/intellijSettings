@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/2.0.0/acdc-odc-normalization-core_2.11-2.0.0.jar!/de/audi/acdc/odc/normalization/core/TelemetryNormalized.class" timestamp="1561389449220">
         <mark key="'" line="2" column="228" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" timestamp="1562342130512">
-        <mark key="'" line="425" column="4" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="^" line="205" column="50" />
-        <mark key="." line="212" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" timestamp="1562344752823">
+        <mark key="'" line="426" column="4" />
+        <mark key="[" line="175" column="6" />
+        <mark key="]" line="175" column="6" />
+        <mark key="^" line="206" column="50" />
+        <mark key="." line="175" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositoryTestkit.scala" timestamp="1562255618470">
         <mark key="'" line="105" column="54" />
@@ -364,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aggregation</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>aggregation</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>toString</text>
@@ -376,31 +376,31 @@
         <text>caseClassToCsv(signal.aggregation)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxhenkgdmFsIGFnZ3JlZ2F0aW9uICAgICAgICAgICAgICAgICAgID0gc2lnbmFsLmFnZ3JlZ2F0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB3cml0ZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gQ1NWV3JpdGVyCg==</text>
+        <text encoding="base64">ICAgIGxhenkgdmFsIGFnZ3JlZ2F0aW9uICAgICAgICAgICAgICAgICAgID0gc2lnbmFsLmFnZ3JlZ2F0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCB3cml0ZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gQ1NWV3JpdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIGJhb3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCkKdmFsIHdyaXRlciA9IENTVldyaXRlci5vcGVuKGJhb3MpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFsIHRzID0gc29tZUFnZ3JlZ2F0aW9uLnRvU3RyaW5nCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFsIGJhb3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCkKdmFsIHdyaXRlciA9IENTVldyaXRlci5vcGVuKGJhb3MpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dmFsIHRzID0gc29tZUFnZ3JlZ2F0aW9uLnRvU3RyaW5nCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">d3JpdGVyLndyaXRlUm93KFNlcShzb21lRmlsdGVyLikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
