@@ -61,12 +61,12 @@
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1562165001500">
-        <mark key="'" line="52" column="60" />
-        <mark key="[" line="110" column="22" />
-        <mark key="]" line="110" column="27" />
-        <mark key="^" line="110" column="27" />
-        <mark key="." line="110" column="27" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1562603601353">
+        <mark key="'" line="81" column="44" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="27" />
+        <mark key="^" line="39" column="27" />
+        <mark key="." line="39" column="27" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
@@ -187,6 +187,9 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/querybuilder/QueryBuilder.java" timestamp="1561537999111">
         <mark key="'" line="290" column="26" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetApp.scala" timestamp="1562603488732">
+        <mark key="'" line="17" column="59" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/resources/migration/V1__acdc_campaign_metadata.cql" timestamp="1562583825994">
         <mark key="[" line="7" column="42" />
         <mark key="]" line="7" column="47" />
@@ -277,10 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="23" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/tototoshi/scala-csv_2.11/1.3.6/scala-csv_2.11-1.3.6-sources.jar!/com/github/tototoshi/csv/CSVWriter.scala" />
-      <jump line="196" column="8" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="46" column="11" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="70" column="4" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="169" column="17" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch" />
       <jump line="6" column="35" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
@@ -377,6 +376,10 @@
       <jump line="336" column="49" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="314" column="29" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="43" column="38" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositoryTestkit.scala" />
+      <jump line="77" column="63" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
+      <jump line="16" column="54" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
+      <jump line="17" column="59" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetApp.scala" />
+      <jump line="81" column="44" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -386,7 +389,7 @@
         <text>MovingMaximumFilter,1,2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZ2dyZWdhdGlvblR5cGVcPg==</text>
+        <text encoding="base64">XDxTaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBGaWx0ZXIoZmlsdGVyVHlwZSA9IEZpbHRlclR5cGUuTUFYSU1VTSwgZnJlcXVlbmN5TXMgPSAxLCB2YWx1ZSA9IDIsIHZhbHVlVW50aWwgPSAzLCBzaWduYWxDb3VudCA9IDQsIGZhY3RvciA9IDEuMCkK</text>
@@ -437,9 +440,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZ2dyZWdhdGlvblR5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxTaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZ2dyZWdhdGlvblR5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YXJ0UmVtb3ZlclNldHRpbmdzXD4=</entry>
         <entry>Cats</entry>
         <entry encoding="base64">XDxzY292ZXJhZ2VcPg==</entry>
         <entry encoding="base64">XDxpc1NuYXBzaG90XD4=</entry>
@@ -467,6 +469,7 @@
         <entry encoding="base64">XDxhc3NlcnRTaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhRXF1YWxcPg==</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
         <entry encoding="base64">XDxBZ2dyZWdhdGlvblR5cGVcPg==</entry>
+        <entry encoding="base64">XDxTaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
