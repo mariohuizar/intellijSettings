@@ -177,6 +177,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/querybuilder/QueryBuilder.java" timestamp="1561537999111">
         <mark key="'" line="290" column="26" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/resources/migration/V1__acdc_campaign_metadata.cql" timestamp="1562583825994">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/duplicateElements.sc" timestamp="1558705998565">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -365,16 +371,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>caseClassToCsv</text>
+        <text>aggregation</text>
       </register>
       <register name="-" type="4">
-        <text>caseClassToCsv</text>
+        <text>aggregation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wYXJlU2lnbmFsRGVmaW5pdGlvbkNvbW1vbkF0dHJpYnV0ZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>optionClassToCsv</text>
+      <register name="0" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgc2lnbmFsX2RlZmluaXRpb24gQUREIChzaWduYWwtYWdncmVnYXRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBjYXNlQ2xhc3NUb0NzdihjYXNlQ2xhc3M6IFByb2R1Y3QpOiBTdHJpbmcgPSB7CiAgICAgIHZhbCBiYW9zID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCiAgICAgIHZhbCB3cml0ZXIgPSBDU1ZXcml0ZXIub3BlbihiYW9zKQoKICAgICAgd3JpdGVyLndyaXRlUm93KGNhc2VDbGFzcy5wcm9kdWN0SXRlcmF0b3IudG9MaXN0KQogICAgICB3cml0ZXIuY2xvc2UoKQogICAgICBiYW9zLmNsb3NlKCkKICAgICAgYmFvcy50b1N0cmluZwogICAgfQo=</text>
