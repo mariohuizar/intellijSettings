@@ -49,6 +49,9 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.30/acdc-core-cassandra_2.11-8.0.30-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562145852979">
         <mark key="'" line="101" column="6" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562659822171">
+        <mark key="'" line="476" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1559581256458">
         <mark key="'" line="371" column="109" />
         <mark key="[" line="313" column="6" />
@@ -85,8 +88,8 @@
         <mark key="^" line="89" column="58" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562605430628">
-        <mark key="'" line="102" column="6" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562605640438">
+        <mark key="'" line="123" column="55" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositorySpec.scala" timestamp="1562595294293">
         <mark key="'" line="45" column="58" />
@@ -244,8 +247,8 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562605507237">
-        <mark key="'" line="33" column="20" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562605690254">
+        <mark key="'" line="35" column="22" />
         <mark key="[" line="152" column="39" />
         <mark key="]" line="152" column="39" />
         <mark key="^" line="152" column="39" />
@@ -287,8 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="11" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" />
-      <jump line="108" column="13" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" />
       <jump line="132" column="15" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" />
       <jump line="167" column="15" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" />
       <jump line="216" column="13" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" />
@@ -384,9 +385,11 @@
       <jump line="89" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="117" column="23" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="28" column="73" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="35" column="37" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="102" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="33" column="20" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="123" column="55" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
+      <jump line="35" column="22" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="476" column="23" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
