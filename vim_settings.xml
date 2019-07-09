@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/enums/FilterType.class" timestamp="1562597393984">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="20" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/logic/src/main/scala/logic/logic1.scala" timestamp="1561124192941">
         <mark key="'" line="3" column="49" />
         <mark key="[" line="11" column="49" />
@@ -36,10 +32,10 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/cb372/scalacache-guava_2.11/0.21.0/scalacache-guava_2.11-0.21.0-sources.jar!/scalacache/guava/GuavaCache.scala" timestamp="1561649071386">
         <mark key="'" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraTestKitDse.scala" timestamp="1562684086262">
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraTestKitDse.scala" timestamp="1562692829941">
         <mark key="'" line="19" column="43" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="110" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
@@ -99,9 +95,9 @@
         <mark key="^" line="89" column="58" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562684016150">
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562693687728">
         <mark key="'" line="123" column="23" />
-        <mark key="[" line="232" column="0" />
+        <mark key="[" line="153" column="0" />
         <mark key="]" line="232" column="74" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositorySpec.scala" timestamp="1562595294293">
@@ -175,10 +171,6 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.commons/src/it/scala/de/audi/acdc/digest/common/DockerCassandraTest.scala" timestamp="1562682495721">
         <mark key="'" line="43" column="20" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/util/Try.scala" timestamp="1562248873216">
-        <mark key="[" line="197" column="40" />
-        <mark key="]" line="197" column="48" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562675847923">
         <mark key="'" line="69" column="27" />
@@ -278,12 +270,8 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562684175719">
-        <mark key="'" line="37" column="15" />
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="40" />
-        <mark key="." line="42" column="40" />
-        <mark key="^" line="42" column="40" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562693095001">
+        <mark key="'" line="43" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/ZPM_MAINLIST_V28_GS_V6.csv" timestamp="1561364443903">
         <mark key="'" line="309" column="46" />
@@ -315,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="10" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="52" column="62" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="50" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="33" column="15" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
@@ -415,19 +402,20 @@
       <jump line="123" column="23" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="61" column="42" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="37" column="15" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="42" column="47" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0S2V5c3BhY2VOYW1lKGtleXNwYWNlOiBTdHJpbmcpOiBTdHJpbmcgPSBzZXNzaW9uLmdldENsdXN0ZXIuZ2V0TWV0YWRhdGEuZ2V0S2V5c3BhY2Uoa2V5c3BhY2UpLmdldE5hbWUK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsaXplU2NoZW1hXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0S2V5c3BhY2VOYW1lKGtleXNwYWNlOiBTdHJpbmcpOiBTdHJpbmcgPSBzZXNzaW9uLmdldENsdXN0ZXIuZ2V0TWV0YWRhdGEuZ2V0S2V5c3BhY2Uoa2V5c3BhY2UpLmdldE5hbWUK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIENvbHVtbk5hbWUoInNpZ25hbF9maWx0ZXIiKSwK</text>
