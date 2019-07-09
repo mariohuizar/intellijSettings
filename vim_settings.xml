@@ -162,12 +162,12 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="70" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" timestamp="1562681031447">
-        <mark key="'" line="39" column="48" />
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="39" column="26" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" timestamp="1562681882116">
+        <mark key="'" line="61" column="37" />
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="39" />
+        <mark key="^" line="41" column="39" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/util/Try.scala" timestamp="1562248873216">
         <mark key="[" line="197" column="40" />
@@ -271,8 +271,8 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562679400750">
-        <mark key="'" line="33" column="20" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562682273101">
+        <mark key="'" line="32" column="15" />
         <mark key="[" line="152" column="39" />
         <mark key="]" line="152" column="39" />
         <mark key="^" line="152" column="39" />
@@ -308,8 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="33" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
-      <jump line="191" column="60" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
       <jump line="48" column="44" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositorySpec.scala" />
       <jump line="60" column="18" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositoryImpl.scala" />
       <jump line="38" column="79" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositoryImpl.scala" />
@@ -408,13 +406,15 @@
       <jump line="40" column="21" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="39" column="48" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="36" column="22" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/resources/acdc_campaign_metadata.cql" />
+      <jump line="61" column="37" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
+      <jump line="32" column="15" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgc2lnbmFsX2RlZmluaXRpb24gQUREIChzaWduYWxfZmlsdGVyIHRleHQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Set</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRleHQ=</text>
+        <text>Set</text>
       </register>
       <register name="/" type="4">
         <text>meta_campaign</text>
