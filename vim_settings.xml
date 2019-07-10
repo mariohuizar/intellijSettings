@@ -178,6 +178,13 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" timestamp="1561633971815">
         <mark key="'" line="27" column="62" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/test/scala/de/audi/acdc/diagnostic/forwarder/DataConverterSpec.scala" timestamp="1562766303040">
+        <mark key="'" line="367" column="90" />
+        <mark key="[" line="392" column="32" />
+        <mark key="]" line="392" column="43" />
+        <mark key="^" line="392" column="43" />
+        <mark key="." line="392" column="43" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" timestamp="1559587158733">
         <mark key="'" line="56" column="0" />
       </file>
@@ -298,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="476" column="23" filename="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" />
       <jump line="26" column="44" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraSchemaProviderItSpec.scala" />
       <jump line="83" column="10" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="37" column="29" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraTestKitDse.scala" />
@@ -398,6 +403,8 @@
       <jump line="45" column="14" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="91" column="40" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="101" column="20" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="372" column="86" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/test/scala/de/audi/acdc/diagnostic/forwarder/DataConverterSpec.scala" />
+      <jump line="367" column="90" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/test/scala/de/audi/acdc/diagnostic/forwarder/DataConverterSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
