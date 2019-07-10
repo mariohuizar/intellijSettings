@@ -146,9 +146,6 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.datastax.com/public-repos/com/datastax/dse/spark-connector/6.0.5/spark-connector-6.0.5.jar!/com/datastax/spark/connector/cql/CassandraConnectorConf.class" timestamp="1561364983938">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1561557854618">
-        <mark key="'" line="75" column="44" />
-      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" timestamp="1562597584464">
         <mark key="'" line="204" column="75" />
         <mark key="[" line="245" column="132" />
@@ -252,12 +249,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.campaignmanagement.protobuf/target/scala-2.11/src_managed/main/de/audi/dc/cm/iface/proto/core/Signal.scala" timestamp="1562165585565">
         <mark key="'" line="33" column="70" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1561646240130">
-        <mark key="'" line="201" column="0" />
-        <mark key="[" line="200" column="98" />
-        <mark key="]" line="200" column="119" />
-        <mark key="^" line="200" column="97" />
-        <mark key="." line="200" column="98" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1562759347115">
+        <mark key="'" line="204" column="0" />
+        <mark key="[" line="89" column="35" />
+        <mark key="]" line="89" column="36" />
+        <mark key="^" line="203" column="97" />
+        <mark key="." line="89" column="36" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" timestamp="1561365849660">
         <mark key="'" line="47" column="33" />
