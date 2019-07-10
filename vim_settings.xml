@@ -39,11 +39,6 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/cb372/scalacache-guava_2.11/0.21.0/scalacache-guava_2.11-0.21.0-sources.jar!/scalacache/guava/GuavaCache.scala" timestamp="1561649071386">
         <mark key="'" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraTestKitDse.scala" timestamp="1562692829941">
-        <mark key="'" line="19" column="43" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="40" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="53" column="34" />
@@ -65,11 +60,6 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
         <mark key="'" line="480" column="23" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.4/scalatest_2.11-3.0.4-sources.jar!/org/scalatest/words/MatcherWords.scala" timestamp="1562250882731">
-        <mark key="'" line="109" column="6" />
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="45" column="28" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
@@ -105,6 +95,13 @@
         <mark key="^" line="37" column="57" />
         <mark key="." line="37" column="57" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile" timestamp="1562769593304">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming_2.11/2.4.0/spark-streaming_2.11-2.4.0-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala" timestamp="1561394956147">
         <mark key="'" line="572" column="79" />
       </file>
@@ -138,11 +135,6 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.datastax.com/public-repos/com/datastax/dse/spark-connector/6.0.5/spark-connector-6.0.5.jar!/com/datastax/spark/connector/cql/CassandraConnectorConf.class" timestamp="1561364983938">
         <mark key="'" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" timestamp="1562597584464">
-        <mark key="'" line="204" column="75" />
-        <mark key="[" line="245" column="132" />
-        <mark key="]" line="245" column="145" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/TestDataGenerator.scala" timestamp="1562767711837">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
@@ -172,6 +164,12 @@
         <mark key="]" line="172" column="52" />
         <mark key="." line="172" column="52" />
         <mark key="^" line="172" column="41" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile.release" timestamp="1562769270730">
+        <mark key="[" line="56" column="120" />
+        <mark key="]" line="57" column="8" />
+        <mark key="." line="57" column="8" />
+        <mark key="^" line="57" column="8" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/CampaignIdToProcessingModelRepository.scala" timestamp="1561633971815">
         <mark key="'" line="27" column="62" />
@@ -283,11 +281,6 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="66" column="45" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1562335939849">
-        <mark key="'" line="41" column="697" />
-        <mark key="[" line="2" column="239" />
-        <mark key="]" line="2" column="307" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.stack/provisioning/applications/install.yml" timestamp="1561710187982">
         <mark key="'" line="15" column="10" />
       </file>
@@ -310,8 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="11" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/CassandraSchema.scala" />
-      <jump line="102" column="11" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="103" column="11" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="104" column="11" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/CassandraSchema.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
@@ -410,10 +401,12 @@
       <jump line="208" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="209" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="233" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="22" column="25" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile" />
+      <jump line="28" column="15" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c29tZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzY3JpcHQgewo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c29tZSA=</text>
@@ -422,7 +415,7 @@
         <text encoding="base64">XDxkaWFnbm9zdGljRGF0YUNvbnZlcnRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy5kaWdlc3QuQ2Fzc2FuZHJhQ29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICBzY3JpcHQgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlJPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dTICRyb3dzIikK</text>
