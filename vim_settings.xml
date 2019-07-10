@@ -16,8 +16,8 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-odc-normalization-core_2.11/2.0.0/acdc-odc-normalization-core_2.11-2.0.0.jar!/de/audi/acdc/odc/normalization/core/TelemetryNormalized.class" timestamp="1561389449220">
         <mark key="'" line="2" column="228" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" timestamp="1562598242177">
-        <mark key="'" line="314" column="29" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" timestamp="1562748357480">
+        <mark key="'" line="33" column="63" />
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
         <mark key="." line="338" column="0" />
@@ -275,10 +275,12 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562747766678">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1562748606444">
+        <mark key="'" line="45" column="14" />
+        <mark key="[" line="90" column="20" />
+        <mark key="]" line="90" column="78" />
+        <mark key="." line="90" column="78" />
+        <mark key="^" line="90" column="78" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/resources/ZPM_MAINLIST_V28_GS_V6.csv" timestamp="1561364443903">
         <mark key="'" line="309" column="46" />
@@ -310,12 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="15" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="61" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="52" column="66" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="261" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="59" column="71" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="154" column="22" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="149" column="25" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="15" column="30" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="54" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
@@ -410,22 +406,28 @@
       <jump line="42" column="47" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="38" column="25" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetApp.scala" />
       <jump line="26" column="25" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetApp.scala" />
+      <jump line="302" column="55" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="249" column="19" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="33" column="63" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandraTest.scala" />
+      <jump line="131" column="42" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="212" column="43" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="45" column="14" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyICAgICAgPSBTb21lKEZpbHRlcigpKSwKICAgICAgYWdncmVnYXRpb24gPSBTb21lKEFnZ3JlZ2F0aW9uKCkpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsaXplU2NoZW1hXD4=</text>
+        <text encoding="base64">XDx1bmlxdWVCdXNTaWduYWxVVUlEXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyICAgICAgPSBTb21lKEZpbHRlcigpKSwKICAgICAgYWdncmVnYXRpb24gPSBTb21lKEFnZ3JlZ2F0aW9uKCkpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -439,22 +441,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zID0KICAgICAgc2Vzc2lvbi5nZXRDbHVzdGVyLmdldE1ldGFkYXRhLmdldEtleXNwYWNlKEtleXNwYWNlKS5nZXRUYWJsZSgic2lnbmFsX2RlZmluaXRpb24iKS5nZXRDb2x1bW5zLmFzU2NhbGEudG9MaXN0Lm1hcChfLmdldE5hbWUpCiAgICBwcmludGxuKHMiQ09MVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVIFVVVVVVVVVVVVVVVVVVVVVVICRjb2x1bW5zIikKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyICAgICAgPSBTb21lKEZpbHRlcigpKSwKICAgICAgYWdncmVnYXRpb24gPSBTb21lKEFnZ3JlZ2F0aW9uKCkpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbHVtbk5hbWUoInNpZ25hbF9maWx0ZXIiKSwK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLlRocm93IikpCiAgZGVmIGdldENvbHVtbnMoa2V5c3BhY2U6IFN0cmluZywgdGFibGU6IFN0cmluZyk6IExpc3RbU3RyaW5nXSA9CiAgICBPcHRpb24oY2x1c3Rlci5nZXRNZXRhZGF0YS5nZXRLZXlzcGFjZShrZXlzcGFjZSkpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKHF1ZXJpZWRLZXlzcGFjZSkgPT4KICAgICAgICBPcHRpb24ocXVlcmllZEtleXNwYWNlLmdldFRhYmxlKHRhYmxlKSkgbWF0Y2ggewogICAgICAgICAgY2FzZSBTb21lKHF1ZXJpZWRUYWJsZSkgPT4gcXVlcmllZFRhYmxlLmdldENvbHVtbnMuYXNTY2FsYS50b0xpc3QubWFwKF8uZ2V0TmFtZSkKICAgICAgICAgIGNhc2UgTm9uZSA9PiB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKHMicHJvdmlkZWQgdGFibGUgJHRhYmxlIGluIGtleXNwYWNlICRrZXlzcGFjZSBkb2VzIG5vdCBleGlzdCIpCiAgICAgICAgfQogICAgICBjYXNlIE5vbmUgPT4gdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInByb3ZpZGVkIGtleXNwYWNlICRrZXlzcGFjZSBkb2VzIG5vdCBleGlzdCIpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zID0KICAgICAgc2Vzc2lvbi5nZXRDbHVzdGVyLmdldE1ldGFkYXRhLmdldEtleXNwYWNlKEtleXNwYWNlKS5nZXRUYWJsZSgic2lnbmFsX2RlZmluaXRpb24iKS5nZXRDb2x1bW5zLmFzU2NhbGEudG9MaXN0Lm1hcChfLmdldE5hbWUpCiAgICBwcmludGxuKHMiQ09MVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVIFVVVVVVVVVVVVVVVVVVVVVVICRjb2x1bW5zIikKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgc2lnbmFsX2RlZmluaXRpb24gQUREIChzaWduYWxfZmlsdGVyIHRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIENvbHVtbk5hbWUoInNpZ25hbF9maWx0ZXIiKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLlRocm93IikpCiAgZGVmIGdldENvbHVtbnMoa2V5c3BhY2U6IFN0cmluZywgdGFibGU6IFN0cmluZyk6IExpc3RbU3RyaW5nXSA9CiAgICBPcHRpb24oY2x1c3Rlci5nZXRNZXRhZGF0YS5nZXRLZXlzcGFjZShrZXlzcGFjZSkpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKHF1ZXJpZWRLZXlzcGFjZSkgPT4KICAgICAgICBPcHRpb24ocXVlcmllZEtleXNwYWNlLmdldFRhYmxlKHRhYmxlKSkgbWF0Y2ggewogICAgICAgICAgY2FzZSBTb21lKHF1ZXJpZWRUYWJsZSkgPT4gcXVlcmllZFRhYmxlLmdldENvbHVtbnMuYXNTY2FsYS50b0xpc3QubWFwKF8uZ2V0TmFtZSkKICAgICAgICAgIGNhc2UgTm9uZSA9PiB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKHMicHJvdmlkZWQgdGFibGUgJHRhYmxlIGluIGtleXNwYWNlICRrZXlzcGFjZSBkb2VzIG5vdCBleGlzdCIpCiAgICAgICAgfQogICAgICBjYXNlIE5vbmUgPT4gdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInByb3ZpZGVkIGtleXNwYWNlICRrZXlzcGFjZSBkb2VzIG5vdCBleGlzdCIpCiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIlNpZ25hbCBERUVFRUVFRUVFRUVFRUVFRUVFRiAkc2lnbmFsRGVmaW5pdGlvbkNvbHVtbmdzIikK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgc2lnbmFsX2RlZmluaXRpb24gQUREIChzaWduYWxfZmlsdGVyIHRleHQpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -470,19 +472,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibWV0YV9sZWdhbF9wdXJwb3NlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAidmRlX3ZlaGljbGVfZmFtaWx5X25hbWVzIiwKICAgICAgICAidmRlX3ZlaGljbGVfZmllbGRzIgo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIlNpZ25hbCBERUVFRUVFRUVFRUVFRUVFRUVFRiAkc2lnbmFsRGVmaW5pdGlvbkNvbHVtbmdzIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsaXplU2NoZW1hXD4=</last-search>
+      <last-search encoding="base64">XDx1bmlxdWVCdXNTaWduYWxVVUlEXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsaXplU2NoZW1hXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1bmlxdWVCdXNTaWduYWxVVUlEXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaWduYWxcPg==</entry>
         <entry encoding="base64">XDxjYW1wYWlnbklkXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25DbGFzc1RvQ3N2XD4=</entry>
         <entry encoding="base64">XDxjb21wYXJlU2lnbmFsRGVmaW5pdGlvbkNvbW1vbkF0dHJpYnV0ZXNcPg==</entry>
@@ -510,6 +511,7 @@
         <entry encoding="base64">XDxkYXRhQ2VudGVyXD4=</entry>
         <entry>session</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplU2NoZW1hXD4=</entry>
+        <entry encoding="base64">XDx1bmlxdWVCdXNTaWduYWxVVUlEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
