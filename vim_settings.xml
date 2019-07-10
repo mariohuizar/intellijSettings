@@ -95,10 +95,12 @@
         <mark key="^" line="89" column="58" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562693687728">
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562743725292">
         <mark key="'" line="123" column="23" />
         <mark key="[" line="153" column="0" />
-        <mark key="]" line="232" column="74" />
+        <mark key="]" line="143" column="39" />
+        <mark key="^" line="143" column="39" />
+        <mark key="." line="143" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositorySpec.scala" timestamp="1562595294293">
         <mark key="'" line="45" column="58" />
