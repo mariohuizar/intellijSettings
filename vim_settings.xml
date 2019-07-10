@@ -56,8 +56,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562659822171">
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
         <mark key="'" line="476" column="23" />
+        <mark key="[" line="135" column="35" />
+        <mark key="]" line="135" column="35" />
+        <mark key="." line="135" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1559581256458">
         <mark key="'" line="371" column="109" />
@@ -408,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsaXplU2NoZW1hXD4=</text>
