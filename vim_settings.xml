@@ -152,6 +152,9 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.datastax.com/public-repos/com/datastax/dse/spark-connector/6.0.5/spark-connector-6.0.5.jar!/com/datastax/spark/connector/cql/CassandraConnectorConf.class" timestamp="1561364983938">
         <mark key="'" line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1562848554656">
+        <mark key="'" line="141" column="37" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" timestamp="1562597584464">
         <mark key="'" line="204" column="75" />
         <mark key="[" line="245" column="132" />
@@ -342,11 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="7" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="140" column="79" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="117" column="42" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="121" column="30" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="127" column="82" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="101" column="32" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="108" column="44" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="66" column="26" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
@@ -442,6 +440,11 @@
       <jump line="207" column="50" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
       <jump line="237" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
       <jump line="328" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
+      <jump line="581" column="49" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="180" column="7" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="595" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="141" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -451,7 +454,7 @@
         <text encoding="base64">c29tZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzRGlhZ25vc3RpY0RhdGFcPg==</text>
+        <text encoding="base64">XDx3cml0ZU5vdGlmaWNhdGlvblN0YXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgZ3Jvb3Z5Cg==</text>
@@ -512,9 +515,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzRGlhZ25vc3RpY0RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDx3cml0ZU5vdGlmaWNhdGlvblN0YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzRGlhZ25vc3RpY0RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZU5vdGlmaWNhdGlvblN0YXRlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -522,8 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NlcnRTaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhRXF1YWxcPg==</entry>
-        <entry encoding="base64">XDxyb3dcPg==</entry>
         <entry encoding="base64">XDxBZ2dyZWdhdGlvblR5cGVcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzQ2FtcGFpZ25cPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
@@ -542,6 +543,8 @@
         <entry encoding="base64">XDxkaWFnbm9zdGljRGF0YUNvbnZlcnRlclw+</entry>
         <entry>.get</entry>
         <entry encoding="base64">XDxwcm9jZXNzRGlhZ25vc3RpY0RhdGFcPg==</entry>
+        <entry>foreachRDD</entry>
+        <entry encoding="base64">XDx3cml0ZU5vdGlmaWNhdGlvblN0YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
