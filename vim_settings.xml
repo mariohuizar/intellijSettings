@@ -336,6 +336,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="13" column="71" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/Jenkinsfile.release" timestamp="1562932058373" />
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/test/scala/de/audi/acdc/transformer/forwarder/DataConverterSpec.scala" timestamp="1562767898043">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="393" column="47" />
