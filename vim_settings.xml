@@ -70,6 +70,13 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" timestamp="1563290751503">
+        <mark key="'" line="35" column="22" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
         <mark key="'" line="480" column="23" />
       </file>
@@ -336,7 +343,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/Jenkinsfile.release" timestamp="1562933270136" />
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/test/scala/de/audi/acdc/transformer/forwarder/DataConverterSpec.scala" timestamp="1562767898043">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="393" column="47" />
@@ -346,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="32" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="108" column="44" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="66" column="26" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="103" column="35" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
@@ -446,13 +451,14 @@
       <jump line="180" column="7" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="595" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="141" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
+      <jump line="35" column="22" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgZ3Jvb3Z5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ColName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c29tZSA=</text>
+        <text>ColName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZU5vdGlmaWNhdGlvblN0YXRlXD4=</text>
