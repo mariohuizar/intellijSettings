@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" timestamp="1563354720795">
         <mark key="'" line="90" column="40" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/rawSignalTests.sc" timestamp="1563364045653">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562768192257">
         <mark key="'" line="233" column="33" />
       </file>
@@ -141,7 +144,7 @@
         <mark key="." line="8" column="131" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/RawData.scala" timestamp="1563362379953">
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/RawData.scala" timestamp="1563363889673">
         <mark key="'" line="184" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.campaignmanagement.protobuf/target/scala-2.11/src_managed/main/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.scala" timestamp="1562165545587">
@@ -268,8 +271,8 @@
         <mark key="." line="46" column="14" />
         <mark key="^" line="32" column="65" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" timestamp="1563362327928">
-        <mark key="'" line="91" column="56" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" timestamp="1563363997323">
+        <mark key="'" line="47" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" timestamp="1562847455442">
         <mark key="'" line="328" column="4" />
@@ -339,8 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="43" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraTestKitDse.scala" />
-      <jump line="44" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="28" column="72" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="46" column="39" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.commons/src/it/scala/de/audi/acdc/digest/common/DockerCassandraTest.scala" />
       <jump line="27" column="16" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.commons/src/it/scala/de/audi/acdc/digest/common/DockerCassandraTest.scala" />
@@ -439,6 +440,8 @@
       <jump line="91" column="56" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" />
       <jump line="57" column="39" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetApp.scala" />
       <jump line="184" column="17" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/RawData.scala" />
+      <jump line="41" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" />
+      <jump line="47" column="13" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
