@@ -70,12 +70,12 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" timestamp="1563351865734">
-        <mark key="'" line="68" column="22" />
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="24" />
-        <mark key="." line="36" column="24" />
-        <mark key="^" line="36" column="18" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" timestamp="1563352642629">
+        <mark key="'" line="33" column="51" />
+        <mark key="[" line="32" column="81" />
+        <mark key="]" line="33" column="51" />
+        <mark key="." line="33" column="51" />
+        <mark key="^" line="33" column="51" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
         <mark key="'" line="480" column="23" />
@@ -355,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="33" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="60" column="9" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="71" column="10" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/build.sbt" />
       <jump line="36" column="0" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/build.sbt" />
@@ -455,6 +454,7 @@
       <jump line="68" column="22" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
       <jump line="81" column="14" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" />
       <jump line="68" column="46" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" />
+      <jump line="33" column="51" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
