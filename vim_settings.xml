@@ -57,11 +57,12 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.30/acdc-core-cassandra_2.11-8.0.30-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562145852979">
         <mark key="'" line="101" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" timestamp="1563354946781">
-        <mark key="'" line="39" column="41" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" timestamp="1563356454223">
+        <mark key="'" line="59" column="37" />
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="22" />
+        <mark key="^" line="67" column="22" />
+        <mark key="." line="67" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
         <mark key="'" line="480" column="23" />
@@ -94,8 +95,10 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" timestamp="1563351923289">
         <mark key="'" line="68" column="46" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" timestamp="1563354548247">
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" timestamp="1563355862843">
         <mark key="'" line="413" column="60" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="135" column="1" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562743725292">
         <mark key="'" line="123" column="23" />
@@ -341,9 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="90" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="40" column="21" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
-      <jump line="39" column="48" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/SchemaItSpec.scala" />
       <jump line="36" column="22" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/resources/acdc_campaign_metadata.cql" />
       <jump line="32" column="15" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="70" column="15" filename="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraTestKitDse.scala" />
@@ -432,7 +432,6 @@
       <jump line="68" column="22" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
       <jump line="81" column="14" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" />
       <jump line="68" column="46" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" />
-      <jump line="33" column="51" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
       <jump line="139" column="14" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetAppItSpec.scala" />
       <jump line="105" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetAppItSpec.scala" />
       <jump line="94" column="81" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetAppItSpec.scala" />
@@ -441,22 +440,26 @@
       <jump line="85" column="40" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" />
       <jump line="90" column="40" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" />
       <jump line="39" column="41" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
+      <jump line="33" column="60" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
+      <jump line="64" column="11" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
+      <jump line="63" column="11" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
+      <jump line="59" column="37" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>col(dayColName)</text>
       </register>
       <register name="-" type="4">
-        <text>ColName</text>
+        <text>col(dayColName)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZVBlcnNpc3RhYmxlTm9ybWFsaXplZFNpZ25hbHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgZ3Jvb3Z5Cg==</text>
+      <register name="0" type="4">
+        <text>normalizedSignalSchema</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -470,22 +473,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlJPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dTICRyb3dzIikK</text>
+        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93cy5zaXplKCkgc2hvdWxkIGVxdWFsKDQpIC8vIHNjYWxhc3R5bGU6aWdub3JlIG1hZ2ljLm51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlJPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dTICRyb3dzIikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcm93cy5zaXplKCkgc2hvdWxkIGVxdWFsKDQpIC8vIHNjYWxhc3R5bGU6aWdub3JlIG1hZ2ljLm51bWJlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyICAgICAgPSBTb21lKEZpbHRlcigpKSwKICAgICAgYWdncmVnYXRpb24gPSBTb21lKEFnZ3JlZ2F0aW9uKCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -501,10 +504,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyICAgICAgPSBTb21lKEZpbHRlcigpKSwKICAgICAgYWdncmVnYXRpb24gPSBTb21lKEFnZ3JlZ2F0aW9uKCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93cy5zaXplKCkgc2hvdWxkIGVxdWFsKDQpIC8vIHNjYWxhc3R5bGU6aWdub3JlIG1hZ2ljLm51bWJlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyICAgICAgPSBTb21lKEZpbHRlcigpKSwKICAgICAgYWdncmVnYXRpb24gPSBTb21lKEFnZ3JlZ2F0aW9uKCkpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
