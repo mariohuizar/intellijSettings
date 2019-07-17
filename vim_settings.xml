@@ -6,8 +6,11 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" timestamp="1563354720795">
         <mark key="'" line="90" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/rawSignalTests.sc" timestamp="1563364045653">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/rawSignalTests.sc" timestamp="1563364082059">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1562768192257">
         <mark key="'" line="233" column="33" />
@@ -445,10 +448,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>col(dayColName)</text>
+        <text>campaignId: String</text>
       </register>
       <register name="-" type="4">
-        <text>col(dayColName)</text>
+        <text>campaignId: String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZVBlcnNpc3RhYmxlTm9ybWFsaXplZFNpZ25hbHNcPg==</text>
