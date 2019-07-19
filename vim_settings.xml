@@ -42,6 +42,13 @@
         <mark key="." line="112" column="87" />
         <mark key="^" line="112" column="87" />
       </file>
+      <file name="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" timestamp="1563545092180">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/cb372/scalacache-guava_2.11/0.21.0/scalacache-guava_2.11-0.21.0-sources.jar!/scalacache/guava/GuavaCache.scala" timestamp="1561649071386">
         <mark key="'" line="53" column="4" />
       </file>
@@ -346,6 +353,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="13" column="71" />
       </file>
+      <file name="$USER_HOME$/Developer/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1563544989424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/test/scala/de/audi/acdc/transformer/forwarder/DataConverterSpec.scala" timestamp="1562767898043">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="393" column="47" />
@@ -355,11 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="61" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="85" column="25" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="81" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="60" column="10" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="43" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="49" column="51" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="260" column="22" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="164" column="31" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
@@ -455,13 +462,18 @@
       <jump line="21" column="29" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
       <jump line="44" column="21" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
       <jump line="18" column="0" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
+      <jump line="16" column="19" filename="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>yyyy-MM-dd</text>
+        <text>Char]</text>
       </register>
       <register name="-" type="4">
-        <text>campaignId: String</text>
+        <text>Char]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</text>
@@ -469,8 +481,24 @@
       <register name="0" type="4">
         <text>yyyy-MM-dd</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
+      <register name="1" type="4">
+        <text>package binaryTree
+
+import binarytree.{End, Node}
+
+import org.scalatest._
+
+class BinaryTreeSpec extends FlatSpec with Matchers {
+
+  &quot;A Stack&quot; should &quot;pop values in last-in-first-out order&quot; in {
+    val myNode = Node(&quot;A&quot;, End, End)
+
+    val myTree = Node('a',
+      Node('b', Node('d'), Node('e')),
+      Node('c', End, Node('f', Node('g'), End)))
+  }
+
+}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -484,22 +512,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
+        <text encoding="base64">cGFja2FnZSBiaW5hcnl0cmVlIHsKCiAgc2VhbGVkIGFic3RyYWN0IGNsYXNzIFRyZWVbK1RdCgogIGNhc2UgY2xhc3MgTm9kZVsrVF0odmFsdWU6IFQsIGxlZnQ6IFRyZWVbVF0sIHJpZ2h0OiBUcmVlW1RdKSBleHRlbmRzIFRyZWVbVF0gewogICAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nID0gIlQoIiArIHZhbHVlLnRvU3RyaW5nICsgIiAiICsgbGVmdC50b1N0cmluZyArICIgIiArIHJpZ2h0LnRvU3RyaW5nICsgIikiCiAgfQoKICBjYXNlIG9iamVjdCBFbmQgZXh0ZW5kcyBUcmVlW05vdGhpbmddIHsKICAgIG92ZXJyaWRlIGRlZiB0b1N0cmluZyA9ICIuIgogIH0KCiAgb2JqZWN0IE5vZGUgewogICAgZGVmIGFwcGx5W1RdKHZhbHVlOiBUKTogTm9kZVtUXSA9IE5vZGUodmFsdWUsIEVuZCwgRW5kKQogIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlJPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dTICRyb3dzIikK</text>
+        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93cy5zaXplKCkgc2hvdWxkIGVxdWFsKDQpIC8vIHNjYWxhc3R5bGU6aWdub3JlIG1hZ2ljLm51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlJPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dTICRyb3dzIikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,7 +546,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcm93cy5zaXplKCkgc2hvdWxkIGVxdWFsKDQpIC8vIHNjYWxhc3R5bGU6aWdub3JlIG1hZ2ljLm51bWJlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyICAgICAgPSBTb21lKEZpbHRlcigpKSwKICAgICAgYWdncmVnYXRpb24gPSBTb21lKEFnZ3JlZ2F0aW9uKCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
