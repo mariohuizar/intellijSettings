@@ -215,8 +215,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" timestamp="1563528103037">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" timestamp="1563540178426">
+        <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile.release" timestamp="1562769270730">
         <mark key="[" line="56" column="120" />
@@ -355,15 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="20" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.commons/src/it/scala/de/audi/acdc/digest/common/DockerCassandraTest.scala" />
-      <jump line="129" column="10" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
-      <jump line="71" column="10" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
-      <jump line="102" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
-      <jump line="33" column="10" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="99" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" />
-      <jump line="91" column="24" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="90" column="25" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
-      <jump line="89" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="25" column="61" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="85" column="25" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
       <jump line="81" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
@@ -455,6 +446,15 @@
       <jump line="8" column="20" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/templates/batch.job.json.template" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
       <jump line="9" column="562" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/templates/batch.job.json.template" />
+      <jump line="3" column="13" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="6" column="13" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="11" column="116" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="12" column="20" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="15" column="113" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="16" column="19" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="21" column="29" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="44" column="21" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
+      <jump line="18" column="0" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -464,7 +464,7 @@
         <text>campaignId: String</text>
       </register>
       <register name="/" type="4">
-        <text>memor</text>
+        <text encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</text>
       </register>
       <register name="0" type="4">
         <text>yyyy-MM-dd</text>
@@ -525,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>memor</last-search>
+      <last-search encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</last-search>
       <last-offset />
-      <last-pattern>memor</last-pattern>
+      <last-pattern encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDYXNzYW5kcmFTY2hlbWFcPg==</entry>
-        <entry encoding="base64">XDxDYW1wYWlnbk1ldGFkYXRhS2V5c3BhY2VOYW1lXD4=</entry>
         <entry encoding="base64">XDxDYXNzYW5kcmFLZXlzcGFjZVw+</entry>
         <entry encoding="base64">XDxqYXZheEFjdGl2YXRpb25cPg==</entry>
         <entry>csv</entry>
@@ -555,6 +553,8 @@
         <entry encoding="base64">XDxjb21wYWN0RGF0YUZvckRhdGVcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVBlcnNpc3RhYmxlTm9ybWFsaXplZFNpZ25hbHNcPg==</entry>
         <entry>memor</entry>
+        <entry>core</entry>
+        <entry encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
