@@ -86,6 +86,7 @@
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="28" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/build.sbt" timestamp="1563793138853" />
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
       </file>
@@ -477,7 +478,7 @@
         <text>Char]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</text>
+        <text>merge</text>
       </register>
       <register name="0" type="4">
         <text>yyyy-MM-dd</text>
@@ -554,9 +555,9 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</last-search>
+      <last-search>merge</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</last-pattern>
+      <last-pattern>merge</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -564,7 +565,6 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDYXNzYW5kcmFLZXlzcGFjZVw+</entry>
         <entry encoding="base64">XDxqYXZheEFjdGl2YXRpb25cPg==</entry>
         <entry>csv</entry>
         <entry encoding="base64">XDxzY2FsYUNzdlw+</entry>
@@ -584,6 +584,7 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         <entry>memor</entry>
         <entry>core</entry>
         <entry encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</entry>
+        <entry>merge</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
