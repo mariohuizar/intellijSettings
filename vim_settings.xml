@@ -210,6 +210,12 @@
         <mark key="." line="172" column="52" />
         <mark key="^" line="172" column="41" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.release" timestamp="1563798177512">
+        <mark key="[" line="94" column="168" />
+        <mark key="]" line="94" column="173" />
+        <mark key="." line="94" column="173" />
+        <mark key="^" line="94" column="173" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" timestamp="1563540178426">
         <mark key="'" line="18" column="0" />
       </file>
@@ -457,16 +463,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Char]</text>
+        <text>messages</text>
       </register>
       <register name="-" type="4">
-        <text>Char]</text>
+        <text>messages</text>
       </register>
       <register name="/" type="4">
         <text>merge</text>
       </register>
-      <register name="0" type="4">
-        <text>yyyy-MM-dd</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzaCAiZXhlY3V0b3IgLWMgYHB3ZGAvZGUuYXVkaS5hY2RjLnRyYW5zZm9ybWVyLmthZmthX3N0cmVhbXMuZW5yaWNobWVudF9ub3JtYWxpemVyL3RhcmdldC9kb2NrZXIvc3RhZ2UgLWQgcmVnaXN0cnktYWNkYy50b29scy5tc2kuYXVkaS5jb20vbm9ybWFsaXplci1vZGMtbWVzc2FnZXM6JHRhZyIK</text>
       </register>
       <register name="1" type="4">
         <text>package binaryTree
