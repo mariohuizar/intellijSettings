@@ -210,11 +210,11 @@
         <mark key="." line="172" column="52" />
         <mark key="^" line="172" column="41" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.release" timestamp="1563799850236">
-        <mark key="[" line="94" column="168" />
-        <mark key="]" line="94" column="173" />
-        <mark key="." line="94" column="173" />
-        <mark key="^" line="94" column="173" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.release" timestamp="1563801130929">
+        <mark key="[" line="94" column="35" />
+        <mark key="]" line="94" column="72" />
+        <mark key="." line="94" column="72" />
+        <mark key="^" line="94" column="72" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" timestamp="1563540178426">
         <mark key="'" line="18" column="0" />
@@ -463,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>messages</text>
+        <text>/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/</text>
       </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/</text>
       </register>
       <register name="/" type="4">
         <text>merge</text>
