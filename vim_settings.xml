@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" timestamp="1563804335982">
-        <mark key="'" line="118" column="8" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" timestamp="1563354720795">
         <mark key="'" line="90" column="40" />
       </file>
@@ -53,7 +50,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563787170087" />
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563812754859">
+        <mark key="[" line="46" column="15" />
+        <mark key="]" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+        <mark key="^" line="37" column="16" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="53" column="34" />
@@ -468,8 +470,8 @@
       <jump line="145" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExvZy5lcnJvcigiMzQiKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -477,8 +479,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzbGY0akxvZ2dcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>defaultValue: 'origin/master'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExvZy5lcnJvcigiMzQiKQo=</text>
       </register>
       <register name="1" type="4">
         <text>package binaryTree
