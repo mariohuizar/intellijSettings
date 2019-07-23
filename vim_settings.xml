@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j.properties" timestamp="1563886152208">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="6" column="90" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" timestamp="1563885634859">
         <mark key="'" line="241" column="51" />
         <mark key="[" line="30" column="0" />
@@ -56,12 +62,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563885550876">
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563885917953">
         <mark key="'" line="35" column="22" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="39" column="22" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
@@ -86,7 +92,7 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
         <mark key="'" line="480" column="23" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1563885712195">
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1563885730206">
         <mark key="'" line="194" column="8" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.4/scalatest_2.11-3.0.4-sources.jar!/org/scalatest/words/MatcherWords.scala" timestamp="1562250882731">
@@ -129,7 +135,7 @@
         <mark key="^" line="143" column="39" />
         <mark key="." line="143" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j2.xml" timestamp="1563884731612">
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j2.xml" timestamp="1563885903337">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
@@ -486,10 +492,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sldfkjsdfjkl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>sldfkjsdfjkl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</text>
@@ -498,7 +504,7 @@
         <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
+        <text encoding="base64">IyBjb25maWd1cmF0aW9uIHRvIHByaW50IGludG8gZmlsZQpsb2c0ai5hcHBlbmRlci5maWxlPW9yZy5hcGFjaGUubG9nNGouUm9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5maWxlLkZpbGU9RDpcXGxvZ1xcbG9nZ2luZy5sb2cKbG9nNGouYXBwZW5kZXIuZmlsZS5NYXhGaWxlU2l6ZT0xMk1CCmxvZzRqLmFwcGVuZGVyLmZpbGUuTWF4QmFja3VwSW5kZXg9MTAKbG9nNGouYXBwZW5kZXIuZmlsZS5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLmZpbGUubGF5b3V0LkNvbnZlcnNpb25QYXR0ZXJuPSVke3l5eXktTU0tZGQgSEg6bW06c3N9ICUtNXAgJWN7MX06JUwgLSAlbSVuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -512,12 +518,15 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKys9IGxpYnJhcnkubG9nLAo=</text>
+        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKys9IGxpYnJhcnkubG9nLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDxMb2dnZXIgbmFtZT0iZGUuYXVkaS5zdG8uYmF0Y2guZGlnZXN0IiBsZXZlbD0iaW5mbyIgYWRkaXRpdml0eT0iZmFsc2UiPgogICAgICA8QXBwZW5kZXJSZWYgcmVmPSJTdGRvdXQiLz4KICAgIDwvTG9nZ2VyPgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>package binaryTree
 
 import binarytree.{End, Node}
@@ -536,14 +545,11 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
 
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cGFja2FnZSBiaW5hcnl0cmVlIHsKCiAgc2VhbGVkIGFic3RyYWN0IGNsYXNzIFRyZWVbK1RdCgogIGNhc2UgY2xhc3MgTm9kZVsrVF0odmFsdWU6IFQsIGxlZnQ6IFRyZWVbVF0sIHJpZ2h0OiBUcmVlW1RdKSBleHRlbmRzIFRyZWVbVF0gewogICAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nID0gIlQoIiArIHZhbHVlLnRvU3RyaW5nICsgIiAiICsgbGVmdC50b1N0cmluZyArICIgIiArIHJpZ2h0LnRvU3RyaW5nICsgIikiCiAgfQoKICBjYXNlIG9iamVjdCBFbmQgZXh0ZW5kcyBUcmVlW05vdGhpbmddIHsKICAgIG92ZXJyaWRlIGRlZiB0b1N0cmluZyA9ICIuIgogIH0KCiAgb2JqZWN0IE5vZGUgewogICAgZGVmIGFwcGx5W1RdKHZhbHVlOiBUKTogTm9kZVtUXSA9IE5vZGUodmFsdWUsIEVuZCwgRW5kKQogIH0KfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
+        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -559,10 +565,10 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
+        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
