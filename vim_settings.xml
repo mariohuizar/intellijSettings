@@ -50,12 +50,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563813660395">
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563883166743">
         <mark key="'" line="35" column="22" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
-        <mark key="^" line="27" column="16" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
@@ -119,6 +119,12 @@
         <mark key="]" line="143" column="39" />
         <mark key="^" line="143" column="39" />
         <mark key="." line="143" column="39" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j2.xml" timestamp="1563883127255">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="54" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositorySpec.scala" timestamp="1562595294293">
         <mark key="'" line="45" column="58" />
@@ -471,10 +477,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGY0akxvZ2dcPg==</text>
