@@ -9,11 +9,12 @@
         <mark key="^" line="6" column="90" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" timestamp="1563885634859">
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" timestamp="1563886901688">
         <mark key="'" line="241" column="51" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" timestamp="1563877657768">
         <mark key="'" line="63" column="54" />
@@ -89,8 +90,10 @@
         <mark key="^" line="67" column="22" />
         <mark key="." line="67" column="22" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1563886880063">
         <mark key="'" line="480" column="23" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="130" column="36" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1563885730206">
         <mark key="'" line="194" column="8" />
@@ -135,11 +138,11 @@
         <mark key="^" line="143" column="39" />
         <mark key="." line="143" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j2.xml" timestamp="1563885903337">
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j2.xml" timestamp="1563886930459">
         <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositorySpec.scala" timestamp="1562595294293">
         <mark key="'" line="45" column="58" />
@@ -330,8 +333,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.campaignmanagement.protobuf/target/scala-2.11/src_managed/main/de/audi/dc/cm/iface/proto/core/Signal.scala" timestamp="1562165585565">
         <mark key="'" line="33" column="70" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1563804348503">
-        <mark key="'" line="145" column="13" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1563886454277">
+        <mark key="'" line="175" column="83" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/BatteryResistanceApp.scala" timestamp="1561365849660">
         <mark key="'" line="47" column="33" />
@@ -389,10 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="15" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile" />
-      <jump line="27" column="24" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.release" />
-      <jump line="29" column="50" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" />
-      <jump line="31" column="2" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.release" />
       <jump line="48" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile" />
       <jump line="40" column="72" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
       <jump line="55" column="23" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
@@ -489,22 +488,26 @@
       <jump line="265" column="4" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
       <jump line="241" column="51" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
       <jump line="194" column="8" filename="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" />
+      <jump line="55" column="38" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="242" column="46" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="228" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="175" column="83" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</text>
+        <text encoding="base64">XDxsb2c0alw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
+        <text encoding="base64">ICAgIHZhbCBMb2c0ajIgICAgICAgICAgICA9ICIyLjciCiAgICB2YWwgU2xmNGogICAgICAgICAgICAgPSAiMS43LjIxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBjb25maWd1cmF0aW9uIHRvIHByaW50IGludG8gZmlsZQpsb2c0ai5hcHBlbmRlci5maWxlPW9yZy5hcGFjaGUubG9nNGouUm9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5maWxlLkZpbGU9RDpcXGxvZ1xcbG9nZ2luZy5sb2cKbG9nNGouYXBwZW5kZXIuZmlsZS5NYXhGaWxlU2l6ZT0xMk1CCmxvZzRqLmFwcGVuZGVyLmZpbGUuTWF4QmFja3VwSW5kZXg9MTAKbG9nNGouYXBwZW5kZXIuZmlsZS5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLmZpbGUubGF5b3V0LkNvbnZlcnNpb25QYXR0ZXJuPSVke3l5eXktTU0tZGQgSEg6bW06c3N9ICUtNXAgJWN7MX06JUwgLSAlbSVuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBTbGY0aiAgICAgICAgICAgICA9ICIxLjcuMjEiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -518,15 +521,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
+        <text encoding="base64">ICAgIHZhbCBMb2c0ajIgICAgICAgICAgICA9ICIyLjciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKys9IGxpYnJhcnkubG9nLAo=</text>
+        <text encoding="base64">IyBjb25maWd1cmF0aW9uIHRvIHByaW50IGludG8gZmlsZQpsb2c0ai5hcHBlbmRlci5maWxlPW9yZy5hcGFjaGUubG9nNGouUm9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5maWxlLkZpbGU9RDpcXGxvZ1xcbG9nZ2luZy5sb2cKbG9nNGouYXBwZW5kZXIuZmlsZS5NYXhGaWxlU2l6ZT0xMk1CCmxvZzRqLmFwcGVuZGVyLmZpbGUuTWF4QmFja3VwSW5kZXg9MTAKbG9nNGouYXBwZW5kZXIuZmlsZS5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLmZpbGUubGF5b3V0LkNvbnZlcnNpb25QYXR0ZXJuPSVke3l5eXktTU0tZGQgSEg6bW06c3N9ICUtNXAgJWN7MX06JUwgLSAlbSVuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKys9IGxpYnJhcnkubG9nLAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxMb2dnZXIgbmFtZT0iZGUuYXVkaS5zdG8uYmF0Y2guZGlnZXN0IiBsZXZlbD0iaW5mbyIgYWRkaXRpdml0eT0iZmFsc2UiPgogICAgICA8QXBwZW5kZXJSZWYgcmVmPSJTdGRvdXQiLz4KICAgIDwvTG9nZ2VyPgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>package binaryTree
 
 import binarytree.{End, Node}
@@ -545,12 +554,6 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
 
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBiaW5hcnl0cmVlIHsKCiAgc2VhbGVkIGFic3RyYWN0IGNsYXNzIFRyZWVbK1RdCgogIGNhc2UgY2xhc3MgTm9kZVsrVF0odmFsdWU6IFQsIGxlZnQ6IFRyZWVbVF0sIHJpZ2h0OiBUcmVlW1RdKSBleHRlbmRzIFRyZWVbVF0gewogICAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nID0gIlQoIiArIHZhbHVlLnRvU3RyaW5nICsgIiAiICsgbGVmdC50b1N0cmluZyArICIgIiArIHJpZ2h0LnRvU3RyaW5nICsgIikiCiAgfQoKICBjYXNlIG9iamVjdCBFbmQgZXh0ZW5kcyBUcmVlW05vdGhpbmddIHsKICAgIG92ZXJyaWRlIGRlZiB0b1N0cmluZyA9ICIuIgogIH0KCiAgb2JqZWN0IE5vZGUgewogICAgZGVmIGFwcGx5W1RdKHZhbHVlOiBUKTogTm9kZVtUXSA9IE5vZGUodmFsdWUsIEVuZCwgRW5kKQogIH0KfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
-      </register>
       <register name="w" type="4">
         <keys>
           <key char="119" code="0" mods="0" />
@@ -565,19 +568,19 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
+        <text encoding="base64">cGFja2FnZSBiaW5hcnl0cmVlIHsKCiAgc2VhbGVkIGFic3RyYWN0IGNsYXNzIFRyZWVbK1RdCgogIGNhc2UgY2xhc3MgTm9kZVsrVF0odmFsdWU6IFQsIGxlZnQ6IFRyZWVbVF0sIHJpZ2h0OiBUcmVlW1RdKSBleHRlbmRzIFRyZWVbVF0gewogICAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nID0gIlQoIiArIHZhbHVlLnRvU3RyaW5nICsgIiAiICsgbGVmdC50b1N0cmluZyArICIgIiArIHJpZ2h0LnRvU3RyaW5nICsgIikiCiAgfQoKICBjYXNlIG9iamVjdCBFbmQgZXh0ZW5kcyBUcmVlW05vdGhpbmddIHsKICAgIG92ZXJyaWRlIGRlZiB0b1N0cmluZyA9ICIuIgogIH0KCiAgb2JqZWN0IE5vZGUgewogICAgZGVmIGFwcGx5W1RdKHZhbHVlOiBUKTogTm9kZVtUXSA9IE5vZGUodmFsdWUsIEVuZCwgRW5kKQogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxsb2c0alw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2c0alw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +588,6 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
     </search>
     <history>
       <history-search>
-        <entry>.get</entry>
         <entry encoding="base64">XDxwcm9jZXNzRGlhZ25vc3RpY0RhdGFcPg==</entry>
         <entry>foreachRDD</entry>
         <entry encoding="base64">XDx3cml0ZU5vdGlmaWNhdGlvblN0YXRlXD4=</entry>
@@ -605,6 +607,7 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         <entry encoding="base64">XDxsb2c0ajJhcGlcPg==</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</entry>
+        <entry encoding="base64">XDxsb2c0alw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
