@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" timestamp="1563885634859">
+        <mark key="'" line="241" column="51" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" timestamp="1563877657768">
         <mark key="'" line="63" column="54" />
       </file>
@@ -50,12 +56,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563883166743">
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563885550876">
         <mark key="'" line="35" column="22" />
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="18" />
-        <mark key="^" line="34" column="18" />
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="^" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/src/main/scala/de/audi/acdc/processing/models/ProcessingModelsRepository.scala" timestamp="1561116239826">
         <mark key="'" line="22" column="40" />
@@ -79,6 +85,9 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/build.sbt" timestamp="1562746987492">
         <mark key="'" line="480" column="23" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1563885712195">
+        <mark key="'" line="194" column="8" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.4/scalatest_2.11-3.0.4-sources.jar!/org/scalatest/words/MatcherWords.scala" timestamp="1562250882731">
         <mark key="'" line="109" column="6" />
@@ -120,11 +129,11 @@
         <mark key="^" line="143" column="39" />
         <mark key="." line="143" column="39" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j2.xml" timestamp="1563883127255">
-        <mark key="[" line="14" column="51" />
-        <mark key="]" line="14" column="54" />
-        <mark key="." line="14" column="54" />
-        <mark key="^" line="14" column="54" />
+      <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/resources/log4j2.xml" timestamp="1563884731612">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/test/scala/de/audi/acdc/cassandra/cache/odc/SignalDefinitionCassandraRepositorySpec.scala" timestamp="1562595294293">
         <mark key="'" line="45" column="58" />
@@ -374,18 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="90" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/test/scala/de/audi/acdc/diagnostic/forwarder/DataConverterSpec.scala" />
-      <jump line="28" column="33" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
-      <jump line="380" column="12" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
-      <jump line="63" column="98" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DataConverter.scala" />
-      <jump line="61" column="14" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/test/scala/de/audi/acdc/transformer/forwarder/DataConverterSpec.scala" />
-      <jump line="202" column="42" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="35" column="49" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DataConverter.scala" />
-      <jump line="41" column="66" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/main/scala/de/audi/acdc/transformer/forwarder/DataConverter.scala" />
-      <jump line="208" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="209" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="233" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/8.0.31/acdc-core-cassandra_2.11-8.0.31-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
-      <jump line="22" column="25" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile" />
       <jump line="28" column="15" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/Jenkinsfile" />
       <jump line="27" column="24" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.release" />
       <jump line="29" column="50" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile.deployment" />
@@ -449,7 +446,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
       <jump line="16" column="19" filename="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" />
       <jump line="128" column="79" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
-      <jump line="130" column="75" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
       <jump line="131" column="76" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
       <jump line="53" column="8" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
       <jump line="115" column="39" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
@@ -474,21 +470,54 @@
       <jump line="35" column="22" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" />
       <jump line="98" column="46" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" />
       <jump line="63" column="54" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" />
+      <jump line="20" column="31" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="26" column="26" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="42" column="5" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="43" column="7" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="66" column="12" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="70" column="20" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="75" column="8" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="130" column="6" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="158" column="6" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="264" column="28" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="265" column="4" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="241" column="51" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
+      <jump line="194" column="8" filename="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>sldfkjsdfjkl</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>sldfkjsdfjkl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbGY0akxvZ2dcPg==</text>
+        <text encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvZy5lcnJvcigiMzQiKQo=</text>
+        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKys9IGxpYnJhcnkubG9nLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxMb2dnZXIgbmFtZT0iZGUuYXVkaS5zdG8uYmF0Y2guZGlnZXN0IiBsZXZlbD0iaW5mbyIgYWRkaXRpdml0eT0iZmFsc2UiPgogICAgICA8QXBwZW5kZXJSZWYgcmVmPSJTdGRvdXQiLz4KICAgIDwvTG9nZ2VyPgo=</text>
+      </register>
+      <register name="4" type="4">
         <text>package binaryTree
 
 import binarytree.{End, Node}
@@ -507,34 +536,14 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
 
 }</text>
       </register>
-      <register name="q" type="4">
-        <keys>
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-        </keys>
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">cGFja2FnZSBiaW5hcnl0cmVlIHsKCiAgc2VhbGVkIGFic3RyYWN0IGNsYXNzIFRyZWVbK1RdCgogIGNhc2UgY2xhc3MgTm9kZVsrVF0odmFsdWU6IFQsIGxlZnQ6IFRyZWVbVF0sIHJpZ2h0OiBUcmVlW1RdKSBleHRlbmRzIFRyZWVbVF0gewogICAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nID0gIlQoIiArIHZhbHVlLnRvU3RyaW5nICsgIiAiICsgbGVmdC50b1N0cmluZyArICIgIiArIHJpZ2h0LnRvU3RyaW5nICsgIikiCiAgfQoKICBjYXNlIG9iamVjdCBFbmQgZXh0ZW5kcyBUcmVlW05vdGhpbmddIHsKICAgIG92ZXJyaWRlIGRlZiB0b1N0cmluZyA9ICIuIgogIH0KCiAgb2JqZWN0IE5vZGUgewogICAgZGVmIGFwcGx5W1RdKHZhbHVlOiBUKTogTm9kZVtUXSA9IE5vZGUodmFsdWUsIEVuZCwgRW5kKQogIH0KfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihzIlJPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1dTICRyb3dzIikK</text>
+        <text encoding="base64">ICAgICAgJXNwYXJrCiAgICAgIHZhbCBmaWx0ZXJlZE5vcm1hbGl6ZWRTaWduYWwgPSBzcGFyay5yZWFkLnBhcnF1ZXQoInMzYTovL2FjZGMtZXUtd2VzdC0xLWRldi1kYXRhL05vcm1hbGl6ZWRTaWduYWwvdjIvcGFycXVldC8iKQogICAgICAgIC5maWx0ZXIoY29sKCJ5ZWFyIikgPT09ICIyMDE5IikKICAgICAgICAuZmlsdGVyKGNvbCgibW9udGgiKSA9PT0gIjciKQogICAgICAgIC5maWx0ZXIoY29sKCJkYXkiKSA9PT0gIjE2IikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -550,19 +559,19 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93cy5zaXplKCkgc2hvdWxkIGVxdWFsKDQpIC8vIHNjYWxhc3R5bGU6aWdub3JlIG1hZ2ljLm51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5wcmludFNjaGVtYSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2kK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbGY0akxvZ2dcPg==</last-search>
+      <last-search encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbGY0akxvZ2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -570,10 +579,6 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0aWFsaXplU2NoZW1hXD4=</entry>
-        <entry encoding="base64">XDx1bmlxdWVCdXNTaWduYWxVVUlEXD4=</entry>
-        <entry encoding="base64">XDxTaWduYWxEZWZpbml0aW9uQ2Fzc2FuZHJhXD4=</entry>
-        <entry encoding="base64">XDxkaWFnbm9zdGljRGF0YUNvbnZlcnRlclw+</entry>
         <entry>.get</entry>
         <entry encoding="base64">XDxwcm9jZXNzRGlhZ25vc3RpY0RhdGFcPg==</entry>
         <entry>foreachRDD</entry>
@@ -590,6 +595,10 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         <entry encoding="base64">XDxjb25maWdFeGNsdXNpb25zXD4=</entry>
         <entry encoding="base64">XDxzbGY0akxvZ2dFeGNsdXNpb25cPg==</entry>
         <entry encoding="base64">XDxzbGY0akxvZ2dcPg==</entry>
+        <entry>it</entry>
+        <entry encoding="base64">XDxsb2c0ajJhcGlcPg==</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
+        <entry encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
