@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" timestamp="1563354720795">
-        <mark key="'" line="90" column="40" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" timestamp="1563877346369">
+        <mark key="'" line="98" column="46" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/rawSignalTests.sc" timestamp="1563364082059">
         <mark key="[" line="19" column="23" />
@@ -85,7 +85,6 @@
         <mark key="[" line="45" column="20" />
         <mark key="]" line="45" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/build.sbt" timestamp="1563793138853" />
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
       </file>
@@ -369,7 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="20" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="372" column="86" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/test/scala/de/audi/acdc/diagnostic/forwarder/DataConverterSpec.scala" />
       <jump line="367" column="90" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/test/scala/de/audi/acdc/diagnostic/forwarder/DataConverterSpec.scala" />
       <jump line="28" column="33" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/it/scala/de/audi/acdc/transformer/forwarder/DiagnosticForwarderItSpec.scala" />
@@ -469,6 +467,7 @@
       <jump line="141" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="145" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="35" column="22" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" />
+      <jump line="98" column="46" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
