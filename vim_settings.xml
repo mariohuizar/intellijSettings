@@ -93,10 +93,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1563885730206">
         <mark key="'" line="194" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1563970751049">
-        <mark key="'" line="570" column="50" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="93" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1563973122172">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="27" />
+        <mark key="^" line="410" column="0" />
+        <mark key="." line="414" column="0" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
@@ -308,11 +310,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" timestamp="1562847455442">
         <mark key="'" line="328" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" timestamp="1563970782716">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="225" column="0" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" timestamp="1563973092933">
+        <mark key="'" line="270" column="9" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="75" />
+        <mark key="^" line="63" column="61" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1561132480276">
         <mark key="'" line="0" column="0" />
@@ -384,47 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="7" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="595" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="141" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="35" column="22" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
-      <jump line="68" column="22" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
-      <jump line="81" column="14" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" />
-      <jump line="68" column="46" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" />
-      <jump line="139" column="14" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetAppItSpec.scala" />
-      <jump line="105" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetAppItSpec.scala" />
-      <jump line="94" column="81" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetAppItSpec.scala" />
-      <jump line="413" column="60" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
-      <jump line="60" column="27" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetAppItSpec.scala" />
-      <jump line="85" column="40" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" />
-      <jump line="90" column="40" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistNormalizedSignalsToParquetApp.scala" />
-      <jump line="39" column="41" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
-      <jump line="33" column="60" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
-      <jump line="64" column="11" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
-      <jump line="63" column="11" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
-      <jump line="59" column="37" filename="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/DataCompactor.scala" />
-      <jump line="91" column="56" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" />
-      <jump line="57" column="39" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetApp.scala" />
-      <jump line="184" column="17" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/RawData.scala" />
-      <jump line="41" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" />
-      <jump line="47" column="13" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetAppSpec.scala" />
-      <jump line="8" column="20" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/templates/batch.job.json.template" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="9" column="562" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/templates/batch.job.json.template" />
-      <jump line="3" column="13" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="6" column="13" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="11" column="116" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="12" column="20" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="15" column="113" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="16" column="19" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="21" column="29" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="44" column="21" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="18" column="0" filename="$USER_HOME$/Developer/acdc/dcos-acdc-spark-jobs/defaults/main.yml" />
-      <jump line="15" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" />
-      <jump line="17" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/scalaCoP/src/test/scala/binaryTreeSpec.scala" />
-      <jump line="16" column="19" filename="$USER_HOME$/Developer/scalaCoP/src/main/scala/binaryTree.scala" />
       <jump line="128" column="79" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
       <jump line="131" column="76" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
       <jump line="53" column="8" filename="$USER_HOME$/Developer/acdc/sto.batch.digest/build.sbt" />
@@ -484,22 +446,63 @@
       <jump line="213" column="4" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
       <jump line="332" column="42" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="570" column="50" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="538" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="617" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="618" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="88" column="28" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="408" column="18" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="519" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="542" column="13" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="594" column="61" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="12" column="67" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="343" column="17" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="453" column="65" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="455" column="20" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="456" column="25" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="457" column="30" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="460" column="30" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="584" column="2" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="499" column="2" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="500" column="9" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="421" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="496" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="533" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="426" column="2" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="427" column="27" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="94" column="16" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="239" column="0" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="173" column="2" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="440" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="234" column="0" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="273" column="58" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="172" column="9" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="606" column="28" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="95" column="4" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="270" column="9" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="181" column="11" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="104" column="3" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="114" column="3" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="145" column="3" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="24" column="3" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="67" column="3" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="73" column="3" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoK</text>
+        <text encoding="base64">ICAuZW5hYmxlUGx1Z2lucyhBdXRvbWF0ZUhlYWRlclBsdWdpbiwgR2l0VmVyc2lvbmluZywgSlVuaXRYbWxSZXBvcnRQbHVnaW4pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Transfo</text>
+        <text>enablePlu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFsIHdyaXRlVmVyc2lvbkZpbGUgPSB0YXNrS2V5W1VuaXRdKCJXcml0ZXMgYWN0dWFsIHZlcnNpb24gaW50byBhIHZlcnNpb24ucHJvcGVydGllcyBmaWxlLiIpCg==</text>
+        <text encoding="base64">ICAuZW5hYmxlUGx1Z2lucyhBdXRvbWF0ZUhlYWRlclBsdWdpbiwgR2l0VmVyc2lvbmluZywgSlVuaXRYbWxSZXBvcnRQbHVnaW4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoK</text>
+        <text encoding="base64">Ly8gICBPcHRpb25hbGx5IGFkZCBpdDpzY2FsYXN0eWxlIGlmIHRoZSBwcm9qZWN0IGhhcyBpbnRlZ3JhdGlvbiB0ZXN0cwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -513,22 +516,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNidHJlbGVhc2UuUmVsZWFzZVBsdWdpbi5hdXRvSW1wb3J0Ll8KaW1wb3J0IFJlbGVhc2VUcmFuc2Zvcm1hdGlvbnMuXwo=</text>
+        <text encoding="base64">Ly8gaW50ZWdyYXRpb24gdGVzdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gUnVuIHRlc3RzIHdpdGggY292ZXJhZ2UsIG9wdGlvbmFsbHkgYWRkICdpdDp0ZXN0JyBpZiB0aGUgcHJvamVjdCBoYXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgppbXBvcnQgc2J0cmVsZWFzZS5SZWxlYXNlUGx1Z2luLmF1dG9JbXBvcnQuXwppbXBvcnQgUmVsZWFzZVRyYW5zZm9ybWF0aW9ucy5fCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFsIG5leHRWZXJzaW9uID0gIjEuMC4wIgo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvbHZlcnMgKys9IFNlcSgKICAgICJhY2RjLW5leHVzIiBhdCBzIiRuZXh1c0FkZHJlc3MvcmVwb3NpdG9yeS9tYXZlbi1wdWJsaWMvIgogICksCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -544,19 +547,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgppbXBvcnQgc2J0cmVsZWFzZS5SZWxlYXNlUGx1Z2luLmF1dG9JbXBvcnQuXwppbXBvcnQgUmVsZWFzZVRyYW5zZm9ybWF0aW9ucy5fCgp2YWwgbmV4dFZlcnNpb24gPSAiMS4wLjAiCg==</text>
+        <text encoding="base64">ICByZXNvbHZlcnMgKz0gImRhdGFzdGF4LXB1YmxpYyIgYXQgImh0dHBzOi8vcmVwby5kYXRhc3RheC5jb20vcHVibGljLXJlcG9zLyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvbHZlcnMgKz0gImNvbmZsdWVudC1yZXBvc2l0b3J5IiBhdCAiaHR0cDovL3BhY2thZ2VzLmNvbmZsdWVudC5pby9tYXZlbi8iLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Transfo</last-search>
+      <last-search>enablePlu</last-search>
       <last-offset />
-      <last-pattern>Transfo</last-pattern>
+      <last-pattern>enablePlu</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -564,26 +567,26 @@
     </search>
     <history>
       <history-search>
-        <entry>merge</entry>
-        <entry encoding="base64">XDxMb2c0ajJcPg==</entry>
-        <entry encoding="base64">XDxTbGY0alw+</entry>
-        <entry encoding="base64">XDxzbGY0alw+</entry>
-        <entry encoding="base64">XDxjb25maWdFeGNsdXNpb25zXD4=</entry>
-        <entry encoding="base64">XDxzbGY0akxvZ2dFeGNsdXNpb25cPg==</entry>
-        <entry encoding="base64">XDxzbGY0akxvZ2dcPg==</entry>
-        <entry>it</entry>
-        <entry encoding="base64">XDxsb2c0ajJhcGlcPg==</entry>
-        <entry encoding="base64">XDxsb2dcPg==</entry>
-        <entry encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</entry>
-        <entry encoding="base64">XDxsb2c0alw+</entry>
-        <entry encoding="base64">XDxjYXRlZ29yeUlzSW5pdFw+</entry>
-        <entry encoding="base64">XDxjaGVja0luaXRXaXRoU2lnbmFsU3BlY1w+</entry>
         <entry encoding="base64">XDxzaWduYWxJbml0XD4=</entry>
         <entry>isBugfix</entry>
         <entry encoding="base64">XDxjcmVhdGVWZXJzaW9uRmlsZVw+</entry>
         <entry encoding="base64">XDxuZXh0VmVyc2lvblw+</entry>
         <entry>releaseTra</entry>
         <entry>Transfo</entry>
+        <entry>dependencyUpd</entry>
+        <entry>dependencyup</entry>
+        <entry>dependencyUp</entry>
+        <entry>branchNameDa</entry>
+        <entry>version</entry>
+        <entry>resolvers</entry>
+        <entry>publishSe</entry>
+        <entry encoding="base64">XDxjb25mbHVlbnRQbGF0Zm9ybVNldHRpbmdzXD4=</entry>
+        <entry encoding="base64">XDxjcm9zc1NjYWxhVmVyc2lvbnNcPg==</entry>
+        <entry>resolve</entry>
+        <entry encoding="base64">XDxtYXZlblw+</entry>
+        <entry encoding="base64">XDxwdWJsaXNoU2V0dGluZ3NcPg==</entry>
+        <entry encoding="base64">XDxyZXNvbHZlcnNTZXR0aW5nc1w+</entry>
+        <entry>enablePlu</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
