@@ -58,11 +58,6 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/cb372/scalacache-guava_2.11/0.21.0/scalacache-guava_2.11-0.21.0-sources.jar!/scalacache/guava/GuavaCache.scala" timestamp="1561649071386">
         <mark key="'" line="53" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/it/scala/de/audi/acdc/cassandra/CassandraTestKitDse.scala" timestamp="1562692829941">
-        <mark key="'" line="19" column="43" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="40" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/sto.batch.digest/src/main/scala/de/audi/sto/batch/digest/RadialShaftSealApp.scala" timestamp="1563885917953">
         <mark key="'" line="35" column="22" />
         <mark key="[" line="35" column="15" />
@@ -98,14 +93,10 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1563885730206">
         <mark key="'" line="194" column="8" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/3.0.4/scalatest_2.11-3.0.4-sources.jar!/org/scalatest/words/MatcherWords.scala" timestamp="1562250882731">
-        <mark key="'" line="109" column="6" />
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="45" column="28" />
-      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/Metadata.scala" timestamp="1563966419040" />
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
         <mark key="'" line="44" column="20" />
         <mark key="[" line="56" column="87" />
@@ -125,11 +116,6 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.prepares3data4analysts/analysisData/src/main/scala/de/audi/acdc/prepares3data4analysts/CompactS3Data.scala" timestamp="1563351923289">
         <mark key="'" line="68" column="46" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" timestamp="1563355862843">
-        <mark key="'" line="413" column="60" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="135" column="1" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-snapshots/de/audi/acdc-core-cassandra_2.11/8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT/acdc-core-cassandra_2.11-8.0.31-ACDC-8832-add-filter-aggregation-fields-SNAPSHOT-sources.jar!/de/audi/acdc/cassandra/CassandraSchema.scala" timestamp="1562743725292">
         <mark key="'" line="123" column="23" />
@@ -185,6 +171,9 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/14.0.1/acdc-core-domain_2.11-14.0.1-sources.jar!/de/audi/acdc/domain/RawData.scala" timestamp="1563363889673">
         <mark key="'" line="184" column="17" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/src/it/scala/de/audi/acdc/transformer/kafka_streams/enrichment_normalizer/KafkaStreamsConfigMetadataItSpec.scala" timestamp="1563966224520">
+        <mark key="'" line="23" column="62" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.campaignmanagement.protobuf/target/scala-2.11/src_managed/main/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.scala" timestamp="1562165545587">
         <mark key="'" line="23" column="116" />
       </file>
@@ -203,11 +192,6 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" timestamp="1562848554656">
         <mark key="'" line="141" column="37" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Signal.class" timestamp="1562597584464">
-        <mark key="'" line="204" column="75" />
-        <mark key="[" line="245" column="132" />
-        <mark key="]" line="245" column="145" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/acdc-odc-normalization/transform/src/test/scala/de/audi/acdc/odc/normalization/transform/TestDataGenerator.scala" timestamp="1562767711837">
         <mark key="[" line="58" column="30" />
@@ -353,11 +337,6 @@
         <mark key="^" line="38" column="33" />
         <mark key="." line="66" column="45" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1562335939849">
-        <mark key="'" line="41" column="697" />
-        <mark key="[" line="2" column="239" />
-        <mark key="]" line="2" column="307" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/main/scala/de/audi/acdc/digest/s3/PersistRawSignalsToParquetApp.scala" timestamp="1563362366733">
         <mark key="'" line="57" column="39" />
       </file>
@@ -383,6 +362,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" timestamp="1563966580459">
+        <mark key="'" line="395" column="33" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.diagnostic_forwarder/src/test/scala/de/audi/acdc/transformer/forwarder/DataConverterSpec.scala" timestamp="1562767898043">
         <mark key="'" line="61" column="14" />
         <mark key="[" line="393" column="47" />
@@ -392,13 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/Jenkinsfile" />
-      <jump line="40" column="72" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="55" column="23" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="129" column="51" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="130" column="67" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="158" column="29" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="159" column="72" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
       <jump line="163" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
       <jump line="196" column="18" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
       <jump line="206" column="9" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
@@ -492,6 +467,13 @@
       <jump line="242" column="46" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="228" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
       <jump line="175" column="83" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" />
+      <jump line="36" column="11" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/src/it/scala/de/audi/acdc/transformer/kafka_streams/enrichment_normalizer/KafkaStreamsConfigMetadataItSpec.scala" />
+      <jump line="23" column="62" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.transformer.kafka_streams.enrichment_normalizer/src/it/scala/de/audi/acdc/transformer/kafka_streams/enrichment_normalizer/KafkaStreamsConfigMetadataItSpec.scala" />
+      <jump line="321" column="10" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
+      <jump line="320" column="8" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
+      <jump line="392" column="14" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
+      <jump line="393" column="82" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
+      <jump line="395" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -501,7 +483,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2c0alw+</text>
+        <text encoding="base64">XDxzaWduYWxJbml0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBMb2c0ajIgICAgICAgICAgICA9ICIyLjciCiAgICB2YWwgU2xmNGogICAgICAgICAgICAgPSAiMS43LjIxIgo=</text>
@@ -578,9 +560,9 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2c0alw+</last-search>
+      <last-search encoding="base64">XDxzaWduYWxJbml0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2c0alw+</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduYWxJbml0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -588,9 +570,6 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzRGlhZ25vc3RpY0RhdGFcPg==</entry>
-        <entry>foreachRDD</entry>
-        <entry encoding="base64">XDx3cml0ZU5vdGlmaWNhdGlvblN0YXRlXD4=</entry>
         <entry encoding="base64">XDxjb21wYWN0RGF0YUZvckRhdGVcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVBlcnNpc3RhYmxlTm9ybWFsaXplZFNpZ25hbHNcPg==</entry>
         <entry>memor</entry>
@@ -608,6 +587,9 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxtZXRhZGF0YVB1Ymxpc2hlckxvZ0V4Y2x1c2lvbnNcPg==</entry>
         <entry encoding="base64">XDxsb2c0alw+</entry>
+        <entry encoding="base64">XDxjYXRlZ29yeUlzSW5pdFw+</entry>
+        <entry encoding="base64">XDxjaGVja0luaXRXaXRoU2lnbmFsU3BlY1w+</entry>
+        <entry encoding="base64">XDxzaWduYWxJbml0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
