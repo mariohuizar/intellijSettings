@@ -93,10 +93,14 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/project/Dependencies.scala" timestamp="1563885730206">
         <mark key="'" line="194" column="8" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1563970751049">
+        <mark key="'" line="570" column="50" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="93" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/Metadata.scala" timestamp="1563966419040" />
       <file name="$USER_HOME$/Developer/acdc/acdc.processing.models/build.sbt" timestamp="1559585328267">
         <mark key="'" line="44" column="20" />
         <mark key="[" line="56" column="87" />
@@ -304,6 +308,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" timestamp="1562847455442">
         <mark key="'" line="328" column="4" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" timestamp="1563970782716">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="^" line="225" column="0" />
+        <mark key="." line="206" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/scalaCoP/src/test/scala/binaryTreeSpec.scala" timestamp="1561132480276">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
@@ -374,16 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="6" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="196" column="18" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="206" column="9" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="242" column="13" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="246" column="18" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="207" column="50" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="237" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="328" column="4" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" />
-      <jump line="581" column="49" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="180" column="7" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="595" column="14" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
       <jump line="141" column="37" filename="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/ProcessStoWarningMessagesApp.scala" />
@@ -474,22 +474,32 @@
       <jump line="392" column="14" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
       <jump line="393" column="82" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
       <jump line="395" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
+      <jump line="80" column="0" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="245" column="23" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="578" column="9" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="591" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="599" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="582" column="40" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="30" column="2" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="213" column="4" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="332" column="42" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
+      <jump line="570" column="50" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoK</text>
       </register>
       <register name="-" type="4">
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduYWxJbml0XD4=</text>
+        <text>Transfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBMb2c0ajIgICAgICAgICAgICA9ICIyLjciCiAgICB2YWwgU2xmNGogICAgICAgICAgICAgPSAiMS43LjIxIgo=</text>
+        <text encoding="base64">dmFsIHdyaXRlVmVyc2lvbkZpbGUgPSB0YXNrS2V5W1VuaXRdKCJXcml0ZXMgYWN0dWFsIHZlcnNpb24gaW50byBhIHZlcnNpb24ucHJvcGVydGllcyBmaWxlLiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBTbGY0aiAgICAgICAgICAgICA9ICIxLjcuMjEiCg==</text>
+        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -503,38 +513,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBMb2c0ajIgICAgICAgICAgICA9ICIyLjciCg==</text>
+        <text encoding="base64">aW1wb3J0IHNidHJlbGVhc2UuUmVsZWFzZVBsdWdpbi5hdXRvSW1wb3J0Ll8KaW1wb3J0IFJlbGVhc2VUcmFuc2Zvcm1hdGlvbnMuXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBjb25maWd1cmF0aW9uIHRvIHByaW50IGludG8gZmlsZQpsb2c0ai5hcHBlbmRlci5maWxlPW9yZy5hcGFjaGUubG9nNGouUm9sbGluZ0ZpbGVBcHBlbmRlcgpsb2c0ai5hcHBlbmRlci5maWxlLkZpbGU9RDpcXGxvZ1xcbG9nZ2luZy5sb2cKbG9nNGouYXBwZW5kZXIuZmlsZS5NYXhGaWxlU2l6ZT0xMk1CCmxvZzRqLmFwcGVuZGVyLmZpbGUuTWF4QmFja3VwSW5kZXg9MTAKbG9nNGouYXBwZW5kZXIuZmlsZS5sYXlvdXQ9b3JnLmFwYWNoZS5sb2c0ai5QYXR0ZXJuTGF5b3V0CmxvZzRqLmFwcGVuZGVyLmZpbGUubGF5b3V0LkNvbnZlcnNpb25QYXR0ZXJuPSVke3l5eXktTU0tZGQgSEg6bW06c3N9ICUtNXAgJWN7MX06JUwgLSAlbSVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExvZy53YXJuKCJ3YXJuaW5nIDMwMjQ5NTgzNDA5IikK</text>
+        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgppbXBvcnQgc2J0cmVsZWFzZS5SZWxlYXNlUGx1Z2luLmF1dG9JbXBvcnQuXwppbXBvcnQgUmVsZWFzZVRyYW5zZm9ybWF0aW9ucy5fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKys9IGxpYnJhcnkubG9nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxMb2dnZXIgbmFtZT0iZGUuYXVkaS5zdG8uYmF0Y2guZGlnZXN0IiBsZXZlbD0iaW5mbyIgYWRkaXRpdml0eT0iZmFsc2UiPgogICAgICA8QXBwZW5kZXJSZWYgcmVmPSJTdGRvdXQiLz4KICAgIDwvTG9nZ2VyPgo=</text>
+        <text encoding="base64">dmFsIG5leHRWZXJzaW9uID0gIjEuMC4wIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>package binaryTree
-
-import binarytree.{End, Node}
-
-import org.scalatest._
-
-class BinaryTreeSpec extends FlatSpec with Matchers {
-
-  &quot;A Stack&quot; should &quot;pop values in last-in-first-out order&quot; in {
-    val myNode = Node(&quot;A&quot;, End, End)
-
-    val myTree = Node('a',
-      Node('b', Node('d'), Node('e')),
-      Node('c', End, Node('f', Node('g'), End)))
-  }
-
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -550,19 +544,19 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBiaW5hcnl0cmVlIHsKCiAgc2VhbGVkIGFic3RyYWN0IGNsYXNzIFRyZWVbK1RdCgogIGNhc2UgY2xhc3MgTm9kZVsrVF0odmFsdWU6IFQsIGxlZnQ6IFRyZWVbVF0sIHJpZ2h0OiBUcmVlW1RdKSBleHRlbmRzIFRyZWVbVF0gewogICAgb3ZlcnJpZGUgZGVmIHRvU3RyaW5nID0gIlQoIiArIHZhbHVlLnRvU3RyaW5nICsgIiAiICsgbGVmdC50b1N0cmluZyArICIgIiArIHJpZ2h0LnRvU3RyaW5nICsgIikiCiAgfQoKICBjYXNlIG9iamVjdCBFbmQgZXh0ZW5kcyBUcmVlW05vdGhpbmddIHsKICAgIG92ZXJyaWRlIGRlZiB0b1N0cmluZyA9ICIuIgogIH0KCiAgb2JqZWN0IE5vZGUgewogICAgZGVmIGFwcGx5W1RdKHZhbHVlOiBUKTogTm9kZVtUXSA9IE5vZGUodmFsdWUsIEVuZCwgRW5kKQogIH0KfQo=</text>
+        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gaGVhZGVyIHNldHRpbmdzCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgppbXBvcnQgc2J0cmVsZWFzZS5SZWxlYXNlUGx1Z2luLmF1dG9JbXBvcnQuXwppbXBvcnQgUmVsZWFzZVRyYW5zZm9ybWF0aW9ucy5fCgp2YWwgbmV4dFZlcnNpb24gPSAiMS4wLjAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zY2hlbWEobm9ybWFsaXplZFNpZ25hbFNjaGVtYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaWduYWxJbml0XD4=</last-search>
+      <last-search>Transfo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduYWxJbml0XD4=</last-pattern>
+      <last-pattern>Transfo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxQcm9jZXNzU3RvV2FybmluZ01lc3NhZ2VzQXBwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -570,11 +564,6 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wYWN0RGF0YUZvckRhdGVcPg==</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZVBlcnNpc3RhYmxlTm9ybWFsaXplZFNpZ25hbHNcPg==</entry>
-        <entry>memor</entry>
-        <entry>core</entry>
-        <entry encoding="base64">XDxub3JtYWxpemVfam9iX2RyaXZlcl9jb3Jlc1w+</entry>
         <entry>merge</entry>
         <entry encoding="base64">XDxMb2c0ajJcPg==</entry>
         <entry encoding="base64">XDxTbGY0alw+</entry>
@@ -590,6 +579,11 @@ class BinaryTreeSpec extends FlatSpec with Matchers {
         <entry encoding="base64">XDxjYXRlZ29yeUlzSW5pdFw+</entry>
         <entry encoding="base64">XDxjaGVja0luaXRXaXRoU2lnbmFsU3BlY1w+</entry>
         <entry encoding="base64">XDxzaWduYWxJbml0XD4=</entry>
+        <entry>isBugfix</entry>
+        <entry encoding="base64">XDxjcmVhdGVWZXJzaW9uRmlsZVw+</entry>
+        <entry encoding="base64">XDxuZXh0VmVyc2lvblw+</entry>
+        <entry>releaseTra</entry>
+        <entry>Transfo</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
