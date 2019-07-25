@@ -199,12 +199,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/de.audi.acdc.sto.digest/src/main/scala/de/audi/acdc/sto/digest/HvPtcApp.scala" timestamp="1562847455442">
         <mark key="'" line="328" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" timestamp="1563976894045">
-        <mark key="'" line="243" column="34" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="49" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" timestamp="1564044054406">
+        <mark key="'" line="30" column="28" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
         <mark key="^" line="246" column="68" />
-        <mark key="." line="246" column="68" />
+        <mark key="." line="305" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.cassandra/src/main/scala/de/audi/acdc/cassandra/cache/sto/DtcCodeToDisplayTroubleCodeRepositoryImpl.scala" timestamp="1562669391619">
         <mark key="'" line="58" column="31" />
@@ -244,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="8" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
       <jump line="392" column="14" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
       <jump line="393" column="82" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
       <jump line="395" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
@@ -344,10 +343,11 @@
       <jump line="557" column="36" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="8" column="19" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/KafkaStreamsApp.scala" />
       <jump line="31" column="48" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/src/main/scala/de/audi/acdc/normalizer/commons/KafkaStreamsApp.scala" />
+      <jump line="30" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[enrichment_normalizer]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXNvbHZlcnMgKz0gImNvbmZsdWVudC1yZXBvc2l0b3J5IiBhdCAiaHR0cDovL3BhY2thZ2VzLmNvbmZsdWVudC5pby9tYXZlbi8iLAo=</text>
       </register>
       <register name="-" type="4">
         <text>[enrichment_normalizer]</text>
@@ -359,7 +359,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0CmltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5hdG9taWMuQXRvbWljQm9vbGVhbgoKaW1wb3J0IG9yZy5hcGFjaGUua2Fma2Euc3RyZWFtcy5LYWZrYVN0cmVhbXMKaW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5CgppbXBvcnQgc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMuXwo=</text>
+        <text encoding="base64">ICByZXNvbHZlcnMgKz0gImNvbmZsdWVudC1yZXBvc2l0b3J5IiBhdCAiaHR0cDovL3BhY2thZ2VzLmNvbmZsdWVudC5pby9tYXZlbi8iLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -373,22 +373,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5UaW1lVW5pdAppbXBvcnQgamF2YS51dGlsLmNvbmN1cnJlbnQuYXRvbWljLkF0b21pY0Jvb2xlYW4KCmltcG9ydCBvcmcuYXBhY2hlLmthZmthLnN0cmVhbXMuS2Fma2FTdHJlYW1zCmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeQoKaW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLmF1ZGkuYWNkYy50cmFuc2Zvcm1lci5rYWZrYV9zdHJlYW1zLmNvbW1vbnMuXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuY29uY3VycmVudC5UaW1lVW5pdAppbXBvcnQgamF2YS51dGlsLmNvbmN1cnJlbnQuYXRvbWljLkF0b21pY0Jvb2xlYW4KCmltcG9ydCBvcmcuYXBhY2hlLmthZmthLnN0cmVhbXMuS2Fma2FTdHJlYW1zCmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeQoKaW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8UHJvcGVydGllcz4KICAgIDxQcm9wZXJ0eSBuYW1lPSJzdWJtb2R1bGUiPmFjZGM8L1Byb3BlcnR5PgogIDwvUHJvcGVydGllcz4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8UHJvcGVydGllcz4KICAgIDxQcm9wZXJ0eSBuYW1lPSJzdWJtb2R1bGUiPmFjZGM8L1Byb3BlcnR5PgogIDwvUHJvcGVydGllcz4KCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -407,7 +407,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8eGk6aW5jbHVkZSBocmVmPSJhcHBlbmRlcnMuZnJhZ21lbnQueG1sIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
