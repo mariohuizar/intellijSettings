@@ -66,11 +66,8 @@
         <mark key="'" line="194" column="8" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" timestamp="1563977277733">
-        <mark key="'" line="557" column="36" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="21" />
-        <mark key="^" line="561" column="4" />
-        <mark key="." line="561" column="4" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.0.0/acdc-core-domain-context-cm_2.11-11.0.0.jar!/de/audi/dc/cm/iface/proto/core/Campaign.class" timestamp="1562251420141">
         <mark key="'" line="2" column="138" />
