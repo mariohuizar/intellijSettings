@@ -171,10 +171,10 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/datastax/dse/dse-java-driver-core/1.6.9/dse-java-driver-core-1.6.9-sources.jar!/com/datastax/driver/core/querybuilder/QueryBuilder.java" timestamp="1561537999111">
         <mark key="'" line="290" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/src/main/scala/de/audi/acdc/normalizer/commons/KafkaStreamsApp.scala" timestamp="1563979086339">
-        <mark key="'" line="31" column="48" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/src/main/scala/de/audi/acdc/normalizer/commons/KafkaStreamsApp.scala" timestamp="1564054027569">
+        <mark key="'" line="23" column="12" />
         <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="47" />
+        <mark key="]" line="31" column="24" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="31" column="24" />
       </file>
@@ -231,8 +231,8 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" timestamp="1563966580459">
         <mark key="'" line="395" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/KafkaStreamsApp.scala" timestamp="1563978452347">
-        <mark key="'" line="8" column="19" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/KafkaStreamsApp.scala" timestamp="1564054035205">
+        <mark key="'" line="23" column="22" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="11" column="31" />
       </file>
@@ -241,10 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="14" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
-      <jump line="393" column="82" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
-      <jump line="395" column="33" filename="$USER_HOME$/.cache/coursier/v1/https/acdc-automation%40nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain_2.11/15.0.0/acdc-core-domain_2.11-15.0.0-sources.jar!/de/audi/acdc/domain/NormalizedSignal.scala" />
-      <jump line="80" column="0" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
       <jump line="245" column="23" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
       <jump line="578" column="9" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
       <jump line="591" column="8" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/build.sbt" />
@@ -341,10 +337,14 @@
       <jump line="8" column="19" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/KafkaStreamsApp.scala" />
       <jump line="31" column="48" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/src/main/scala/de/audi/acdc/normalizer/commons/KafkaStreamsApp.scala" />
       <jump line="30" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/build.sbt" />
+      <jump line="25" column="10" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/KafkaStreamsApp.scala" />
+      <jump line="25" column="8" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/src/main/scala/de/audi/acdc/normalizer/commons/KafkaStreamsApp.scala" />
+      <jump line="23" column="12" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.ulp/src/main/scala/de/audi/acdc/normalizer/commons/KafkaStreamsApp.scala" />
+      <jump line="23" column="22" filename="$USER_HOME$/Developer/acdc/acdc.transformer.kafka-streams/de.audi.acdc.transformer.kafka_streams.commons/src/main/scala/de/audi/acdc/transformer/kafka_streams/commons/KafkaStreamsApp.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXNvbHZlcnMgKz0gImNvbmZsdWVudC1yZXBvc2l0b3J5IiBhdCAiaHR0cDovL3BhY2thZ2VzLmNvbmZsdWVudC5pby9tYXZlbi8iLAo=</text>
+      <register name="&quot;" type="4">
+        <text>[enrichment_normalizer]</text>
       </register>
       <register name="-" type="4">
         <text>[enrichment_normalizer]</text>
