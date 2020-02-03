@@ -10,5 +10,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.scala</mask>
+    <mask>*.elm</mask>
   </component>
 </application>
