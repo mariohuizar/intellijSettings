@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="deployment" type="Groovy" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bml" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="rsdchunk" type="PLAIN_TEXT" />
