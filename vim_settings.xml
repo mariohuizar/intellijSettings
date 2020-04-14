@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxheU9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxyZXRyeVw+</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxjbGlja01hcmtlcldpdGhSZXRyaWVzXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdmdNYXJrdXBcPg==</entry>
         <entry encoding="base64">XDxtYXBPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</entry>
+        <entry encoding="base64">XDxHcm91cFw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -108,8 +108,10 @@
         <mark key="^" line="68" column="74" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" timestamp="1586279645389">
-        <mark key="'" line="33" column="29" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" timestamp="1586858101783">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" timestamp="1586425174461">
         <mark key="'" line="48" column="51" />
@@ -153,11 +155,11 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" timestamp="1586281122894">
         <mark key="'" line="7087" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586857137522">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="12" column="47" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586858089380">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/Drawer.elm" timestamp="1586281003324">
         <mark key="'" line="94" column="98" />
@@ -200,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="41" column="61" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="74" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="219" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="227" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
@@ -300,48 +300,50 @@
       <jump line="8" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
       <jump line="51" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="31" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="19" column="14" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnVpbGRNYXJrZXIgfSBmcm9tICcuLi8uLi8uLi9zcmMvanMvaGVyZW1hcC9UcmFqZWN0b3J5JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>buildMarker(fakePoint, true, true)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</text>
+        <text encoding="base64">XDxHcm91cFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>fakeMarker</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBtYXA6IHsKICAgIEdyb3VwOiAoKSA9PiBHcm91cE1vY2ssCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnVpbGRNYXJrZXIgfSBmcm9tICcuLi8uLi8uLi9zcmMvanMvaGVyZW1hcC9UcmFqZWN0b3J5JzsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmFrZVBvaW50ID0geyBsYXQ6IDAuMCwgbG5nOiAwLjAsIGFsdDogMC4wLCBjdHg6IG51bGwgfTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4cGVjdGVkTWFya2VyID0gbmV3IEgubWFwLk1hcmtlcih7bGF0OjQ4Ljg1NjcsIGxuZzoyLjM1MDh9KTsKICAgIGNvbnN0IHRlc3RNYXJrZXIgPSBuZXcgSC5tYXAuTWFya2VyKHtsYXQ6NDguODU2NywgbG5nOjIuMzUwOH0pOwogICAgZ2VvSnNvblN0eWxpbmcodGVzdE1hcmtlcik7CgogICAgZXhwZWN0Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYnVpbGRNYXJrZXIgfSBmcm9tICcuLi8uLi8uLi9zcmMvanMvaGVyZW1hcC9UcmFqZWN0b3J5JzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZmFrZVBvaW50ID0geyBsYXQ6IDAuMCwgbG5nOiAwLjAsIGFsdDogMC4wLCBjdHg6IG51bGwgfTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGV4cGVjdGVkTWFya2VyID0gbmV3IEgubWFwLk1hcmtlcih7bGF0OjQ4Ljg1NjcsIGxuZzoyLjM1MDh9KTsKICAgIGNvbnN0IHRlc3RNYXJrZXIgPSBuZXcgSC5tYXAuTWFya2VyKHtsYXQ6NDguODU2NywgbG5nOjIuMzUwOH0pOwogICAgZ2VvSnNvblN0eWxpbmcodGVzdE1hcmtlcik7CgogICAgZXhwZWN0Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaW5kVHJhamVjdG9yeVBvaW50QnlIaWdoZXN0T3JkZXJJZCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRMYXRlc3RUcmFqZWN0b3J5VGltZXN0YW1wLAo=</text>
+        <text encoding="base64">ICBmaW5kVHJhamVjdG9yeVBvaW50QnlIaWdoZXN0T3JkZXJJZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBidWlsZE1hcmtlciwK</text>
+        <text encoding="base64">ICBnZXRMYXRlc3RUcmFqZWN0b3J5VGltZXN0YW1wLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -350,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</last-search>
+      <last-search encoding="base64">XDxHcm91cFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxHcm91cFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
