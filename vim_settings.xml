@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGlja01hcmtlcldpdGhSZXRyaWVzXD4=</entry>
         <entry encoding="base64">XDx0cmFmZmljXD4=</entry>
         <entry encoding="base64">XDxkb2NrZXJMYXVuY2hPcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxQVVBQRVRFRVJfRE9DS0VSX0xBVU5DSF9PUFRJT05TXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxEb21JY29uXD4=</entry>
         <entry encoding="base64">XDxITW9ja1w+</entry>
         <entry encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</entry>
+        <entry encoding="base64">XDxnZW9Kc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -108,8 +108,8 @@
         <mark key="^" line="68" column="74" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" timestamp="1586867310581">
-        <mark key="'" line="19" column="6" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" timestamp="1586870215878">
+        <mark key="'" line="124" column="26" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="25" />
       </file>
@@ -152,11 +152,10 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" timestamp="1586281122894">
         <mark key="'" line="7087" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586869370615">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586870120506">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/Drawer.elm" timestamp="1586281003324">
         <mark key="'" line="94" column="98" />
@@ -202,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="251" column="25" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="57" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="252" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="77" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
@@ -302,6 +299,8 @@
       <jump line="29" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
       <jump line="60" column="25" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="21" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
+      <jump line="124" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +312,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</text>
+        <text encoding="base64">XDxnZW9Kc29uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>new H.map.Marker({lat:48.8567, lng:2.3508});</text>
@@ -352,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</last-search>
+      <last-search encoding="base64">XDxnZW9Kc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxnZW9Kc29uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
