@@ -155,12 +155,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" timestamp="1586281122894">
         <mark key="'" line="7087" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586864660675">
-        <mark key="'" line="17" column="35" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="16" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586864957801">
+        <mark key="'" line="27" column="6" />
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/Drawer.elm" timestamp="1586281003324">
         <mark key="'" line="94" column="98" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="39" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="47" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="211" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
@@ -303,21 +302,22 @@
       <jump line="11" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
       <jump line="19" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
       <jump line="17" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIERvbUljb246IChkb21FbGVtLCBvcHRpb25zKSA9PiAoeyBkb21FbGVtLCBvcHRpb25zIH0pLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>DomMarker</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEb21JY29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICBnbG9iYWwuSCA9IHsKICAgICAgICBtYXA6IHsKICAgICAgICAgIERvbUljb246IChkb21FbGVtLCBvcHRpb25zKSA9PiAoeyBkb21FbGVtLCBvcHRpb25zIH0pLAogICAgICAgICAgRG9tTWFya2VyOiAocG9pbnQsIGRhdGEpID0+ICh7IHBvaW50LCBkYXRhIH0pLAogICAgICAgIH0sCiAgICAgIH07CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgbm90IGNoYW5nZSB0aGUgbWFya2VyIHdpdGggbm8gcHJvcGVydGllcycsICgpID0+IHsKICAgICAgY29uc3QgZXhwZWN0ZWRNYXJrZXIgPSBuZXcgSC5tYXAuTWFya2VyKHtsYXQ6NDguODU2NywgbG5nOjIuMzUwOH0pOwogICAgICBjb25zdCBmYWtlTWFya2VyID0gbmV3IEgubWFwLk1hcmtlcih7bGF0OjQ4Ljg1NjcsIGxuZzoyLjM1MDh9KTsKICAgICAgZ2VvSnNvblN0eWxpbmcoZmFrZU1hcmtlcik7CgogICAgICBleHBlY3QoZmFrZU1hcmtlcikudG9FcXVhbChleHBlY3RlZE1hcmtlcik7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIERvbUljb246IChkb21FbGVtLCBvcHRpb25zKSA9PiAoeyBkb21FbGVtLCBvcHRpb25zIH0pLAo=</text>
