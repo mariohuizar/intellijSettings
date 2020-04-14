@@ -1,6 +1,40 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>number Of</entry>
+        <entry>Number of gener</entry>
+        <entry encoding="base64">XDxkZWxheU9wdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxyZXRyeVw+</entry>
+        <entry>console.log</entry>
+        <entry encoding="base64">XDxjbGlja01hcmtlcldpdGhSZXRyaWVzXD4=</entry>
+        <entry encoding="base64">XDx0cmFmZmljXD4=</entry>
+        <entry encoding="base64">XDxkb2NrZXJMYXVuY2hPcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxQVVBQRVRFRVJfRE9DS0VSX0xBVU5DSF9PUFRJT05TXD4=</entry>
+        <entry encoding="base64">XDxnZW9qc29uUG9ycGVydGllc1BvcHVwU2VsZWN0b3JcPg==</entry>
+        <entry encoding="base64">XDxnZW9qc29uXD4=</entry>
+        <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
+        <entry encoding="base64">XDxTZXRNYXJrZXJzXD4=</entry>
+        <entry encoding="base64">XDxjbHVzdGVySWRcPg==</entry>
+        <entry encoding="base64">XDxkYXRhUHJvdmlkZXJcPg==</entry>
+        <entry>reader</entry>
+        <entry>Icon</entry>
+        <entry>icon</entry>
+        <entry>replace</entry>
+        <entry encoding="base64">XDxzdmdNYXJrdXBcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
@@ -54,7 +88,275 @@
         <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Model.elm" timestamp="1586272110966">
+        <mark key="'" line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" timestamp="1586272384266">
+        <mark key="'" line="131" column="11" />
+        <mark key="[" line="135" column="18" />
+        <mark key="]" line="135" column="18" />
+        <mark key="." line="135" column="18" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Map.js" timestamp="1586165312460">
+        <mark key="'" line="17" column="9" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="68" column="74" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" timestamp="1586279645389">
+        <mark key="'" line="33" column="29" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" timestamp="1586425174461">
+        <mark key="'" line="48" column="51" />
+        <mark key="[" line="48" column="60" />
+        <mark key="]" line="48" column="87" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DebounceHelper.elm" timestamp="1585830395269">
+        <mark key="'" line="151" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/ServiceAPI/RESTClient.elm" timestamp="1585830211421">
+        <mark key="'" line="94" column="57" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="94" column="3" />
+        <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" timestamp="1586165193937">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1586450856511">
+        <mark key="'" line="11" column="19" />
+        <mark key="[" line="46" column="50" />
+        <mark key="]" line="46" column="51" />
+        <mark key="^" line="46" column="50" />
+        <mark key="." line="46" column="51" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Heremap.elm" timestamp="1586276031138">
+        <mark key="'" line="258" column="8" />
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="106" column="16" />
+        <mark key="^" line="106" column="16" />
+        <mark key="." line="106" column="16" />
+      </file>
+      <file name="$USER_HOME$/.elm/0.19.1/packages/elm/json/1.1.2/src/Json/Decode.elm" timestamp="1585840447558">
+        <mark key="'" line="377" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Msg.elm" timestamp="1586262319503">
+        <mark key="'" line="26" column="23" />
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" timestamp="1586281122894">
+        <mark key="'" line="7087" column="34" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/Drawer.elm" timestamp="1586281003324">
+        <mark key="'" line="94" column="98" />
+        <mark key="[" line="93" column="30" />
+        <mark key="]" line="93" column="47" />
+        <mark key="." line="93" column="47" />
+        <mark key="^" line="93" column="47" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Heatmap.js" timestamp="1586364274742">
+        <mark key="'" line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" timestamp="1586272102146">
+        <mark key="'" line="91" column="20" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+        <mark key="^" line="701" column="43" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Stream.elm" timestamp="1586262212435">
+        <mark key="'" line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" timestamp="1586253298332">
+        <mark key="'" line="35" column="43" />
+        <mark key="[" line="76" column="25" />
+        <mark key="]" line="76" column="40" />
+        <mark key="." line="76" column="25" />
+        <mark key="^" line="246" column="7" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1586850510667">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="76" column="81" />
+        <mark key="]" line="76" column="81" />
+        <mark key="." line="76" column="81" />
+        <mark key="^" line="76" column="81" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="229" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="236" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="244" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="49" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="213" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="46" column="16" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="48" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="220" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="212" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="45" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="205" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="41" column="61" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="74" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="219" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="227" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="234" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="39" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="47" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="211" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="248" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="251" column="25" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="57" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="252" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="77" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="137" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
+      <jump line="11" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
+      <jump line="242" column="46" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="254" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="69" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="76" column="37" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="80" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="70" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="246" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="53" column="30" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="197" column="2" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="225" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="35" column="43" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="263" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="9" column="21" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Stream.elm" />
+      <jump line="2" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="201" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="25" column="23" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Msg.elm" />
+      <jump line="11" column="17" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Stream.elm" />
+      <jump line="141" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="156" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="26" column="23" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Msg.elm" />
+      <jump line="264" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="353" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Heremap.elm" />
+      <jump line="266" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="105" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Heremap.elm" />
+      <jump line="104" column="16" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Heremap.elm" />
+      <jump line="258" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Heremap.elm" />
+      <jump line="91" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="22" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Model.elm" />
+      <jump line="61" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="135" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="108" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="127" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="123" column="30" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="139" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="131" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
+      <jump line="4" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="9" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="155" column="29" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="40" column="51" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="43" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="44" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="51" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="41" column="40" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="33" column="29" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
+      <jump line="1403" column="1" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="1461" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="3792" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="3869" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="3987" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4064" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4633" column="27" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4676" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4689" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4698" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4703" column="50" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4707" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="4776" column="22" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="7036" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="7046" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="7049" column="34" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="7063" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="7080" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="7084" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="7087" column="34" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
+      <jump line="32" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="57" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="115" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="26" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Heatmap.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="48" column="51" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
+      <jump line="52" column="14" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>9</text>
+      </register>
+      <register name="-" type="4">
+        <text>9</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzdmdNYXJrdXBcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjE0ODk3MTU1NzYxNzIsIDQ4Ljc2MjY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJDYW1lcmEgZGV0ZWN0aW9uIiwKICAgICAgICAgICJ0eXBlIjogIkJlYXIgZGV0ZWN0ZWQiLAogICAgICAgICAgImljb24tbmFtZSI6ICJwcmVzZW5zZSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJncmVlbiIsCiAgICAgICAgICAibGFuZCI6ICJHZXJtYW55IiwKICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjE0ODk3MTU1NzYxNzIsIDQ4Ljc2MjY5NTYzMTgzNzY5XSwKICAgICAgICAgICJiZWFyIjogewogICAgICAgICAgICAia2lkcyI6IFsiYnJ1bm8iLCAiYnJ1bmlzIiwgImJvYm8iXSwKICAgICAgICAgICAgInNvdW5kIjogInJvYXIiLAogICAgICAgICAgICAic3RhdGUiOiAiYW5ncnkiLAogICAgICAgICAgICAiYWdlIjogMTUKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJpZCI6ICJ0cmFmZmljIHNpZ24iCiAgICAgIH0sCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICJsYW5kIjogIkdlcm1hbnkiLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICJpY29uLWNvbG9yIjogImdyZWVuIiwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICJpY29uLW5hbWUiOiAicHJlc2Vuc2UiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICJiZWFyIjogewogICAgICAgICAgICAia2lkcyI6IFsiYnJ1bm8iLCAiYnJ1bmlzIiwgImJvYm8iXSwKICAgICAgICAgICAgInNvdW5kIjogInJvYXIiLAogICAgICAgICAgICAic3RhdGUiOiAiYW5ncnkiLAogICAgICAgICAgICAiYWdlIjogMTUKICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjE0ODk3MTU1NzYxNzIsIDQ4Ljc2MjY5NTYzMTgzNzY5XSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJ3ByZXNlbnNlJy5sb2NhbGVDb21wYXJlKG1hcE9iamVjdC5nZXREYXRhKCkucHJvcGVydGllc1snaWNvbi1uYW1lJ10pID09PSAwKSB7CiAgICAgICAgICBjb25zdCBpY29uQ29sb3IgPSBtYXBPYmplY3QuZ2V0RGF0YSgpLnByb3BlcnRpZXNbJ2ljb24tY29sb3InXTsKICAgICAgICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsKICAgICAgICAgICAgY29uc3QgaWNvbiA9IG5ldyBILm1hcC5JY29uKHNlbnNlSWNvblN2Zy5yZXBsYWNlKC9ce2NvbG9yXH0vZywgaWNvbkNvbG9yKSk7CiAgICAgICAgICAgIG1hcE9iamVjdC5zZXRJY29uKGljb24pOwogICAgICAgICAgfQogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKCdzdGFydF9zdG9wJy5sb2NhbGVDb21wYXJlKG1hcE9iamVjdC5nZXREYXRhKCkucHJvcGVydGllc1snaWNvbi1uYW1lJ10pID09PSAwKSB7CiAgICAgICAgICBjb25zdCBpY29uQ29sb3IgPSBtYXBPYmplY3QuZ2V0RGF0YSgpLnByb3BlcnRpZXNbJ2ljb24tY29sb3InXTsKICAgICAgICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsKICAgICAgICAgICAgY29uc3QgaWNvbiA9IG5ldyBILm1hcC5JY29uKHBvd2VySWNvblN2Zy5yZXBsYWNlKC9ce2NvbG9yXH0vZywgaWNvbkNvbG9yKSk7CiAgICAgICAgICAgIG1hcE9iamVjdC5zZXRJY29uKGljb24pOwogICAgICAgICAgfQogICAgICAgIH0gZWxzZSA=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKG1hcE9iamVjdCBpbnN0YW5jZW9mIEgubWFwLlBvbHlnb24pIHsKICAgICAgICBtYXBPYmplY3Quc2V0U3R5bGUoewogICAgICAgICAgZmlsbENvbG9yOiAncmdiYSgxNTMsIDAsIDE1MywgMC41KScsCiAgICAgICAgICBzdHJva2VDb2xvcjogJ3JnYmEoMCwgMCwgMTAyLCAwLjUpJywKICAgICAgICAgIGxpbmVXaWR0aDogMwogICAgICAgIH0pOwogICAgICB9IGVsc2Ug</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxzdmdNYXJrdXBcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzdmdNYXJrdXBcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>webpack</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
