@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Number of gener</entry>
         <entry encoding="base64">XDxkZWxheU9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxyZXRyeVw+</entry>
         <entry>console.log</entry>
@@ -25,6 +24,7 @@
         <entry>replace</entry>
         <entry encoding="base64">XDxzdmdNYXJrdXBcPg==</entry>
         <entry encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</entry>
+        <entry encoding="base64">XDxtYXBPYmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" timestamp="1586281122894">
         <mark key="'" line="7087" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586852399062">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586852532240">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/Drawer.elm" timestamp="1586281003324">
         <mark key="'" line="94" column="98" />
@@ -186,13 +186,13 @@
         <mark key="." line="76" column="25" />
         <mark key="^" line="246" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" timestamp="1586852262156">
-        <mark key="'" line="6" column="29" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" timestamp="1586853238810">
+        <mark key="'" line="11" column="23" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1586851853608">
-        <mark key="'" line="97" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1586853000963">
+        <mark key="'" line="60" column="6" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
@@ -200,9 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="220" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="212" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="45" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="205" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="41" column="61" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
@@ -262,7 +259,6 @@
       <jump line="40" column="51" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="43" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="44" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="51" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="41" column="40" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="33" column="29" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
       <jump line="1403" column="1" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
@@ -293,13 +289,17 @@
       <jump line="48" column="51" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="82" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="105" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="52" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="76" column="67" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="231" column="29" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/coverage/lcov-report/js/heremap/GenericEvents.js.html" />
-      <jump line="31" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="97" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="122" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
       <jump line="6" column="29" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
+      <jump line="76" column="67" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="31" column="30" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="51" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="52" column="24" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="55" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="60" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="11" column="23" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +311,7 @@
         <text>icon</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</text>
+        <text encoding="base64">XDxtYXBPYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVzY3JpYmUoJ1RyYWplY3RvcnknLCAoKSA9PiB7CiAgZGVzY3JpYmUoJ2J1aWxkIG1hcmtlcicsICgpID0+IHsK</text>
@@ -350,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</last-search>
+      <last-search encoding="base64">XDxtYXBPYmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBPYmplY3RcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
