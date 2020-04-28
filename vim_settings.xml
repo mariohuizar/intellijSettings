@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFmZmljXD4=</entry>
         <entry encoding="base64">XDxkb2NrZXJMYXVuY2hPcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxQVVBQRVRFRVJfRE9DS0VSX0xBVU5DSF9PUFRJT05TXD4=</entry>
         <entry encoding="base64">XDxnZW9qc29uUG9ycGVydGllc1BvcHVwU2VsZWN0b3JcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxITW9ja1w+</entry>
         <entry encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</entry>
         <entry encoding="base64">XDxnZW9Kc29uXD4=</entry>
+        <entry encoding="base64">XDxzZW5zZUljb25TdmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -192,16 +192,15 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588086355230">
-        <mark key="'" line="64" column="25" />
-        <mark key="[" line="46" column="86" />
-        <mark key="]" line="46" column="86" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588089333250">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="43" column="21" />
         <mark key="." line="46" column="85" />
         <mark key="^" line="46" column="86" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="252" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="77" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="137" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
@@ -301,21 +300,22 @@
       <jump line="54" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
       <jump line="124" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
       <jump line="197" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
+      <jump line="38" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(runningInDocker ? test.skip : test)</text>
+        <text>defaultIconSvg</text>
       </register>
       <register name="-" type="4">
         <text>(runningInDocker ? test.skip : test)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW9Kc29uXD4=</text>
+        <text encoding="base64">XDxzZW5zZUljb25TdmdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>(runningInDocker ? test.skip : test)</text>
+        <text>defaultIconSvg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGl0Lm9ubHkoJ3Nob3VsZCBjaGFuZ2UgdGhlIHN0YXJ0LXN0b3AgbWFya2VyJywgKCkgPT4gewogICAgICBjb25zdCBleHBlY3RlZE1hcmtlciA9IG5ldyBILm1hcC5NYXJrZXIoe2xhdDo0OC44NTY3LCBsbmc6Mi4zNTA4fSk7CiAgICAgIGNvbnN0IGZha2VNYXJrZXIgPSBuZXcgSC5tYXAuTWFya2VyKHtsYXQ6NDguODU2NywgbG5nOjIuMzUwOH0pOwogICAgICBnZW9Kc29uU3R5bGluZyhmYWtlTWFya2VyKTsKCiAgICAgIGV4cGVjdChmYWtlTWFya2VyKS50b0VxdWFsKGV4cGVjdGVkTWFya2VyKTsKICAgIH0pOwoK</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZW9Kc29uXD4=</last-search>
+      <last-search encoding="base64">XDxzZW5zZUljb25TdmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW9Kc29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5zZUljb25TdmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
