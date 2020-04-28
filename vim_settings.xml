@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb2NrZXJMYXVuY2hPcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxQVVBQRVRFRVJfRE9DS0VSX0xBVU5DSF9PUFRJT05TXD4=</entry>
         <entry encoding="base64">XDxnZW9qc29uUG9ycGVydGllc1BvcHVwU2VsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxnZW9qc29uXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</entry>
         <entry encoding="base64">XDxnZW9Kc29uXD4=</entry>
         <entry encoding="base64">XDxzZW5zZUljb25TdmdcPg==</entry>
+        <entry encoding="base64">XDxpY29uTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -192,16 +192,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588089333250">
-        <mark key="'" line="38" column="8" />
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="43" column="21" />
-        <mark key="." line="46" column="85" />
-        <mark key="^" line="46" column="86" />
-      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588091882322" />
     </filemarks>
     <jumps>
-      <jump line="252" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="77" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="137" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="11" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
@@ -301,48 +294,49 @@
       <jump line="124" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
       <jump line="197" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="38" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="62" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>defaultIconSvg</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(runningInDocker ? test.skip : test)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5zZUljb25TdmdcPg==</text>
+        <text encoding="base64">XDxpY29uTmFtZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>defaultIconSvg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFsncHJlc2Vuc2UnLCBzZW5zZUljb25TdmddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0Lm9ubHkoJ3Nob3VsZCBjaGFuZ2UgdGhlIHN0YXJ0LXN0b3AgbWFya2VyJywgKCkgPT4gewogICAgICBjb25zdCBleHBlY3RlZE1hcmtlciA9IG5ldyBILm1hcC5NYXJrZXIoe2xhdDo0OC44NTY3LCBsbmc6Mi4zNTA4fSk7CiAgICAgIGNvbnN0IGZha2VNYXJrZXIgPSBuZXcgSC5tYXAuTWFya2VyKHtsYXQ6NDguODU2NywgbG5nOjIuMzUwOH0pOwogICAgICBnZW9Kc29uU3R5bGluZyhmYWtlTWFya2VyKTsKCiAgICAgIGV4cGVjdChmYWtlTWFya2VyKS50b0VxdWFsKGV4cGVjdGVkTWFya2VyKTsKICAgIH0pOwoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXN0ID0gbmV3IEgubWFwLk1hcmtlcih7bGF0OjQ4Ljg1NjcsIGxuZzoyLjM1MDh9KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHRhZG8gPSB0ZXN0IGluc3RhbmNlb2YgSC5tYXAuTWFya2VyOwogIGNvbnN0IGFyZXN1bHQgPSBtYXBPYmplY3QgaW5zdGFuY2VvZiBILm1hcC5NYXJrZXI7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgIG1hcDogewogICAgICAgICAgTWFya2VyOiAocG9pbnQsIGRhdGEpID0+ICh7IHBvaW50LCBkYXRhIH0pLAogICAgICAgICAgSWNvbjogKHN2ZywgY29sb3IpID0+ICh7IHN2ZywgY29sb3IgfSksCiAgICAgICAgfSwKICAgICAgfTs=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgIG1hcDogewogICAgICAgICAgTWFya2VyOiAocG9pbnQsIGRhdGEpID0+ICh7IHBvaW50LCBkYXRhIH0pLAogICAgICAgICAgSWNvbjogKHN2ZywgY29sb3IpID0+ICh7IHN2ZywgY29sb3IgfSksCiAgICAgICAgfSwKICAgICAgfTs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIERvbUljb246IChkb21FbGVtLCBvcHRpb25zKSA9PiAoeyBkb21FbGVtLCBvcHRpb25zIH0pLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgSE1vY2sgPSB7CiAgbWFwOiB7CiAgICBHcm91cDogKCkgPT4gR3JvdXBNb2NrLAogIH0sCn07Cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbWFwT2JqZWN0LnNldEljb24oaWNvbik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIChpY29uTmFtZS5sb2NhbGVDb21wYXJlKGljb25OYW1lKSA9PT0gMCkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYnVpbGRNYXJrZXIgfSBmcm9tICcuLi8uLi8uLi9zcmMvanMvaGVyZW1hcC9UcmFqZWN0b3J5JzsK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZU1hcmtlckljb24oJ3ByZXNlbnNlJywgc2Vuc2VJY29uU3ZnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -351,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZW5zZUljb25TdmdcPg==</last-search>
+      <last-search encoding="base64">XDxpY29uTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5zZUljb25TdmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpY29uTmFtZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
