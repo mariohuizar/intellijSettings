@@ -181,12 +181,11 @@
         <mark key="." line="254" column="7" />
         <mark key="^" line="254" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588255939341">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="78" column="35" />
-        <mark key="]" line="78" column="35" />
-        <mark key="." line="78" column="35" />
-        <mark key="^" line="78" column="36" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588258849805">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -294,8 +293,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/assets</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>/assets</text>
@@ -307,31 +306,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJURVNUIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzLik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmlsZXMgPSBmcy5yZWFkZGlyU3luYygnL2Fzc2V0cy9waG90b3MvJyk7CiAgICAgIGNvbnNvbGUubG9nKGZpbGVzKTsK</text>
+        <text encoding="base64">ICAgIGZpbGVzLmZvckVhY2goIGUgPT4gY29uc29sZS5sb2coZSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbGVzID0gZnMucmVhZGRpclN5bmMoJy4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgZmlsZXMgPSBmcy5yZWFkZGlyU3luYygnL2Fzc2V0cy9waG90b3MvJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJURVNUMiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJURVNUIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnMuYWNjZXNzKCcvZXRjL3Bhc3N3ZCcsIGZzLmNvbnN0YW50cy5SX09LIHwgZnMuY29uc3RhbnRzLldfT0ssIChlcnIpID0+IHsKICBjb25zb2xlLmxvZyhlcnIgPyAnbm8gYWNjZXNzIScgOiAnY2FuIHJlYWQvd3JpdGUnKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzLik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnMuYWNjZXNzKCcvZXRjL3Bhc3N3ZCcsIGZzLmNvbnN0YW50cy5SX09LIHwgZnMuY29uc3RhbnRzLldfT0ssIChlcnIpID0+IHsKICBjb25zb2xlLmxvZyhlcnIgPyAnbm8gYWNjZXNzIScgOiAnY2FuIHJlYWQvd3JpdGUnKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZmlsZXMgPSBmcy5yZWFkZGlyU3luYygnL2Fzc2V0cy9waG90b3MvJyk7CiAgICAgIGNvbnNvbGUubG9nKGZpbGVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnMuYWNjZXNzKCcvZXRjL3Bhc3N3ZCcsIGZzLmNvbnN0YW50cy5SX09LIHwgZnMuY29uc3RhbnRzLldfT0ssIChlcnIpID0+IHsKICBjb25zb2xlLmxvZyhlcnIgPyAnbm8gYWNjZXNzIScgOiAnY2FuIHJlYWQvd3JpdGUnKTsKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZzLmFjY2VzcygnL2V0Yy9wYXNzd2QnLCBmcy5jb25zdGFudHMuUl9PSyB8IGZzLmNvbnN0YW50cy5XX09LLCAoZXJyKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVyciA/ICdubyBhY2Nlc3MhJyA6ICdjYW4gcmVhZC93cml0ZScpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICB2YXIgZmlsZXMgPSBmcy5yZWFkZGlyU3luYygnL2Fzc2V0cy9waG90b3MvJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
