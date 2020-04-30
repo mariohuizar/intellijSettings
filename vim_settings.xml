@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
-        <entry encoding="base64">XDxTZXRNYXJrZXJzXD4=</entry>
-        <entry encoding="base64">XDxjbHVzdGVySWRcPg==</entry>
-        <entry encoding="base64">XDxkYXRhUHJvdmlkZXJcPg==</entry>
         <entry>reader</entry>
         <entry>Icon</entry>
         <entry>icon</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>icon-name</entry>
         <entry encoding="base64">XDxwb3dlckljb25TdmdcPg==</entry>
+        <entry encoding="base64">XDxmaWxsXD4=</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry>fill</entry>
+        <entry encoding="base64">XDxhM2J4VGlpRjdyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -101,13 +101,6 @@
         <mark key="]" line="135" column="18" />
         <mark key="." line="135" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Map.js" timestamp="1586165312460">
-        <mark key="'" line="17" column="9" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="68" column="74" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" timestamp="1586870215878">
         <mark key="'" line="124" column="26" />
         <mark key="[" line="69" column="0" />
@@ -118,17 +111,20 @@
         <mark key="[" line="48" column="60" />
         <mark key="]" line="48" column="87" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" timestamp="1586165193937">
-        <mark key="'" line="47" column="2" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="15" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" timestamp="1588251105214">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588237721675">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/startstoppPosition.svg" timestamp="1588249776597">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Heremap.elm" timestamp="1586276031138">
         <mark key="'" line="258" column="8" />
@@ -140,13 +136,6 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/coverage/lcov-report/js/heremap/GenericEvents.js.html" timestamp="1586851484330">
         <mark key="'" line="231" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Msg.elm" timestamp="1586262319503">
-        <mark key="'" line="26" column="23" />
-        <mark key="[" line="57" column="29" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" timestamp="1586281122894">
         <mark key="'" line="7087" column="34" />
       </file>
@@ -154,6 +143,13 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" timestamp="1588250881792">
+        <mark key="'" line="4" column="26" />
+        <mark key="[" line="2" column="202" />
+        <mark key="]" line="2" column="207" />
+        <mark key="." line="2" column="206" />
+        <mark key="^" line="2" column="207" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/Drawer.elm" timestamp="1586281003324">
         <mark key="'" line="94" column="98" />
@@ -175,8 +171,12 @@
         <mark key="." line="242" column="0" />
         <mark key="^" line="701" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Stream.elm" timestamp="1586262212435">
-        <mark key="'" line="11" column="17" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/default.svg" timestamp="1588250563176">
+        <mark key="'" line="0" column="84" />
+        <mark key="[" line="0" column="299" />
+        <mark key="]" line="0" column="299" />
+        <mark key="." line="0" column="299" />
+        <mark key="^" line="0" column="63" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" timestamp="1586873261964">
         <mark key="'" line="197" column="28" />
@@ -190,22 +190,15 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588242967627">
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588250385943">
         <mark key="'" line="55" column="19" />
-        <mark key="[" line="34" column="98" />
-        <mark key="]" line="35" column="5" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="46" column="62" />
         <mark key="^" line="35" column="5" />
         <mark key="." line="35" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="76" column="37" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="80" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="70" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="246" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="53" column="30" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="225" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="35" column="43" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="263" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
       <jump line="9" column="21" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Stream.elm" />
@@ -299,48 +292,55 @@
       <jump line="14" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="33" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="57" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/startstoppPosition.svg" />
+      <jump line="0" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" />
+      <jump line="0" column="84" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/default.svg" />
+      <jump line="2" column="2" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" />
+      <jump line="0" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" />
+      <jump line="3" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" />
+      <jump line="5" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICc8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPlxuJyArCg==</text>
+      <register name="&quot;" type="4">
+        <text>white</text>
       </register>
       <register name="-" type="4">
-        <text>green</text>
+        <text>white</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3dlckljb25TdmdcPg==</text>
+        <text encoding="base64">XDxhM2J4VGlpRjdyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>nameToIcon.get(actualIconName)</text>
+        <text>fill=&quot;white&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICc8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPlxuJyArCg==</text>
+        <text encoding="base64">ICA8Zz4KICAgIDxnPgogICAgICA8Zz4KICAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNhM2J4VGlpRjdyIiBvcGFjaXR5PSIxIiBmaWxsPSIjMzZjMmJhIiBmaWxsLW9wYWNpdHk9IjEiPjwvdXNlPgogICAgICA8L2c+CiAgICAgIDxnPgogICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI2VRem5uc0RDayIgb3BhY2l0eT0iMSIgZmlsbD0iIzAwMDAwMCIgZmlsbC1vcGFjaXR5PSIxIj48L3VzZT4KICAgICAgICA8Zz4KICAgICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI2VRem5uc0RDayIgb3BhY2l0eT0iMSIgZmlsbC1vcGFjaXR5PSIwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMSIKICAgICAgICAgICAgICAgc3Ryb2tlLW9wYWNpdHk9IjAiPjwvdXNlPgogICAgICAgIDwvZz4KICAgICAgPC9nPgogICAgPC9nPgogIDwvZz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICc8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCIgc3RhbmRhbG9uZT0ibm8iPz5cbicgKwo=</text>
+        <text encoding="base64">ICA8L2RlZnM+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiICcgKwogICAgJ3ZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJ7Y29sb3J9Ii8+JyArCiAgICAnPHBhdGggZD0iTTEzIDNoLTJ2MTBoMlYzem00LjgzIDIuMTdsLTEuNDIgMS40MkMxNy45OSA3Ljg2IDE5IDkuODEgMTkgMTJjMCAzLjg3LTMuMTMgNy03JyArCiAgICAnIDdzLTctMy4xMy03LTdjMC0yLjE5IDEuMDEtNC4xNCAyLjU4LTUuNDJMNi4xNyA1LjE3QzQuMjMgNi44MiAzIDkuMjYgMyAxMmMwIDQuOTcgNC4wMyA5IDknICsKICAgICcgOXM5LTQuMDMgOS05YzAtMi43NC0xLjIzLTUuMTgtMy4xNy02LjgzeiIvPjwvc3ZnPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8ZGVmcz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJpY29uLWNvbG9yIjogImJsdWUiLAo=</text>
+        <text encoding="base64">ICA8cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJpY29uLW5hbWUiOiAic3Rhc2RsO2tqYXNhcnRfc3RvcCIsCg==</text>
+        <text encoding="base64">ICAgICc8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPlxuJyArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICc8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCIgc3RhbmRhbG9uZT0ibm8iPz5cbicgKwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiICcgKwogICAgJ3ZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJ7Y29sb3J9Ii8+JyArCiAgICAnPHBhdGggZD0iTTEzIDNoLTJ2MTBoMlYzem00LjgzIDIuMTdsLTEuNDIgMS40MkMxNy45OSA3Ljg2IDE5IDkuODEgMTkgMTJjMCAzLjg3LTMuMTMgNy03JyArCiAgICAnIDdzLTctMy4xMy03LTdjMC0yLjE5IDEuMDEtNC4xNCAyLjU4LTUuNDJMNi4xNyA1LjE3QzQuMjMgNi44MiAzIDkuMjYgMyAxMmMwIDQuOTcgNC4wMyA5IDknICsKICAgICcgOXM5LTQuMDMgOS05YzAtMi43NC0xLjIzLTUuMTgtMy4xNy02LjgzeiIvPjwvc3ZnPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICJpY29uLWNvbG9yIjogImJsdWUiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICJpY29uLW5hbWUiOiAic3Rhc2RsO2tqYXNhcnRfc3RvcCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -349,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwb3dlckljb25TdmdcPg==</last-search>
+      <last-search encoding="base64">XDxhM2J4VGlpRjdyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3dlckljb25TdmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhM2J4VGlpRjdyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
