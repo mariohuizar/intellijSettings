@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQVVBQRVRFRVJfRE9DS0VSX0xBVU5DSF9PUFRJT05TXD4=</entry>
-        <entry encoding="base64">XDxnZW9qc29uUG9ycGVydGllc1BvcHVwU2VsZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxnZW9qc29uXD4=</entry>
         <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxTZXRNYXJrZXJzXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxnZW9Kc29uXD4=</entry>
         <entry encoding="base64">XDxzZW5zZUljb25TdmdcPg==</entry>
         <entry encoding="base64">XDxpY29uTmFtZVw+</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry>icon-name</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -125,12 +125,10 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588232555057">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="28" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588234458873">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Heremap.elm" timestamp="1586276031138">
         <mark key="'" line="258" column="8" />
@@ -192,7 +190,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588232275741">
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588233962591">
         <mark key="[" line="76" column="38" />
         <mark key="]" line="76" column="46" />
         <mark key="." line="76" column="45" />
@@ -304,8 +302,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>green</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICJpY29uLWNvbG9yIjogImJsdWUiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>green</text>
@@ -317,13 +315,13 @@
         <text>nameToIcon.get(actualIconName)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJpY29uLWNvbG9yIjogImJsdWUiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICJpY29uLW5hbWUiOiAic3Rhc2RsO2tqYXNhcnRfc3RvcCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -332,16 +330,16 @@
         <text encoding="base64">ICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWFwT2JqZWN0LnNldEljb24oaWNvbik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0NvbG9yKGljb25Db2xvcikpIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpY29uTmFtZS5sb2NhbGVDb21wYXJlKGljb25OYW1lKSA9PT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgbWFwT2JqZWN0LnNldEljb24oaWNvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU1hcmtlckljb24oJ3ByZXNlbnNlJywgc2Vuc2VJY29uU3ZnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
