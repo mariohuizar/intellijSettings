@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW9qc29uXD4=</entry>
         <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxTZXRNYXJrZXJzXD4=</entry>
         <entry encoding="base64">XDxjbHVzdGVySWRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpY29uTmFtZVw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry>icon-name</entry>
+        <entry encoding="base64">XDxwb3dlckljb25TdmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -190,7 +190,8 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588233962591">
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588242463407">
+        <mark key="'" line="57" column="19" />
         <mark key="[" line="76" column="38" />
         <mark key="]" line="76" column="46" />
         <mark key="." line="76" column="45" />
@@ -198,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="69" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="76" column="37" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="80" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
@@ -261,7 +261,6 @@
       <jump line="7084" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="7087" column="34" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="32" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="57" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="115" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="26" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Heatmap.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
@@ -298,6 +297,8 @@
       <jump line="29" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="63" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="14" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
+      <jump line="33" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
+      <jump line="57" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +310,7 @@
         <text>green</text>
       </register>
       <register name="/" type="4">
-        <text>icon-name</text>
+        <text encoding="base64">XDxwb3dlckljb25TdmdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>nameToIcon.get(actualIconName)</text>
@@ -348,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>icon-name</last-search>
+      <last-search encoding="base64">XDxwb3dlckljb25TdmdcPg==</last-search>
       <last-offset />
-      <last-pattern>icon-name</last-pattern>
+      <last-pattern encoding="base64">XDxwb3dlckljb25TdmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
