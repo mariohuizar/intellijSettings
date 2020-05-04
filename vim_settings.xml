@@ -108,10 +108,10 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" timestamp="1588592931321">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="188" column="28" />
-        <mark key="]" line="188" column="28" />
-        <mark key="." line="188" column="34" />
-        <mark key="^" line="188" column="9" />
+        <mark key="[" line="180" column="28" />
+        <mark key="]" line="180" column="28" />
+        <mark key="." line="180" column="34" />
+        <mark key="^" line="180" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/ev_station.svg" timestamp="1588592049825">
         <mark key="[" line="4" column="4" />
@@ -137,12 +137,12 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588594073803">
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588594133646">
         <mark key="'" line="83" column="24" />
-        <mark key="[" line="80" column="51" />
-        <mark key="]" line="80" column="52" />
-        <mark key="^" line="84" column="32" />
-        <mark key="." line="80" column="52" />
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/startstoppPosition.svg" timestamp="1588249776597">
         <mark key="'" line="1" column="0" />
@@ -313,7 +313,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -325,7 +325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN0YXVyYW50XD4=</text>
