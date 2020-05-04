@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>replace</entry>
         <entry encoding="base64">XDxzdmdNYXJrdXBcPg==</entry>
         <entry encoding="base64">XDxtYXBPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxHcm91cFw+</entry>
@@ -25,6 +24,7 @@
         <entry>assets</entry>
         <entry encoding="base64">XDxmc1w+</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry>color</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -92,10 +92,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" timestamp="1588266104339">
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" timestamp="1588584310470">
         <mark key="'" line="65" column="2" />
-        <mark key="[" line="45" column="2" />
-        <mark key="]" line="45" column="2" />
+        <mark key="[" line="46" column="15" />
+        <mark key="]" line="46" column="29" />
         <mark key="." line="45" column="1" />
         <mark key="^" line="45" column="2" />
       </file>
@@ -104,10 +104,8 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" timestamp="1586425174461">
-        <mark key="'" line="48" column="51" />
-        <mark key="[" line="48" column="60" />
-        <mark key="]" line="48" column="87" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" timestamp="1588256257590">
+        <mark key="'" line="166" column="53" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" timestamp="1588259249063">
         <mark key="'" line="4" column="10" />
@@ -119,26 +117,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" timestamp="1588265282423">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/coverage/lcov-report/js/heremap/GenericEvents.js.html" timestamp="1586851484330">
-        <mark key="'" line="231" column="29" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1586868944815">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Heatmap.js" timestamp="1586364274742">
-        <mark key="'" line="26" column="19" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/node_modules/@types/node/fs.d.ts" timestamp="1588255517331" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" timestamp="1588256246449">
-        <mark key="'" line="186" column="53" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" timestamp="1586864501809">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="15" column="7" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" timestamp="1588256257590">
-        <mark key="'" line="166" column="53" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" timestamp="1588584311860">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588237721675">
         <mark key="[" line="14" column="0" />
@@ -147,6 +131,12 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/startstoppPosition.svg" timestamp="1588249776597">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/presense.svg" timestamp="1588583951520">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" timestamp="1586870120506">
         <mark key="[" line="23" column="0" />
@@ -167,12 +157,29 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1586868944815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" timestamp="1588256246449">
+        <mark key="'" line="186" column="53" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/default.svg" timestamp="1588584101301">
+        <mark key="[" line="0" column="292" />
+        <mark key="]" line="0" column="299" />
+        <mark key="^" line="0" column="299" />
+        <mark key="." line="0" column="298" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/default.svg" timestamp="1588251280127">
         <mark key="'" line="0" column="84" />
         <mark key="[" line="0" column="40" />
         <mark key="]" line="0" column="81" />
         <mark key="." line="0" column="299" />
         <mark key="^" line="0" column="63" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" timestamp="1586864501809">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" timestamp="1586873261964">
         <mark key="'" line="197" column="28" />
@@ -181,17 +188,15 @@
         <mark key="." line="254" column="7" />
         <mark key="^" line="254" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588261815479">
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588583999361">
         <mark key="'" line="1" column="30" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="1" column="44" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="33" />
+        <mark key="^" line="41" column="33" />
+        <mark key="." line="41" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
-      <jump line="131" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/DataTypes.elm" />
       <jump line="4" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="6" column="21" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="9" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
@@ -290,12 +295,14 @@
       <jump line="61" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" />
       <jump line="64" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" />
       <jump line="65" column="2" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="45" column="30" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" />
+      <jump line="3" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Kmdlb2pzb24qIA==</text>
+        <text encoding="base64">PjwvcGF0aD4gPC9zdmc+</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -307,27 +314,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Kmdlb2pzb24qIA==</text>
+        <text>{color}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoXD4=</text>
+        <text>color</text>
       </register>
       <register name="0" type="4">
-        <text>preSenseIconSvg</text>
+        <text encoding="base64">PjwvcGF0aD4gPC9zdmc+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VGhpcyBpcyBnZW9qc29uIGZvcm1hdC4gCg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="49" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="67" mods="130" />
-        </keys>
+        <text>f'DJx</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
+      <last-search>color</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
+      <last-pattern>color</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
