@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEb21JY29uXD4=</entry>
-        <entry encoding="base64">XDxITW9ja1w+</entry>
-        <entry encoding="base64">XDxnZW9Kc29uU3R5bGluZ1w+</entry>
-        <entry encoding="base64">XDxnZW9Kc29uXD4=</entry>
         <entry encoding="base64">XDxzZW5zZUljb25TdmdcPg==</entry>
         <entry encoding="base64">XDxpY29uTmFtZVw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxkZWZhdWx0SWNvblN2Z1w+</entry>
         <entry encoding="base64">XDxwcmVTZW5zZUljb25TdmdcPg==</entry>
         <entry>Icon</entry>
+        <entry>ev_st</entry>
+        <entry>local_atm</entry>
+        <entry>restaurant</entry>
+        <entry encoding="base64">XDxyZXN0YXVyYW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -137,11 +137,12 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588593445000">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="63" column="31" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588594073803">
+        <mark key="'" line="83" column="24" />
+        <mark key="[" line="80" column="51" />
+        <mark key="]" line="80" column="52" />
+        <mark key="^" line="84" column="32" />
+        <mark key="." line="80" column="52" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/startstoppPosition.svg" timestamp="1588249776597">
         <mark key="'" line="1" column="0" />
@@ -207,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3792" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="3869" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="3987" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="4064" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="4633" column="27" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
@@ -256,9 +255,7 @@
       <jump line="197" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
       <jump line="38" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="62" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="27" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="29" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
-      <jump line="63" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="14" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="33" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="57" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
@@ -307,12 +304,16 @@
       <jump line="103" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/traffic.svg" />
+      <jump line="27" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
+      <jump line="28" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
+      <jump line="63" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
+      <jump line="83" column="24" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogInRyYWZmaWMgc2lnbiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -324,16 +325,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Icon</text>
+        <text encoding="base64">XDxyZXN0YXVyYW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MTczODk3MTU1NzYxNzIsIDQ4Ljc3MTY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImV2X3N0YXRpb24iLAogICAgICAgICAgImljb24tY29sb3IiOiAiY3lhbiIsCiAgICAgICAgICAicG9zaXRpb24iOiBbMTEuNDE3Mzg5NzE1NTc2MTcyLCA0OC43NzE2OTU2MzE4Mzc2OV0KICAgICAgICB9LAogICAgICAgICJpZCI6ICJ0cmFmZmljIHNpZ24iCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAiaWNvbi1uYW1lIjogInN0YXJ0X3N0b3AiLAogICAgICAgICAgImljb24tY29sb3IiOiAiYmx1ZSIsCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogInRyYWZmaWMgc2lnbiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -347,28 +348,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJsYW5kIjogIkdlcm1hbnkiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogIldhcm5pbmc6IHdpbGQgYW5pbWFscyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJ0cmFmZmljIHNpZ24iLAogICAgICAgICAgInR5cGUiOiAiV2FybmluZzogd2lsZCBhbmltYWxzIiwKICAgICAgICAgICJsYW5kIjogIkdlcm1hbnkiLAogICAgICAgICAgImljb24tbmFtZSI6ICJzdGFydF9zdG9wIiwKICAgICAgICAgICJpY29uLWNvbG9yIjogImJsdWUiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyNzMyNjIwMjM5MjU3OCwgNDguNzYxMzk0MzI1NDYzMzVdCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjIzODk3MTU1NzYxNzIsIDQ4Ljc3MzY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImxvY2FsX2F0bSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJvcmFuZ2UiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyMjM4OTcxNTU3NjE3MiwgNDguNzczNjk1NjMxODM3NjldCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fCBwcmVzZW5zZSAgIHwgIVtwcmVzZW5zZV0oZG9jcy9wcmVzZW5zZS5zdmcpICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbJ3ByZXNlbnNlJywgcHJlU2Vuc2VTdmddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBbJ2RlZmF1bHQnLCBkZWZhdWx0U3ZnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{color}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogInRyYWZmaWMiLAogICAgICAgICAgImljb24tY29sb3IiOiAicmVkIiwKICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgImlkIjogInRyYWZmaWMgc2lnbiIKICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MTczODk3MTU1NzYxNzIsIDQ4Ljc3MTY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAiaWNvbi1uYW1lIjogImV2X3N0YXRpb24iLAogICAgICAgICAgImljb24tY29sb3IiOiAiY3lhbiIsCiAgICAgICAgICAicG9zaXRpb24iOiBbMTEuNDE3Mzg5NzE1NTc2MTcyLCA0OC43NzE2OTU2MzE4Mzc2OV0KICAgICAgICB9LAogICAgICAgICJpZCI6ICJ0cmFmZmljIHNpZ24iCiAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -377,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Icon</last-search>
+      <last-search encoding="base64">XDxyZXN0YXVyYW50XD4=</last-search>
       <last-offset />
-      <last-pattern>Icon</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN0YXVyYW50XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
