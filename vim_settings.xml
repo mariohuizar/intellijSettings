@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3dlckljb25TdmdcPg==</entry>
-        <entry encoding="base64">XDxmaWxsXD4=</entry>
-        <entry>fill</entry>
         <entry encoding="base64">XDxhM2J4VGlpRjdyXD4=</entry>
         <entry encoding="base64">XDxjb3NtaWNvbmZpZ1w+</entry>
         <entry>assets</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxzaWduYWxCdXNcPg==</entry>
         <entry encoding="base64">XDxidXNBbmREaWFnbm9zdGljU2lnbmFsUmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</entry>
+        <entry encoding="base64">XDxTaWduYWxEZWZpbml0aW9uVGFibGVcPg==</entry>
+        <entry>toByteArr</entry>
+        <entry>parseFro</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -99,12 +99,6 @@
         <mark key="^" line="123" column="24" />
         <mark key="." line="123" column="23" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" timestamp="1588256257590">
-        <mark key="'" line="166" column="53" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588931985059">
-        <mark key="'" line="185" column="8" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" timestamp="1588259249063">
         <mark key="'" line="4" column="10" />
         <mark key="[" line="0" column="0" />
@@ -114,6 +108,24 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" timestamp="1588592931321">
         <mark key="'" line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/ev_station.svg" timestamp="1588592049825">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="3" column="564" />
+        <mark key="^" line="3" column="565" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/restaurant.svg" timestamp="1588592170566">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="3" column="279" />
+        <mark key="^" line="3" column="280" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1588937192221">
+        <mark key="'" line="100" column="36" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588931985059">
+        <mark key="'" line="185" column="8" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" timestamp="1588585806074">
         <mark key="[" line="4" column="10" />
@@ -134,12 +146,6 @@
         <mark key="." line="3" column="194" />
         <mark key="^" line="3" column="195" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/ev_station.svg" timestamp="1588592049825">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="3" column="564" />
-        <mark key="^" line="3" column="565" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/directions_walk.svg" timestamp="1588591562892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="5" />
@@ -153,17 +159,14 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" timestamp="1588256246449">
-        <mark key="'" line="186" column="53" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/default.svg" timestamp="1588591342203">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="16" />
         <mark key="^" line="0" column="299" />
         <mark key="." line="0" column="298" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1588931671551">
-        <mark key="'" line="2" column="17" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1588937633358">
+        <mark key="'" line="93" column="94" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/local_atm.svg" timestamp="1588592068829">
         <mark key="[" line="4" column="15" />
@@ -185,29 +188,17 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/restaurant.svg" timestamp="1588592170566">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="3" column="279" />
-        <mark key="^" line="3" column="280" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetAppItSpec.scala" timestamp="1588931801662">
         <mark key="'" line="72" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" timestamp="1588936253758">
         <mark key="'" line="36" column="8" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1588937313515">
+        <mark key="'" line="160" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4776" column="22" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7036" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7046" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7049" column="34" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7063" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7080" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7084" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7087" column="34" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="32" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="115" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="26" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Heatmap.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
@@ -299,6 +290,15 @@
       <jump line="31" column="10" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
       <jump line="77" column="14" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
       <jump line="36" column="8" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
+      <jump line="177" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
+      <jump line="100" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
+      <jump line="97" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="103" column="14" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="121" column="13" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="125" column="17" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="161" column="39" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="160" column="28" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="93" column="94" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +319,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</text>
+        <text>parseFro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAiaWNvbi1uYW1lIjogInN0YXJ0X3N0b3AiLAogICAgICAgICAgImljb24tY29sb3IiOiAiYmx1ZSIsCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
@@ -369,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</last-search>
+      <last-search>parseFro</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</last-pattern>
+      <last-pattern>parseFro</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
