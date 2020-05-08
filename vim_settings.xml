@@ -124,8 +124,11 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1588937192221">
         <mark key="'" line="100" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588931985059">
-        <mark key="'" line="185" column="8" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" timestamp="1588938903701">
+        <mark key="'" line="33" column="74" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588938995397">
+        <mark key="'" line="71" column="12" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" timestamp="1588585806074">
         <mark key="[" line="4" column="10" />
@@ -151,13 +154,6 @@
         <mark key="]" line="5" column="5" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" timestamp="1588256290584">
-        <mark key="'" line="3" column="20" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/default.svg" timestamp="1588591342203">
         <mark key="[" line="4" column="4" />
@@ -199,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
-      <jump line="26" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Heatmap.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="48" column="51" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
       <jump line="82" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
@@ -299,6 +293,8 @@
       <jump line="161" column="39" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="160" column="28" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
       <jump line="93" column="94" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" />
+      <jump line="33" column="74" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" />
+      <jump line="71" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
