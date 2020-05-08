@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" timestamp="1588592931321">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588946507868">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="40" />
-        <mark key="^" line="32" column="46" />
-        <mark key="." line="32" column="40" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588948525615">
+        <mark key="'" line="32" column="48" />
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="46" />
+        <mark key="^" line="32" column="57" />
+        <mark key="." line="32" column="46" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/ev_station.svg" timestamp="1588592049825">
         <mark key="[" line="4" column="4" />
@@ -281,14 +281,14 @@
       <jump line="33" column="23" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" />
       <jump line="18" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="222" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="32" column="4" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" />
       <jump line="22" column="118" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
+      <jump line="32" column="48" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>get.isEmpty</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -300,7 +300,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>get.isEmpty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdXNTaWduYWxEZWZpbml0aW9uXD4=</text>
