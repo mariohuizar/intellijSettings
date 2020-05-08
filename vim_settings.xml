@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>icon-name</entry>
         <entry encoding="base64">XDxwb3dlckljb25TdmdcPg==</entry>
         <entry encoding="base64">XDxmaWxsXD4=</entry>
         <entry>fill</entry>
@@ -25,6 +24,7 @@
         <entry>signal</entry>
         <entry encoding="base64">XDxzaWduYWxCdXNcPg==</entry>
         <entry encoding="base64">XDxidXNBbmREaWFnbm9zdGljU2lnbmFsUmVwb3J0XD4=</entry>
+        <entry encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -162,13 +162,6 @@
         <mark key="^" line="0" column="299" />
         <mark key="." line="0" column="298" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/default.svg" timestamp="1588251280127">
-        <mark key="'" line="0" column="84" />
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="81" />
-        <mark key="." line="0" column="299" />
-        <mark key="^" line="0" column="63" />
-      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1588931671551">
         <mark key="'" line="2" column="17" />
       </file>
@@ -201,12 +194,11 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetAppItSpec.scala" timestamp="1588931801662">
         <mark key="'" line="72" column="40" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" timestamp="1588936253758">
+        <mark key="'" line="36" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4689" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="4698" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="4703" column="50" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="4707" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="4776" column="22" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="7036" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
       <jump line="7046" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
@@ -303,6 +295,10 @@
       <jump line="72" column="40" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetAppItSpec.scala" />
       <jump line="135" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="185" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="107" column="15" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
+      <jump line="31" column="10" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
+      <jump line="77" column="14" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
+      <jump line="36" column="8" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +319,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidXNBbmREaWFnbm9zdGljU2lnbmFsUmVwb3J0XD4=</text>
+        <text encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAiaWNvbi1uYW1lIjogInN0YXJ0X3N0b3AiLAogICAgICAgICAgImljb24tY29sb3IiOiAiYmx1ZSIsCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
@@ -373,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxidXNBbmREaWFnbm9zdGljU2lnbmFsUmVwb3J0XD4=</last-search>
+      <last-search encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidXNBbmREaWFnbm9zdGljU2lnbmFsUmVwb3J0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
