@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" timestamp="1588592931321">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588948525615">
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
         <mark key="'" line="32" column="48" />
-        <mark key="[" line="32" column="46" />
-        <mark key="]" line="32" column="46" />
-        <mark key="^" line="32" column="57" />
-        <mark key="." line="32" column="46" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="81" />
+        <mark key="^" line="34" column="81" />
+        <mark key="." line="34" column="80" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/ev_station.svg" timestamp="1588592049825">
         <mark key="[" line="4" column="4" />
@@ -288,7 +288,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>get.isEmpty</text>
+        <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -299,14 +299,17 @@
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
+      <register name="*" type="4">
+        <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
+      </register>
       <register name="-" type="4">
-        <text>get.isEmpty</text>
+        <text>fold(0)(_.enumValues.size)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCdXNTaWduYWxEZWZpbml0aW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>dummy</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCB0ZXN0ID0gQnVzU2lnbmFsRGVmaW5pdGlvbi5wYXJzZUZyb20oZHVtbXkpLm1ldGEuZm9sZCgwKShfLmVudW1WYWx1ZXMuc2l6ZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
