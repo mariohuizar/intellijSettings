@@ -98,11 +98,27 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/Option.scala" timestamp="1588939638504">
         <mark key="'" line="169" column="20" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" timestamp="1588939673614">
+        <mark key="'" line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" timestamp="1588957036136">
         <mark key="'" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" timestamp="1588957510087">
-        <mark key="'" line="52" column="16" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588946324514">
+        <mark key="'" line="222" column="36" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" timestamp="1588956185464">
+        <mark key="'" line="80" column="29" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" timestamp="1589180843179">
+        <mark key="'" line="40" column="27" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588594133646">
+        <mark key="'" line="83" column="24" />
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
         <mark key="'" line="32" column="48" />
@@ -114,40 +130,23 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-odc_2.11/15.6.1/acdc-core-domain-context-odc_2.11-15.6.1.jar!/domain/backend/mbb/v1/models/odc_v1/proto/Message.class" timestamp="1588956308175">
         <mark key="'" line="2" column="193" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/com/vw/mbbb/datahubcommonslib/statistics-lib/1.12.16/statistics-lib-1.12.16-sources.jar!/statistics/kafka/KafkaExtendedMessage.scala" timestamp="1588939615492" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" timestamp="1588956293831">
+        <mark key="'" line="138" column="25" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" timestamp="1588956097538">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1588937192221">
-        <mark key="'" line="100" column="36" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" timestamp="1588939673614">
-        <mark key="'" line="33" column="23" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588946324514">
-        <mark key="'" line="222" column="36" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" timestamp="1588956185464">
-        <mark key="'" line="80" column="29" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588594133646">
-        <mark key="'" line="83" column="24" />
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="44" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" timestamp="1588956293831">
-        <mark key="'" line="138" column="25" />
-      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1588937633358">
         <mark key="'" line="93" column="94" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" timestamp="1588956660375">
         <mark key="'" line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1588937192221">
+        <mark key="'" line="100" column="36" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetAppItSpec.scala" timestamp="1588931801662">
         <mark key="'" line="72" column="40" />
@@ -163,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" />
       <jump line="5" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" />
       <jump line="31" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="80" column="2" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
@@ -263,6 +261,7 @@
       <jump line="35" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="50" column="48" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="52" column="16" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="40" column="27" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
