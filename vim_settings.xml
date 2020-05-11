@@ -110,15 +110,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" timestamp="1588956185464">
         <mark key="'" line="80" column="29" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" timestamp="1589182419986">
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" timestamp="1589196391426">
         <mark key="'" line="50" column="48" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588594133646">
-        <mark key="'" line="83" column="24" />
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
         <mark key="'" line="32" column="48" />
@@ -127,8 +120,14 @@
         <mark key="^" line="34" column="81" />
         <mark key="." line="34" column="80" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-normalizer-domain_2.11/2.2.0/acdc-normalizer-domain_2.11-2.2.0.jar!/de/audi/acdc/normalizer/domain/TelemetryNormalized.class" timestamp="1589196146851">
+        <mark key="'" line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-odc_2.11/15.6.1/acdc-core-domain-context-odc_2.11-15.6.1.jar!/domain/backend/mbb/v1/models/odc_v1/proto/Message.class" timestamp="1588956308175">
         <mark key="'" line="2" column="193" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" timestamp="1589196409973">
+        <mark key="'" line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" timestamp="1588956293831">
         <mark key="'" line="138" column="25" />
@@ -148,9 +147,6 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1588937192221">
         <mark key="'" line="100" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetAppItSpec.scala" timestamp="1588931801662">
-        <mark key="'" line="72" column="40" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" timestamp="1588936253758">
         <mark key="'" line="36" column="8" />
       </file>
@@ -162,11 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="5" column="50" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="12" column="50" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="13" column="36" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="6" column="40" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" />
       <jump line="161" column="52" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" />
       <jump line="186" column="53" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" />
       <jump line="7" column="27" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
@@ -261,7 +252,12 @@
       <jump line="314" column="497" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
       <jump line="40" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="42" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="66" column="0" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-normalizer-domain_2.11/2.2.0/acdc-normalizer-domain_2.11-2.2.0.jar!/de/audi/acdc/normalizer/domain/TelemetryNormalized.class" />
+      <jump line="32" column="19" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="28" column="75" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="18" column="75" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
       <jump line="50" column="48" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
