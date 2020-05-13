@@ -116,6 +116,9 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" timestamp="1589199367004">
         <mark key="'" line="50" column="48" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
+        <mark key="'" line="8" column="28" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
         <mark key="'" line="32" column="48" />
         <mark key="[" line="34" column="15" />
@@ -150,9 +153,6 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1588937192221">
         <mark key="'" line="100" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" timestamp="1588936253758">
-        <mark key="'" line="36" column="8" />
-      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" timestamp="1589182173450">
         <mark key="'" line="314" column="497" />
       </file>
@@ -161,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="27" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="266" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="16" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="141" column="52" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
@@ -261,6 +260,7 @@
       <jump line="50" column="48" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
       <jump line="27" column="51" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="8" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
