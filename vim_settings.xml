@@ -119,6 +119,9 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
         <mark key="'" line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589533913011">
+        <mark key="'" line="22" column="37" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
         <mark key="'" line="32" column="48" />
         <mark key="[" line="34" column="15" />
@@ -150,9 +153,6 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" timestamp="1588956660375">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" timestamp="1588937192221">
-        <mark key="'" line="100" column="36" />
-      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" timestamp="1589182173450">
         <mark key="'" line="314" column="497" />
       </file>
@@ -161,8 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
-      <jump line="16" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="141" column="52" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="166" column="53" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="40" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
@@ -261,12 +259,14 @@
       <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
       <jump line="27" column="51" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
       <jump line="8" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" />
+      <jump line="21" column="51" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
+      <jump line="22" column="37" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApCiAgICAgICkK</text>
+      <register name="&quot;" type="4">
+        <text>Cx4_Eingriff</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -281,13 +281,13 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>fold(0)(_.enumValues.size)</text>
+        <text>Cx4_Eingriff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZXN0ID0gQnVzU2lnbmFsRGVmaW5pdGlvbi5wYXJzZUZyb20oZHVtbXkpLm1ldGEuZm9sZCgwKShfLmVudW1WYWx1ZXMuc2l6ZSkK</text>
+      <register name="0" type="4">
+        <text>Cx8_Heckeingriff</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICApCiAgICAgICkK</text>
