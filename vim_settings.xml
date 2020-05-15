@@ -119,12 +119,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
         <mark key="'" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589538810171">
+      <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589539156311">
         <mark key="'" line="21" column="39" />
-        <mark key="[" line="21" column="51" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="54" />
-        <mark key="^" line="21" column="55" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
         <mark key="'" line="32" column="48" />
@@ -270,7 +270,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9sZCgwKSgoYSwgYikgPT4gYS5jb3VudCAp</text>
+        <text>List</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -285,7 +285,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9sZCgwKSgoYSwgYikgPT4gYS5jb3VudCAp</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</text>
