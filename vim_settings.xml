@@ -133,6 +133,9 @@
         <mark key="^" line="34" column="81" />
         <mark key="." line="34" column="80" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" timestamp="1589557890436">
+        <mark key="'" line="53" column="17" />
+      </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-normalizer-domain_2.11/2.2.0/acdc-normalizer-domain_2.11-2.2.0.jar!/de/audi/acdc/normalizer/domain/TelemetryNormalized.class" timestamp="1589196146851">
         <mark key="'" line="66" column="0" />
       </file>
@@ -160,12 +163,8 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" timestamp="1589182173450">
         <mark key="'" line="314" column="497" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" timestamp="1588937313515">
-        <mark key="'" line="160" column="28" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="53" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="40" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
       <jump line="70" column="32" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
       <jump line="3" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
@@ -265,6 +264,7 @@
       <jump line="22" column="37" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
+      <jump line="53" column="17" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
