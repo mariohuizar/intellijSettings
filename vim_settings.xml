@@ -119,8 +119,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
         <mark key="'" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589533913011">
-        <mark key="'" line="22" column="37" />
+      <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589538810171">
+        <mark key="'" line="21" column="39" />
+        <mark key="[" line="21" column="51" />
+        <mark key="]" line="21" column="55" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="55" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
         <mark key="'" line="32" column="48" />
@@ -161,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="52" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="166" column="53" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="40" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
       <jump line="70" column="32" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
@@ -259,14 +262,15 @@
       <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
       <jump line="27" column="51" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
       <jump line="8" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" />
-      <jump line="21" column="51" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="22" column="37" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
+      <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
+      <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Cx4_Eingriff</text>
+        <text encoding="base64">Zm9sZCgwKSgoYSwgYikgPT4gYS5jb3VudCAp</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -281,7 +285,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Cx4_Eingriff</text>
+        <text encoding="base64">Zm9sZCgwKSgoYSwgYikgPT4gYS5jb3VudCAp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</text>
@@ -290,7 +294,7 @@
         <text>Cx8_Heckeingriff</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCiAgICAgICkK</text>
+        <text encoding="base64">ICAgIHZhbCBzZXZlcml0eUhpZ2ggPSBwcmVTZW5zZUFycmF5LmV4aXN0cygKICAgICAgZSA9PgogICAgICAgIGUuY2F0ZWdvcmljYWxTaWduYWxWYWx1ZS5lcXVhbHMoIkN4NF9FaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDVfRmFocmVydWViZXJuYWhtZWF1ZmZvcmRlcnVuZyIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDdfQmFzaXNlaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDhfSGVja2VpbmdyaWZmIikKICAgICkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -304,28 +308,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IEF1ZGkgRWxlY3Ryb25pY3MgVmVudHVyZSBHbWJIIDIwMTgKICovCgpwYWNrYWdlIGRlLmF1ZGkuYWNkYy5ub3JtYWxpemVyLm9kYy50cmFuc2Zvcm1lcnMubWVzc2FnZXMKCmltcG9ydCBkZS5hdWRpLmFjZGMuZG9tYWluLnsgTm9ybWFsaXplZFNpZ25hbCwgUmF3U2lnbmFsLCBSYXdUZWxlbWV0cnkgfQppbXBvcnQgZGUuYXVkaS5hY2RjLm5vcm1hbGl6ZXIub2RjLnRyYW5zZm9ybWVycy50ZWxlbWV0cmllcy5UZWxlbWV0cnlUcmFuc2Zvcm1lcgoKY2xhc3MgU2lnbmFsVHJhbnNmb3JtZXIoCiAgICB0ZWxlbWV0cnlUcmFuc2Zvcm1lcjogVGVsZW1ldHJ5VHJhbnNmb3JtZXIKKSB7CiAgZGVmIHRyYW5zZm9ybSgKICAgICAgcmF3OiBSYXdTaWduYWwKICApOiBPcHRpb25bTm9ybWFsaXplZFNpZ25hbF0gPQogICAgdGVsZW1ldHJ5VHJhbnNmb3JtZXIKICAgICAgLnRyYW5zZm9ybSgKICAgICAgICBjYW1wYWlnbklkID0gcmF3LmNhbXBhaWduSWQsCiAgICAgICAgcHZpbiAgICAgICA9IHJhdy5zZXNzaW9uSWQsCiAgICAgICAgcmF3ID0gUmF3VGVsZW1ldHJ5KAogICAgICAgICAgc2lnbmFsSWQgICAgPSByYXcuc2lnbmFsSWQsCiAgICAgICAgICB0aW1lT2ZTZW50ICA9IHJhdy50aW1lT2ZPY2N1cnJlbmNlLAogICAgICAgICAgc2lnbmFsVmFsdWUgPSByYXcuc2lnbmFsVmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICApCiAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IEF1ZGkgRWxlY3Ryb25pY3MgVmVudHVyZSBHbWJIIDIwMTgKICovCgpwYWNrYWdlIGRlLmF1ZGkuYWNkYy5ub3JtYWxpemVyLm9kYy50cmFuc2Zvcm1lcnMubWVzc2FnZXMKCmltcG9ydCBkZS5hdWRpLmFjZGMuZG9tYWluLnsgTm9ybWFsaXplZFNpZ25hbCwgUmF3U2lnbmFsLCBSYXdUZWxlbWV0cnkgfQppbXBvcnQgZGUuYXVkaS5hY2RjLm5vcm1hbGl6ZXIub2RjLnRyYW5zZm9ybWVycy50ZWxlbWV0cmllcy5UZWxlbWV0cnlUcmFuc2Zvcm1lcgoKY2xhc3MgU2lnbmFsVHJhbnNmb3JtZXIoCiAgICB0ZWxlbWV0cnlUcmFuc2Zvcm1lcjogVGVsZW1ldHJ5VHJhbnNmb3JtZXIKKSB7CiAgZGVmIHRyYW5zZm9ybSgKICAgICAgcmF3OiBSYXdTaWduYWwKICApOiBPcHRpb25bTm9ybWFsaXplZFNpZ25hbF0gPQogICAgdGVsZW1ldHJ5VHJhbnNmb3JtZXIKICAgICAgLnRyYW5zZm9ybSgKICAgICAgICBjYW1wYWlnbklkID0gcmF3LmNhbXBhaWduSWQsCiAgICAgICAgcHZpbiAgICAgICA9IHJhdy5zZXNzaW9uSWQsCiAgICAgICAgcmF3ID0gUmF3VGVsZW1ldHJ5KAogICAgICAgICAgc2lnbmFsSWQgICAgPSByYXcuc2lnbmFsSWQsCiAgICAgICAgICB0aW1lT2ZTZW50ICA9IHJhdy50aW1lT2ZPY2N1cnJlbmNlLAogICAgICAgICAgc2lnbmFsVmFsdWUgPSByYXcuc2lnbmFsVmFsdWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjIzODk3MTU1NzYxNzIsIDQ4Ljc3MzY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImxvY2FsX2F0bSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJvcmFuZ2UiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyMjM4OTcxNTU3NjE3MiwgNDguNzczNjk1NjMxODM3NjldCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjIzODk3MTU1NzYxNzIsIDQ4Ljc3MzY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImxvY2FsX2F0bSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJvcmFuZ2UiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyMjM4OTcxNTU3NjE3MiwgNDguNzczNjk1NjMxODM3NjldCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
