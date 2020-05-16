@@ -5,15 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3dlckljb25TdmdcPg==</entry>
-        <entry encoding="base64">XDxmaWxsXD4=</entry>
-        <entry>fill</entry>
-        <entry encoding="base64">XDxhM2J4VGlpRjdyXD4=</entry>
-        <entry encoding="base64">XDxjb3NtaWNvbmZpZ1w+</entry>
-        <entry>assets</entry>
-        <entry encoding="base64">XDxmc1w+</entry>
-        <entry encoding="base64">XDxwYXRoXD4=</entry>
-        <entry>color</entry>
         <entry encoding="base64">XDxkZWZhdWx0SWNvblN2Z1w+</entry>
         <entry encoding="base64">XDxwcmVTZW5zZUljb25TdmdcPg==</entry>
         <entry>Icon</entry>
@@ -25,6 +16,15 @@
         <entry encoding="base64">XDxzaWduYWxCdXNcPg==</entry>
         <entry encoding="base64">XDxidXNBbmREaWFnbm9zdGljU2lnbmFsUmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</entry>
+        <entry encoding="base64">XDxTaWduYWxEZWZpbml0aW9uVGFibGVcPg==</entry>
+        <entry>toByteArr</entry>
+        <entry>parseFro</entry>
+        <entry encoding="base64">XDxCdXNTaWduYWxEZWZpbml0aW9uXD4=</entry>
+        <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
+        <entry encoding="base64">XDxub3JtYWxpemVcPg==</entry>
+        <entry encoding="base64">XDxub3JtYWxpemVTaWduYWxWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxjaGVja01ldGFFbnVtQ29udGFpbnNFcnJvclw+</entry>
+        <entry encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -92,177 +92,79 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" timestamp="1588592571976">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="123" column="14" />
-        <mark key="]" line="123" column="24" />
-        <mark key="^" line="123" column="24" />
-        <mark key="." line="123" column="23" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/ProtoMessageTransformer.scala" timestamp="1588956300437">
+        <mark key="'" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" timestamp="1588256257590">
-        <mark key="'" line="166" column="53" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/UnitNormalizer.scala" timestamp="1589199249518">
+        <mark key="'" line="50" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588931985059">
-        <mark key="'" line="185" column="8" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/Option.scala" timestamp="1588939638504">
+        <mark key="'" line="169" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" timestamp="1588259249063">
-        <mark key="'" line="4" column="10" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" timestamp="1588939673614">
+        <mark key="'" line="33" column="23" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" timestamp="1588957036136">
+        <mark key="'" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588946324514">
+        <mark key="'" line="222" column="36" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" timestamp="1588956185464">
+        <mark key="'" line="80" column="29" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" timestamp="1589199367004">
+        <mark key="'" line="50" column="48" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
+        <mark key="'" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589539156311">
+        <mark key="'" line="21" column="39" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="40" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="40" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" timestamp="1588952028998">
+        <mark key="'" line="32" column="48" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="81" />
+        <mark key="^" line="34" column="81" />
+        <mark key="." line="34" column="80" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" timestamp="1589557890436">
+        <mark key="'" line="53" column="17" />
+      </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-normalizer-domain_2.11/2.2.0/acdc-normalizer-domain_2.11-2.2.0.jar!/de/audi/acdc/normalizer/domain/TelemetryNormalized.class" timestamp="1589196146851">
+        <mark key="'" line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-odc_2.11/15.6.1/acdc-core-domain-context-odc_2.11-15.6.1.jar!/domain/backend/mbb/v1/models/odc_v1/proto/Message.class" timestamp="1588956308175">
+        <mark key="'" line="2" column="193" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" timestamp="1589199396729">
+        <mark key="'" line="27" column="51" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" timestamp="1588956293831">
+        <mark key="'" line="138" column="25" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" timestamp="1588956097538">
+        <mark key="'" line="12" column="6" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="4" column="19" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" timestamp="1588592931321">
-        <mark key="'" line="64" column="0" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1588937633358">
+        <mark key="'" line="93" column="94" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" timestamp="1588585806074">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" timestamp="1588956660375">
+        <mark key="'" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1588594133646">
-        <mark key="'" line="83" column="24" />
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="44" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/presense.svg" timestamp="1588591403577">
-        <mark key="[" line="3" column="195" />
-        <mark key="]" line="3" column="195" />
-        <mark key="." line="3" column="194" />
-        <mark key="^" line="3" column="195" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/ev_station.svg" timestamp="1588592049825">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="3" column="564" />
-        <mark key="^" line="3" column="565" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/directions_walk.svg" timestamp="1588591562892">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" timestamp="1588256290584">
-        <mark key="'" line="3" column="20" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" timestamp="1588256246449">
-        <mark key="'" line="186" column="53" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/default.svg" timestamp="1588591342203">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="0" column="299" />
-        <mark key="." line="0" column="298" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1588931671551">
-        <mark key="'" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/local_atm.svg" timestamp="1588592068829">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/traffic.svg" timestamp="1588592342530">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="3" column="624" />
-        <mark key="^" line="3" column="625" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1588583999361">
-        <mark key="'" line="1" column="30" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="33" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="32" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/restaurant.svg" timestamp="1588592170566">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="3" column="279" />
-        <mark key="^" line="3" column="280" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetAppItSpec.scala" timestamp="1588931801662">
-        <mark key="'" line="72" column="40" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" timestamp="1588936253758">
-        <mark key="'" line="36" column="8" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" timestamp="1589182173450">
+        <mark key="'" line="314" column="497" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4776" column="22" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7036" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7046" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7049" column="34" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7063" column="5" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7080" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7084" column="33" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="7087" column="34" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/lib/material.css" />
-      <jump line="32" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="115" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
-      <jump line="26" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Heatmap.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
-      <jump line="48" column="51" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/MarkerCluster.js" />
-      <jump line="82" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="231" column="29" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/coverage/lcov-report/js/heremap/GenericEvents.js.html" />
-      <jump line="122" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
-      <jump line="6" column="29" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
-      <jump line="52" column="24" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="55" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
-      <jump line="51" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="36" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="11" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
-      <jump line="19" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Trajectory.spec.js" />
-      <jump line="17" column="35" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
-      <jump line="26" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
-      <jump line="38" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
-      <jump line="76" column="67" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="29" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
-      <jump line="60" column="25" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="21" column="12" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/GenericEvents.spec.js" />
-      <jump line="54" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
-      <jump line="124" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/js/heremap/Map.spec.js" />
-      <jump line="197" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/tests/it/uitests.spec.js" />
-      <jump line="38" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="62" column="28" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="29" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
-      <jump line="14" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
-      <jump line="33" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="57" column="19" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/startstoppPosition.svg" />
-      <jump line="0" column="31" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" />
-      <jump line="0" column="84" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/default.svg" />
-      <jump line="2" column="2" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" />
-      <jump line="0" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" />
-      <jump line="3" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/presense.svg" />
-      <jump line="5" column="10" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/public/assets/genericEventsIcons/start_stop.svg" />
-      <jump line="31" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="80" column="2" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="5" column="50" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="12" column="50" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="13" column="36" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="6" column="40" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" />
-      <jump line="161" column="52" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" />
-      <jump line="186" column="53" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.dev.js" />
-      <jump line="7" column="27" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
-      <jump line="266" column="18" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
-      <jump line="16" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
-      <jump line="141" column="52" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
-      <jump line="166" column="53" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/webpack.config.prod.js" />
       <jump line="40" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
       <jump line="70" column="32" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
       <jump line="3" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
@@ -299,12 +201,76 @@
       <jump line="31" column="10" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
       <jump line="77" column="14" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
       <jump line="36" column="8" filename="$USER_HOME$/Developer/acdc/acdc.service.api/commons/src/test/scala/de/audi/acdc/service/api/commons/json/ProtobufjsonSpec.scala" />
+      <jump line="177" column="6" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
+      <jump line="100" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/CampaignMetadataApp.scala" />
+      <jump line="97" column="6" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="103" column="14" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="121" column="13" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="125" column="17" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="161" column="39" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="160" column="28" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-cassandra_2.11/10.7.0/acdc-core-cassandra_2.11-10.7.0-sources.jar!/de/audi/acdc/cassandra/cm/SignalDefinitionCassandra.scala" />
+      <jump line="93" column="94" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" />
+      <jump line="71" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="169" column="20" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/Option.scala" />
+      <jump line="33" column="23" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" />
+      <jump line="18" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="222" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
+      <jump line="22" column="118" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
+      <jump line="32" column="48" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" />
+      <jump line="119" column="32" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="112" column="36" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="99" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="38" column="40" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="89" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="27" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="22" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" />
+      <jump line="12" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" />
+      <jump line="88" column="45" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" />
+      <jump line="80" column="29" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" />
+      <jump line="19" column="12" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/ProtoMessageTransformer.scala" />
+      <jump line="137" column="25" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" />
+      <jump line="138" column="25" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" />
+      <jump line="24" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/ProtoMessageTransformer.scala" />
+      <jump line="2" column="193" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-odc_2.11/15.6.1/acdc-core-domain-context-odc_2.11-15.6.1.jar!/domain/backend/mbb/v1/models/odc_v1/proto/Message.class" />
+      <jump line="39" column="37" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
+      <jump line="40" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
+      <jump line="35" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
+      <jump line="26" column="23" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
+      <jump line="24" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
+      <jump line="36" column="20" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="96" column="20" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="106" column="8" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="21" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
+      <jump line="24" column="30" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="32" column="11" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="78" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="73" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="52" column="16" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="100" column="30" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="47" column="13" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="314" column="497" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
+      <jump line="40" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="42" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="66" column="0" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-normalizer-domain_2.11/2.2.0/acdc-normalizer-domain_2.11-2.2.0.jar!/de/audi/acdc/normalizer/domain/TelemetryNormalized.class" />
+      <jump line="32" column="19" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="28" column="75" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="18" column="75" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="50" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/UnitNormalizer.scala" />
+      <jump line="35" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="50" column="48" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
+      <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="27" column="51" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
+      <jump line="8" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" />
+      <jump line="22" column="37" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
+      <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
+      <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
+      <jump line="53" column="17" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>List</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -315,17 +281,20 @@
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
+      <register name="*" type="4">
+        <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
+      </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</text>
+        <text encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAiaWNvbi1uYW1lIjogInN0YXJ0X3N0b3AiLAogICAgICAgICAgImljb24tY29sb3IiOiAiYmx1ZSIsCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>Cx8_Heckeingriff</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzZXZlcml0eUhpZ2ggPSBwcmVTZW5zZUFycmF5LmV4aXN0cygKICAgICAgZSA9PgogICAgICAgIGUuY2F0ZWdvcmljYWxTaWduYWxWYWx1ZS5lcXVhbHMoIkN4NF9FaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDVfRmFocmVydWViZXJuYWhtZWF1ZmZvcmRlcnVuZyIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDdfQmFzaXNlaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDhfSGVja2VpbmdyaWZmIikKICAgICkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -339,28 +308,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
+        <text encoding="base64">ICAgICAgICApCiAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IEF1ZGkgRWxlY3Ryb25pY3MgVmVudHVyZSBHbWJIIDIwMTgKICovCgpwYWNrYWdlIGRlLmF1ZGkuYWNkYy5ub3JtYWxpemVyLm9kYy50cmFuc2Zvcm1lcnMubWVzc2FnZXMKCmltcG9ydCBkZS5hdWRpLmFjZGMuZG9tYWluLnsgTm9ybWFsaXplZFNpZ25hbCwgUmF3U2lnbmFsLCBSYXdUZWxlbWV0cnkgfQppbXBvcnQgZGUuYXVkaS5hY2RjLm5vcm1hbGl6ZXIub2RjLnRyYW5zZm9ybWVycy50ZWxlbWV0cmllcy5UZWxlbWV0cnlUcmFuc2Zvcm1lcgoKY2xhc3MgU2lnbmFsVHJhbnNmb3JtZXIoCiAgICB0ZWxlbWV0cnlUcmFuc2Zvcm1lcjogVGVsZW1ldHJ5VHJhbnNmb3JtZXIKKSB7CiAgZGVmIHRyYW5zZm9ybSgKICAgICAgcmF3OiBSYXdTaWduYWwKICApOiBPcHRpb25bTm9ybWFsaXplZFNpZ25hbF0gPQogICAgdGVsZW1ldHJ5VHJhbnNmb3JtZXIKICAgICAgLnRyYW5zZm9ybSgKICAgICAgICBjYW1wYWlnbklkID0gcmF3LmNhbXBhaWduSWQsCiAgICAgICAgcHZpbiAgICAgICA9IHJhdy5zZXNzaW9uSWQsCiAgICAgICAgcmF3ID0gUmF3VGVsZW1ldHJ5KAogICAgICAgICAgc2lnbmFsSWQgICAgPSByYXcuc2lnbmFsSWQsCiAgICAgICAgICB0aW1lT2ZTZW50ICA9IHJhdy50aW1lT2ZPY2N1cnJlbmNlLAogICAgICAgICAgc2lnbmFsVmFsdWUgPSByYXcuc2lnbmFsVmFsdWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjIzODk3MTU1NzYxNzIsIDQ4Ljc3MzY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImxvY2FsX2F0bSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJvcmFuZ2UiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyMjM4OTcxNTU3NjE3MiwgNDguNzczNjk1NjMxODM3NjldCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjIzODk3MTU1NzYxNzIsIDQ4Ljc3MzY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImxvY2FsX2F0bSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJvcmFuZ2UiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyMjM4OTcxNTU3NjE3MiwgNDguNzczNjk1NjMxODM3NjldCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogInRyYWZmaWMiLAogICAgICAgICAgImljb24tY29sb3IiOiAicmVkIiwKICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgImlkIjogInRyYWZmaWMgc2lnbiIKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MTczODk3MTU1NzYxNzIsIDQ4Ljc3MTY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAiaWNvbi1uYW1lIjogImV2X3N0YXRpb24iLAogICAgICAgICAgImljb24tY29sb3IiOiAiY3lhbiIsCiAgICAgICAgICAicG9zaXRpb24iOiBbMTEuNDE3Mzg5NzE1NTc2MTcyLCA0OC43NzE2OTU2MzE4Mzc2OV0KICAgICAgICB9LAogICAgICAgICJpZCI6ICJ0cmFmZmljIHNpZ24iCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -369,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
