@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0SWNvblN2Z1w+</entry>
-        <entry encoding="base64">XDxwcmVTZW5zZUljb25TdmdcPg==</entry>
-        <entry>Icon</entry>
         <entry>ev_st</entry>
         <entry>local_atm</entry>
         <entry>restaurant</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxub3JtYWxpemVTaWduYWxWYWx1ZVw+</entry>
         <entry encoding="base64">XDxjaGVja01ldGFFbnVtQ29udGFpbnNFcnJvclw+</entry>
         <entry encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</entry>
+        <entry encoding="base64">XDxwb3NpdGlvbkNoYW5nZWRcPg==</entry>
+        <entry encoding="base64">XDx0aW1lQ2hhbmdlZFw+</entry>
+        <entry encoding="base64">XDxidWlsZE1hcmtlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -116,6 +116,9 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" timestamp="1589199367004">
         <mark key="'" line="50" column="48" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" timestamp="1589787856888">
+        <mark key="'" line="107" column="26" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
         <mark key="'" line="8" column="28" />
       </file>
@@ -154,9 +157,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" timestamp="1588937633358">
-        <mark key="'" line="93" column="94" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" timestamp="1588956660375">
         <mark key="'" line="24" column="26" />
       </file>
@@ -165,14 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="45" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="70" column="32" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="3" column="20" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/config/paths.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="85" column="32" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
-      <jump line="1" column="30" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" />
       <jump line="61" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" />
       <jump line="64" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" />
       <jump line="65" column="2" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
@@ -265,6 +257,14 @@
       <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="53" column="17" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" />
+      <jump line="141" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
+      <jump line="39" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
+      <jump line="57" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
+      <jump line="142" column="16" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
+      <jump line="7" column="47" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
+      <jump line="104" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
+      <jump line="107" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,7 +288,7 @@
         <text>List</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</text>
+        <text encoding="base64">XDxidWlsZE1hcmtlclw+</text>
       </register>
       <register name="0" type="4">
         <text>Cx8_Heckeingriff</text>
@@ -338,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</last-search>
+      <last-search encoding="base64">XDxidWlsZE1hcmtlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZE1hcmtlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
@@ -348,16 +348,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
