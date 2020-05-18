@@ -98,14 +98,9 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/UnitNormalizer.scala" timestamp="1589199249518">
         <mark key="'" line="50" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" timestamp="1588939673614">
-        <mark key="'" line="33" column="23" />
-      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/json-server/db.json" timestamp="1589809063351" />
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" timestamp="1588957036136">
         <mark key="'" line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" timestamp="1588946324514">
-        <mark key="'" line="222" column="36" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" timestamp="1588956185464">
         <mark key="'" line="80" column="29" />
@@ -163,6 +158,7 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" timestamp="1589182173450">
         <mark key="'" line="314" column="497" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/json-server/routes.json" timestamp="1589809117029" />
     </filemarks>
     <jumps>
       <jump line="64" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/README.md" />
