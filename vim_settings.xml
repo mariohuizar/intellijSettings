@@ -229,7 +229,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>List</text>
+        <text>&quot;test:elm:junit&quot;: &quot;./elm-test-junit.sh&quot;,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -244,7 +244,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>&quot;test:elm:junit&quot;: &quot;./elm-test-junit.sh&quot;,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZE1hcmtlclw+</text>
