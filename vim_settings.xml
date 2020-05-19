@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ev_st</entry>
         <entry>local_atm</entry>
         <entry>restaurant</entry>
         <entry encoding="base64">XDxyZXN0YXVyYW50XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwb3NpdGlvbkNoYW5nZWRcPg==</entry>
         <entry encoding="base64">XDx0aW1lQ2hhbmdlZFw+</entry>
         <entry encoding="base64">XDxidWlsZE1hcmtlclw+</entry>
+        <entry>preparator</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -237,7 +237,7 @@
         <text>&quot;test:elm:junit&quot;: &quot;./elm-test-junit.sh&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZE1hcmtlclw+</text>
+        <text>preparator</text>
       </register>
       <register name="0" type="4">
         <text>Cx8_Heckeingriff</text>
@@ -287,9 +287,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxidWlsZE1hcmtlclw+</last-search>
+      <last-search>preparator</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZE1hcmtlclw+</last-pattern>
+      <last-pattern>preparator</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
