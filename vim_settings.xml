@@ -92,32 +92,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/json-server/db.json" timestamp="1589809063351" />
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/main/scala/de/audi/acdc/service/api/routes/GenericEventRoutes.scala" timestamp="1589810366864">
         <mark key="'" line="173" column="57" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/json-server.js" timestamp="1589809910997" />
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" timestamp="1589787856888">
         <mark key="'" line="107" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" timestamp="1589557890436">
-        <mark key="'" line="53" column="17" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" timestamp="1589874033602">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/StartStopEventsSimulation.scala" timestamp="1589810783342" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/kafka/src/main/scala/de/audi/acdc/service/api/kafka/KafkaTopicMapping.scala" timestamp="1589811278634" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/it/scala/de/audi/acdc/service/api/GenericEventsItSpec.scala" timestamp="1589810246370" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/package.json" timestamp="1589809257431" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" timestamp="1589808125792">
-        <mark key="'" line="95" column="27" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" timestamp="1589810546114">
-        <mark key="'" line="13" column="34" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" timestamp="1589809530215" />
       <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
         <mark key="'" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" timestamp="1589809860815" />
       <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589539156311">
         <mark key="'" line="21" column="39" />
         <mark key="[" line="19" column="35" />
@@ -125,11 +113,15 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/ws-server/ws-server.js" timestamp="1589810146533" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/metrics-aggregates/src/main/scala/de/audi/acdc/serviceapi/metrics/aggregates/routes/MetricsAggregatesSwaggerRoutes.scala" timestamp="1589810903730" />
-      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-next-geojson_2.11/1.0.5/acdc-next-geojson_2.11-1.0.5-sources.jar!/de/audi/acdc/next/geojson/FeatureCollection.scala" timestamp="1589810397213" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/resources/application.conf" timestamp="1589810508469" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/json-server/routes.json" timestamp="1589809117029" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" timestamp="1589557890436">
+        <mark key="'" line="53" column="17" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" timestamp="1589808125792">
+        <mark key="'" line="95" column="27" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" timestamp="1589810546114">
+        <mark key="'" line="13" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" />
