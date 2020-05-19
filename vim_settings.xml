@@ -95,6 +95,7 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/main/scala/de/audi/acdc/service/api/routes/GenericEventRoutes.scala" timestamp="1589810366864">
         <mark key="'" line="173" column="57" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/Jenkinsfile" timestamp="1589878883176" />
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" timestamp="1589787856888">
         <mark key="'" line="107" column="26" />
       </file>
@@ -102,16 +103,6 @@
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" timestamp="1589383468415">
-        <mark key="'" line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" timestamp="1589539156311">
-        <mark key="'" line="21" column="39" />
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" timestamp="1589557890436">
         <mark key="'" line="53" column="17" />
@@ -122,6 +113,7 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" timestamp="1589810546114">
         <mark key="'" line="13" column="34" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/podTemplates/build.yaml" timestamp="1589878642709" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" />
