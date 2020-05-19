@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>restaurant</entry>
-        <entry encoding="base64">XDxyZXN0YXVyYW50XD4=</entry>
-        <entry>signal</entry>
-        <entry encoding="base64">XDxzaWduYWxCdXNcPg==</entry>
         <entry encoding="base64">XDxidXNBbmREaWFnbm9zdGljU2lnbmFsUmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</entry>
         <entry encoding="base64">XDxTaWduYWxEZWZpbml0aW9uVGFibGVcPg==</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxidWlsZE1hcmtlclw+</entry>
         <entry>preparator</entry>
         <entry encoding="base64">XDxyZWFkTm9ybWFsaXplZERhdGFcPg==</entry>
+        <entry encoding="base64">XDxmaWx0ZXJSZWxldmFudFJlcG9ydHNcPg==</entry>
+        <entry encoding="base64">XDxkcm9wU2Vzc2lvbkR1cmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxkcm9wTWF4UGVyc2lzdGFuY2VEdXJhdGlvblw+</entry>
+        <entry encoding="base64">XDxkcm9wTWF4TWVzc2FnZUR1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -96,39 +96,39 @@
         <mark key="'" line="173" column="57" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/Jenkinsfile" timestamp="1589878883176" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1589888322536">
+        <mark key="'" line="108" column="41" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" timestamp="1589810546114">
+        <mark key="'" line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/podTemplates/build.yaml" timestamp="1589878642709" />
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" timestamp="1589874033602">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/zeppelin/Dockerfile" timestamp="1589879191663" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" timestamp="1589887076510">
-        <mark key="'" line="43" column="6" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" timestamp="1589888893341">
+        <mark key="'" line="34" column="24" />
+        <mark key="[" line="34" column="62" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="62" />
+        <mark key="^" line="34" column="63" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" timestamp="1589808125792">
-        <mark key="'" line="95" column="27" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" timestamp="1589887415379">
+        <mark key="'" line="143" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" timestamp="1589810546114">
-        <mark key="'" line="13" column="34" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" timestamp="1589888329595">
+        <mark key="'" line="78" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/podTemplates/build.yaml" timestamp="1589878642709" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserData.scala" timestamp="1589888725399">
+        <mark key="'" line="52" column="10" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/startStop.svg" />
-      <jump line="37" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="105" column="14" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="0" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="104" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="39" column="14" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="103" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/traffic.svg" />
-      <jump line="27" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
-      <jump line="28" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
-      <jump line="63" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
-      <jump line="83" column="24" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/json-server/db.json" />
       <jump line="2" column="17" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/acdc/CampaignMetadata.class" />
       <jump line="72" column="40" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.s3/src/it/scala/de/audi/acdc/digest/s3/PersistCampaignMetadataToParquetAppItSpec.scala" />
       <jump line="135" column="8" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
@@ -214,12 +214,27 @@
       <jump line="28" column="63" filename="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" />
       <jump line="13" column="34" filename="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" />
       <jump line="43" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
+      <jump line="79" column="14" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
+      <jump line="74" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
+      <jump line="22" column="31" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
+      <jump line="91" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
+      <jump line="124" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
+      <jump line="27" column="37" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
+      <jump line="143" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
+      <jump line="43" column="37" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
+      <jump line="21" column="89" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
+      <jump line="20" column="78" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
+      <jump line="26" column="37" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
+      <jump line="108" column="41" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="78" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
+      <jump line="52" column="10" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserData.scala" />
+      <jump line="34" column="24" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;test:elm:junit&quot;: &quot;./elm-test-junit.sh&quot;,</text>
+        <text>messageUuid</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -237,13 +252,13 @@
         <text>&quot;test:elm:junit&quot;: &quot;./elm-test-junit.sh&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkTm9ybWFsaXplZERhdGFcPg==</text>
+        <text encoding="base64">XDxkcm9wTWF4TWVzc2FnZUR1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Cx8_Heckeingriff</text>
+        <text>messageUuid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXZlcml0eUhpZ2ggPSBwcmVTZW5zZUFycmF5LmV4aXN0cygKICAgICAgZSA9PgogICAgICAgIGUuY2F0ZWdvcmljYWxTaWduYWxWYWx1ZS5lcXVhbHMoIkN4NF9FaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDVfRmFocmVydWViZXJuYWhtZWF1ZmZvcmRlcnVuZyIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDdfQmFzaXNlaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDhfSGVja2VpbmdyaWZmIikKICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -257,28 +272,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCiAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IEF1ZGkgRWxlY3Ryb25pY3MgVmVudHVyZSBHbWJIIDIwMTgKICovCgpwYWNrYWdlIGRlLmF1ZGkuYWNkYy5ub3JtYWxpemVyLm9kYy50cmFuc2Zvcm1lcnMubWVzc2FnZXMKCmltcG9ydCBkZS5hdWRpLmFjZGMuZG9tYWluLnsgTm9ybWFsaXplZFNpZ25hbCwgUmF3U2lnbmFsLCBSYXdUZWxlbWV0cnkgfQppbXBvcnQgZGUuYXVkaS5hY2RjLm5vcm1hbGl6ZXIub2RjLnRyYW5zZm9ybWVycy50ZWxlbWV0cmllcy5UZWxlbWV0cnlUcmFuc2Zvcm1lcgoKY2xhc3MgU2lnbmFsVHJhbnNmb3JtZXIoCiAgICB0ZWxlbWV0cnlUcmFuc2Zvcm1lcjogVGVsZW1ldHJ5VHJhbnNmb3JtZXIKKSB7CiAgZGVmIHRyYW5zZm9ybSgKICAgICAgcmF3OiBSYXdTaWduYWwKICApOiBPcHRpb25bTm9ybWFsaXplZFNpZ25hbF0gPQogICAgdGVsZW1ldHJ5VHJhbnNmb3JtZXIKICAgICAgLnRyYW5zZm9ybSgKICAgICAgICBjYW1wYWlnbklkID0gcmF3LmNhbXBhaWduSWQsCiAgICAgICAgcHZpbiAgICAgICA9IHJhdy5zZXNzaW9uSWQsCiAgICAgICAgcmF3ID0gUmF3VGVsZW1ldHJ5KAogICAgICAgICAgc2lnbmFsSWQgICAgPSByYXcuc2lnbmFsSWQsCiAgICAgICAgICB0aW1lT2ZTZW50ICA9IHJhdy50aW1lT2ZPY2N1cnJlbmNlLAogICAgICAgICAgc2lnbmFsVmFsdWUgPSByYXcuc2lnbmFsVmFsdWUK</text>
+        <text encoding="base64">ICAgIHZhbCBzZXZlcml0eUhpZ2ggPSBwcmVTZW5zZUFycmF5LmV4aXN0cygKICAgICAgZSA9PgogICAgICAgIGUuY2F0ZWdvcmljYWxTaWduYWxWYWx1ZS5lcXVhbHMoIkN4NF9FaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDVfRmFocmVydWViZXJuYWhtZWF1ZmZvcmRlcnVuZyIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDdfQmFzaXNlaW5ncmlmZiIpIHx8CiAgICAgICAgICBlLmNhdGVnb3JpY2FsU2lnbmFsVmFsdWUuZXF1YWxzKCJDeDhfSGVja2VpbmdyaWZmIikKICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
+        <text encoding="base64">ICAgICAgICApCiAgICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IEF1ZGkgRWxlY3Ryb25pY3MgVmVudHVyZSBHbWJIIDIwMTgKICovCgpwYWNrYWdlIGRlLmF1ZGkuYWNkYy5ub3JtYWxpemVyLm9kYy50cmFuc2Zvcm1lcnMubWVzc2FnZXMKCmltcG9ydCBkZS5hdWRpLmFjZGMuZG9tYWluLnsgTm9ybWFsaXplZFNpZ25hbCwgUmF3U2lnbmFsLCBSYXdUZWxlbWV0cnkgfQppbXBvcnQgZGUuYXVkaS5hY2RjLm5vcm1hbGl6ZXIub2RjLnRyYW5zZm9ybWVycy50ZWxlbWV0cmllcy5UZWxlbWV0cnlUcmFuc2Zvcm1lcgoKY2xhc3MgU2lnbmFsVHJhbnNmb3JtZXIoCiAgICB0ZWxlbWV0cnlUcmFuc2Zvcm1lcjogVGVsZW1ldHJ5VHJhbnNmb3JtZXIKKSB7CiAgZGVmIHRyYW5zZm9ybSgKICAgICAgcmF3OiBSYXdTaWduYWwKICApOiBPcHRpb25bTm9ybWFsaXplZFNpZ25hbF0gPQogICAgdGVsZW1ldHJ5VHJhbnNmb3JtZXIKICAgICAgLnRyYW5zZm9ybSgKICAgICAgICBjYW1wYWlnbklkID0gcmF3LmNhbXBhaWduSWQsCiAgICAgICAgcHZpbiAgICAgICA9IHJhdy5zZXNzaW9uSWQsCiAgICAgICAgcmF3ID0gUmF3VGVsZW1ldHJ5KAogICAgICAgICAgc2lnbmFsSWQgICAgPSByYXcuc2lnbmFsSWQsCiAgICAgICAgICB0aW1lT2ZTZW50ICA9IHJhdy50aW1lT2ZPY2N1cnJlbmNlLAogICAgICAgICAgc2lnbmFsVmFsdWUgPSByYXcuc2lnbmFsVmFsdWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjczMjYyMDIzOTI1NzgsIDQ4Ljc2MTM5NDMyNTQ2MzM1XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjIzODk3MTU1NzYxNzIsIDQ4Ljc3MzY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImxvY2FsX2F0bSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJvcmFuZ2UiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyMjM4OTcxNTU3NjE3MiwgNDguNzczNjk1NjMxODM3NjldCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJuYW1lIjogIlBlcnNvbiBkZXRlY3RlZCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICJwb3NpdGlvbiI6IFsxMS40MjMzODk3MTU1NzYxNzIsIDQ4Ljc3MjY5NTYzMTgzNzY5XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJ0eXBlIjogInJ1bm5pbmcgY2hpbGQiLAo=</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgICJ0eXBlIjogIkZlYXR1cmUiLAogICAgICAgICJnZW9tZXRyeSI6IHsKICAgICAgICAgICJ0eXBlIjogIlBvaW50IiwKICAgICAgICAgICJjb29yZGluYXRlcyI6IFsxMS40MjIzODk3MTU1NzYxNzIsIDQ4Ljc3MzY5NTYzMTgzNzY5XQogICAgICAgIH0sCiAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAibmFtZSI6ICJQZXJzb24gZGV0ZWN0ZWQiLAogICAgICAgICAgInR5cGUiOiAicnVubmluZyBjaGlsZCIsCiAgICAgICAgICAiaWNvbi1uYW1lIjogImxvY2FsX2F0bSIsCiAgICAgICAgICAiaWNvbi1jb2xvciI6ICJvcmFuZ2UiLAogICAgICAgICAgInBvc2l0aW9uIjogWzExLjQyMjM4OTcxNTU3NjE3MiwgNDguNzczNjk1NjMxODM3NjldCiAgICAgICAgfSwKICAgICAgICAiaWQiOiAidHJhZmZpYyBzaWduIgogICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -287,9 +302,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWFkTm9ybWFsaXplZERhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxkcm9wTWF4TWVzc2FnZUR1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkTm9ybWFsaXplZERhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkcm9wTWF4TWVzc2FnZUR1cmF0aW9uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
