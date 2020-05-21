@@ -3,10 +3,10 @@
     <extensionMap>
       <mapping ext="deployment" type="Groovy" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="bml" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
-      <mapping ext="rsdchunk" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
+      <mapping ext="rsdchunk" type="PLAIN_TEXT" />
+      <mapping ext="bml" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
