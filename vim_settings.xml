@@ -140,9 +140,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" timestamp="1589888918058">
         <mark key="'" line="20" column="68" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DrivingCyclesODCTest.scala" timestamp="1590408747146">
+      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DrivingCyclesODCTest.scala" timestamp="1590408779289">
         <mark key="'" line="21" column="28" />
-        <mark key="[" line="70" column="79" />
+        <mark key="[" line="71" column="13" />
+        <mark key="]" line="71" column="13" />
+        <mark key="^" line="84" column="0" />
+        <mark key="." line="71" column="13" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/Dataset.scala" timestamp="1590138751554">
         <mark key="'" line="3040" column="16" />
@@ -274,8 +277,8 @@
       <register name="/" type="4">
         <text>histogram</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxpc3RBID0gMSB0byAxMAo=</text>
+      <register name="0" type="4">
+        <text>cycles</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdmFsIGxpc3RCID0gMSB0byAxMAo=</text>
