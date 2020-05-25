@@ -115,12 +115,13 @@
       <file name="$USER_HOME$/.cache/intellij-haskell/lib/leap/base-4.13.0.0/Data/Foldable.hs" timestamp="1590076515227">
         <mark key="'" line="258" column="21" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/DiagnosticsTopology.scala" timestamp="1590418637136">
-        <mark key="'" line="63" column="14" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/DiagnosticsTopology.scala" timestamp="1590419064844">
+        <mark key="'" line="25" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/dataconverter/DataConverter.scala" timestamp="1590418599083">
         <mark key="'" line="51" column="4" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/serdes/EventDataSerde.scala" timestamp="1590419135553" />
       <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" timestamp="1590139062594">
         <mark key="'" line="36" column="18" />
         <mark key="[" line="36" column="6" />
@@ -161,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
       <jump line="22" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" />
       <jump line="12" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" />
       <jump line="88" column="45" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" />
@@ -261,6 +261,7 @@
       <jump line="33" column="40" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/DiagnosticsTopology.scala" />
       <jump line="63" column="14" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/DiagnosticsTopology.scala" />
       <jump line="21" column="18" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/converter/Converter.scala" />
+      <jump line="25" column="47" filename="$USER_HOME$/Developer/acdc/acdc.diagnostic.forwarder/src/main/scala/de/audi/acdc/diagnostic/forwarder/DiagnosticsTopology.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
