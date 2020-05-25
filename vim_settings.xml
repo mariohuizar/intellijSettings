@@ -140,19 +140,18 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" timestamp="1589888918058">
         <mark key="'" line="20" column="68" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DrivingCyclesODCTest.scala" timestamp="1590408779289">
-        <mark key="'" line="21" column="28" />
-        <mark key="[" line="71" column="13" />
-        <mark key="]" line="71" column="13" />
-        <mark key="^" line="84" column="0" />
-        <mark key="." line="71" column="13" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DrivingCyclesODCTest.scala" timestamp="1590410172994">
+        <mark key="'" line="70" column="28" />
+        <mark key="[" line="70" column="23" />
+        <mark key="]" line="70" column="24" />
+        <mark key="." line="70" column="23" />
+        <mark key="^" line="70" column="26" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/Dataset.scala" timestamp="1590138751554">
         <mark key="'" line="3040" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="222" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="22" column="118" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
       <jump line="32" column="48" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" />
@@ -252,12 +251,13 @@
       <jump line="35" column="18" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
       <jump line="21" column="28" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DrivingCyclesODCTest.scala" />
       <jump line="37" column="78" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DrivingCyclesODC.scala" />
+      <jump line="70" column="28" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DrivingCyclesODCTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -272,7 +272,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>histogram</text>
@@ -281,7 +281,7 @@
         <text>cycles</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxpc3RCID0gMSB0byAxMAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -294,29 +294,29 @@
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxpc3RBID0gMSB0byAxMAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LmZvcmVhY2ggeyBkcml2aW5nQ3ljbGUgPT4KICAgICAgICBwcmludGxuKCIqKioiKQogICAgICAgIHByaW50bG4oZHJpdmluZ0N5Y2xlKQoKICAgICAgICAvLyBUaGlzIHZhbHVlIG9mIHRoZSB0aHJlc2hvbGQgaXMgZGV0ZXJtaW5lZCBiYXNlZCBvbiB0aGUgc3RkIGRldiBvZiB0aGUgYnJha2UgcGVkYWwgdHJhdmVsIHNwZWVkIHdoaWNoIGlzIGNhbGN1bGF0ZWQgZm9yIG11bHRpcGxlIGRyaXZpbmcgY3ljbGVzLgogICAgICAgIC8vIFRoZSB0aHJlc2hvbGQgaXMgZ2l2ZW4gYXMgYSBwYXJhbWV0ZXIgaW50ZW50aW9uYWxseSBzbyB0aGF0IGl0IGNhbiBiZSBhZGp1c3RlZC4KICAgICAgICB2YWwgYnJha2VQZWRhbFVzYWdlID0gYW5hbHl6ZUJyYWtlUGVkYWxUcmF2ZWxGb3JEcml2aW5nQ3ljbGUoZGF0YURmLCBkcml2aW5nQ3ljbGUucHZpbk9yU2Vzc2lvbklkLCBkcml2aW5nQ3ljbGUudW5peFN0YXJ0VGltZSwgZHJpdmluZ0N5Y2xlLnVuaXhFbmRUaW1lLCBicmFrZVBlZGFsU3BlZWRUaHJlc2hvbGQgPSAzMCkKICAgICAgICBwcmludGxuKGJyYWtlUGVkYWxVc2FnZSkKICAgICAgICB2YWwgcGVyY2VudGFnZSA9ICgxMDAgKiBicmFrZVBlZGFsVXNhZ2UubnVtT2ZUaW1lc0JyYWtlc1VzZWRBYnJ1cHRseS50b0RvdWJsZSAvIGJyYWtlUGVkYWxVc2FnZS5udW1PZlRpbWVzQnJha2VzVXNlZCkudG9JbnQKICAgICAgICBwcmludGxuKHMiKCNhYnJ1cHRfYnJha2luZykvKCNicmFraW5nKSA9ICRwZXJjZW50YWdlICUiKQoKICAgICAgICBwcmludGxuKCJcblxuIikKICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGxpc3RCID0gMSB0byAxMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBsaXN0QS56aXAobGlzdEIpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGxpc3RBID0gMSB0byAxMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgemlwcGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb25IIDo6IFthXSAtPiBhCmZ1bmN0aW9uSCAoeDpfKSA9IHgK</text>
+        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBsaXN0QS56aXAobGlzdEIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhhbXBsZSA9IGxlbmd0aCBbMSwgMiwgMywgNCwgNV0K</text>
+        <text encoding="base64">ICAgICAgemlwcGVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eCA9IDUKeSA9IHggKyA1CnogeSA9IHkgKiAxMAo=</text>
+        <text encoding="base64">ZnVuY3Rpb25IIDo6IFthXSAtPiBhCmZ1bmN0aW9uSCAoeDpfKSA9IHgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhhbXBsZSA6OiBOdW0gYSA9PiAoYSwgU3RyaW5nKQo=</text>
+        <text encoding="base64">ZXhhbXBsZSA9IGxlbmd0aCBbMSwgMiwgMywgNCwgNV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
