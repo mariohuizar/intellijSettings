@@ -103,6 +103,9 @@
         <mark key="[" line="312" column="0" />
         <mark key="]" line="317" column="1" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/ServiceAPIClient.scala" timestamp="1590680948084">
+        <mark key="'" line="35" column="41" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/analytics/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1590670444857">
         <mark key="[" line="36" column="37" />
       </file>
@@ -125,8 +128,14 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="122" />
       </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.9/jackson-databind-2.9.9-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1590680940553">
+        <mark key="'" line="442" column="11" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1590668838999">
         <mark key="'" line="458" column="18" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/test/scala/de/audi/acdc/toolbox/util/ServiceAPIClientSpec.scala" timestamp="1590681012824">
+        <mark key="'" line="15" column="36" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URL.class" timestamp="1590680174878">
         <mark key="'" line="364" column="11" />
@@ -165,9 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="16" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="100" column="30" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="47" column="13" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="314" column="497" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
       <jump line="40" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="42" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
@@ -265,6 +271,9 @@
       <jump line="41" column="36" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/HttpRequest.scala" />
       <jump line="364" column="11" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URL.class" />
       <jump line="23" column="22" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URLConnection.class" />
+      <jump line="442" column="11" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.9/jackson-databind-2.9.9-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
+      <jump line="35" column="41" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/ServiceAPIClient.scala" />
+      <jump line="15" column="36" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/test/scala/de/audi/acdc/toolbox/util/ServiceAPIClientSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
