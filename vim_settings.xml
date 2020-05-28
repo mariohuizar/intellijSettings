@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxub3JtYWxpemVcPg==</entry>
         <entry encoding="base64">XDxub3JtYWxpemVTaWduYWxWYWx1ZVw+</entry>
         <entry encoding="base64">XDxjaGVja01ldGFFbnVtQ29udGFpbnNFcnJvclw+</entry>
         <entry encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxJbnRlZ3JhdGlvblRlc3RcPg==</entry>
         <entry encoding="base64">XDxpbnRlZ3JhdGlvblRlc3RzU2V0dGluZ3NcPg==</entry>
         <entry>settings</entry>
+        <entry>2018</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -98,8 +98,8 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" timestamp="1590671899817">
-        <mark key="'" line="313" column="9" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" timestamp="1590679284595">
+        <mark key="'" line="24" column="2" />
         <mark key="[" line="312" column="0" />
         <mark key="]" line="317" column="1" />
       </file>
@@ -125,14 +125,11 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="122" />
       </file>
-      <file name="/sbtShell" timestamp="1590592330013">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" timestamp="1590590791019">
-        <mark key="'" line="20" column="68" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1590668838999">
         <mark key="'" line="458" column="18" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URL.class" timestamp="1590680174878">
+        <mark key="'" line="364" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/src/test/scala/de/audi/cmea/cleansing/CleanCMEASpec.scala" timestamp="1590675905390">
         <mark key="'" line="18" column="41" />
@@ -141,6 +138,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URLConnection.class" timestamp="1590680177680">
+        <mark key="'" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/SparkSession.scala" timestamp="1590670512742">
         <mark key="'" line="303" column="0" />
@@ -156,15 +156,15 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/HttpRequest.scala" timestamp="1590680170021">
+        <mark key="'" line="41" column="36" />
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="41" column="52" />
+        <mark key="^" line="41" column="50" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="20" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="106" column="8" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="21" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="24" column="30" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="32" column="11" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="78" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="73" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="52" column="16" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="100" column="30" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
       <jump line="47" column="13" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
@@ -258,12 +258,19 @@
       <jump line="219" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="121" column="11" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="164" column="41" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
+      <jump line="21" column="15" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
+      <jump line="24" column="2" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
+      <jump line="23" column="53" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/HttpRequest.scala" />
+      <jump line="42" column="36" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/HttpRequest.scala" />
+      <jump line="41" column="36" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/HttpRequest.scala" />
+      <jump line="364" column="11" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URL.class" />
+      <jump line="23" column="22" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URLConnection.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3Nzcwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -278,16 +285,16 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>settings</text>
+        <text>2018</text>
       </register>
       <register name="0" type="4">
-        <text>integrationTestsSettings</text>
+        <text>HttpURLConnection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3Nzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -298,7 +305,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3Nzcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -316,10 +323,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYWZ0ZXJBbGwoKTogVW5pdCA9IHsKICAgIHNjLnN0b3AoKQogICAgc3VwZXIuYWZ0ZXJBbGwoKQogIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -328,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>settings</last-search>
+      <last-search>2018</last-search>
       <last-offset />
-      <last-pattern>settings</last-pattern>
+      <last-pattern>2018</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
