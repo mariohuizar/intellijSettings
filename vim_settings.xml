@@ -92,6 +92,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" timestamp="1590677324475">
+        <mark key="'" line="164" column="41" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" timestamp="1590671899817">
         <mark key="'" line="313" column="9" />
         <mark key="[" line="312" column="0" />
@@ -125,28 +131,36 @@
       <file name="/sbtShell" timestamp="1590592330013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1590585294832">
-        <mark key="'" line="108" column="41" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" timestamp="1590590791019">
         <mark key="'" line="20" column="68" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1590668838999">
         <mark key="'" line="458" column="18" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/build.sbt" timestamp="1590584875712">
-        <mark key="'" line="19" column="26" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/src/test/scala/de/audi/cmea/cleansing/CleanCMEASpec.scala" timestamp="1590675905390">
+        <mark key="'" line="18" column="41" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/Jenkinsfile" timestamp="1590678009108">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/SparkSession.scala" timestamp="1590670512742">
         <mark key="'" line="303" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/.scalafmt.conf" timestamp="1590676151557">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/src/main/scala/de/audi/cmea/utils/DataCleanserDuplicate.scala" timestamp="1590677131069">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="35" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="26" column="23" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="24" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="36" column="20" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
       <jump line="96" column="20" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
       <jump line="106" column="8" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
       <jump line="21" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
@@ -242,12 +256,17 @@
       <jump line="17" column="10" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="23" column="3" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="24" column="4" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
+      <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/src/test/scala/de/audi/cmea/cleansing/CleanCMEASpec.scala" />
+      <jump line="123" column="11" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
+      <jump line="219" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
+      <jump line="121" column="11" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
+      <jump line="164" column="41" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3Nzcwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -262,7 +281,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
@@ -271,16 +290,13 @@
         <text>integrationTestsSettings</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3Nzcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="49" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
@@ -294,19 +310,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYWZ0ZXJBbGwoKTogVW5pdCA9IHsKICAgIHNjLnN0b3AoKQogICAgc3VwZXIuYWZ0ZXJBbGwoKQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBIZWxwZXIgb2JqZWN0IHRvIGltcG9ydCBTUUwgaW1wbGljaXRzIHdpdGhvdXQgYSBjb25jcmV0ZSBTUUxDb250ZXh0CiAgcHJpdmF0ZSBvYmplY3QgaW50ZXJuYWxJbXBsaWNpdHMgZXh0ZW5kcyBTUUxJbXBsaWNpdHMgewogICAgcHJvdGVjdGVkIG92ZXJyaWRlIGRlZiBfc3FsQ29udGV4dDogU1FMQ29udGV4dCA9IHNzLnNxbENvbnRleHQKICB9CiAgaW1wb3J0IGludGVybmFsSW1wbGljaXRzLl8KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgc3M6IFNwYXJrU2Vzc2lvbiA9IF8KICB2YXIgc2M6IFNwYXJrQ29udGV4dCA9IF8KICB2YXIgc3FsQ29udGV4dDogU1FMQ29udGV4dCA9IF8KCgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYmVmb3JlQWxsKCk6IFVuaXQgPSB7CiAgICB2YWwgbWFzdGVyID0gImxvY2FsWypdIgogICAgdmFsIGFwcE5hbWUgPSAiTXlBcHAiCiAgICB2YWwgY29uZjogU3BhcmtDb25mID0gbmV3IFNwYXJrQ29uZigpCiAgICAgIC5zZXRNYXN0ZXIobWFzdGVyKQogICAgICAuc2V0QXBwTmFtZShhcHBOYW1lKQogICAgICAuc2V0KCJzcGFyay5kcml2ZXIuYWxsb3dNdWx0aXBsZUNvbnRleHRzIiwgImZhbHNlIikKICAgICAgLnNldCgic3BhcmsudWkuZW5hYmxlZCIsICJmYWxzZSIpCgogICAgc3MgPSBTcGFya1Nlc3Npb24uYnVpbGRlcigpLmNvbmZpZyhjb25mKS5nZXRPckNyZWF0ZSgpCiAgICBzYyA9IHNzLnNwYXJrQ29udGV4dAogICAgc3FsQ29udGV4dCA9IHNzLnNxbENvbnRleHQKICAgIHN1cGVyLmJlZm9yZUFsbCgpCiAgfQo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgYWZ0ZXJBbGwoKTogVW5pdCA9IHsKICAgIHNjLnN0b3AoKQogICAgc3VwZXIuYWZ0ZXJBbGwoKQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
