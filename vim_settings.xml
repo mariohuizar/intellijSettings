@@ -92,13 +92,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" timestamp="1590671931056">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="127" column="29" />
-        <mark key="]" line="127" column="29" />
-        <mark key="." line="127" column="29" />
-        <mark key="^" line="127" column="29" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" timestamp="1590671899817">
         <mark key="'" line="313" column="9" />
         <mark key="[" line="312" column="0" />
@@ -137,13 +130,6 @@
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" timestamp="1590590791019">
         <mark key="'" line="20" column="68" />
-      </file>
-      <file name="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" timestamp="1590525085798">
-        <mark key="'" line="15" column="22" />
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1590668838999">
         <mark key="'" line="458" column="18" />
