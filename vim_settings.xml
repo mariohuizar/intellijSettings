@@ -106,9 +106,6 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/ServiceAPIClient.scala" timestamp="1590680948084">
         <mark key="'" line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1590668838999">
-        <mark key="'" line="458" column="18" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/analytics/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1590670444857">
         <mark key="[" line="36" column="37" />
       </file>
@@ -145,13 +142,14 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/cleansing/CleanCMEAData.scala" timestamp="1590762038855" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/cleansing/CleanCMEAData.scala" timestamp="1590762050586" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URLConnection.class" timestamp="1590680177680">
         <mark key="'" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/cleansing/CleanCMEADataTest.scala" timestamp="1590761620741">
         <mark key="'" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/cleansing/CleanCMEADataConfig.scala" timestamp="1590762085072" />
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/SparkSession.scala" timestamp="1590670512742">
         <mark key="'" line="303" column="0" />
       </file>
