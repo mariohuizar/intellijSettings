@@ -92,6 +92,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/utils/DataCleanserDuplicateSpec.scala" timestamp="1591091463914">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="67" column="4" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" timestamp="1590679284595">
         <mark key="'" line="24" column="2" />
         <mark key="[" line="312" column="0" />
@@ -100,45 +106,14 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/ServiceAPIClient.scala" timestamp="1590680948084">
         <mark key="'" line="35" column="41" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/test/scala/de/audi/acdc/toolbox/util/ServiceAPIClientSpec.scala" timestamp="1590681012824">
+        <mark key="'" line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/utils/SparkUtils.scala" timestamp="1591091569196">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="60" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/cleansing/CleanCMEADataTest.scala" timestamp="1591091350874">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/application.conf" timestamp="1591092129753">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/cleansing/CleanCMEASpec.scala" timestamp="1591090854357">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="44" column="6" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/utils/SparkUtilsSpec.scala" timestamp="1591091479531">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="46" column="6" />
-        <mark key="^" line="46" column="6" />
-        <mark key="." line="46" column="5" />
-      </file>
-      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.9/jackson-databind-2.9.9-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1590680940553">
-        <mark key="'" line="442" column="11" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/utils/DataCleanserDuplicateSpec.scala" timestamp="1591091463914">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="67" column="4" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/test/scala/de/audi/acdc/toolbox/util/ServiceAPIClientSpec.scala" timestamp="1590681012824">
-        <mark key="'" line="15" column="36" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URL.class" timestamp="1590680174878">
         <mark key="'" line="364" column="11" />
@@ -149,6 +124,9 @@
         <mark key="]" line="67" column="11" />
         <mark key="." line="67" column="10" />
         <mark key="^" line="67" column="11" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateClassification.scala" timestamp="1591099470648">
+        <mark key="'" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/Jenkinsfile" timestamp="1590678009108">
         <mark key="[" line="8" column="0" />
@@ -162,13 +140,44 @@
         <mark key="^" line="68" column="62" />
         <mark key="." line="68" column="61" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/cleansing/CleanCMEADataTest.scala" timestamp="1591091350874">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/net/URLConnection.class" timestamp="1590680177680">
         <mark key="'" line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/application.conf" timestamp="1591092129753">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/package.scala" timestamp="1591100023316">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/cleansing/CleanCMEASpec.scala" timestamp="1591090854357">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="44" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/resources/application.conf" timestamp="1591092086652">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/utils/SparkUtilsSpec.scala" timestamp="1591091479531">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="46" column="6" />
+        <mark key="^" line="46" column="6" />
+        <mark key="." line="46" column="5" />
+      </file>
+      <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.9/jackson-databind-2.9.9-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1590680940553">
+        <mark key="'" line="442" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/HttpRequest.scala" timestamp="1590680170021">
         <mark key="'" line="41" column="36" />
@@ -184,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="37" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
       <jump line="53" column="17" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" />
@@ -284,27 +292,33 @@
       <jump line="53" column="35" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/cleansing/CleanCMEAData.scala" />
       <jump line="66" column="44" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/cleansing/CleanCMEAData.scala" />
       <jump line="8" column="30" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/utils/SparkUtils.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateClassification.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBzc3Mg</text>
       </register>
       <register name="j" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="65535" code="67" mods="130" />
-          <key char="65535" code="67" mods="130" />
-          <key char="65535" code="67" mods="130" />
-        </keys>
+        <text>kjx</text>
       </register>
       <register name="*" type="4">
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICBzc3Mg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaWxlU3lzdGVtXD4=</text>
@@ -313,39 +327,38 @@
         <text>HttpURLConnection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="115" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2FtcGFpZ24taWQgPSAkez9DQU1QQUlHTl9JRH0KCi8vIFN0YXJ0IGRhdGUgb2YgdGhlIHRpbWUgaW50ZXJ2YWw6IERhdGEgZm9yIGV2ZXJ5IGRheSBpbiB0aGUgZGVmaW5lZCB0aW1lIGludGVydmFsIHdpbGwgYmUgY29tcGFjdGVkLgpmcm9tLWRhdGUgPSAieWVzdGVyZGF5Igpmcm9tLWRhdGUgPSAkez9TVEFSVF9EQVRFfQoKLy8gRW5kIGRhdGUgb2YgdGhlIHRpbWUgaW50ZXJ2YWwuCnRvLWRhdGUgPSAieWVzdGVyZGF5Igp0by1kYXRlID0gJHs/RU5EX0RBVEV9CgovLyByZWxldmFudCByZXBvcnQtaWRzIG9mIHRoZSBjYW1wYWlnbgpyZXBvcnQtaWRzID0gIiIKcmVwb3J0LWlkcyA9ICR7P1JFUE9SVF9JRFN9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbGljYXRpb24tbmFtZSA9ICJDbGVhbmluZyBDTUVBIERhdGEiCgovLyBBQ0RDIFN0YWdlCnN0YWdlID0gImRldiIKc3RhZ2UgPSAkez9TVEFHRX0KCi8vIEJhc2UgUGF0aCB0byB3cml0ZSB0aGUgY29tcGFjdGVkIGRhdGEgdG8uCm91dHB1dC1zdWZmaXggPSAiY21lYS92MS9jbGVhbmVkLyIKb3V0cHV0LXN1ZmZpeCA9ICR7P09VVFBVVF9TVUZGSVh9CgovLyBDYW1wYWlnbklkIHRvIGNvbXBhY3Qgb25seQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">UHJvdmlkZXMgY2xhc3NlcyBmb3IgZGVhbGluZyB3aXRoIGNvbXBsZXggbnVtYmVycy4gIEFsc28gcHJvdmlkZXMKICAqICBpbXBsaWNpdHMgZm9yIGNvbnZlcnRpbmcgdG8gYW5kIGZyb20gYEludGAuCiAgKgogICogID09T3ZlcnZpZXc9PQogICogIFRoZSBtYWluIGNsYXNzIHRvIHVzZSBpcyBbW215LnBhY2thZ2UuY29tcGxleC5Db21wbGV4XV0sIGFzIHNvCiAgKiAge3t7CiAgKiAgc2NhbGE+IHZhbCBjb21wbGV4ID0gQ29tcGxleCg0LDMpCiAgKiAgY29tcGxleDogbXkucGFja2FnZS5jb21wbGV4LkNvbXBsZXggPSA0ICsgM2kKICAqICB9fX0KICAqCiAgKiAgSWYgeW91IGluY2x1ZGUgW1tteS5wYWNrYWdlLmNvbXBsZXguQ29tcGxleENvbnZlcnNpb25zXV0sIHlvdSBjYW4KICAqICBjb252ZXJ0IG51bWJlcnMgbW9yZSBkaXJlY3RseQogICogIHt7ewogICogIHNjYWxhPiBpbXBvcnQgbXkucGFja2FnZS5jb21wbGV4LkNvbXBsZXhDb252ZXJzaW9ucy5fCiAgKiAgc2NhbGE+IHZhbCBjb21wbGV4ID0gNCArIDMuaQogICogIGNvbXBsZXg6IG15LnBhY2thZ2UuY29tcGxleC5Db21wbGV4ID0gNCArIDNpCiAgKiAgfX19</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwdXQgeW91ciBjb25maWd1cmF0aW9uIHByb3BlcnRpZXMgaGVyZSEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FtcGFpZ24taWQgPSAkez9DQU1QQUlHTl9JRH0KCi8vIFN0YXJ0IGRhdGUgb2YgdGhlIHRpbWUgaW50ZXJ2YWw6IERhdGEgZm9yIGV2ZXJ5IGRheSBpbiB0aGUgZGVmaW5lZCB0aW1lIGludGVydmFsIHdpbGwgYmUgY29tcGFjdGVkLgpmcm9tLWRhdGUgPSAieWVzdGVyZGF5Igpmcm9tLWRhdGUgPSAkez9TVEFSVF9EQVRFfQoKLy8gRW5kIGRhdGUgb2YgdGhlIHRpbWUgaW50ZXJ2YWwuCnRvLWRhdGUgPSAieWVzdGVyZGF5Igp0by1kYXRlID0gJHs/RU5EX0RBVEV9CgovLyByZWxldmFudCByZXBvcnQtaWRzIG9mIHRoZSBjYW1wYWlnbgpyZXBvcnQtaWRzID0gIiIKcmVwb3J0LWlkcyA9ICR7P1JFUE9SVF9JRFN9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbGljYXRpb24tbmFtZSA9ICJDbGVhbmluZyBDTUVBIERhdGEiCgovLyBBQ0RDIFN0YWdlCnN0YWdlID0gImRldiIKc3RhZ2UgPSAkez9TVEFHRX0KCi8vIEJhc2UgUGF0aCB0byB3cml0ZSB0aGUgY29tcGFjdGVkIGRhdGEgdG8uCm91dHB1dC1zdWZmaXggPSAiY21lYS92MS9jbGVhbmVkLyIKb3V0cHV0LXN1ZmZpeCA9ICR7P09VVFBVVF9TVUZGSVh9CgovLyBDYW1wYWlnbklkIHRvIGNvbXBhY3Qgb25seQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
