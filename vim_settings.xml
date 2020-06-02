@@ -150,8 +150,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/test/scala/de/audi/acdc/toolbox/util/ServiceAPIClientSpec.scala" timestamp="1590681012824">
         <mark key="'" line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/ClimateRegionAggregator.scala" timestamp="1591103766370">
-        <mark key="'" line="27" column="59" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/ClimateRegionAggregator.scala" timestamp="1591103839680">
+        <mark key="'" line="35" column="91" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/utils/DataCleanserDuplicate.scala" timestamp="1591090744516">
         <mark key="'" line="68" column="8" />
@@ -167,11 +167,11 @@
         <mark key="^" line="68" column="62" />
         <mark key="." line="68" column="61" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/package.scala" timestamp="1591101954645">
-        <mark key="[" line="9" column="530" />
-        <mark key="]" line="9" column="531" />
-        <mark key="." line="9" column="531" />
-        <mark key="^" line="9" column="512" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/package.scala" timestamp="1591103927619">
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="85" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateRegionSignal.scala" timestamp="1591103673343">
         <mark key="'" line="46" column="22" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
       <jump line="57" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
       <jump line="142" column="16" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
       <jump line="7" column="47" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
@@ -288,6 +287,7 @@
       <jump line="42" column="21" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
       <jump line="46" column="22" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateRegionSignal.scala" />
       <jump line="27" column="59" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/ClimateRegionAggregator.scala" />
+      <jump line="35" column="91" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/ClimateRegionAggregator.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
