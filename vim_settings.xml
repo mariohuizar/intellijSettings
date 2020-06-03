@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>qa</entry>
-        <entry encoding="base64">XDxzcGFya1NxbFw+</entry>
         <entry encoding="base64">XDxzcGFya1Rlc3RpbmdCYXNlXD4=</entry>
         <entry encoding="base64">XDxJbnRlZ3JhdGlvblRlc3RcPg==</entry>
         <entry encoding="base64">XDxpbnRlZ3JhdGlvblRlc3RzU2V0dGluZ3NcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>DriveType</entry>
         <entry encoding="base64">XDxpZGVudGlmeURyaXZpbmdDeWNsZXNcPg==</entry>
         <entry encoding="base64">XDxpZGVudGlmeURyaXZpbmdUeXBlc1w+</entry>
+        <entry>available</entry>
+        <entry>too hi</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -152,8 +152,12 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1591197797047">
-        <mark key="'" line="85" column="26" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1591203621785">
+        <mark key="'" line="1167" column="57" />
+        <mark key="[" line="257" column="10" />
+        <mark key="]" line="257" column="10" />
+        <mark key="." line="257" column="9" />
+        <mark key="^" line="257" column="10" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DrivingCyclesODC.scala" timestamp="1591199602240">
         <mark key="'" line="39" column="79" />
@@ -179,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
-      <jump line="121" column="11" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="164" column="41" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="21" column="15" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
       <jump line="24" column="2" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
@@ -279,12 +281,14 @@
       <jump line="121" column="16" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
       <jump line="357" column="35" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
       <jump line="84" column="3" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="257" column="10" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="1167" column="57" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaCAic2J0IHRlc3RDb3ZlcmFnZSIK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -304,10 +308,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhbXAg</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZGVudGlmeURyaXZpbmdUeXBlc1w+</text>
+        <text>too hi</text>
       </register>
       <register name="0" type="4">
         <text>de.audi.acdc.toolbox.domain</text>
@@ -353,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpZGVudGlmeURyaXZpbmdUeXBlc1w+</last-search>
+      <last-search>too hi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZGVudGlmeURyaXZpbmdUeXBlc1w+</last-pattern>
+      <last-pattern>too hi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
