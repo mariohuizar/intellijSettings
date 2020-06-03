@@ -117,13 +117,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/build.sbt" timestamp="1591179352122">
-        <mark key="'" line="22" column="26" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="72" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.seedjob/src/jobs/acdc_multibranch_pipeline_jobseed.groovy" timestamp="1591106716710">
         <mark key="'" line="56" column="20" />
         <mark key="[" line="57" column="36" />
@@ -136,9 +129,6 @@
         <mark key="]" line="46" column="6" />
         <mark key="^" line="46" column="6" />
         <mark key="." line="46" column="5" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile" timestamp="1591177078863">
-        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/build.sbt" timestamp="1591178636771">
         <mark key="[" line="67" column="0" />
