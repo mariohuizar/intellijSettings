@@ -108,11 +108,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="75" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" timestamp="1591195103630">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="18" column="34" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" timestamp="1591199276589">
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="141" column="54" />
+        <mark key="]" line="141" column="55" />
+        <mark key="." line="141" column="55" />
+        <mark key="^" line="139" column="77" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" timestamp="1591198588746">
         <mark key="'" line="53" column="77" />
@@ -155,9 +156,12 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1591197797047">
         <mark key="'" line="85" column="26" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/Jenkinsfile.release" timestamp="1591176639821">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DrivingCyclesODC.scala" timestamp="1591199602240">
+        <mark key="'" line="36" column="79" />
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="65" />
+        <mark key="^" line="30" column="65" />
+        <mark key="." line="30" column="64" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile.release" timestamp="1591176841455">
         <mark key="'" line="8" column="27" />
@@ -187,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="3" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
-      <jump line="24" column="4" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
-      <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/src/test/scala/de/audi/cmea/cleansing/CleanCMEASpec.scala" />
       <jump line="123" column="11" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="219" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
       <jump line="121" column="11" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/cmea-power-electronics/build.sbt" />
@@ -287,12 +288,15 @@
       <jump line="70" column="84" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
       <jump line="53" column="77" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
       <jump line="121" column="16" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="33" column="4" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
+      <jump line="69" column="4" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
+      <jump line="34" column="79" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DrivingCyclesODC.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">Y2xhbXAg</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -312,16 +316,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">Y2xhbXAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZGVudGlmeURyaXZpbmdUeXBlc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>de.audi.acdc.toolbox.aggregation.DrivingCyclesAggregator.identifyDrivingTypes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICogQHBhcmFtIHJhd0NzdkRhdGEgU3RyaW5nIHdoaWNoIGNvbnRhaW5zIHRoZSBkYXRhIGluIENTViBmb3JtYXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogZHJpdmVJbmNvbXBsZXRlCiAgICAqIGRyaXZlRW5kCiAgICAqIGRyaXZlQmVnaW4gICAgICA9ICJkcml2ZS1iZWdpbiIKICAgICogZHJpdmVQYXVzZWQgICAgID0gImRyaXZlLXBhdXNlZCIKICAgICogZHJpdmVDb21wbGV0ZSAgID0gImRyaXZlLWNvbXBsZXRlIgogICAgKiBCZWdpbiBvZiBhIGRyaXZpbmc6IFRpbWUgd2luZG93IGFzIGxvbmcgcm90YXRpb24gdmFsdWUgaXMgMAogICAgKiBEcml2aW5nOiAgVGltZSB3aW5kb3cgYXMgbG9uZyAocm90YXRpb24gIT0gMCBPUiBLTCAxNSBpcyBPTikKICAgICogRW5kIG9mIGEgZHJpdmluZzogVGltZSB3aW5kb3cgYWZ0ZXIgKHJvdGF0aW9uIHZhbHVlIGlzIDAgT1IgS0wgMTUgaXMgT0ZGKQo=</text>
+        <text encoding="base64">ICAqCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -331,92 +335,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqCg==</text>
+        <text encoding="base64">ICAvLyBkZXRlY3QgYWxsIERyaXZpbmdDeWNsZXMgd2l0aGluIGEgRGF0YUZyYW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAqQHBhcmFtIGlzSW5pdCBib29sZWFuIHZhbHVlLCB0cnVlIC0+IGlzSW5pdCwgZmFsc2UgLT4gIWlzSW5pdAogICpAcGFyYW0gaXNFcnJvciBib29sZWFuIHZhbHVlLCB0cnVlIC0+IGlzRXJyb3IsIGZhbHNlIC0+ICFpc0Vycm9yCg==</text>
+        <text encoding="base64">ICAvLyBsb2FkIGltcGxpY2l0cyBhbmQgc3BhcmtTZXNzaW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNraXAgaW4gcHVibGlzaCA6PSB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHJhd0NzdkRhdGEgUGF0aCB0byBhIHJhd0NzdkRhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZSA6PSAiY21lYS1wb3dlci1lbGVjdHJvbmljcyIK</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHJhd0NzdkRhdGEgUGF0aCB0byBhIHJhd0NzdkRhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
-      <register name="8" type="4">
-        <text>@Library('acdc') _
-pipeline {
-  agent {
-    kubernetes {
-      cloud 'k8s CF Slave'
-      defaultContainer 'sbt'
-      label 'sbt-cmea-build'
-    }
-  }
-  stages {
-    stage('Notify Stash build starting') {
-      steps {
-        script {
-          notifyBitbucket()
-        }
-      }
-    }
-    stage('Style Check') {
-      steps {
-        sh 'sbt styleCheck'
-      }
-    }
-    stage('Dependencies Check') {
-      steps {
-        sh 'sbt dependencyUpdates'
-      }
-    }
-    stage('Build') {
-      steps {
-        sh 'sbt compile test:compile'
-      }
-    }
-    stage('Check Docs') {
-      steps {
-        sh 'sbt doc test:doc'
-      }
-    }
-    stage('Test') {
-      steps {
-        sh 'sbt testCoverage'
-        step([$class : 'CoberturaPublisher', autoUpdateHealth: false, autoUpdateStability: false,
-                  coberturaReportFile: '**/cobertura.xml',
-                  failUnhealthy      : false, failUnstable: false, maxNumberOfBuilds: 0, onlyStable: false,
-                  sourceEncoding     : 'ASCII', zoomCoverageChart: false])
-      }
-    }
-    stage('Publish') {
-      steps {
-        withCredentials([usernamePassword(credentialsId: 'acdc-automation', usernameVariable: 'NEXUS_USERNAME', passwordVariable: 'NEXUS_PASSWORD')]) {
-          sh 'sbt project acdcProjectAssembly'
-          sh 'sbt acdcProjectAssembly publish'
-        }
-      }
-    }
-  }
-
-  post {
-    always {
-      script {
-        currentBuild.result = currentBuild.result ?: 'SUCCESS'
-        notifyBitbucket()
-      }
-    }
-  }
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICogZHJpdmVJbmNvbXBsZXRlCiAgICAqIGRyaXZlRW5kCiAgICAqIGRyaXZlQmVnaW4gICAgICA9ICJkcml2ZS1iZWdpbiIKICAgICogZHJpdmVQYXVzZWQgICAgID0gImRyaXZlLXBhdXNlZCIKICAgICogZHJpdmVDb21wbGV0ZSAgID0gImRyaXZlLWNvbXBsZXRlIgogICAgKiBCZWdpbiBvZiBhIGRyaXZpbmc6IFRpbWUgd2luZG93IGFzIGxvbmcgcm90YXRpb24gdmFsdWUgaXMgMAogICAgKiBEcml2aW5nOiAgVGltZSB3aW5kb3cgYXMgbG9uZyAocm90YXRpb24gIT0gMCBPUiBLTCAxNSBpcyBPTikKICAgICogRW5kIG9mIGEgZHJpdmluZzogVGltZSB3aW5kb3cgYWZ0ZXIgKHJvdGF0aW9uIHZhbHVlIGlzIDAgT1IgS0wgMTUgaXMgT0ZGKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
