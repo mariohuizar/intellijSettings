@@ -107,6 +107,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" timestamp="1591193163723">
+        <mark key="'" line="80" column="61" />
+        <mark key="[" line="80" column="45" />
+        <mark key="]" line="80" column="46" />
+        <mark key="." line="80" column="45" />
+        <mark key="^" line="80" column="46" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateClassification.scala" timestamp="1591192688101">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="99" column="13" />
+        <mark key="]" line="99" column="24" />
+        <mark key="." line="99" column="23" />
+        <mark key="^" line="99" column="24" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessage.scala" timestamp="1591189172939">
         <mark key="'" line="70" column="6" />
         <mark key="[" line="59" column="19" />
@@ -134,13 +148,8 @@
       <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverter.scala" timestamp="1591189063977">
         <mark key="'" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1591189740649">
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1591192978016">
         <mark key="'" line="631" column="47" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.digest.pfa/project/plugins.sbt" timestamp="1591106378472">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="19" column="73" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/Jenkinsfile.release" timestamp="1591176639821">
         <mark key="[" line="0" column="0" />
@@ -154,18 +163,12 @@
         <mark key="." line="36" column="35" />
       </file>
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/de.heikoseeberger/sbt-header/scala_2.12/sbt_1.0/5.2.0/jars/sbt-header.jar!/de/heikoseeberger/sbtheader/HeaderPlugin.class" timestamp="1591189992853" />
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/package.scala" timestamp="1591103927619">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="85" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateRegionSignal.scala" timestamp="1591190164693">
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateRegionSignal.scala" timestamp="1591192570918">
         <mark key="'" line="27" column="58" />
-        <mark key="[" line="45" column="34" />
-        <mark key="]" line="45" column="35" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="45" column="35" />
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="24" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.sto.digest/Jenkinsfile" timestamp="1591176927814">
         <mark key="[" line="1" column="0" />
@@ -173,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="10" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserData.scala" />
       <jump line="34" column="24" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
       <jump line="20" column="68" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" />
       <jump line="28" column="78" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
@@ -273,12 +275,13 @@
       <jump line="27" column="58" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateRegionSignal.scala" />
       <jump line="631" column="47" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
       <jump line="235" column="9" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
+      <jump line="80" column="61" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>this value should be interpreted as an error value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -298,16 +301,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this value should be interpreted as an error value</text>
+        <text>driving cycle tables. Stores the basic info about the cycles: id, start-stop times.</text>
       </register>
       <register name="/" type="4">
         <text>Header</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb24gOj0gdmVyc2lvbi52YWx1ZS5yZXBsYWNlRmlyc3QoIlNOQVBTSE9UIiwgcyIke2JyYW5jaE5hbWVEYXNofVNOQVBTSE9UIikK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNraXAgaW4gcHVibGlzaCA6PSB0cnVlLAo=</text>
+        <text encoding="base64">ICAqCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -317,12 +320,18 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZSA6PSAiY21lYS1wb3dlci1lbGVjdHJvbmljcyIK</text>
+        <text encoding="base64">ICAqQHBhcmFtIGlzSW5pdCBib29sZWFuIHZhbHVlLCB0cnVlIC0+IGlzSW5pdCwgZmFsc2UgLT4gIWlzSW5pdAogICpAcGFyYW0gaXNFcnJvciBib29sZWFuIHZhbHVlLCB0cnVlIC0+IGlzRXJyb3IsIGZhbHNlIC0+ICFpc0Vycm9yCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHNraXAgaW4gcHVibGlzaCA6PSB0cnVlLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bmFtZSA6PSAiY21lYS1wb3dlci1lbGVjdHJvbmljcyIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>@Library('acdc') _
 pipeline {
   agent {
@@ -389,20 +398,14 @@ pipeline {
   }
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB0cmlnZ2VycyB7CiAgICAvL3BvbGxTQ00gbmVlZGVkIGR1ZSB0byBodHRwczovL21vaGFtaWNvcnAuYXRsYXNzaWFuLm5ldC93aWtpL3NwYWNlcy9ET0MvcGFnZXMvMzgxMjg4NDQ5L0NvbmZpZ3VyaW5nK1dlYmhvb2srVG8rSmVua2lucytmb3IrQml0YnVja2V0K0dpdCtQbHVnaW4KICAgIHBvbGxTQ00oJzAgMCAxIDEgKicpCiAgICBiaXRidWNrZXRQdXNoKCkKICB9Cg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB0cmlnZ2VycyB7CiAgICAvL3BvbGxTQ00gbmVlZGVkIGR1ZSB0byBodHRwczovL21vaGFtaWNvcnAuYXRsYXNzaWFuLm5ldC93aWtpL3NwYWNlcy9ET0MvcGFnZXMvMzgxMjg4NDQ5L0NvbmZpZ3VyaW5nK1dlYmhvb2srVG8rSmVua2lucytmb3IrQml0YnVja2V0K0dpdCtQbHVnaW4KICAgIHBvbGxTQ00oJzAgMCAxIDEgKicpCiAgICBiaXRidWNrZXRQdXNoKCkKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YWdlKCdBbW1vbml0ZScpIHsKICAgICAgc3RlcHMgewogICAgICAgIHNzaGFnZW50KGNyZWRlbnRpYWxzOiBbJ3NvZmEtdXNlci1hdXRvbWF0aW9uJ10pIHsKICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbdXNlcm5hbWVQYXNzd29yZChjcmVkZW50aWFsc0lkOiAnYWNkYy1hdXRvbWF0aW9uJywgdXNlcm5hbWVWYXJpYWJsZTogJ05FWFVTX1VTRVJOQU1FJywgcGFzc3dvcmRWYXJpYWJsZTogJ05FWFVTX1BBU1NXT1JEJyldKSB7CiAgICAgICAgICAgIHdpdGhDcmVkZW50aWFscyhbdXNlcm5hbWVQYXNzd29yZChjcmVkZW50aWFsc0lkOiAnYWNkYy11c2VyLWF1dG9tYXRpb24nLCB1c2VybmFtZVZhcmlhYmxlOiAnSkVOS0lOU19VU0VSTkFNRScsIHBhc3N3b3JkVmFyaWFibGU6ICdKRU5LSU5TX1BBU1NXT1JEJyldKSB7CiAgICAgICAgICAgICAgd2l0aENyZWRlbnRpYWxzKFt1c2VybmFtZVBhc3N3b3JkKGNyZWRlbnRpYWxzSWQ6ICdhY2RjLXVzZXItcmVwb3NpdG9yeScsIHVzZXJuYW1lVmFyaWFibGU6ICdTVEFTSF9VU0VSTkFNRScsIHBhc3N3b3JkVmFyaWFibGU6ICdTVEFTSF9QQVNTV09SRCcpXSkgewogICAgICAgICAgICAgICAgc2ggImdpdCBjbG9uZSBzc2g6Ly9naXRAY29sbGFib3JhdGlvbi5tc2kuYXVkaS5jb206NDQ0NC9hY2RjL2FjZGMubmV4dC5hbW1vbml0ZS5naXQiCiAgICAgICAgICAgICAgICBzaCAiYW1tIGFjZGMubmV4dC5hbW1vbml0ZS9BY2RjUmVsZWFzZS5zYyIKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
