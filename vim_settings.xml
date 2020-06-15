@@ -92,12 +92,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" timestamp="1591786306297">
+      <file name="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" timestamp="1592252920544">
         <mark key="'" line="11" column="36" />
-        <mark key="[" line="11" column="59" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="43" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/main/scala/de/audi/acdc/service/api/routes/GenericEventRoutes.scala" timestamp="1589810366864">
         <mark key="'" line="173" column="57" />
@@ -251,8 +251,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -267,7 +267,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>cover</text>
@@ -290,25 +290,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXNEaXZpc2libGVCeSB4IHkgPSB4IGByZW1gIHkgPT0gMCAK</text>
+        <text>i a = a</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aXNEaXZpc2libGVCeSA6OiBJbnRlZ2VyIC0+IEludGVnZXIgLT4gQm9vbAo=</text>
+        <text encoding="base64">aSA6OiBhIC0+IGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>i a = a</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZiA6OiAoYSAtPiBjKSAtPiBhIC0+IGEKZiBhVG9DIGEgPSBhCgpmJyA6OiAoYSAtPiBiKSAtPiBhIC0+IGIKZicgYVRvQiBhID0gYVRvQiBhCgo=</text>
+        <text encoding="base64">aSA6OiBhIC0+IGEK</text>
       </register>
       <register name="6" type="2">
-        <text>$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y28gOjogKGIgLT4gYykgLT4gKGEgLT4gYikgLT4gYSAtPiBjCmNvIGJUb0MgYVRvQiA9IGJUb0MgLiBhVG9C</text>
+        <text encoding="base64">aXNEaXZpc2libGVCeSB4IHkgPSB4IGByZW1gIHkgPT0gMCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ciA6OiBbYV0gLT4gW2FdCnIgPSAK</text>
+        <text encoding="base64">aXNEaXZpc2libGVCeSA6OiBJbnRlZ2VyIC0+IEludGVnZXIgLT4gQm9vbAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
