@@ -145,11 +145,15 @@
       <file name="debugger.xml" timestamp="1590163762477">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" timestamp="1592253812215">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="12" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="169" column="20" filename="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/Option.scala" />
-      <jump line="33" column="23" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/XfcdApp.scala" />
       <jump line="18" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="222" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="22" column="118" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
@@ -247,12 +251,15 @@
       <jump line="10" column="14" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
       <jump line="14" column="22" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
       <jump line="11" column="36" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
+      <jump line="5" column="0" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
+      <jump line="9" column="15" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Sing</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -267,7 +274,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Sing</text>
       </register>
       <register name="/" type="4">
         <text>cover</text>
@@ -289,11 +296,11 @@
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text>i a = a</text>
+      <register name="2" type="4">
+        <text encoding="base64">bW9kdWxlIFRocm93YXdheSB3aGVyZQoKYWRkTnVtYmVycyA6OiBJbnQKYWRkTnVtYmVycyA9IDEgKyAyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aSA6OiBhIC0+IGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text>i a = a</text>
@@ -302,16 +309,16 @@
         <text encoding="base64">aSA6OiBhIC0+IGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>i a = a</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXNEaXZpc2libGVCeSB4IHkgPSB4IGByZW1gIHkgPT0gMCAK</text>
+        <text encoding="base64">aSA6OiBhIC0+IGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aXNEaXZpc2libGVCeSA6OiBJbnRlZ2VyIC0+IEludGVnZXIgLT4gQm9vbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aXNEaXZpc2libGVCeSB4IHkgPSB4IGByZW1gIHkgPT0gMCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
