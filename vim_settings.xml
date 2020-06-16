@@ -92,12 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" timestamp="1592254212337">
-        <mark key="'" line="11" column="59" />
-        <mark key="[" line="11" column="58" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="60" />
-        <mark key="." line="11" column="59" />
+      <file name="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" timestamp="1592341104021">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/main/scala/de/audi/acdc/service/api/routes/GenericEventRoutes.scala" timestamp="1589810366864">
         <mark key="'" line="173" column="57" />
@@ -154,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="222" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
       <jump line="22" column="118" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
       <jump line="32" column="48" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" />
@@ -254,12 +252,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
       <jump line="9" column="15" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
       <jump line="11" column="59" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
+      <jump line="17" column="7" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>(</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -274,7 +273,7 @@
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>cover</text>
@@ -283,7 +282,7 @@
         <text encoding="base64">SW50ZWdlciAtPg==</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">ICAgICAgCiAgICAgIA==</text>
+        <text encoding="base64">IAogCiA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -297,25 +296,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSBYCmRhdGEgWQpkYXRhIFoKeHogOjogWCAtPiBaCnh6ID0gdW5kZWZpbmVkCnl6IDo6IFkgLT4gWgp5eiA9IHVuZGVmaW5lZAp4Zm9ybSA6OiAoWCwgWSkgLT4gKFosIFopCnhmb3JtICh4LCB5KSA9ICh4eiB4LCB5eiB5KQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bW9kdWxlIFRocm93YXdheSB3aGVyZQoKYWRkTnVtYmVycyA6OiBJbnQKYWRkTnVtYmVycyA9IDEgKyAyCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGF0YSBBCmRhdGEgQgpkYXRhIEMKcSA6OiBBIC0+IEIKcSA9IHVuZGVmaW5lZAp3IDo6IEIgLT4gQwp3ID0gdW5kZWZpbmVkCmUgOjogQSAtPiBDCmUgPSB3IC4gcQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZiA6OiBJbnQgLT4gU3RyaW5nCmYgPSB1bmRlZmluZWQKZyA6OiBTdHJpbmcgLT4gQ2hhcgpnID0gdW5kZWZpbmVkCmggOjogSW50IC0+IENoYXIKaCB4ID0gKGcgLiBmKSB4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>i a = a</text>
+        <text>main :: IO ()
+main = do
+print $ 1 + 2
+putStrLn &quot;10&quot;
+print (negate 1)
+print ((+) 0 blah)
+where blah = negate 1</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aSA6OiBhIC0+IGEK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text>i a = a</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aSA6OiBhIC0+IGEK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bW9kdWxlIFRocm93YXdheSB3aGVyZQoKYWRkTnVtYmVycyA6OiBJbnQKYWRkTnVtYmVycyA9IDEgKyAyCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
