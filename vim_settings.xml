@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWxlU3lzdGVtXD4=</entry>
-        <entry>cleanCsv</entry>
         <entry>header</entry>
         <entry>pfa</entry>
         <entry>Pfa</entry>
@@ -25,6 +23,8 @@
         <entry>update</entry>
         <entry>until</entry>
         <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
+        <entry encoding="base64">XDxiaW5TaWduYWxOYW1lXD4=</entry>
+        <entry encoding="base64">XDx0d29BbmFseXNpc1N0ZXBzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -114,19 +114,19 @@
         <mark key="." line="42" column="35" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593444186745">
-        <mark key="'" line="39" column="38" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="21" column="49" />
-        <mark key="^" line="38" column="2" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593445404765">
+        <mark key="'" line="20" column="44" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="20" column="48" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593444181520">
-        <mark key="'" line="17" column="72" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="38" column="8" />
-        <mark key="^" line="38" column="9" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593445820737">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="46" column="2" />
+        <mark key="." line="46" column="1" />
+        <mark key="^" line="46" column="2" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit-style/3.1.0/src/TransitStyle.elm" timestamp="1591714632554">
         <mark key="'" line="55" column="50" />
@@ -181,11 +181,12 @@
         <mark key="^" line="49" column="55" />
         <mark key="." line="49" column="54" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" timestamp="1593444017591">
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" timestamp="1593446030061">
         <mark key="'" line="41" column="19" />
-        <mark key="[" line="36" column="3" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="3" />
+        <mark key="[" line="46" column="75" />
+        <mark key="]" line="47" column="14" />
+        <mark key="." line="47" column="13" />
+        <mark key="^" line="47" column="14" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593441881480">
         <mark key="'" line="106" column="28" />
@@ -197,12 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile" />
-      <jump line="79" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile" />
-      <jump line="50" column="9" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/build.sbt" />
-      <jump line="22" column="26" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/build.sbt" />
-      <jump line="22" column="17" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
-      <jump line="133" column="8" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
       <jump line="152" column="19" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
       <jump line="62" column="6" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessage.scala" />
       <jump line="30" column="15" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverter.scala" />
@@ -295,14 +290,20 @@
       <jump line="17" column="72" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
       <jump line="52" column="35" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
       <jump line="105" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
-      <jump line="20" column="38" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
       <jump line="41" column="19" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
+      <jump line="45" column="33" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
+      <jump line="47" column="96" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="48" column="27" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="46" column="66" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="40" column="38" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="20" column="44" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="47" column="6" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBzaWduYWxVbml0ICAgICAgICA9ICJDIgogIHByaXZhdGUgdmFsIGFwcGxpY2F0aW9uTmFtZSAgID0gIkF1c3NlbnRlbXBlcmF0dXIiCiAgcHJpdmF0ZSB2YWwgcmVwb3J0TmFtZSAgICAgICAgPSBhcHBsaWNhdGlvbk5hbWUKICBwcml2YXRlIHZhbCB1c2VDYXNlICAgICAgICAgICA9ICJ1c2VjYXNlIgogIHByaXZhdGUgdmFsIHVzZUNhc2VWZXJzaW9uICAgID0gInVzZWNhc2V2ZXIiCiAgcHJpdmF0ZSB2YWwgc3ViVXNlQ2FzZSAgICAgICAgPSAic3VidXNlY2FzZSIKICBwcml2YXRlIHZhbCBzdWJVc2VDYXNlVmVyc2lvbiA9ICJzdWJ1c2VjYXNldmVyIgo=</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -322,15 +323,74 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AnalysisStep()</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlUGF0aFw+</text>
+        <text encoding="base64">XDx0d29BbmFseXNpc1N0ZXBzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBzaWduYWxVbml0ICAgICAgICA9ICJDIgogIHByaXZhdGUgdmFsIGFwcGxpY2F0aW9uTmFtZSAgID0gIkF1c3NlbnRlbXBlcmF0dXIiCiAgcHJpdmF0ZSB2YWwgcmVwb3J0TmFtZSAgICAgICAgPSBhcHBsaWNhdGlvbk5hbWUKICBwcml2YXRlIHZhbCB1c2VDYXNlICAgICAgICAgICA9ICJ1c2VjYXNlIgogIHByaXZhdGUgdmFsIHVzZUNhc2VWZXJzaW9uICAgID0gInVzZWNhc2V2ZXIiCiAgcHJpdmF0ZSB2YWwgc3ViVXNlQ2FzZSAgICAgICAgPSAic3VidXNlY2FzZSIKICBwcml2YXRlIHZhbCBzdWJVc2VDYXNlVmVyc2lvbiA9ICJzdWJ1c2VjYXNldmVyIgo=</text>
+      <register name="0" type="4">
+        <text>steps = List(
+        AnalysisStep(
+          reportName        = reportName,
+          useCase           = useCase,
+          useCaseVersion    = useCaseVersion,
+          subUseCase        = subUseCase,
+          subUseCaseVersion = subUseCaseVersion,
+          signalName        = binSignalName,
+          signalUnit        = signalUnit,
+          binSize           = 1,
+          active            = true
+        )
+      )</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBBbmFseXNpc1N0ZXAoCiAgICAgICAgICByZXBvcnROYW1lICAgICAgICA9IHJlcG9ydE5hbWUsCiAgICAgICAgICB1c2VDYXNlICAgICAgICAgICA9IHVzZUNhc2UsCiAgICAgICAgICB1c2VDYXNlVmVyc2lvbiAgICA9IHVzZUNhc2VWZXJzaW9uLAogICAgICAgICAgc3ViVXNlQ2FzZSAgICAgICAgPSBzdWJVc2VDYXNlLAogICAgICAgICAgc3ViVXNlQ2FzZVZlcnNpb24gPSBzdWJVc2VDYXNlVmVyc2lvbiwKICAgICAgICAgIHNpZ25hbE5hbWUgICAgICAgID0gYmluU2lnbmFsTmFtZSwKICAgICAgICAgIHNpZ25hbFVuaXQgICAgICAgID0gc2lnbmFsVW5pdCwKICAgICAgICAgIGJpblNpemUgICAgICAgICAgID0gMSwKICAgICAgICAgIGFjdGl2ZSAgICAgICAgICAgID0gdHJ1ZQogICAgICAgICk=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>AnalysisConfig(
+      applicationName = applicationName,
+      inputData = InputData(
+        inputPath  = basePath + inputPath,
+        campaignId = campaignId,
+        reportIds  = reportIds,
+        startDate  = reportDate,
+        endDate    = reportDate
+      ),
+      summaryStats = SummaryStats(
+        mileageSignal  = mileageSignalName,
+        velocitySignal = speedSignalName
+      ),
+      steps = List(
+        AnalysisStep(
+          reportName        = reportName,
+          useCase           = useCase,
+          useCaseVersion    = useCaseVersion,
+          subUseCase        = subUseCase,
+          subUseCaseVersion = subUseCaseVersion,
+          signalName        = binSignalName,
+          signalUnit        = signalUnit,
+          binSize           = 1,
+          active            = true
+        )
+      ),
+      outputPaths = OutputPaths(basePath + reportOutput, basePath + statisticsOutput)
+    )</text>
+      </register>
+      <register name="5" type="8">
         <text>//
 //
 //
@@ -342,40 +402,20 @@
 //
 //</text>
       </register>
-      <register name="q" type="4">
-        <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="65535" code="67" mods="130" />
-        </keys>
-      </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoqCiAgKiBPdXRwdXQgcGF0aHMKICAqLwpmaW5hbCBjYXNlIGNsYXNzIE91dHB1dFBhdGhzKAogICAgcmVwb3J0OiBTdHJpbmcsCiAgICBzdGF0aXN0aWNzOiBTdHJpbmcKKQoK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICApCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFBoeXNpY2FsU2lnbmFsQW5hbHlzaXNDb25maWcoCiAgICAgIGFwcGxpY2F0aW9uTmFtZSAgID0gYXBwbGljYXRpb25OYW1lLAogICAgICByZXBvcnROYW1lICAgICAgICA9IHJlcG9ydE5hbWUsCiAgICAgIHVzZUNhc2UgICAgICAgICAgID0gdXNlQ2FzZSwKICAgICAgc3ViVXNlQ2FzZSAgICAgICAgPSBzdWJVc2VDYXNlLAogICAgICBzdWJVc2VDYXNlVmVyc2lvbiA9IHN1YlVzZUNhc2VWZXJzaW9uLAogICAgICBpbnB1dFBhdGggICAgICAgICA9IGJhc2VQYXRoICsgaW5wdXRQYXRoLAogICAgICBvdXRwdXRQYXRocyAgICAgICA9IE91dHB1dFBhdGhzKGJhc2VQYXRoICsgcmVwb3J0T3V0cHV0LCBiYXNlUGF0aCArIHN0YXRpc3RpY3NPdXRwdXQpLAogICAgICBjYW1wYWlnbklkICAgICAgICA9IGNhbXBhaWduSWQsCiAgICAgIHJlcG9ydElkcyAgICAgICAgID0gcmVwb3J0SWRzLAogICAgICBmcm9tRGF0ZSAgICAgICAgICA9IHJlcG9ydERhdGUsCiAgICAgIHRvRGF0ZSAgICAgICAgICAgID0gcmVwb3J0RGF0ZSwKICAgICAgYmlubmluZyA9IEJpbm5pbmdTaWduYWwoCiAgICAgICAgc2lnbmFsTmFtZSA9IGJpblNpZ25hbE5hbWUsCiAgICAgICAgc2lnbmFsVW5pdCA9IHNpZ25hbFVuaXQsCiAgICAgICAgYmluU2l6ZSAgICA9IDFMCiAgICAgICksCiAgICAgIHN1bW1hcnlTdGF0cyA9IFN1bW1hcnlTdGF0cygKICAgICAgICBtaWxlYWdlU2lnbmFsICA9IG1pbGVhZ2VTaWduYWxOYW1lLAogICAgICAgIHZlbG9jaXR5U2lnbmFsID0gc3BlZWRTaWduYWxOYW1lCiAgICAgICkKICAgICkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>OutputPaths(
         report     = OutputPaths(basePath + reportOutput, basePath + statisticsOutput),
         statistics = &quot;outputStatistics&quot;
       )</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtaWxlYWdlU2lnbmFsICA9ICJLQklfS2lsb21ldGVyc3RhbmQiLAogICAgICAgIHZlbG9jaXR5U2lnbmFsID0gIkVTUF92X1NpZ25hbF9GbGV4cmF5Igo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3QK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnRvTGlzdAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC50b0xpc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -384,9 +424,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxiYXNlUGF0aFw+</last-search>
+      <last-search encoding="base64">XDx0d29BbmFseXNpc1N0ZXBzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlUGF0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0d29BbmFseXNpc1N0ZXBzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
