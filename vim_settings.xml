@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaWduYWxEZWZpbml0aW9uXD4=</entry>
-        <entry encoding="base64">XDxTaWduYWxEZWZpbml0aW9uVGFibGVcPg==</entry>
-        <entry>toByteArr</entry>
-        <entry>parseFro</entry>
-        <entry encoding="base64">XDxCdXNTaWduYWxEZWZpbml0aW9uXD4=</entry>
-        <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
-        <entry encoding="base64">XDxub3JtYWxpemVcPg==</entry>
-        <entry encoding="base64">XDxub3JtYWxpemVTaWduYWxWYWx1ZVw+</entry>
-        <entry encoding="base64">XDxjaGVja01ldGFFbnVtQ29udGFpbnNFcnJvclw+</entry>
-        <entry encoding="base64">XDxub3JtYWxpemVMb25nQnVzU2lnbmFsV2l0aE1ldGFcPg==</entry>
-        <entry encoding="base64">XDxwb3NpdGlvbkNoYW5nZWRcPg==</entry>
-        <entry encoding="base64">XDx0aW1lQ2hhbmdlZFw+</entry>
-        <entry encoding="base64">XDxidWlsZE1hcmtlclw+</entry>
-        <entry>preparator</entry>
-        <entry encoding="base64">XDxyZWFkTm9ybWFsaXplZERhdGFcPg==</entry>
-        <entry encoding="base64">XDxmaWx0ZXJSZWxldmFudFJlcG9ydHNcPg==</entry>
-        <entry encoding="base64">XDxkcm9wU2Vzc2lvbkR1cmF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxkcm9wTWF4UGVyc2lzdGFuY2VEdXJhdGlvblw+</entry>
-        <entry encoding="base64">XDxkcm9wTWF4TWVzc2FnZUR1cmF0aW9uXD4=</entry>
-        <entry>cover</entry>
+        <entry>2018</entry>
+        <entry encoding="base64">XDxGaWxlU3lzdGVtXD4=</entry>
+        <entry>cleanCsv</entry>
+        <entry>header</entry>
+        <entry>pfa</entry>
+        <entry>Pfa</entry>
+        <entry encoding="base64">XDxkaWdlc3RQZmFBcHBBc3NlbWJseVw+</entry>
+        <entry encoding="base64">XDxjbWVhUHJvamVjdEFzc2VtYmx5XD4=</entry>
+        <entry>cmeaproject</entry>
+        <entry>Header</entry>
+        <entry>DriveTypes</entry>
+        <entry>DriveType</entry>
+        <entry encoding="base64">XDxpZGVudGlmeURyaXZpbmdDeWNsZXNcPg==</entry>
+        <entry encoding="base64">XDxpZGVudGlmeURyaXZpbmdUeXBlc1w+</entry>
+        <entry>available</entry>
+        <entry>too hi</entry>
+        <entry>presense</entry>
+        <entry encoding="base64">XDxwcmVTZW5zZVN2Z1w+</entry>
+        <entry>update</entry>
+        <entry>until</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -92,235 +92,280 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" timestamp="1592341104021">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" timestamp="1591360935574">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="72" column="103" />
+        <mark key="]" line="73" column="3" />
+        <mark key="." line="73" column="2" />
+        <mark key="^" line="73" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/main/scala/de/audi/acdc/service/api/routes/GenericEventRoutes.scala" timestamp="1589810366864">
-        <mark key="'" line="173" column="57" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/analytics/toolbox/util/bla.sc" timestamp="1593016001033">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="20" column="12" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" timestamp="1589991558285">
-        <mark key="'" line="17" column="40" />
-        <mark key="[" line="25" column="67" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="33" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1591203621785">
+        <mark key="'" line="1167" column="57" />
+        <mark key="[" line="257" column="10" />
+        <mark key="]" line="257" column="10" />
+        <mark key="." line="257" column="9" />
+        <mark key="^" line="257" column="10" />
       </file>
-      <file name="$USER_HOME$/.cache/intellij-haskell/lib/leap/base-4.13.0.0/Data/Foldable.hs" timestamp="1590076515227">
-        <mark key="'" line="258" column="21" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/TimeSlider.elm" timestamp="1591714103228">
+        <mark key="'" line="130" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" timestamp="1589890608943">
-        <mark key="'" line="28" column="78" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="63" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" timestamp="1591200657654">
+        <mark key="'" line="84" column="3" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="55" column="4" />
+        <mark key="^" line="55" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" timestamp="1589887415379">
-        <mark key="'" line="143" column="6" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DrivingCyclesODC.scala" timestamp="1591199602240">
+        <mark key="'" line="39" column="79" />
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="1" column="65" />
+        <mark key="^" line="1" column="65" />
+        <mark key="." line="1" column="64" />
       </file>
-      <file name="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/test/Tests.hs" timestamp="1590075239424">
-        <mark key="'" line="13" column="34" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/presense.svg" timestamp="1591360775547">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" timestamp="1589888322536">
-        <mark key="'" line="108" column="41" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit-style/3.1.0/src/TransitStyle.elm" timestamp="1591714632554">
+        <mark key="'" line="55" column="50" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" timestamp="1589888329595">
-        <mark key="'" line="78" column="6" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/Jenkinsfile" timestamp="1591202831691">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserData.scala" timestamp="1589890117928">
-        <mark key="'" line="52" column="10" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="26" />
+      <file name="$USER_HOME$/Developer/playground/Wonderland-Scala-Katas/Doublets/resources/words.edn" timestamp="1591369298937">
+        <mark key="'" line="115" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" timestamp="1589810546114">
-        <mark key="'" line="13" column="34" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" timestamp="1589888918058">
-        <mark key="'" line="20" column="68" />
-      </file>
-      <file name="debugger.xml" timestamp="1590163762477">
+      <file name="/sbtShell" timestamp="1593016210362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" timestamp="1592254063666">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-e2ed-domain-transfer_2.12/1.0.1/acdc-e2ed-domain-transfer_2.12-1.0.1.jar!/de/audi/acdc/e2ed/domain/transfer/DiagnosticReport.class" timestamp="1591607143846">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="1" column="61" />
+        <mark key="^" line="1" column="61" />
+        <mark key="." line="1" column="60" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit/7.0.4/src/Transit.elm" timestamp="1591716066928">
+        <mark key="'" line="58" column="1" />
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/analytics/toolbox/util/TimeRange.scala" timestamp="1593016165333">
+        <mark key="'" line="51" column="49" />
+        <mark key="[" line="52" column="18" />
+        <mark key="]" line="52" column="23" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="52" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" timestamp="1591714159251">
+        <mark key="'" line="51" column="11" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" timestamp="1591200660294">
+        <mark key="'" line="357" column="35" />
+        <mark key="[" line="357" column="62" />
+        <mark key="]" line="357" column="63" />
+        <mark key="^" line="357" column="63" />
+        <mark key="." line="357" column="62" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/docs/presense_popup_warning.svg" timestamp="1591360083416">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/Developer/playground/Wonderland-Scala-Katas/Doublets/src/main/scala/Doublets.scala" timestamp="1591365426908">
+        <mark key="'" line="5" column="21" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1591791413620">
+        <mark key="[" line="49" column="44" />
+        <mark key="]" line="49" column="55" />
+        <mark key="^" line="49" column="55" />
+        <mark key="." line="49" column="54" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/Filter.scala" timestamp="1591199854766">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+        <mark key="." line="11" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="36" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/CampaignMetadataAppTest.scala" />
-      <jump line="22" column="118" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
-      <jump line="32" column="48" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/it/scala/de/audi/acdc/digest/cassandra/SessionMetadataAppTest.scala" />
-      <jump line="119" column="32" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="112" column="36" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="99" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="38" column="40" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="89" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="27" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="22" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" />
-      <jump line="12" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/SignalTransformer.scala" />
-      <jump line="88" column="45" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" />
-      <jump line="80" column="29" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/SignalNormalizer.scala" />
-      <jump line="19" column="12" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/ProtoMessageTransformer.scala" />
-      <jump line="137" column="25" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" />
-      <jump line="138" column="25" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/normalizers/ProtoMessageNormalizer.scala" />
-      <jump line="24" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/messages/ProtoMessageTransformer.scala" />
-      <jump line="2" column="193" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-odc_2.11/15.6.1/acdc-core-domain-context-odc_2.11-15.6.1.jar!/domain/backend/mbb/v1/models/odc_v1/proto/Message.class" />
-      <jump line="39" column="37" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="40" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="35" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="26" column="23" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="24" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/ProtoTelemetryTransformer.scala" />
-      <jump line="36" column="20" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="96" column="20" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="106" column="8" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="21" column="26" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/telemetries/TelemetryTransformer.scala" />
-      <jump line="24" column="30" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="32" column="11" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="78" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="73" column="14" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="52" column="16" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="100" column="30" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="47" column="13" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="314" column="497" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-core-domain-context-cm_2.11/11.6.0/acdc-core-domain-context-cm_2.11-11.6.0.jar!/de/audi/dc/cm/iface/proto/core/BusSignalDefinition.class" />
-      <jump line="40" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="42" column="17" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="66" column="0" filename="$USER_HOME$/.cache/coursier/v1/https/nexus-acdc.tools.msi.audi.com/repository/acdc-releases/de/audi/acdc-normalizer-domain_2.11/2.2.0/acdc-normalizer-domain_2.11-2.2.0.jar!/de/audi/acdc/normalizer/domain/TelemetryNormalized.class" />
-      <jump line="32" column="19" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
-      <jump line="28" column="75" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
-      <jump line="18" column="75" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
-      <jump line="50" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/UnitNormalizer.scala" />
-      <jump line="35" column="6" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="50" column="48" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/signals/DefaultBusSignalTransformer.scala" />
-      <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
-      <jump line="27" column="51" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/main/scala/de/audi/acdc/normalizer/odc/transformers/values/CategoricalValueTransformer.scala" />
-      <jump line="8" column="28" filename="$USER_HOME$/Developer/acdc/acdc.normalizer.odc/de.audi.acdc.normalizer.odc.core/src/it/scala/de/audi/acdc/normalizer/odc/KafkaStreamsItCommon.scala" />
-      <jump line="22" column="37" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
-      <jump line="19" column="41" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
-      <jump line="21" column="39" filename="$USER_HOME$/Developer/acdc/programming-week/notebooks/notebooks-code-excerpts/src/main/scala/de/audi/acdc/analytics/training/notebooks/PreSenseScoringFunction.scala" />
-      <jump line="53" column="17" filename="$USER_HOME$/Developer/acdc/acdc.digest/de.audi.acdc.digest.cassandra/src/main/scala/de/audi/acdc/digest/cassandra/StartStopEventApp.scala" />
-      <jump line="141" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="39" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="57" column="9" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="142" column="16" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="7" column="47" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="104" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="6" column="13" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="107" column="26" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/Trajectory.js" />
-      <jump line="95" column="27" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
-      <jump line="173" column="57" filename="$USER_HOME$/Developer/acdc/acdc.service.api/core/src/main/scala/de/audi/acdc/service/api/routes/GenericEventRoutes.scala" />
-      <jump line="28" column="63" filename="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" />
-      <jump line="13" column="34" filename="$USER_HOME$/Developer/acdc/acdc.service.api/gatling/src/test/scala/de/audi/acdc/service/api/gatling/GenericEventsSimulation.scala" />
-      <jump line="43" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
-      <jump line="79" column="14" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
-      <jump line="74" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
-      <jump line="22" column="31" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="91" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
-      <jump line="124" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
-      <jump line="27" column="37" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="143" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DataCleanser.scala" />
-      <jump line="43" column="37" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="21" column="89" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="20" column="78" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="26" column="37" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="108" column="41" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
-      <jump line="78" column="6" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
-      <jump line="52" column="10" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserData.scala" />
-      <jump line="34" column="24" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="20" column="68" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverterTest.scala" />
-      <jump line="28" column="78" filename="$USER_HOME$/Developer/acdc/acdc.toolbox/src/it/scala/de/audi/acdc/toolbox/util/DataCleanserTest.scala" />
-      <jump line="21" column="8" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" />
-      <jump line="25" column="60" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" />
-      <jump line="34" column="86" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" />
-      <jump line="15" column="98" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" />
-      <jump line="17" column="40" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/package.json" />
-      <jump line="4" column="36" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/test/Tests.hs" />
-      <jump line="3" column="22" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
-      <jump line="2" column="14" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
-      <jump line="9" column="58" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
-      <jump line="13" column="34" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/test/Tests.hs" />
-      <jump line="13" column="10" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
-      <jump line="258" column="21" filename="$USER_HOME$/.cache/intellij-haskell/lib/leap/base-4.13.0.0/Data/Foldable.hs" />
-      <jump line="10" column="14" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
-      <jump line="14" column="22" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
-      <jump line="5" column="0" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
-      <jump line="9" column="15" filename="$USER_HOME$/Developer/haskell/first-project/src/Throwaway.hs" />
-      <jump line="11" column="59" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
-      <jump line="17" column="7" filename="$USER_HOME$/snap/exercism/5/exercism/haskell/leap/src/LeapYear.hs" />
+      <jump line="8" column="30" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/utils/SparkUtils.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateClassification.scala" />
+      <jump line="132" column="4" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
+      <jump line="42" column="21" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
+      <jump line="46" column="22" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateRegionSignal.scala" />
+      <jump line="27" column="59" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/ClimateRegionAggregator.scala" />
+      <jump line="35" column="91" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/ClimateRegionAggregator.scala" />
+      <jump line="322" column="34" filename="$USER_HOME$/Developer/acdc/acdc.digest.pfa/build.sbt" />
+      <jump line="57" column="37" filename="$USER_HOME$/Developer/acdc/acdc.seedjob/src/jobs/acdc_multibranch_pipeline_jobseed.groovy" />
+      <jump line="56" column="20" filename="$USER_HOME$/Developer/acdc/acdc.seedjob/src/jobs/acdc_multibranch_pipeline_jobseed.groovy" />
+      <jump line="296" column="38" filename="$USER_HOME$/Developer/acdc/acdc.digest.pfa/build.sbt" />
+      <jump line="16" column="2" filename="$USER_HOME$/Developer/acdc/acdc.digest.pfa/build.sbt" />
+      <jump line="22" column="10" filename="$USER_HOME$/Developer/acdc/acdc.digest.pfa/build.sbt" />
+      <jump line="84" column="9" filename="$USER_HOME$/Developer/acdc/acdc.digest.pfa/build.sbt" />
+      <jump line="23" column="4" filename="$USER_HOME$/Developer/acdc/acdc.digest.pfa/build.sbt" />
+      <jump line="7" column="27" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile.release" />
+      <jump line="3" column="25" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile" />
+      <jump line="1" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile" />
+      <jump line="77" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile" />
+      <jump line="79" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile" />
+      <jump line="50" column="9" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/build.sbt" />
+      <jump line="22" column="26" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/build.sbt" />
+      <jump line="22" column="17" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
+      <jump line="133" column="8" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
+      <jump line="152" column="19" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
+      <jump line="62" column="6" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessage.scala" />
+      <jump line="30" column="15" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessageConverter.scala" />
+      <jump line="70" column="6" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessage.scala" />
+      <jump line="69" column="24" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/climate/ClimateRegionAggregator.scala" />
+      <jump line="27" column="58" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/ClimateRegionSignal.scala" />
+      <jump line="631" column="47" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="235" column="9" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/build.sbt" />
+      <jump line="80" column="61" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="11" column="4" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/converter/SignalsToMessage.scala" />
+      <jump line="372" column="0" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="15" column="7" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="8" column="35" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="316" column="21" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="726" column="6" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="154" column="68" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="148" column="12" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="150" column="12" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="151" column="18" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="146" column="47" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="0" column="1" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="156" column="16" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="157" column="21" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="161" column="84" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="365" column="116" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="85" column="17" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="405" column="57" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="461" column="20" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="118" column="18" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="122" column="36" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="269" column="40" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="458" column="15" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="462" column="16" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="373" column="122" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="82" column="58" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="58" column="26" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="85" column="26" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="366" column="119" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="131" column="17" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="65" column="17" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="8" column="31" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="115" column="22" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="70" column="84" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="53" column="77" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="33" column="4" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
+      <jump line="69" column="4" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/CSVReader.scala" />
+      <jump line="34" column="79" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/util/DrivingCyclesODC.scala" />
+      <jump line="121" column="16" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="357" column="35" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
+      <jump line="84" column="3" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
+      <jump line="257" column="10" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="1167" column="57" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
+      <jump line="131" column="32" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="152" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="39" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="151" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="40" column="3" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEventsIcons.js" />
+      <jump line="4" column="13" filename="$USER_HOME$/Developer/playground/Wonderland-Scala-Katas/Doublets/src/main/scala/Doublets.scala" />
+      <jump line="5" column="21" filename="$USER_HOME$/Developer/playground/Wonderland-Scala-Katas/Doublets/src/main/scala/Doublets.scala" />
+      <jump line="115" column="8" filename="$USER_HOME$/Developer/playground/Wonderland-Scala-Katas/Doublets/resources/words.edn" />
+      <jump line="593" column="36" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="1014" column="0" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="130" column="6" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/TimeSlider.elm" />
+      <jump line="84" column="15" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="51" column="11" filename="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" />
+      <jump line="55" column="50" filename="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit-style/3.1.0/src/TransitStyle.elm" />
+      <jump line="44" column="5" filename="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit/7.0.4/src/Transit.elm" />
+      <jump line="39" column="33" filename="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit/7.0.4/src/Transit.elm" />
+      <jump line="58" column="1" filename="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit/7.0.4/src/Transit.elm" />
+      <jump line="49" column="39" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/analytics/toolbox/util/TimeRange.scala" />
+      <jump line="50" column="39" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/analytics/toolbox/util/TimeRange.scala" />
+      <jump line="51" column="49" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/analytics/toolbox/util/TimeRange.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>List</text>
       </register>
       <register name="j" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="65535" code="67" mods="130" />
-          <key char="65535" code="67" mods="130" />
-          <key char="65535" code="67" mods="130" />
-        </keys>
+        <text>kjx</text>
       </register>
       <register name="*" type="4">
         <text>BusSignalDefinition.parseFrom(dummy).meta.map(_.name).getOrElse(&quot;&quot;)</text>
       </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
-        <text>cover</text>
+        <text>update</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">SW50ZWdlciAtPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgZGF5UmFuZ2VzVG9EYXRhRnJhbWUoc3BhcmtTZXNzaW9uOiBTcGFya1Nlc3Npb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0WWVhcjogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydE1vbnRoOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0RGF5OiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZFllYXI6IEludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kTW9udGg6IEludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kRGF5OiBJbnQpOiBEYXRhRnJhbWUgPSB7CiAgICBpbXBvcnQgc3BhcmtTZXNzaW9uLmltcGxpY2l0cy5fCgogICAgdmFsIHN0YXJ0ID0gTG9jYWxEYXRlLm9mKHN0YXJ0WWVhciwgc3RhcnRNb250aCwgc3RhcnREYXkpCiAgICB2YWwgZW5kICAgPSBMb2NhbERhdGUub2YoZW5kWWVhciwgZW5kTW9udGgsIGVuZERheSkKCiAgICB2YWwgZGF0ZXMgPSAoMEwgdG8gQ2hyb25vVW5pdC5EQVlTLmJldHdlZW4oc3RhcnQsIGVuZCkpCiAgICAgIC5tYXAoZGF5cyA9PiBzdGFydC5wbHVzRGF5cyhkYXlzKS50b1N0cmluZy5zcGxpdCgiLSIpLnRvTGlzdCkKICAgICAgLm1hcCB7IGNhc2UgTGlzdChmMSwgZjIsIGYzKSA9PiAoZjEsIGYyLCBmMykgfQogICAgICAudG9MaXN0CgogICAgZGF0ZXMudG9ERigiWWVhciIsICJNb250aCIsICJEYXkiKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLnRvTGlzdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="49" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YSBYCmRhdGEgWQpkYXRhIFoKeHogOjogWCAtPiBaCnh6ID0gdW5kZWZpbmVkCnl6IDo6IFkgLT4gWgp5eiA9IHVuZGVmaW5lZAp4Zm9ybSA6OiAoWCwgWSkgLT4gKFosIFopCnhmb3JtICh4LCB5KSA9ICh4eiB4LCB5eiB5KQo=</text>
+        <text encoding="base64">ICAgIC50b0xpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGF0YSBBCmRhdGEgQgpkYXRhIEMKcSA6OiBBIC0+IEIKcSA9IHVuZGVmaW5lZAp3IDo6IEIgLT4gQwp3ID0gdW5kZWZpbmVkCmUgOjogQSAtPiBDCmUgPSB3IC4gcQoK</text>
+        <text encoding="base64">ICAgIC50b0xpc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZiA6OiBJbnQgLT4gU3RyaW5nCmYgPSB1bmRlZmluZWQKZyA6OiBTdHJpbmcgLT4gQ2hhcgpnID0gdW5kZWZpbmVkCmggOjogSW50IC0+IENoYXIKaCB4ID0gKGcgLiBmKSB4Cg==</text>
+        <text encoding="base64">ICBkYXRlcy50b0RGKCJZZWFyIiwgIk1vbnRoIiwgIkRheSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text>main :: IO ()
-main = do
-print $ 1 + 2
-putStrLn &quot;10&quot;
-print (negate 1)
-print ((+) 0 blah)
-where blah = negate 1</text>
+        <text encoding="base64">ICBpbXBvcnQgc3BhcmtTZXNzaW9uLmltcGxpY2l0cy5fCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgICAgCiAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGFjdHVhbEljb25OYW1lID0gbWFwT2JqZWN0LmdldERhdGEoKS5wcm9wZXJ0aWVzWydpY29uTmFtZSddOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bW9kdWxlIFRocm93YXdheSB3aGVyZQoKYWRkTnVtYmVycyA6OiBJbnQKYWRkTnVtYmVycyA9IDEgKyAyCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -332,9 +377,9 @@ where blah = negate 1</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cover</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>cover</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
