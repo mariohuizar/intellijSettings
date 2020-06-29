@@ -114,19 +114,19 @@
         <mark key="." line="42" column="35" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593443284592">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="28" column="101" />
-        <mark key="]" line="28" column="105" />
-        <mark key="^" line="28" column="105" />
-        <mark key="." line="28" column="104" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593444186745">
+        <mark key="'" line="39" column="38" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="21" column="49" />
+        <mark key="^" line="38" column="2" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593443147703">
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593444181520">
         <mark key="'" line="17" column="72" />
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="32" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="38" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit-style/3.1.0/src/TransitStyle.elm" timestamp="1591714632554">
         <mark key="'" line="55" column="50" />
@@ -181,8 +181,8 @@
         <mark key="^" line="49" column="55" />
         <mark key="." line="49" column="54" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" timestamp="1593443113407">
-        <mark key="'" line="41" column="23" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" timestamp="1593444017591">
+        <mark key="'" line="41" column="19" />
         <mark key="[" line="36" column="3" />
         <mark key="]" line="36" column="25" />
         <mark key="." line="36" column="3" />
@@ -295,14 +295,14 @@
       <jump line="17" column="72" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
       <jump line="52" column="35" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
       <jump line="105" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
-      <jump line="41" column="23" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
       <jump line="20" column="38" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="41" column="19" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>AnalysisStep</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzaWduYWxVbml0ICAgICAgICA9ICJDIgogIHByaXZhdGUgdmFsIGFwcGxpY2F0aW9uTmFtZSAgID0gIkF1c3NlbnRlbXBlcmF0dXIiCiAgcHJpdmF0ZSB2YWwgcmVwb3J0TmFtZSAgICAgICAgPSBhcHBsaWNhdGlvbk5hbWUKICBwcml2YXRlIHZhbCB1c2VDYXNlICAgICAgICAgICA9ICJ1c2VjYXNlIgogIHByaXZhdGUgdmFsIHVzZUNhc2VWZXJzaW9uICAgID0gInVzZWNhc2V2ZXIiCiAgcHJpdmF0ZSB2YWwgc3ViVXNlQ2FzZSAgICAgICAgPSAic3VidXNlY2FzZSIKICBwcml2YXRlIHZhbCBzdWJVc2VDYXNlVmVyc2lvbiA9ICJzdWJ1c2VjYXNldmVyIgo=</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -322,16 +322,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Aussentemperatur</text>
+        <text>AnalysisStep()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlUGF0aFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>AnalysisStep</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzaWduYWxVbml0ICAgICAgICA9ICJDIgogIHByaXZhdGUgdmFsIGFwcGxpY2F0aW9uTmFtZSAgID0gIkF1c3NlbnRlbXBlcmF0dXIiCiAgcHJpdmF0ZSB2YWwgcmVwb3J0TmFtZSAgICAgICAgPSBhcHBsaWNhdGlvbk5hbWUKICBwcml2YXRlIHZhbCB1c2VDYXNlICAgICAgICAgICA9ICJ1c2VjYXNlIgogIHByaXZhdGUgdmFsIHVzZUNhc2VWZXJzaW9uICAgID0gInVzZWNhc2V2ZXIiCiAgcHJpdmF0ZSB2YWwgc3ViVXNlQ2FzZSAgICAgICAgPSAic3VidXNlY2FzZSIKICBwcml2YXRlIHZhbCBzdWJVc2VDYXNlVmVyc2lvbiA9ICJzdWJ1c2VjYXNldmVyIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBPdXRwdXQgcGF0aHMKICAqLwpmaW5hbCBjYXNlIGNsYXNzIE91dHB1dFBhdGhzKAogICAgcmVwb3J0OiBTdHJpbmcsCiAgICBzdGF0aXN0aWNzOiBTdHJpbmcKKQoK</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -342,28 +351,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">LyoqCiAgKiBPdXRwdXQgcGF0aHMKICAqLwpmaW5hbCBjYXNlIGNsYXNzIE91dHB1dFBhdGhzKAogICAgcmVwb3J0OiBTdHJpbmcsCiAgICBzdGF0aXN0aWNzOiBTdHJpbmcKKQoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFBoeXNpY2FsU2lnbmFsQW5hbHlzaXNDb25maWcoCiAgICAgIGFwcGxpY2F0aW9uTmFtZSAgID0gYXBwbGljYXRpb25OYW1lLAogICAgICByZXBvcnROYW1lICAgICAgICA9IHJlcG9ydE5hbWUsCiAgICAgIHVzZUNhc2UgICAgICAgICAgID0gdXNlQ2FzZSwKICAgICAgc3ViVXNlQ2FzZSAgICAgICAgPSBzdWJVc2VDYXNlLAogICAgICBzdWJVc2VDYXNlVmVyc2lvbiA9IHN1YlVzZUNhc2VWZXJzaW9uLAogICAgICBpbnB1dFBhdGggICAgICAgICA9IGJhc2VQYXRoICsgaW5wdXRQYXRoLAogICAgICBvdXRwdXRQYXRocyAgICAgICA9IE91dHB1dFBhdGhzKGJhc2VQYXRoICsgcmVwb3J0T3V0cHV0LCBiYXNlUGF0aCArIHN0YXRpc3RpY3NPdXRwdXQpLAogICAgICBjYW1wYWlnbklkICAgICAgICA9IGNhbXBhaWduSWQsCiAgICAgIHJlcG9ydElkcyAgICAgICAgID0gcmVwb3J0SWRzLAogICAgICBmcm9tRGF0ZSAgICAgICAgICA9IHJlcG9ydERhdGUsCiAgICAgIHRvRGF0ZSAgICAgICAgICAgID0gcmVwb3J0RGF0ZSwKICAgICAgYmlubmluZyA9IEJpbm5pbmdTaWduYWwoCiAgICAgICAgc2lnbmFsTmFtZSA9IGJpblNpZ25hbE5hbWUsCiAgICAgICAgc2lnbmFsVW5pdCA9IHNpZ25hbFVuaXQsCiAgICAgICAgYmluU2l6ZSAgICA9IDFMCiAgICAgICksCiAgICAgIHN1bW1hcnlTdGF0cyA9IFN1bW1hcnlTdGF0cygKICAgICAgICBtaWxlYWdlU2lnbmFsICA9IG1pbGVhZ2VTaWduYWxOYW1lLAogICAgICAgIHZlbG9jaXR5U2lnbmFsID0gc3BlZWRTaWduYWxOYW1lCiAgICAgICkKICAgICkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>OutputPaths(
         report     = OutputPaths(basePath + reportOutput, basePath + statisticsOutput),
         statistics = &quot;outputStatistics&quot;
       )</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtaWxlYWdlU2lnbmFsICA9ICJLQklfS2lsb21ldGVyc3RhbmQiLAogICAgICAgIHZlbG9jaXR5U2lnbmFsID0gIkVTUF92X1NpZ25hbF9GbGV4cmF5Igo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIExpc3QK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRvTGlzdAo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50b0xpc3QK</text>
+        <text encoding="base64">ICAgICAgLnRvTGlzdAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIC50b0xpc3QK</text>
