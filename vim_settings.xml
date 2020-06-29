@@ -98,6 +98,9 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/TimeSlider.elm" timestamp="1591714103228">
+        <mark key="'" line="130" column="6" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/analytics/AmbientTemperatureSpec.scala" timestamp="1593439883438">
         <mark key="'" line="42" column="35" />
         <mark key="[" line="42" column="26" />
@@ -105,11 +108,29 @@
         <mark key="." line="42" column="35" />
         <mark key="^" line="42" column="36" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593439768625">
+        <mark key="'" line="63" column="28" />
+        <mark key="[" line="63" column="101" />
+        <mark key="]" line="63" column="105" />
+        <mark key="^" line="63" column="105" />
+        <mark key="." line="63" column="104" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593439543200">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="44" />
         <mark key="." line="35" column="30" />
         <mark key="^" line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit-style/3.1.0/src/TransitStyle.elm" timestamp="1591714632554">
+        <mark key="'" line="55" column="50" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/time/LocalDate.class" timestamp="1593016453455">
+        <mark key="'" line="560" column="18" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/analytics/DcVoltageLeEm2Spec.scala" timestamp="1593440558229">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
       </file>
       <file name="/sbtShell" timestamp="1593016210362">
         <mark key="[" line="0" column="0" />
@@ -133,24 +154,13 @@
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="22" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/analytics/DcVoltageLeEm1Spec.scala" timestamp="1593440547401">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/Main.elm" timestamp="1591714159251">
         <mark key="'" line="51" column="11" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/View/TimeSlider.elm" timestamp="1591714103228">
-        <mark key="'" line="130" column="6" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593439768625">
-        <mark key="'" line="63" column="28" />
-        <mark key="[" line="63" column="101" />
-        <mark key="]" line="63" column="105" />
-        <mark key="^" line="63" column="105" />
-        <mark key="." line="63" column="104" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm-stuff/packages/etaque/elm-transit-style/3.1.0/src/TransitStyle.elm" timestamp="1591714632554">
-        <mark key="'" line="55" column="50" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/time/LocalDate.class" timestamp="1593016453455">
-        <mark key="'" line="560" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.fleetboard/src/js/heremap/GenericEvents.js" timestamp="1591791413620">
         <mark key="[" line="49" column="44" />
@@ -268,7 +278,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>outputStatistics</text>
+        <text>_</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -288,7 +298,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>outputStatistics</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>until</text>
