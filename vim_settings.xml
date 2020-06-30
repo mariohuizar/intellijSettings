@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>DriveType</entry>
-        <entry encoding="base64">XDxpZGVudGlmeURyaXZpbmdDeWNsZXNcPg==</entry>
         <entry encoding="base64">XDxpZGVudGlmeURyaXZpbmdUeXBlc1w+</entry>
         <entry>available</entry>
         <entry>too hi</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxhZGRNZXRhZGF0YVw+</entry>
         <entry encoding="base64">XDxncm91cEJ5Q29sc1w+</entry>
         <entry encoding="base64">XDxhdmdEdXJhdGlvblw+</entry>
+        <entry>duration</entry>
+        <entry encoding="base64">XDxkdXJhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -101,8 +101,8 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" timestamp="1593446133840">
-        <mark key="'" line="104" column="14" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" timestamp="1593508336456">
+        <mark key="'" line="12" column="4" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -114,15 +114,19 @@
         <mark key="." line="42" column="35" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593508101225">
-        <mark key="'" line="34" column="10" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593508319084">
+        <mark key="'" line="37" column="63" />
         <mark key="[" line="34" column="15" />
         <mark key="]" line="34" column="20" />
         <mark key="^" line="34" column="20" />
         <mark key="." line="34" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" timestamp="1593508032917">
-        <mark key="[" line="48" column="102" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" timestamp="1593509483335">
+        <mark key="'" line="105" column="15" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="69" />
+        <mark key="^" line="48" column="69" />
+        <mark key="." line="48" column="68" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593447233731">
         <mark key="'" line="34" column="8" />
@@ -131,7 +135,7 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="52" column="130" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/analysis.conf" timestamp="1593505733299">
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/analysis.conf" timestamp="1593509184873">
         <mark key="'" line="51" column="0" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/time/LocalDate.class" timestamp="1593016453455">
@@ -199,14 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="40" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
-      <jump line="458" column="15" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
-      <jump line="462" column="16" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
-      <jump line="373" column="122" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
-      <jump line="82" column="58" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
-      <jump line="58" column="26" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
-      <jump line="85" column="26" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/it/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregatorTest.scala" />
-      <jump line="366" column="119" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
       <jump line="131" column="17" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/aggregation/DrivingCyclesAggregator.scala" />
       <jump line="65" column="17" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
       <jump line="8" column="31" filename="$USER_HOME$/Developer/acdc/acdc.analytics.toolbox/src/main/scala/de/audi/acdc/toolbox/domain/DriveSession.scala" />
@@ -299,12 +295,20 @@
       <jump line="51" column="18" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/AnalysisConfig.scala" />
       <jump line="83" column="29" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="34" column="10" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="76" column="76" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
+      <jump line="37" column="63" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
+      <jump line="12" column="4" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
+      <jump line="116" column="8" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
+      <jump line="104" column="25" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
+      <jump line="79" column="26" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
+      <jump line="107" column="12" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
+      <jump line="105" column="15" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>summaryStats Mileage and velocity signal names</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -324,13 +328,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>groupByCols</text>
+        <text>summaryStats Mileage and velocity signal names</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncm91cEJ5Q29sc1w+</text>
+        <text encoding="base64">XDxkdXJhdGlvbnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>KBI_Kilometerstand</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICogQHBhcmFtIHN1bW1hcnlTdGF0cyBNaWxlYWdlIGFuZCB2ZWxvY2l0eSBzaWduYWwgbmFtZXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -374,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxncm91cEJ5Q29sc1w+</last-search>
+      <last-search encoding="base64">XDxkdXJhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncm91cEJ5Q29sc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxkdXJhdGlvbnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
