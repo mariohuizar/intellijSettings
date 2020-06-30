@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBsaWNhdGlvbk5hbWVcPg==</entry>
         <entry encoding="base64">XDxyZXBvcnROYW1lXD4=</entry>
         <entry encoding="base64">XDx1c2VDYXNlXD4=</entry>
         <entry encoding="base64">XDxvdXRzaWRlVGVtcFNpZ25hbE5hbWVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxiaW5uaW5nU2lnbmFsVW5pdFw+</entry>
         <entry encoding="base64">XDxzaG93XD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVJlcG9ydFw+</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVN1bW1hcnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -125,12 +125,12 @@
         <mark key="]" line="18" column="278" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593524092803">
-        <mark key="'" line="94" column="14" />
-        <mark key="[" line="79" column="8" />
-        <mark key="]" line="79" column="23" />
-        <mark key="." line="79" column="22" />
-        <mark key="^" line="79" column="23" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593525479807">
+        <mark key="'" line="107" column="14" />
+        <mark key="[" line="93" column="69" />
+        <mark key="]" line="94" column="6" />
+        <mark key="." line="94" column="5" />
+        <mark key="^" line="94" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisConfig.scala" timestamp="1593442364948">
         <mark key="[" line="15" column="0" />
@@ -199,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="19" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/time/LocalDate.class" />
       <jump line="522" column="16" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/time/LocalDate.class" />
       <jump line="560" column="18" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/time/LocalDate.class" />
       <jump line="0" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
@@ -299,12 +298,13 @@
       <jump line="76" column="19" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="75" column="6" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="93" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
+      <jump line="105" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text>s</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -324,16 +324,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZVJlcG9ydFw+</text>
+        <text encoding="base64">XDxnZW5lcmF0ZVN1bW1hcnlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>summaryStats: SummaryStats</text>
+        <text>summaries</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVucmljaGVkUmVwb3J0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgYWNjOiBEYXRhRnJhbWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,28 +344,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9yQmlubmluZy5zaG93KCkK</text>
+        <text encoding="base64">ICAgIGVucmljaGVkU3VtbWFyeS51bmlvbihhY2MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVucmljaGVkUmVwb3J0LnVuaW9uKGFjYykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAU3VwcHJlc3NXYXJuaW5ncyhBcnJheSgib3JnLndhcnRyZW1vdmVyLndhcnRzLlRyYXZlcnNhYmxlT3BzIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGFyay5lbXB0eURhdGFGcmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcGFyay5lbXB0eURhdGFGcmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHMgPSBnZW5lcmF0ZVN1bW1hcnkoY29uZmlnLCBmb3JTdGF0cy50b0RGLCApCg==</text>
+        <text encoding="base64">ICAgICAgTGlzdChyZXBvcnRzLCBzdW1tYXJpZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5mb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHMgPSBnZW5lcmF0ZVN1bW1hcnkoY29uZmlnLCBmb3JTdGF0cy50b0RGLCApCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5mbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCByID0gZ2VuZXJhdGVSZXBvcnQoCiAgICAgIGNvbmZpZy5vdXRwdXRQYXRocy5yZXBvcnQsCiAgICAgIGNvbmZpZy5zdGVwcy5oZWFkLAogICAgICBmb3JCaW5uaW5nLnRvREYKICAgICkKCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -374,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZVJlcG9ydFw+</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZVN1bW1hcnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZVJlcG9ydFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZVN1bW1hcnlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>webpack</last-substitute>
       <last-dir>1</last-dir>
