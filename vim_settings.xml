@@ -125,12 +125,12 @@
         <mark key="]" line="18" column="278" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593525479807">
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593525610472">
         <mark key="'" line="107" column="14" />
-        <mark key="[" line="93" column="69" />
-        <mark key="]" line="94" column="6" />
-        <mark key="." line="94" column="5" />
-        <mark key="^" line="94" column="6" />
+        <mark key="[" line="90" column="19" />
+        <mark key="]" line="90" column="19" />
+        <mark key="." line="90" column="19" />
+        <mark key="^" line="90" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisConfig.scala" timestamp="1593442364948">
         <mark key="[" line="15" column="0" />
@@ -304,7 +304,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>(spark.emptyDataFrame, spark.emptyDataFrame)</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -324,7 +324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(spark.emptyDataFrame, spark.emptyDataFrame)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZVN1bW1hcnlcPg==</text>
