@@ -126,11 +126,12 @@
         <mark key="^" line="62" column="83" />
         <mark key="." line="54" column="109" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593598338333">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="27" column="38" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593601698779">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="24" column="84" />
+        <mark key="^" line="6" column="36" />
+        <mark key="." line="24" column="84" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/resources/dc-voltage-LE_EM1.conf" timestamp="1593516610784">
         <mark key="[" line="34" column="19" />
@@ -171,6 +172,11 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="156" column="43" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/BinningTest.scala" timestamp="1593600692839">
+        <mark key="'" line="19" column="56" />
+        <mark key="[" line="19" column="67" />
+        <mark key="]" line="19" column="87" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593600438664">
         <mark key="'" line="79" column="27" />
         <mark key="[" line="104" column="34" />
@@ -178,12 +184,11 @@
         <mark key="." line="104" column="34" />
         <mark key="^" line="81" column="30" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" timestamp="1593600547314">
-        <mark key="'" line="90" column="68" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="44" column="10" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" timestamp="1593601974686">
+        <mark key="[" line="151" column="32" />
+        <mark key="]" line="151" column="50" />
+        <mark key="^" line="151" column="50" />
+        <mark key="." line="151" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/resources/ambientTempDcVoltage.csv" timestamp="1593517084041">
         <mark key="'" line="2" column="0" />
@@ -204,16 +209,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="15" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
-      <jump line="112" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
-      <jump line="181" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
       <jump line="126" column="37" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/resources/ambientTempDcVoltage.csv" />
       <jump line="85" column="4" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
       <jump line="89" column="30" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
       <jump line="53" column="63" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
       <jump line="142" column="19" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
-      <jump line="26" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
       <jump line="139" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="58" column="60" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="94" column="45" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
@@ -303,13 +304,17 @@
       <jump line="85" column="17" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="111" column="4" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="79" column="27" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
+      <jump line="19" column="56" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/BinningTest.scala" />
       <jump line="90" column="68" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
+      <jump line="26" column="61" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
+      <jump line="6" column="6" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
+      <jump line="92" column="71" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Try</text>
+        <text>voltageSummary</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -329,16 +334,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Try</text>
+        <text>voltageSummary</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVJlc3VsdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>logTry</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGRmU3RhdHMgPSBQYXJxdWV0Q29udmVydGVyCiAgICAgICAgLnJlYWRQYXJxdWV0KHNwYXJrLCB2b2x0YWdlU3RhdGlzdGljc091dHB1dCkKICAgICAgICAub3JkZXJCeSgib3JkZXIiKQogICAgICB2YWwgd3JpdHRlblN0YXRzID0gZGZTdGF0cy5jb2xsZWN0KCkudG9MaXN0Lm1hcChyb3cgPT4gKHJvdy5nZXRBc1tTdHJpbmddKCJuYW1lIiksIHJvdy5nZXRBc1tTdHJpbmddKCJ2YWx1ZSIpKSkKICAgICAgd3JpdHRlblN0YXRzIHNob3VsZEJlIHZvbHRhZ2VTdW1tYXJ5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gQ2hlY2sgdGhlIHdyaXR0ZW4gcmVwb3J0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +355,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgMjBMID0+IGJpbkNvdW50IHNob3VsZCBiZSgxTCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdyaXRlUmVwb3J0cy5mYWlsZWQuZm9yZWFjaChlID0+IGxvZy53YXJuKGUuZ2V0TWVzc2FnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgMTBMID0+IGJpbkNvdW50IHNob3VsZCBiZSg0TCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHdyaXRlUmVwb3J0cy4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdyaXRlUmVwb3J0cy5mYWlsZWQuZm9yZWFjaChlID0+IGxvZy53YXJuKGUuZ2V0TWVzc2FnZSkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFdyaXRlIHJlc3VsdHMgYW5kIHNhdmUgaWYgaXQgc3VjY2VlZGVkIG9yIG5vdAogICAgdmFsIHN1Y2Nlc3MgPSByZXN1bHQuZm9sZChmYWxzZSkgeyByOiBBbnkgPT4KICAgICAgdmFsIHdyaXRlUmVwb3J0cyAgID0gVHJ5KHdyaXRlUmVzdWx0KHIuXzEsIGNvbmZpZy5vdXRwdXRQYXRocy5yZXBvcnQpKS5pc1N1Y2Nlc3MKICAgICAgdmFsIHdyaXRlU3VtbWFyaWVzID0gVHJ5KHdyaXRlUmVzdWx0KHIuXzIsIGNvbmZpZy5vdXRwdXRQYXRocy5zdGF0aXN0aWNzKSkuaXNTdWNjZXNzCiAgICAgIHdyaXRlUmVwb3J0cyAmJiB3cml0ZVN1bW1hcmllcwogICAgfQoK</text>
+        <text encoding="base64">ICAgIHdyaXRlUmVwb3J0cy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
