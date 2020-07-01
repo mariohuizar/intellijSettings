@@ -126,22 +126,21 @@
         <mark key="^" line="62" column="83" />
         <mark key="." line="54" column="109" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593517591301">
-        <mark key="'" line="53" column="63" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="52" column="130" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" timestamp="1593598338333">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/resources/dc-voltage-LE_EM1.conf" timestamp="1593516610784">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/analysis.conf" timestamp="1593596899341">
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="34" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/analysis.conf" timestamp="1593598565164">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="48" column="52" />
+        <mark key="^" line="47" column="32" />
+        <mark key="." line="47" column="31" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Binning.scala" timestamp="1593507526724">
         <mark key="'" line="28" column="40" />
@@ -159,12 +158,12 @@
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/DcVoltageLeEm2Analysis.scala" timestamp="1593446944081">
         <mark key="'" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/AnalysisConfig.scala" timestamp="1593595678812">
-        <mark key="'" line="53" column="18" />
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="44" column="32" />
-        <mark key="." line="44" column="31" />
-        <mark key="^" line="44" column="32" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/AnalysisConfig.scala" timestamp="1593598516815">
+        <mark key="'" line="45" column="18" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/resources/analysis.conf" timestamp="1593596777104">
         <mark key="[" line="38" column="0" />
@@ -172,11 +171,12 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="156" column="43" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593595805420">
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593598667817">
         <mark key="'" line="171" column="14" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="86" column="26" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="59" column="2" />
+        <mark key="]" line="60" column="78" />
+        <mark key="." line="59" column="2" />
+        <mark key="^" line="57" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysisConfig.scala" timestamp="1593442364948">
         <mark key="[" line="15" column="0" />
@@ -200,13 +200,15 @@
       <file name="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/Dataset.scala" timestamp="1593519632472">
         <mark key="'" line="3173" column="8" />
       </file>
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/analytics/AnalysisConfigSpec.scala" timestamp="1593598567286">
+        <mark key="'" line="35" column="14" />
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="61" />
+        <mark key="." line="59" column="38" />
+        <mark key="^" line="61" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
-      <jump line="34" column="10" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
-      <jump line="76" column="76" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
-      <jump line="37" column="63" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" />
-      <jump line="12" column="4" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" />
       <jump line="116" column="8" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
       <jump line="104" column="25" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
       <jump line="79" column="26" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Summary.scala" />
@@ -302,12 +304,17 @@
       <jump line="51" column="18" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/AnalysisConfig.scala" />
       <jump line="70" column="42" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
       <jump line="171" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" />
+      <jump line="37" column="26" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
+      <jump line="34" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
+      <jump line="33" column="15" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
+      <jump line="52" column="37" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/TestConfig.scala" />
+      <jump line="35" column="14" filename="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/scala/de/audi/cmea/analytics/AnalysisConfigSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiUmVwb3J0IG91dHB1dCBwYXRoczogJHtjb25maWcub3V0cHV0UGF0aHMucmVwb3J0fSIpCiAgICBsb2cuaW5mbyhzIlN0YXRpc3RpY3Mgb3V0cHV0IHBhdGhzOiAke2NvbmZpZy5vdXRwdXRQYXRocy5zdGF0aXN0aWNzfSIpCg==</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -327,48 +334,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${?OUTSIDE_TEMP_STATISTICS_OUTPUT_PATH}</text>
+        <text>tempOutputStatistics</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVJlc3VsdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC1wYXRoLXJlcG9ydCA9ICJvdXRwdXRSZXBvcnQiCiAgICBvdXRwdXQtcGF0aC1zdGF0aXN0aWNzID0gIm91dHB1dFN0YXRpc3RpY3MiCg==</text>
+      <register name="0" type="4">
+        <text>VoltageOutputStatistics</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKHMiUmVwb3J0IG91dHB1dCBwYXRoczogJHtjb25maWcub3V0cHV0UGF0aHMucmVwb3J0fSIpCiAgICBsb2cuaW5mbyhzIlN0YXRpc3RpY3Mgb3V0cHV0IHBhdGhzOiAke2NvbmZpZy5vdXRwdXRQYXRocy5zdGF0aXN0aWNzfSIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
           <key char="44" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
           <key char="65535" code="67" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3V0cHV0LXBhdGhzIHsKICByZXBvcnQgPSAKICBzdGF0aXN0aWNzID0gCn0K</text>
+        <text encoding="base64">ICAgICAgICAgIG91dHB1dFBhdGhzID0gT3V0cHV0UGF0aHMoCiAgICAgICAgICAgIHJlcG9ydCAgICAgPSAib3V0cHV0UmVwb3J0IiwKICAgICAgICAgICAgc3RhdGlzdGljcyA9ICJvdXRwdXRTdGF0aXN0aWNzIgogICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC1wYXRoLXJlcG9ydCA9ICR7P09VVFNJREVfVEVNUF9SRVBPUlRfT1VUUFVUX1BBVEh9CiAgICBvdXRwdXQtcGF0aC1zdGF0aXN0aWNzID0gJHs/T1VUU0lERV9URU1QX1NUQVRJU1RJQ1NfT1VUUFVUX1BBVEh9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHVuaXRDZWxzaXVzICAgICAgID0gIkMiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0cHV0LXBhdGhzIHsKICByZXBvcnQgPSAkez9SRVBPUlRfT1VUUFVUX1BBVEh9CiAgc3RhdGlzdGljcyA9ICR7P1NUQVRJU1RJQ1NfT1VUUFVUX1BBVEh9Cn0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBhcHBsaWNhdGlvbk5hbWUgICAgICAgPSAiQ01FQSBhbmFseXNpcyIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGN1bGF0ZSBhbGwgcmVwb3J0cyBhbmQgc3VtbWFyaWVzCg==</text>
+      <register name="6" type="8">
+        <text>private val
+private val
+private val
+private val</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZvckJpbm5pbmcgPSBmaWx0ZXJGb3JCaW5uaW5nKHNvdXJjZSwgc3RlcC5zaWduYWxOYW1lKS50b0RGKCkKICAgICAgdmFsIHJlcG9ydHMgPSBnZW5lcmF0ZVJlcG9ydCgKICAgICAgICBzdGVwLAogICAgICAgIGZvckJpbm5pbmcKICAgICAgKQogICAgICB2YWwgc3VtbWFyaWVzID0gZ2VuZXJhdGVTdW1tYXJ5KAogICAgICAgIGNvbmZpZy5zdW1tYXJ5U3RhdHMsCiAgICAgICAgc3RlcCwKICAgICAgICBmb3JTdGF0cy50b0RGLAogICAgICAgIGZvckJpbm5pbmcKICAgICAgKQogICAgICAocmVwb3J0cywgc3VtbWFyaWVzKQo=</text>
+        <text encoding="base64">ICAgICAgdXNlQ2FzZSAgICAgICAgICAgPSB1c2VDYXNlLAogICAgICB1c2VDYXNlVmVyc2lvbiAgICA9IHVzZUNhc2VWZXJzaW9uLAogICAgICBzdWJVc2VDYXNlICAgICAgICA9IHN1YlVzZUNhc2UsCiAgICAgIHN1YlVzZUNhc2VWZXJzaW9uID0gc3ViVXNlQ2FzZVZlcnNpb24sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCB1c2VDYXNlICAgICAgICAgICAgICAgPSAidXNlY2FzZSIKICBwcml2YXRlIHZhbCB1c2VDYXNlVmVyc2lvbiAgICAgICAgPSAidXNlY2FzZXZlciIKICBwcml2YXRlIHZhbCBzdWJVc2VDYXNlICAgICAgICAgICAgPSAic3VidXNlY2FzZSIKICBwcml2YXRlIHZhbCBzdWJVc2VDYXNlVmVyc2lvbiAgICAgPSAic3VidXNlY2FzZXZlciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb3JTdGF0cyA9IAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBzaWduYWxVbml0ICAgICAgICAgICAgPSAiQyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
