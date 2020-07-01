@@ -137,8 +137,11 @@
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/analysis.conf" timestamp="1593509184873">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/analysis.conf" timestamp="1593596899341">
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="35" column="34" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Binning.scala" timestamp="1593507526724">
         <mark key="'" line="28" column="40" />
@@ -163,11 +166,11 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/resources/analysis.conf" timestamp="1593595700681">
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="40" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/resources/analysis.conf" timestamp="1593596777104">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="68" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="156" column="43" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/PhysicalSignalAnalysis.scala" timestamp="1593595805420">
         <mark key="'" line="171" column="14" />
@@ -304,7 +307,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGN1bGF0ZSBhbGwgcmVwb3J0cyBhbmQgc3VtbWFyaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -324,16 +327,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>${?OUTSIDE_TEMP_STATISTICS_OUTPUT_PATH}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVJlc3VsdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>summaryStats</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG91dHB1dC1wYXRoLXJlcG9ydCA9ICJvdXRwdXRSZXBvcnQiCiAgICBvdXRwdXQtcGF0aC1zdGF0aXN0aWNzID0gIm91dHB1dFN0YXRpc3RpY3MiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNhbGN1bGF0ZSBhbGwgcmVwb3J0cyBhbmQgc3VtbWFyaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,28 +347,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZvckJpbm5pbmcgPSBmaWx0ZXJGb3JCaW5uaW5nKHNvdXJjZSwgc3RlcC5zaWduYWxOYW1lKS50b0RGKCkKICAgICAgdmFsIHJlcG9ydHMgPSBnZW5lcmF0ZVJlcG9ydCgKICAgICAgICBzdGVwLAogICAgICAgIGZvckJpbm5pbmcKICAgICAgKQogICAgICB2YWwgc3VtbWFyaWVzID0gZ2VuZXJhdGVTdW1tYXJ5KAogICAgICAgIGNvbmZpZy5zdW1tYXJ5U3RhdHMsCiAgICAgICAgc3RlcCwKICAgICAgICBmb3JTdGF0cy50b0RGLAogICAgICAgIGZvckJpbm5pbmcKICAgICAgKQogICAgICAocmVwb3J0cywgc3VtbWFyaWVzKQo=</text>
+        <text encoding="base64">b3V0cHV0LXBhdGhzIHsKICByZXBvcnQgPSAKICBzdGF0aXN0aWNzID0gCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dC1wYXRoLXJlcG9ydCA9ICR7P09VVFNJREVfVEVNUF9SRVBPUlRfT1VUUFVUX1BBVEh9CiAgICBvdXRwdXQtcGF0aC1zdGF0aXN0aWNzID0gJHs/T1VUU0lERV9URU1QX1NUQVRJU1RJQ1NfT1VUUFVUX1BBVEh9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb3JTdGF0cyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb3JTdGF0cyA9IAo=</text>
+        <text encoding="base64">b3V0cHV0LXBhdGhzIHsKICByZXBvcnQgPSAkez9SRVBPUlRfT1VUUFVUX1BBVEh9CiAgc3RhdGlzdGljcyA9ICR7P1NUQVRJU1RJQ1NfT1VUUFVUX1BBVEh9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNhbGN1bGF0ZSBhbGwgcmVwb3J0cyBhbmQgc3VtbWFyaWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBydW5BbmFseXNpcyhzdGVwOiBBbmFseXNpc1N0ZXApIDogKERhdGFGcmFtZSwgRGF0YUZyYW1lKSA9IHsKICAgIHZhbCBmb3JCaW5uaW5nID0gZmlsdGVyRm9yQmlubmluZyhzb3VyY2UsIHN0ZXAuc2lnbmFsTmFtZSkudG9ERigpCiAgICB2YWwgcmVwb3J0cyA9IGdlbmVyYXRlUmVwb3J0KAogICAgICBzdGVwLAogICAgICBmb3JCaW5uaW5nCiAgICApCiAgICB2YWwgc3VtbWFyaWVzID0gZ2VuZXJhdGVTdW1tYXJ5KAogICAgICBjb25maWcuc3VtbWFyeVN0YXRzLAogICAgICBzdGVwLAogICAgICBmb3JTdGF0cy50b0RGLAogICAgICBmb3JCaW5uaW5nCiAgICApCiAgICAocmVwb3J0cywgc3VtbWFyaWVzKQogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGZvckJpbm5pbmcgPSBmaWx0ZXJGb3JCaW5uaW5nKHNvdXJjZSwgc3RlcC5zaWduYWxOYW1lKS50b0RGKCkKICAgICAgdmFsIHJlcG9ydHMgPSBnZW5lcmF0ZVJlcG9ydCgKICAgICAgICBzdGVwLAogICAgICAgIGZvckJpbm5pbmcKICAgICAgKQogICAgICB2YWwgc3VtbWFyaWVzID0gZ2VuZXJhdGVTdW1tYXJ5KAogICAgICAgIGNvbmZpZy5zdW1tYXJ5U3RhdHMsCiAgICAgICAgc3RlcCwKICAgICAgICBmb3JTdGF0cy50b0RGLAogICAgICAgIGZvckJpbm5pbmcKICAgICAgKQogICAgICAocmVwb3J0cywgc3VtbWFyaWVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNlcCAgICAgICAgICA9ICgiLS0tLS0iLCAiLS0tLS0tIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmb3JTdGF0cyA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
