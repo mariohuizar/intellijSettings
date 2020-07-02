@@ -136,7 +136,7 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/CmeaSignalsAnalysis.scala" timestamp="1593611210803" />
+      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/Jenkinsfile.release" timestamp="1593700233337" />
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Binning.scala" timestamp="1593507526724">
         <mark key="'" line="28" column="40" />
         <mark key="[" line="40" column="2" />
