@@ -119,10 +119,19 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="31" />
       </file>
+      <file name="/" timestamp="1594052074497">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/immortal.sc" timestamp="1593784824615">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/package.json" timestamp="1594051730669">
+        <mark key="[" line="64" column="33" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="33" />
+        <mark key="^" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm.json" timestamp="1594050203264">
         <mark key="[" line="3" column="23" />
@@ -289,8 +298,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <text>kjx</text>
@@ -310,7 +319,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: Try[Unit]</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZVJlc3VsdFw+</text>
