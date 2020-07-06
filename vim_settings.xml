@@ -95,19 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/Generator.scala" timestamp="1593509542332">
-        <mark key="'" line="181" column="14" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/scala/de/audi/cmea/analytics/SummaryTest.scala" timestamp="1593508319084">
-        <mark key="'" line="36" column="63" />
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="20" />
-        <mark key="^" line="34" column="20" />
-        <mark key="." line="34" column="19" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/resources/cmeaTestData.csv" timestamp="1593532015994">
         <mark key="[" line="15" column="143" />
         <mark key="]" line="15" column="157" />
@@ -126,10 +113,6 @@
         <mark key="^" line="62" column="83" />
         <mark key="." line="54" column="109" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/resources/dc-voltage-LE_EM1.conf" timestamp="1593516610784">
-        <mark key="[" line="34" column="19" />
-        <mark key="]" line="34" column="33" />
-      </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/test/resources/analysis.conf" timestamp="1593598565164">
         <mark key="[" line="48" column="30" />
         <mark key="]" line="48" column="52" />
@@ -141,12 +124,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/main/scala/de/audi/cmea/analytics/Binning.scala" timestamp="1593507526724">
-        <mark key="'" line="28" column="40" />
-        <mark key="[" line="40" column="2" />
-        <mark key="]" line="40" column="2" />
-        <mark key="^" line="40" column="10" />
-        <mark key="." line="40" column="2" />
+      <file name="$USER_HOME$/Developer/acdc/acdc.signal-dashboard/elm.json" timestamp="1594050203264">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/acdc/cmea.usecase.powerelectronics/src/it/resources/ambientTemp.csv" timestamp="1593517093706">
         <mark key="'" line="2" column="143" />
