@@ -28,7 +28,7 @@
           <option name="name" value="Zeppelin connection" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="0" />
-          <option name="uri" value="http://localhost:38141/zeppelin" />
+          <option name="uri" value="http://localhost:44855/zeppelin" />
         </ExtendedConnectionData>
       </list>
     </option>
