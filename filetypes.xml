@@ -9,6 +9,7 @@
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="rsdchunk" type="PLAIN_TEXT" />
       <mapping ext="bml" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="cqlsh" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
